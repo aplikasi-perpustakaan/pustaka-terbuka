@@ -1,0 +1,21 @@
+{
+  "organization": "aplikasi-perpustakaan",
+  "repository": "pustaka-terbuka",
+  "remote": "https://github.com/aplikasi-perpustakaan/pustaka-terbuka.git",
+  "baseUrl": "/pustaka-terbuka/",
+  "siteTitle": "PustakaTerbuka",
+  "siteDescription": "An open, shared MARC catalog for Malaysian schools and libraries.",
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "defaultLanguage": "en",
+  "idLength": 10,
+  "shardLength": 2,
+  "dropGatePercent": 5,
+  "sizeWarnMB": 700,
+  "sizeFailMB": 950,
+  "enrichment": false,
+  "isbnFetchFiles": true,
+  "harvesters": []
+}

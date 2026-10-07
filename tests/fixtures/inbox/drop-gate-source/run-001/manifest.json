@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "source_name": "Test Source",
+  "source_base_url": "http://test.com",
+  "terms_url": "http://test.com/terms",
+  "terms_verified_on": "2023-01-01",
+  "harvester_name": "test-harvester",
+  "harvester_version": "1.0.0",
+  "mode": "full",
+  "started_at": "2024-01-01T00:00:00Z",
+  "finished_at": "2024-01-01T00:00:01Z",
+  "error_count": 0,
+  "user_agent": "Test UA",
+  "source_code": "drop-gate-source",
+  "run_id": "run-001",
+  "record_count": 1,
+  "status": "complete"
+}

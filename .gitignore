@@ -1,0 +1,12 @@
+node_modules/
+harvest/inbox/
+dist/
+logs/
+config/config.json
+config/config.local.json
+*.local.*
+.env
+.env.*
+!*.example.*
+!config/config.example.json
+!harvest/config.example.json

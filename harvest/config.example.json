@@ -1,0 +1,10 @@
+{
+  "harvesters": [
+    {
+      "source": "example-source",
+      "command": "node harvesters/example-harvester.js",
+      "enabled": false,
+      "notes": "Replace with real harvester command. Harvesters are built separately."
+    }
+  ]
+}

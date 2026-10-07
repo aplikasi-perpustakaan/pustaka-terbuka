@@ -1,0 +1,13 @@
+# PustakaTerbuka Code Owners
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything
+* @aplikasi-perpustakaan/pustaka-terbuka-maintainers
+
+# Each school's holdings file is owned by their team
+# data/holdings/SKBayanLepas.csv @aplikasi-perpustakaan/sk-bayan-lepas
+# data/holdings/SMKGeorgeTown.csv @aplikasi-perpustakaan/smk-george-town
+
+# Organization registry changes need maintainer review
+data/orgs.json @aplikasi-perpustakaan/pustaka-terbuka-maintainers
+data/sources.json @aplikasi-perpustakaan/pustaka-terbuka-maintainers
