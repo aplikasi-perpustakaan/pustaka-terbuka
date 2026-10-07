@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="title">PustakaTerbuka Search</title>
+  
+  <!-- Content Security Policy: We allow inline styles/scripts for Pagefind, but generally restrict -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline';">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1 data-i18n="title">PustakaTerbuka Search</h1>
+      
+      <div class="controls">
+        <label for="lang-select">Language:</label>
+        <select id="lang-select">
+          <option value="en">English</option>
+          <option value="ms">Bahasa Malaysia</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="search-container">
+      <div id="search-ui"></div>
+      
+      <div class="filters">
+        <label for="org-filter" data-i18n="organization">Organization:</label>
+        <select id="org-filter">
+          <option value="" data-i18n="all_organizations">All Organizations</option>
+        </select>
+        
+        <div id="shelf-browse-links"></div>
+      </div>
+    </div>
+
+    <div class="layout-grid">
+      <section class="results-section">
+        <div id="search-results"></div>
+      </section>
+
+      <aside class="sidebar">
+        <div class="basket" id="basket-container">
+          <h2 data-i18n="basket">Basket</h2>
+          <ul id="basket-items"></ul>
+          <p id="basket-empty" data-i18n="empty_basket">Your basket is empty.</p>
+          <button id="download-basket-btn" disabled data-i18n="download_basket">Download Basket (MARCXML)</button>
+        </div>
+        
+        <div class="links-section">
+          <h2 data-i18n="bulk_dumps">Bulk Dumps</h2>
+          <div id="bulk-dumps-links">
+            <!-- Will be populated if available, or just static links -->
+            <a href="dumps/">View Dumps Directory</a>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
