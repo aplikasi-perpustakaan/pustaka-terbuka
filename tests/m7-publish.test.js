@@ -13,10 +13,11 @@ test('Publish-Catalog.ps1 dry-run mode', (t) => {
     }
 
     // Ensure harvest/inbox and basic manifest to pass validation
-    if (!fs.existsSync('harvest/inbox/records')) {
-        fs.mkdirSync('harvest/inbox/records', { recursive: true });
+    const runDir = 'harvest/inbox/mock-source/run-1';
+    if (!fs.existsSync(runDir + '/records')) {
+        fs.mkdirSync(runDir + '/records', { recursive: true });
     }
-    fs.writeFileSync('harvest/inbox/manifest.json', JSON.stringify({
+    fs.writeFileSync(runDir + '/manifest.json', JSON.stringify({
         schema_version: "1.0",
         source_code: "harvest",
         source_name: "Harvest Dummy",
@@ -34,7 +35,7 @@ test('Publish-Catalog.ps1 dry-run mode', (t) => {
         status: "complete",
         user_agent: "dummy/1.0"
     }));
-    fs.writeFileSync('harvest/inbox/provenance.jsonl', '');
+    fs.writeFileSync(runDir + '/provenance.jsonl', '');
 
     const result = spawnSync('powershell', [
         '-ExecutionPolicy', 'Bypass',
