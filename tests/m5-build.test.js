@@ -43,7 +43,8 @@ function setupTestDir() {
     </marc:datafield>
   </marc:record>
 </marc:collection>`;
-  fs.writeFileSync(path.join(DATA_DIR, 'bib', 'REC1.xml'), hostileXml);
+  fs.mkdirSync(path.join(DATA_DIR, 'bib', 'RE'), { recursive: true });
+  fs.writeFileSync(path.join(DATA_DIR, 'bib', 'RE', 'REC1.xml'), hostileXml);
   
   // Holdings
   fs.writeFileSync(path.join(DATA_DIR, 'holdings', 'REC1.json'), JSON.stringify([

@@ -12,7 +12,7 @@ function setupEnv() {
   const dataDir = path.join(tempDir, 'data');
   const inboxDir = path.join(tempDir, 'inbox');
   fs.mkdirSync(dataDir, { recursive: true });
-  fs.mkdirSync(inboxDir, { recursive: true });
+  fs.mkdirSync(inboxDir, { recursive: true }); fs.mkdirSync(path.join(inboxDir, 'records'));
   
   const sourcesPath = path.join(tempDir, 'sources.json');
   fs.writeFileSync(sourcesPath, JSON.stringify({
@@ -55,7 +55,7 @@ test('Merge Engine - New record', async (t) => {
   const env = setupEnv();
   const rec = createRecord({ f001: '123', isbn: '9781234567897', title: 'Test Book', source: 'test-source-a' });
   
-  fs.writeFileSync(path.join(env.inboxDir, 'rec1.xml'), serialize([rec]));
+  fs.writeFileSync(path.join(env.inboxDir, 'records', 'rec1.xml'), serialize([rec]));
   
   const report = await mergeInbox(env.inboxDir, { dataDir: env.dataDir, sourcesPath: env.sourcesPath });
   
@@ -74,13 +74,13 @@ test('Merge Engine - Same ISBN from two sources', async (t) => {
   const rec1 = createRecord({ f001: '123', isbn: '9781234567897', title: 'Test Book', source: 'test-source-a' });
   const rec2 = createRecord({ f001: '456', isbn: '9781234567897', title: 'Test Book', source: 'test-source-b' });
   
-  fs.writeFileSync(path.join(env.inboxDir, 'rec1.xml'), serialize([rec1]));
+  fs.writeFileSync(path.join(env.inboxDir, 'records', 'rec1.xml'), serialize([rec1]));
   const report1 = await mergeInbox(env.inboxDir, { dataDir: env.dataDir, sourcesPath: env.sourcesPath });
   assert.strictEqual(report1.new, 1);
   
   // Clear inbox and add second
-  fs.rmSync(path.join(env.inboxDir, 'rec1.xml'));
-  fs.writeFileSync(path.join(env.inboxDir, 'rec2.xml'), serialize([rec2]));
+  fs.rmSync(path.join(env.inboxDir, 'records', 'rec1.xml'));
+  fs.writeFileSync(path.join(env.inboxDir, 'records', 'rec2.xml'), serialize([rec2]));
   const report2 = await mergeInbox(env.inboxDir, { dataDir: env.dataDir, sourcesPath: env.sourcesPath });
   
   assert.strictEqual(report2.mergedIntoExisting, 1);
@@ -97,7 +97,7 @@ test('Merge Engine - Idempotent rerun', async (t) => {
   const env = setupEnv();
   const rec = createRecord({ f001: '123', isbn: '9781234567897', title: 'Test Book', source: 'test-source-a' });
   
-  fs.writeFileSync(path.join(env.inboxDir, 'rec1.xml'), serialize([rec]));
+  fs.writeFileSync(path.join(env.inboxDir, 'records', 'rec1.xml'), serialize([rec]));
   
   await mergeInbox(env.inboxDir, { dataDir: env.dataDir, sourcesPath: env.sourcesPath });
   const report = await mergeInbox(env.inboxDir, { dataDir: env.dataDir, sourcesPath: env.sourcesPath });
@@ -113,7 +113,7 @@ test('Merge Engine - Corrupt alias table refusal', async (t) => {
   const env = setupEnv();
   const rec = createRecord({ f001: '123', isbn: '9781234567897', title: 'Test Book', source: 'test-source-a' });
   
-  fs.writeFileSync(path.join(env.inboxDir, 'rec1.xml'), serialize([rec]));
+  fs.writeFileSync(path.join(env.inboxDir, 'records', 'rec1.xml'), serialize([rec]));
   await mergeInbox(env.inboxDir, { dataDir: env.dataDir, sourcesPath: env.sourcesPath });
   
   // Now corrupt the alias table
@@ -135,14 +135,14 @@ test('Merge Engine - Ambiguous fallback match', async (t) => {
   const rec1 = createRecord({ f001: '123', isbn: '9781234567897', title: 'Test Book A', source: 'test-source-a' });
   const rec2 = createRecord({ f001: '456', isbn: '9780000000000', title: 'Test Book B', source: 'test-source-b' });
   
-  fs.writeFileSync(path.join(env.inboxDir, 'rec1.xml'), serialize([rec1, rec2]));
+  fs.writeFileSync(path.join(env.inboxDir, 'records', 'rec1.xml'), serialize([rec1, rec2]));
   const report1 = await mergeInbox(env.inboxDir, { dataDir: env.dataDir, sourcesPath: env.sourcesPath });
   assert.strictEqual(report1.new, 2);
   
   // Now create a third record that matches rec1 on ISBN and rec2 on fallback key
   const rec3 = createRecord({ f001: '789', isbn: '9781234567897', title: 'Test Book B', source: 'test-source-a' });
-  fs.rmSync(path.join(env.inboxDir, 'rec1.xml'));
-  fs.writeFileSync(path.join(env.inboxDir, 'rec3.xml'), serialize([rec3]));
+  fs.rmSync(path.join(env.inboxDir, 'records', 'rec1.xml'));
+  fs.writeFileSync(path.join(env.inboxDir, 'records', 'rec3.xml'), serialize([rec3]));
   
   const report2 = await mergeInbox(env.inboxDir, { dataDir: env.dataDir, sourcesPath: env.sourcesPath });
   assert.strictEqual(report2.ambiguous, 1);
