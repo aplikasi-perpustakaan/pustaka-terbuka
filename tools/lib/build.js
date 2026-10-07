@@ -117,7 +117,11 @@ export async function buildSite(options) {
 
   let bibFiles = [];
   if (fs.existsSync(bibDir)) {
-    bibFiles = fs.readdirSync(bibDir).filter(f => f.endsWith('.xml'));
+    const shards = fs.readdirSync(bibDir).filter(f => fs.statSync(path.join(bibDir, f)).isDirectory());
+    for (const shard of shards) {
+      const files = fs.readdirSync(path.join(bibDir, shard)).filter(f => f.endsWith('.xml'));
+      bibFiles.push(...files.map(f => path.join(shard, f)));
+    }
   }
 
   for (const file of bibFiles) {

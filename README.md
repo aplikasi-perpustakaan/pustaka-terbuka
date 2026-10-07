@@ -48,15 +48,15 @@ npm test
 .\scripts\Publish-Catalog.ps1 -WhatIf -SkipHarvest
 ```
 
-## For Participating Schools
+## Quick Start for Librarians (Participating Schools)
 
-To add your school or library to PustakaTerbuka:
+To add your school or library to PustakaTerbuka or update your holdings:
 
-1. Register your organization in `data/orgs.json`
-2. Create a holdings file at `data/holdings/<YOUR_ORG>.csv`
-3. Submit a pull request
+1. Register or update your organization in `data/orgs.json`
+2. Create or update your holdings file at `data/holdings/<YOUR_ORG>.csv`
+3. Submit a pull request to the `main` branch.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details on submitting and updating holdings.
 
 ### Link to Your Organization's View
 

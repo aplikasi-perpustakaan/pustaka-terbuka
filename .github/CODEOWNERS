@@ -1,5 +1,10 @@
 # PustakaTerbuka Code Owners
 # See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Note: Teams must be given Write access to this repository for their code owner
+# assignments to be valid and for them to be requested for reviews.
+# Code-owner review is enforced only if branch protection rules are configured
+# to require review from Code Owners for the target branch (e.g., main).
 
 # Default owners for everything
 * @aplikasi-perpustakaan/pustaka-terbuka-maintainers

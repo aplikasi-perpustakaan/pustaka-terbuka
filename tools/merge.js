@@ -10,7 +10,7 @@ async function main() {
   let inboxPath = null;
   const options = {
     dataDir: path.join(process.cwd(), 'data'),
-    sourcesPath: path.join(process.cwd(), 'sources.json'),
+    sourcesPath: path.join(process.cwd(), 'data', 'sources.json'),
     dryRun: false
   };
 

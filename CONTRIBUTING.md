@@ -2,9 +2,9 @@
 
 Thank you for your interest in contributing to PustakaTerbuka!
 
-## For Schools and Libraries: Submitting Holdings
+## For Schools and Libraries: Submitting or Updating Holdings
 
-### Step 1: Register Your Organization
+### Step 1: Register or Update Your Organization
 
 Add your organization to `data/orgs.json`:
 

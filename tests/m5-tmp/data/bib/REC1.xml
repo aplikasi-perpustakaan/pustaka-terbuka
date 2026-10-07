@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000 a 4500</marc:leader>
+    <marc:controlfield tag="008">190102s2019    my |||||||||||||| ||eng d</marc:controlfield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">&lt;script&gt;alert('xss')&lt;/script&gt; :</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781234567890</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">local data</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -139,10 +139,11 @@ export async function mergeInbox(inboxPath, options = {}) {
     sources = JSON.parse(fs.readFileSync(sourcesPath, 'utf8'));
   }
 
-  const files = fs.existsSync(inboxPath) ? fs.readdirSync(inboxPath).filter(f => f.endsWith('.xml')) : [];
+  const recordsDir = path.join(inboxPath, 'records');
+  const files = fs.existsSync(recordsDir) ? fs.readdirSync(recordsDir).filter(f => f.endsWith('.xml')) : [];
 
   for (const file of files) {
-    const filePath = path.join(inboxPath, file);
+    const filePath = path.join(recordsDir, file);
     try {
       const xmlStr = fs.readFileSync(filePath, 'utf8');
       const records = parseMarc(xmlStr);
