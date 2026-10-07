@@ -19,7 +19,7 @@ test('Publish-Catalog.ps1 dry-run mode', (t) => {
     }
     fs.writeFileSync(runDir + '/manifest.json', JSON.stringify({
         schema_version: "1.0",
-        source_code: "harvest",
+        source_code: "mock-source",
         source_name: "Harvest Dummy",
         source_base_url: "http://dummy.com",
         terms_url: "http://dummy.com",
