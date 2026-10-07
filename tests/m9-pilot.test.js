@@ -8,7 +8,7 @@ test('M9 Pilot: Generate fixtures and validate', async (t) => {
   const count = 10;
   const sourceCode = 'm9-pilot-test';
   const runId = 'run-test';
-  const outdir = path.join('harvest', 'inbox', sourceCode, runId);
+  const outdir = 'tests/m9-pilot-tmp';
 
   // Clean up if exists
   if (fs.existsSync(outdir)) {
