@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000570114</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000570114</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The heartbreak Kid</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Eddie is a confirmed bachelor who is forty and owns a sporting-goods store. After watching his ex-fiancé walk down the aisle, he meets Lila who is an environmental researcher. Lila seems too good to be true. Pressured by his father and best friend, Eddie pops the question and marries Lila after only 6 weeks. He almost immediately discovers that his new bride is a nightmare with more baggage than he can handle. She&apos;s immature and foolish, a monster in bed and owes a large sums of money to various sources. As it turns out, Lila is only a volunteer and doesn&apos;t actually have a job. While on their honeymoon in Cabo, Eddie meets Miranda, a down-to-earth lacrosse coach who is visiting with her family. Sparks fly between Eddie and Miranda. Now he needs to break off his marriage, all while trying to keep the truth from Miranda about why he&apos;s in Cabo in the first place.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 HEA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

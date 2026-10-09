@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000774168</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780500051795</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">500051798</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000774168</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Snape, Steven</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE COMPLETE CITIES OF ANCIENT EGYPT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Ancient Egyptian cities and towns have until recently been one of the least- studied and least-published aspects of this great ancient civilization. Now new research and excavation are transforming our knowledge. The Complete Cities of Ancient Egypt is the first book to bring these latest discoveries to a wide general and scholarly audience, and to provide a comprehensive overview of what we know about ancient settlement during the dynastic period. Divided in two halves, the book opens with an account of the development of urban settlement in Egypt, describing the pattern of urban life, from food production, government, crime and health to schooling, leisure, ancient tourism, and the interaction of the living community with the dead. The second half of the book takes the reader on a trip down the Nile from Aswan to the Delta, giving a comprehensive account of all cities and towns with details for each of their discovery, excavation and important finds, supported by maps and plans as well as recent photographs. This book is sure to appeal to all those concerned with urban design and history, as well as tourists, students and Egyptophiles.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">932 SNA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984976</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789573292777</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9573292777</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984976</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">He, Zewen, 1990-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">知識複利 : 將內容變現, 打造專家型個人品牌的策略 = Knowledge realization : a guide to expert personal branding management and content monetization strategies | Zhi shi fu li : jiang nei rong bian xian, da zao zhuan jia xing ge ren pin pai de ce lüe = KNOWLEDGE REALIZATION : A Guide to Expert Personal Branding Management and Content Monetization Strategies</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Lü du yu cong shu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book answers the crucial question of how knowledge becomes power, guiding readers on how to build upon what they already know and, under the POEM framework of business thinking, engage in content creation and knowledge monetization. It introduces key value expansion strategies, teaching readers how to turn casual “followers” into loyal “fans” while building a personal brand. As society evolves rapidly, the way knowledge compounds also continues to change. This book explores the integration of personal brand development with digital media tools, showing how to use various platforms to expand your influence and enhance the user experience. In addition, it offers practical principles for writing and social media engagement, empowering readers to grow their impact and effectively market their expertise</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.827 HEZ</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

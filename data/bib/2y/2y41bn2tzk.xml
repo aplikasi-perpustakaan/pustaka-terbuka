@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770941</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262525978</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262525976</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770941</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Barilan, Yechiel Michael, 1966-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Human Dignity, Human Rights, and Responsibility : The New Language of Global Bioethics and Biolaw</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Basic bioethics</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;&apos;Human dignity&apos; has been enshrined in international agreements and national constitutions as a fundamental human right. The World Medical Association calls on physicians to respect human dignity and to discharge their duties with dignity. And yet human dignity is a term--like love, hope, and justice--that is intuitively grasped but never clearly defined. Some ethicists and bioethicists dismiss it; other thinkers point to its use in the service of particular ideologies. In this book, Michael Barilan offers an urgently needed, nonideological, and thorough conceptual clarification of human dignity and human rights, relating these ideas to current issues in ethics, law, and bioethics. Combining social history, history of ideas, moral theology, applied ethics, and political theory, Barilan tells the story of human dignity as a background moral ethos to human rights. After setting the problem in its scholarly context, he offers a hermeneutics of the formative texts on Imago Dei; provides a philosophical explication of the value of human dignity and of vulnerability; presents a comprehensive theory of human rights from a natural, humanist perspective; explores issues of moral status; and examines the value of responsibility as a link between virtue ethics and human dignity and rights. Barilan accompanies his theoretical claim with numerous practical illustrations, linking his theory to such issues in bioethics as end-of-life care, cloning, abortion, torture, treatment of the mentally incapacitated, the right to health care, the human organ market, disability and notions of difference, and privacy, highlighting many relevant legal aspects in constitutional and humanitarian law&quot;--Publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">179.7 BAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

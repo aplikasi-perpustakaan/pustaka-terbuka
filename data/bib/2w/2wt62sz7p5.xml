@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000647361</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470920107</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470920106</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000647361</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Delahaye Paine, Katie, 1952-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Measure what matters : online tools for understanding customers, social media, engagement, and key relationships</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In an online and social media world, measurement is the key to success. If you can measure your key business relationships, you can improve them. Even though relationships are &quot;fuzzy and intangible,&quot; they can be measured and managed-with powerful results. Measure What Matters explains simple, step-by-step procedures for measuring customers, social media reputation, influence and authority, the media, and other key constituencies. Based on hundreds of case studies about how organizations have used measurement to improve their reputations, strengthen their bottom lines, and improve efficiencies all around. Learn how to collect the data that will help you better understand your competition, do strategic planning, understand key strengths and weaknesses, and better respond to customer preferences. Author runs a successful blog and serves as a measurement consultant to companies such as Facebook, Southwest Airlines, Raytheon, and Allstate. Don’t draw conclusions or make key decisions based on guesswork. Instead, Measure What Matters and the difference will show in the most important measure: your bottom line.&quot;-- c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">659.202854678 DEL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

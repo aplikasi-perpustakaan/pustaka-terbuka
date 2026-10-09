@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000597580</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000597580</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Freston, Kathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Quantum wellness a practical and spiritual guide to health and happiness</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Praised and celebrated on such programs as The Oprah Winfrey show, The view, and CBS&apos;s The early show, Kathy Freston&apos;s The one became a New York times bestseller and a must-have for everyone looking to improve the quality of their relationships. Now Kathy is back with a new life-changing guide in which she teaches the principles of &apos;quantum wellness&apos;--a significant increase in health of the mind, body, and spirit, achieved through small steps that yield extraordinary changes in our lives. Freston looks at the various dimensions of wellness and how they can be approached. She allows that none of us makes perfect choices all the time and shows how baby steps regarding how to eat, how to work without living in constant stress, how to live in our imperfect bodies, and how staying positive and open to life can add up to significant breakthroughs in well-being. Freston advocates setting manageable goals--from choosing not to eat meat one day a week, then two, then more--building to a complete program of meditation, visualization, and a diet of whole foods, choosing meaningful work, devoting yourself to practicing awareness, and taking supremely attentive care of your body, mind, and spirit</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Books</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.1 FRE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

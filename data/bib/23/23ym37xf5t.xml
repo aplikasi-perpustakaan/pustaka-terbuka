@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738644</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118492963</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">111849296X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738644</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Swindling, Linda Byars, 1965-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">STOP COMPLAiNERS AND ENeRGY DRAINERS : HOW TO NEGOTIATE WORK DRAMA TO GET MORE DONE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Turn constant complainers into productive contributorsConstant complainers take up resources, time, and mental bandwidth in the workplace. When you change a culture of complainers to one of contributors, you boost morale, increase productivity, and promote effective communication. In short, you get more done with less drama. In Stop Complainers and Energy Drainers, workplace communication expert Linda Swindling shares her expertise in negotiating tough situations in the workplace. Discover how to influence others to accomplish your purpose. Stop Complainers and Energy Drainers uses scenarios, engaging questions, and survey results to provide strategies that can be implemented immediately. Shows how to identify complainers and time drainers Provides forms to help prepare for discussions, suggested language to show up powerfully, and encouragement to apply strategies Offers concrete phrases and tactics to refocus a complainer and end unproductive conversations Stop Complainers and Energy Drainers is research-driven and focused on how to identify as well as manage conversations with &quot;venters,&quot; complainers, whiners, and energy drainers. With these guidelines for communication, you&apos;ll see powerful results, improved relationships, and increased confidence&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.3045 SWI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

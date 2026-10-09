@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000878994</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781786354877</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">178635487X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">2045-0605 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ovld001900337</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000878994</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Organizing supply chain processes for sustainable innovation in the agri-food industry</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Organizing for sustainable effectiveness ; v. 5.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The sustainability of agri-food supply chains is particularly relevant for global sustainable development. Many existing food production systems do more harm than good. They compromise the natural rhythms of the Earth, introduce toxins, and therefore sacrifice future capability for current demands the opposite of sustainable development norms. The existing system is also unbalanced with respect to its capacity to produce, the amount of waste it generates, the number of people who suffer from hunger, and the nutritional value it provides. Most of the current supply chains have been developed within the classic economic paradigm, where scale and leverage drive choices towards more profitable models. As a consequence, finding new ways to produce, distribute and consume food is a morale, financial, and environmental necessity. Sustainable development and triple bottom line perspectives provide the logic for questioning this paradigm. This book presents and discusses nine cases of organizational innovation in food supply chain, covering different phases of food production, facing different challenges, and proposing different solutions to the challenge of sustainable food development</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.7</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/2045-0605/5</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

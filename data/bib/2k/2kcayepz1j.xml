@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000698708</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781597804004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1597804002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000698708</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Payton, T. Aaron</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Constantine Affliction : a Pimm and Skye adventure</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The Constantine Affliction, a strange malady that kills some of its victims and physically transforms others into the opposite sex, has spread scandal and upheaval throughout society. Scientific marvels and disasters, such as clockwork courtesans, the alchemical fires of Whitechapel, electric carriages, and acidic monsters lurking in the Thames, have forever altered the face of the city. Pembroke &quot;Pimm&quot; Hanover is an aristocrat with an interest in criminology, who uses his keen powers of observation to assist the police or private individuals, at least when he&apos;s sober enough to do so. Ellie Skyler, who hides her gender behind the byline &quot;E. Skye,&quot; is an intrepid journalist driven by both passion and necessity to uncover the truth, no matter where it hides. When Pimm and Skye stumble onto a dark plot that links the city&apos;s most notorious criminal overlord with the Queen&apos;s new consort, famed scientist Sir Bertram Oswald, they soon find the forces of both high and low society arrayed against them. Can they save the city from the arcane machinations of one of history&apos;s biggest monsters and uncover the shocking origin of the Constantine Affliction.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">PAY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

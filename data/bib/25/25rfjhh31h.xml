@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000256994</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000806477</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000256994</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Congkak</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kazman is a dedicated husband who, despite his wife Sufiah&apos;s protests, decided to buy a bungalow for their family near a lake as a family getaway. Anxious in the new house, Sufiah feels as if someone is watching her. Her daughter Lisa, who would always go downstairs at night to play congkak with someone whom she could only see, compounds her uneasiness. Sufiah throws the congkak in the lake, but is awakened the next night by the sound of the congkak being played again and upon investigation, she sees an old lady playing it. When her daughter disappears, the oldest resident in that area, Pak Tua, comes to the family&apos;s rescue and helps in locating the missing family members.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Motion Picture</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.437</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

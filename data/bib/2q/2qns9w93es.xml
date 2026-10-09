@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842971</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842971</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gordon, Robert John</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE RISE AND FALL OF AMERICAN GROWTH</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In the century after the Civil War, an economic revolution improved the American standard of living in ways previously unimaginable. Electric lighting, indoor plumbing, home appliances, motor vehicles, air travel, air conditioning, and television transformed households and workplaces. With medical advances, life expectancy between 1870 and 1970 grew from forty-five to seventy-two years. Weaving together a narrative, historical anecdotes, and economic analysis, this audiobook provides an in-depth account of this momentous era. But has that era of unprecedented growth come to an end? Gordon challenges the view that economic growth can or will continue unabated, and he demonstrates that the life-altering scale of innovations between 1870 and 1970 can&apos;t be repeated. He contends that the nation&apos;s productivity growth, which has already slowed to a crawl, will be further held back by the vexing headwinds of rising inequality, stagnating education, an aging population, and the rising debt of college students and the federal government. Gordon warns that the younger generation may be the first in American history that fails to exceed their parents&apos; standard of living, and that rather than depend on the great advances of the past, we must find new solutions to overcome the challenges facing us.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Books</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">339.420973 GOR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
