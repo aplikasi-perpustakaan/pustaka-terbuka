@@ -41,7 +41,19 @@ export function saveAliases(filePath, aliasMap) {
   }
   
   // Always end with a newline
-  fs.writeFileSync(filePath, lines + (lines.length > 0 ? '\n' : ''), 'utf8');
+  const contentToWrite = lines + (lines.length > 0 ? '\n' : '');
+  let retries = 5;
+  while (retries > 0) {
+    try {
+      fs.writeFileSync(filePath, contentToWrite, 'utf8');
+      break;
+    } catch (err) {
+      retries--;
+      if (retries === 0) throw err;
+      const start = Date.now();
+      while (Date.now() - start < 100) {}
+    }
+  }
 }
 
 export function lookupId(aliasMap, key) {
