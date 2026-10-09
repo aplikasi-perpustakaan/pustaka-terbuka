@@ -9,6 +9,7 @@ param (
     [switch]$WhatIf,
     [switch]$SkipHarvest,
     [switch]$SkipPublish,
+    [switch]$SkipTests,
     [switch]$Force,
     [string]$Message = "Automated publish"
 )
@@ -121,8 +122,18 @@ Invoke-GateCommand "npm run validate-holdings"
 Write-Log "Building catalog..."
 Invoke-GateCommand "npm run build"
 
-Write-Log "Running tests..."
-Invoke-GateCommand "npm test"
+# Step 8: Tests
+if ($SkipTests -or $env:IN_TEST -eq "1") {
+    Write-Log "Skipping tests."
+} else {
+    Write-Log "Running tests..."
+    $env:IN_TEST = "1"
+    try {
+        Invoke-GateCommand "npm test"
+    } finally {
+        Remove-Item env:IN_TEST -ErrorAction SilentlyContinue
+    }
+}
 
 # Step 9: Git Commit (Source data)
 if ($WhatIf) {
@@ -161,7 +172,8 @@ if ($WhatIf) {
 if ($SkipPublish) {
     Write-Log "Skipping publish to gh-pages (-SkipPublish)."
 } elseif ($WhatIf) {
-    Write-Log "[WhatIf] Would checkout orphan branch gh-pages, commit dist/, and force-push."
+    Write-Log "[WhatIf] Would publish dist/ to gh-pages branch."
+} else {
     Write-Log "Publishing to gh-pages branch..."
     $RemoteUrl = git config --get remote.origin.url
     $TempDir = Join-Path ([System.IO.Path]::GetTempPath()) "pustakaterbuka-ghpages-$Timestamp"
