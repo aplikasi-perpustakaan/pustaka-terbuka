@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls001001809</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789672915416</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9672915411</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls001001809</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Huang, Mu Li</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">戎马股市 : 黄木利笑看来时路 | Rong ma gu shi : Huang Mu Li xiao kan lai shi lu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This memoir describes how an ordinary man born into a poor family of firstgeneration Chinese immigrants in North Malaysia prior to Malaya&apos;s independence positively did not bow to fate and worked hard to create a better life for his family. With an engineer&apos;s degree from the University of Taiwan, which is not recognized by the Malaysian government, he started his career as a junior engineer and rose to become a division president of a multinational listed company. He bravely stepped out of the comfort zone of his life and worked for the Group for more than a decade in the early days of China&apos;s reform and opening up in a traditional Chinese culture that was full of unknowns. At the age of old age, he should have retired and enjoyed his life, but he opened up his second spring of life and stepped into the unfamiliar world of finance to take on another challenge.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.092 HUA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

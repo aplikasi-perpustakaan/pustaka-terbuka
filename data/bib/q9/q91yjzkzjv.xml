@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000587444</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000587444</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">United Nations Institute for Disarmament Research</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The humanitarian impact of cluster munitions</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The humanitarian impact of cluster munitions is dependent on the degree to which people are brought into contact with them. Thus, the impact in one country, or even one area of a country, will not be the same as in another. It depends, among other things, on the level of contamination, the terrain, land use, population density, common economic activities and resources, and the level of development. Impact also varies over time as these factors change. Yet, in any case the effects of cluster munition use are immediate, and the resulting contamination makes these effects long lasting and deep. This report examines the immediate and long-term humanitarian and socio-economic impact of cluster contamination on civilian populations. It draws on a wide range of sources, including case studies from Cambodia and Lebanon, information gathered from practitioners and documentation from contaminated countries, to present an overview of the ways in which such contamination affects the daily lives, opportunities and prospects of ordinary people&quot;--P. [4] of cover</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">363.3498 UNI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000676338</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781848441064</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1848441061</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000676338</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Knowledge transfer and technology diffusion</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Knowledge transfer and technology diffusion: an introduction -- Resources and innovation in low-tech industries: an empirical study of clusters in Spain and Italy -- Inward flows of information and knowledge in low-tech industrial districts: contrasting the &apos;new forms gatekeeper&apos; and &apos;direct peer&apos; models -- The role of company networks in low-tech industries -- Technological change, knowledge integration and adaptive processes: the mechatronic evolution of the Reggio Emilia district -- Globalization and low-technology industries: the case of Italian eyewear -- Innovation and external knowledge sources in industrial districts: evidence from an Italian furniture cluster -- Engineering versus craftsmanship: innovation in the electric guitar industry, 1945-1984 -- How low-and medium-technology industries in developing countries compete with multinationals: lessons from China&apos;s home electronics sector -- New patterns in knowledge transfer and catching up: Chinese R&amp;​D in ICT -- Technological learning and capability building in LMT industries in newly industializing countries: selected examples from Taiwan -- Understanding regional innovation systems in LMT industries: the case of Turkey as an emerging market economy -- International technology diffusion and productivity in low-and medium -technology sectors in India.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.92 KNO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

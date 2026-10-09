@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000730272</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415536783</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415536782</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000730272</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wegerif, Rupert, 1959-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">DIALOGIC : EDUCATION FOR THE INTERNET AGE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Dialogic: Education for the Digital Age argues that despite rapid advances in communications technology, most educational research still relies on traditional approaches to education, built upon the logic of print, and dependent on the notion that there is a single true representation of reality. In practice, the use of the Internet disrupts this traditional logic of education by offering an experience of knowledge as participatory and multiple. The challenge identified in Wegerif&apos;s text is the growing need to develop a new understanding of education that will encourage us to provide new policies, and hold the potential to transform educational pedagogy and meet the realities of the digital age. This new logic of education is dialogic and characterises education as learning to learn, think and thrive in the context of working with multiple perspectives and ultimate uncertainty. The book builds upon the simple contrast between observing dialogue from an outside point of view, and participating in a dialogue from the inside, before pinpointing an essential feature of dialogic: the gap or difference between voices in dialogue which is understood as an irreducible source of meaning. Each chapter of the book applies this dialogic thinking to a specific challenge facing education, re-thinking the challenge and revealing a new theory of education. Areas covered in the book include: - dialogical learning and cognition - dialogical learning and emotional intelligence - educational technology, dialogic &apos;spaces&apos; and consciousness - global dialogue and global citizenship - dialogic theories of science and maths education&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">371.3344678 WEG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

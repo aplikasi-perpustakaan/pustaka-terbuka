@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000891111</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000891111</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">29 + 1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This is a story in 2005. Christy Lam is a typical city girl born and raised in Hong Kong. She is a month from turning 30, and has just begun to cope with the same struggles shared by most girls of the same age: the almost unbearable stress at work, her aging but annoying parents, and her seemingly stable yet stagnant relationship. All of these only add to her fear for this next chapter of her life. Wong Tin-Lok, on the other hand, is also turning 30 soon, but leads a vastly different life. She has never been in love, and her job is taking her nowhere. And yet, she has always kept an optimistic attitude towards life. On the verge of her next chapter, she makes a bold decision to just pick up her bags and fulfill her childhood dream. They have never met each other, and their personalities are night and day. But as fate would have it, Christy makes a temporary move into Wong&apos;s apartment</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43089951 TWE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

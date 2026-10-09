@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000673993</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780749957575</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">749957573</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000673993</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Feehan, Christine.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Darkest at dawn : a Carpathian reunion</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;There is a &quot;Dark Hunger&quot; ... Juliette is a beautiful activist devoted to the liberation of animals from the foul and humid confines of a secret jungle lab. But what she has stumbled upon is an unexpected prisoner like none she has ever seen. Or touched. His name is Riordan De La Cruz, immortal Carpathian male, trapped and caged, his honor compromised, his desire for revenge only beginning. She will release him from his bonds. He will release her from her inhibitions. Both have a voracious appetite that needs to be sated. There is a Dark Secret ... Rafael De La Cruz has spent centuries hunting vampires, but what he&apos;s following now is the scent of a human. Her name is Colby Jansen, rancher and sole guardian of her younger half siblings, a woman prepared to protect them with her life against Rafael&apos;s blood-right claim to snatch them away. But the arrogant and fiercely sensual Rafael is after more than her family--he wants Colby. She will be his lifemate. And there&apos;s nothing she can do can to stop his raw desire to possess her&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">FEE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

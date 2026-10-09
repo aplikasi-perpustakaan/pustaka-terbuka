@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000844011</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000844011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">SOMEBODY&apos;S HERO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Dennis Sullivan, an average NYC accountant is assigned to work with a wealthy young widow and her son, Jake - A boy obsessed with the televised superhero &apos;Man America&apos;. Dennis sees how Jake uses the TV hero to fill the void left by his deceased father. Moved by the boy&apos;s loss, Dennis heads for the &apos;Imagination Superstore&apos; in search of the beloved costume. Once inside the dressing room, Dennis listens as the shop falls prey to a knife-wielding robber. Now in costume, Dennis springs into action to boot the thug from the store with security cameras capturing all. Once the footage hits the airwaves, a media frenzy erupts, leaving an entire city longing for more Man America. Now Dennis must choose between the safety of obscurity or providing his costumed hope to others.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 SOM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

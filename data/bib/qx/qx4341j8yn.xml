@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000844021</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000844021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">STONADOS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">When a tornado appears in the waters south of Boston, former storm chaser Joe Randall is intrigued by the unusual weather. But as twisters begin to strike across the Boston shoreline, Joe quickly realizes this is no ordinary storm front. As the storms threaten to move inland, the citizens of Boston find themselves trapped in a tempest turning deadlier by the minute. With the city under siege, Joe, his sister Maddy and his old storm chasing partner Lee realize they&apos;re dealing with a never before seen weather phenomenon known as Stonados. The only chance of stopping the storm is an untested theory about weather manipulation... the same theory that Joe has been trying to prove for over a decade. But with the storm spreading and threatening the entire Eastern Seaboard-as well as Joe&apos;s children who are trapped in a storm-besieged stadium-Joe and his motley crew will have to give it a try, either saving the world... or accelerating its destruction!</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 STO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

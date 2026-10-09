@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000986243</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9787533969066</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7533969065</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000986243</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Yu, Han-bin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">下班后开始新的一天 | Xia ban hou kai shi xin de yi tian</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">第1版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Guo mai</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book is a time and energy management guide that doesn’t require iron willpower to get started—perfect for today’s young people who feel too tired to hustle, yet too restless to completely give up. The author offers readers a new perspective on how to view each day: the evening isn’t merely preparation time for tomorrow, but precious time that belongs to your present self. She advocates transforming the typical weeknight “waiting mode” (waiting for the weekend, waiting for the next workday) into the energizing and meaningful “Miracle 4 Hours.” This shift helps readers go to bed without regret, having spent their evenings purposefully. Starting with a reflection on one’s personal values and identity, the author guides readers through rebalancing the proportions of work, leisure, self-learning, side projects, and daily chores. With insights from psychology and practical, easy-to-use tools, she helps readers create fixed evening routines, set achievable goals, and build positive habits through repetition—turning things you want or need to do into automatic behaviors, gradually accumulating a rich and fulfilling life that’s uniquely your own. In addition, the author candidly shares plans she once tried and gave up, analyzing the reasons behind abandoning them. She thoughtfully offers strategies to overcome weak willpower, without relying on hype or going against human nature—methods that are realistic, gentle, and accessible for ordinary people to learn and practice</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.1 YUH</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

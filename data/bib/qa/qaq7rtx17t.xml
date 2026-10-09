@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000705821</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780670920679</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">670920673</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000705821</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Brandt, Richard L.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">One click : Jeff Bezos and the rise of Amazon.com</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;An insightful look at how Amazon really works and how its founder and CEO makes it happen. Amazon&apos;s business model is deceptively simple: make online shopping so easy and convenient that customers won&apos;t think twice. It can almost be summed up by the button on every page: Buy now with one click. Why has Amazon been so successful? Much of it has to do with Jeff Bezos, the CEO and founder, whose unique combination of character traits and business strategy have driven Amazon to the top of the online retail world. Originally a computer nerd rather than a businessman, he had the vision to capitalize on the untapped online marketplace for bookselling and continues to discover new market opportunities, from groceries to auto parts. He&apos;s a calculating machine, high energy, passionate, highly aggressive, and out to radically transform retail. Through numerous interviews with Amazon employees, competitors, and observers, Richard Brandt has deciphered how Bezos thinks, what drives his actions, and how he makes decisions. Anyone in business can learn a lot from the example of Amazon&apos;s ongoing evolution.&quot;--
+        Amazon&apos;s business model is deceptively simple: make online shopping so easy and convenient that customers won&apos;t think twice. Yet Amazon&apos;s success is largely down to CEO and founder Jeff Bezos, a man described as both a &apos;happy-go-lucky mogul&apos; and a &apos;notorious micromanager&apos;. His high energy, passionate approach to retailing has driven Amazon to the top. Jeff Bezos is smart. Originally a computer geek, he had the vision to capitalise on the untapped online market for books. He&apos;s also a calculating machine who creates &apos;deal-flow&apos; charts for every major decision, from what business to create to how to chose a spouse. One Click explores what makes Bezos Bezos. Through detailed research and interviews with Amazon employees, competitors and observers, Richard Brandt has deciphered how Bezos thinks, what drives his actions and how he makes his business decisions. Amazon.com was waiting to be discovered. It took Bezos&apos;s unique character and strategy to make it happen. Anyone in the business world can learn from his reinvention of the retail landscape.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">381.4500202854678 BRA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

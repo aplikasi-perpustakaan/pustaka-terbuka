@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000891141</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000891141</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">宅男总动员女神归来 = Chase our love | Zhai nan zong dong yuan nu shen gui lai = CHASE OUR LOVE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This romantic comedy follows three introverted guys, ZaiZai, Nick and Jacky. All three are finding it tough when it comes to the matters of love. Jacky, a homey guy only goes out when he sees the opportunity to be with Mindy, an actress. Elsewhere, when ZaiZai comes to the aid of the pretty Diana, his good intentions gets misunderstood and his girlfriend breaks up with him. Feeling guilty, Diana gets confused with her feelings for ZaiZai, and tries to hook up her friend, Lucy with ZaiZai’s best friend, Nick. The two hit it off at first, but as their relationship progresses, Lucy starts to question her relationship with Nick. As the 3 guys deal with their heartache, follow their lives in the city, as they long for the love they find hard to reach</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43089951 ZHA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

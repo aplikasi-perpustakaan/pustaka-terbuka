@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000732843</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415676373</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415676371</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000732843</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kronenburg, Robert</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ARCHITECTURE IN MOTION : THE HISTORY AND DEVELOPMENT OF PORTABLE BUILDING</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Architecture in Motion explores the genre of portable, transportable, demountable and temporary architecture. Moving buildings are among the earliest artefacts created by man, and yet they have a persisting relevance that enables a Bedouin tent to exist in the same world as a 90,000-ton aircraft carrier. The third edition of this definitive study examines the development of the moveable building from prehistory to the present day. From familiar vernacular models such as the tent, mobile home and houseboat, to developments in military and construction engineering, all aspects of portable architecture are considered. The impact of innovative technology on the creation of portable architecture and its influence on static and permanent building design is explored. The book makes comparisons between current, commercially available products and the work of innovative designers. It explores the philosophical and technological issues raised by contemporary, experimental and futuristic prototypes, and examines the suitability to purpose of portable building solutions in shelter after disaster situations. Key examples of contemporary portable buildings are examined to reveal the exciting, innovative. A greater understanding of the nature of transitory architecture could result in a new, ecologically aware design strategy that prioritises buildings that &apos;tread lightly on the earth&apos; and still convey the sense of identity and community necessary for an established responsible society. This book offers readers a unique insight into this continuously important field of design&quot;--  Provided by publisher</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">720.442 KRO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

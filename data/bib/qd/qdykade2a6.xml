@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000834153</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781501126277</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">150112627X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn973879113</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000834153</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Anderson, Gillian, 1968-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">We : A MANIFESTO FOR WOMEN EVERYWHERE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Actress Gillian Anderson and journalist Jennifer Nadel, friends for more than a decade, have created the road map they wish they&apos;d had for how to live a meaningful life. We: A Manifesto for Women Everywhere is a manual for change, providing nine universal principles that offer a path for dealing with life&apos;s inevitable emotional and spiritual challenges. It&apos;s for anyone who wants to see her own life and the world around her change for the better. By combining tools that are psychological, political and spiritual, We takes readers on a life-changing journey. It asks: Why are so many of us -- and our daughters -- still, in the 21st century, locked in depression and addiction, self-criticism, and even self-harm? How much more effective and powerful would we all be if we replaced our current patterns of competition, criticism, and comparison with collaboration, cooperation, and compassion? Putting these principles at the center of our lives offers an antidote to our me-first culture and allows each of us to be freer and happier, and to replace unhelpful habits with a more positive, peaceful, and rewarding way of living. We is a rallying cry for women to join together and create lasting change in our own lives, our communities, and across the world.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">305.42 AND</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

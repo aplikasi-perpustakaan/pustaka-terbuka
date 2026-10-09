@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737961</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781476747231</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1476747237</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737961</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hustvedt, Siri.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE BLAZING WORLD : A Novel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">When Professor Hess stumbles across an unusual letter to the editor in an art journal, he is surprised to have known so little about the brilliant and mysterious artist it describes, the late Harriet Burden. Intrigued by her story, and by the explosive scandal surrounding her legacy, he begins to interview those who knew her, hoping to separate fact from fiction, only to find himself tumbling down a rabbit&apos;s hole of personal and psychological intrigue. Before she died, Harriet had claimed credit for three shows of contemporary art that had been the biggest sensations of the previous decade, sending the critics into a tailspin, since no one had even thought to connect the three shows before. The sculptures and paintings, while all of unquestionable quality, would seem to have nothing in common, and of the three young male artists who presented the work, one has fled the country, another isn&apos;t talking to anyone, and the third appears to have committed suicide--though not before denouncing Harriet to the world. So was Harriet Burden one of the greatest artists--male or female--in recent memory, having masterminded a puppet show of grand proportions, or was she a washed-up has-been looking for glory on others&apos; coattails? As Hess seeks to solve the puzzle, he soon finds everyone has a different story to tell, and that nothing, and no one, is as it seems. With a playfully intricate narrative structure, flawless prose, and fierce emotional insight, award-winning novelist Siri Hustvedt takes us into the heart of human nature, exposing our prejudices and preconceptions about ambition, feminism, and the complex psychology of love</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">HUS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

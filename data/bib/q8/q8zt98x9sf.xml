@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000679928</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781845966119</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1845966112</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000679928</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Miller, David, 1935 Mar. 1-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The official history of the Olympic Games and the IOC : Athens to London : 1894-2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The Official History of the Olympic Games and the IOC is a dramatic account of the history of the world&apos;s foremost sporting spectacle. It also tells the stories of the historic competitors -- from Spyridon Louis (the inaugural marathon winner) and such heroes as Jim Thorpe, Paavo Nurmi, Sonja Henie, Jesse Owens, Fanny Blankers-Koen, Emil Zatopek, Herb Elliott, Kip Keino, Mark Spitz, Franz Klammer, Sebastian Coe and Carl Lewis through to Hicham El Guerrouj, Michael Phelps and Ya-Na Kim. Each chapter begins with a personal reminiscence by either a famous champion or a notable IOC figure. Detailed background is provided to the many crises: the Nazi Games of 1936; the massacre at Mexico City in 1968; the terrorist slaughter of Israelis at the 1972 Munich Games; the boycotts; the advent of professionals from 1988; and the Ben Johnson scandal and the ongoing threat of drug abuse. As the sporting world awaits, with eager expectation, the 2012 Games in London, this book gives an unparalleled account of the Olympics story from its beginnings in Athens 1894 to the build-up to the Games in London.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">796.4809 MIL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

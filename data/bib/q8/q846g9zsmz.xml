@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737786</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007445424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7445423</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737786</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lewis, Sarah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE RISE : CREATIVEITY, THE GIFT OF FAILURE, AND THE SEARCH FOR MASTERY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">An inspiring book about what it means to be human as we struggle for mastery in our various spheres. It is one of the enduring enigmas of the human experience: many of our most iconic, creative endeavours - from recent Nobel Prize-winning discoveries to entrepreneurial invention, and classic works in the arts - are not achievements, but conversions, corrections after a failed past attempt. This vook part investigation into a psychological mystery, part argument about creativity and art, and part soulful celebration of the determination and courage of the human spirit, makes the case that many of the world&apos;s greatest achievements have come from understanding the central importance of this mystery for working and living at the height of our capacity. Written over four years, this exquisite biography of an idea is about the improbable foundations of creative human endeavours. The Rise begins with narratives about figures that range from choreographers, painters, inventors, explorers, and entrepreneurs; Frederick Douglass, Samuel F. B. Morse, Diane Arbus, and J.K. Rowling, for example, feature alongside choreographer Paul Taylor, Nobel Prize-winning physicists Andre Geim and Konstantin Novoselov, and Arctic explorer Ben Saunders. Each chapter focuses on the inestimable value of often ignored ideas, the power of surrender for fortitude, the criticality of play for innovation, and the propulsion of the near win on the road to mastery, the importance of grit and creative practice. This book contains important lessons for pedagogy and parenting, for innovation and discovery, and for self-direction and creativity. The Rise is an inspiring book about what it means to be human as we struggle for mastery in our various spheres</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">153 LEW</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
