@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000878155</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781786356093</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1786356090</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ovld002108146</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000878155</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Stangis, Dave</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">21st century corporate citizenship : a practical guide to delivering value to society and your busienss</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">21st Century Corporate Citizenship is a practical guide to building a successful business in the modern day. It is a book about leveraging all the tools, trends and assets at the disposal of business to drive bottom-line results, value chain resiliency, productivity, innovation, long-term shareowner value, and benefit for the community. This is the book that leverages corporate citizenship as a value-creating enterprise and translates sustainability, corporate responsibility, and social impact to help you create the most successful business possible in tomorrow&apos;s competitive landscape. For the up and coming manager, this book is the crib sheet to the 21st century MBA that you can&apos;t get (yet) in business schools.  The tools and insights presented are valuable for every business person thinking about how to differentiate their company and maximize business and social value - from the sole proprietor to those working in a global megacorporation - the concepts explored are &apos;must do&apos; for those working for manufacturing B2B or B2C companies that are managing complex supply chains, global operations, and corporate reputation.  This &apos;how-to&apos; handbook presents a step-by-step process aimed at helping you create the most successful business possible in the 21st century competitive landscape, empowering corporate citizenship professionals to accelerate their credibility within their company as an effective contributor who understands their company&apos;s strategy and who creates value.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.408</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/9781786356093</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

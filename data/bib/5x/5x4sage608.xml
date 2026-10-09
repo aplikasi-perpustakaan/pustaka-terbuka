@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000857139</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780473338152</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">473338157</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000857139</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ulluwishewa, Rohana</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">SPIRITUALITY DEMYSTIFIED : Understand Spirituality In Rational Terms</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Spirit literally means that which gives vitality to a system. If so, that which gives vitality to all biological systems - all living beings including ourselves, is spirit. It is our essence, what we really are. Spirituality is the state of being one with the spirit, or becoming who we really are. This is the purpose of our life as humans. This book, with the help of scientific evidence, shows our brain is hardwired to guide us to achieve this goal. However, the brain&apos;s neuroplasticity allows the self-centeredness which dominates our society to be soft-wired in the brain. This makes our thoughts and actions selfish and prevents us from following the hardwired brain. Nevertheless, the good news is that the same neuroplasticity allows us to dissolve the soft-wired neural circuits and to liberate ourselves from self-centeredness if we want to do so. The founders of all great religions have shown various pathways to achieve this goal, and there are many science-based non-religious pathways too. Though there are many methods and pathways, following them are our choice. This book concludes with some policy measures that could help individuals to achieve the goal&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">128 ULU</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000675021</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007431229</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7431228</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000675021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Davenport-Hines, R.P.T(Richard Peter Treadwell), 1953-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Titanic lives : migrants and millionaires, conmen and crew</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Marking the centenary of the Titanic disaster, &apos;Titanic Lives&apos; is an utterly compelling exploration of the lives of the passengers and crew on board the most famous ship in history. On the night of 14 April 1912, midway through her maiden voyage, the seemingly unsinkable Titanic hit an iceberg, sustaining a 300-feet gash as six compartments were wrenched open to the Atlantic Ocean. In little over two hours, the palatial liner nose-dived to the bottom of the sea. More than 1,500 people perished in the freezing waters. But who were they? In Titanic Lives, Richard Davenport-Hines brings to life in fascinating and absorbing detail the stories of the men who built and owned the ship, the crew who serviced her and the passengers of all classes who sailed on her. The Titanic was a floating microcosm of Edwardian society -- at the bottom of the ship was third class, filled with economic migrants and political and religious refugees hoping for a better life in the New World. Above them were hundreds of second-class passengers buoyed up by their prosperous respectability. On the upper decks were the hereditary rich and those of inconceivable wealth -- American titans of industry such as John Jacob Astor IV, who was found with $4000 in sodden notes in his pockets. In this epic, sweeping history we are introduced to this broad cast of characters, from every class and every continent, as we follow their lives on board the ship through to the supreme dramatic climax of the disaster itself. Published to coincide with the centenary of the sinking, Titanic Lives is an impeccably researched and utterly riveting history which re-creates the complexities, disparities and tensions of life one hundred years ago.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">363.123091631 DAV</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

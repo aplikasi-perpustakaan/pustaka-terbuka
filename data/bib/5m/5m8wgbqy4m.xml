@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000810030</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262028608</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262028603</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000810030</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Manzini, Ezio.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Design, When Everybody Design : An  introduction to Design for Social Innovation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Design thinking, design theory</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In a changing world, everyone designs: each individual person and each collective subject, from enterprises to institutions, from communities to cities and regions, must define and enhance a life project. Sometimes these projects generate unprecedented solutions; sometimes they converge on common goals and realize larger transformations. As Ezio Manzini describes in this book, we are witnessing a wave of social innovations as these changes unfold - an expansive open co-design process in which new solutions are suggested and new meanings are created. Manzini distinguishes between diffuse design (performed by everybody) and expert design (performed by those who have been trained as designers) and describes how they inteact. He maps what design experts can do to trigger and support meaningful social changes, focusing on emerging forms of collaboration. These range from community-supported argiculture in China to digital platforms for medical care in Canada; from interactive storytelling in India to collaborative housing in Milan. These cases illustrate how expert designers can support such collaborations - making their existence more probable, their practice easer, their diffusion and their convergence in larger projects more effective. Manzini draws the first comprehensive picture of design for social innovation: the most dynamic field of action for both expert and nonexpert designers in the coming decades. -- from dust jacket.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">745.2 MAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

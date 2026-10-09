@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000689820</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781421405568</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1421405563</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000689820</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Russo, Jean Burrell</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Planting an empire : the early Chesapeake in British North America</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Regional perspectives on early America</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Planting an Empire explores the social and economic history of the Chesapeake region, revealing a story of two similar but distinct areas of interaction and settlement during the colonial period. Linked by the Chesapeake Bay, Virginia and Maryland formed a prosperous and politically important region in North America before the American Revolution. Yet these ’sister’ colonies--despite their similar climate and soil, emphasis on tobacco farming, and use of enslaved labor--followed divergent social and economic paths. Jean B. Russo and J. Elliott Russo review the shared history of these two colonies, examining not only their unsteady origins, the role of tobacco, and the slow development of a settler society but also the economic disparities and political jealousies that divided Virginia and Maryland. Chronicling the rich history of the Chesapeake Bay region over a 150-year period, the authors discuss in clear and accessible prose the key developments common to both colonies as well as important regional events, including Maryland’s ’plundering time,’ Bacon’s Rebellion in Virginia, and the opening battles of the French and Indian War. They describe how the internal differences and regional discord of the seventeenth century gave way in the eighteenth century to a more coherent regional culture fostered by a shared commitment to slavery and increasing economic maturity. This is a study not just of wealthy plantation owners and government officials but of all the people involved in planting an empire in the Chesapeake region, including poor and middling planters, women, Native Americans, enslaved and free blacks, and non-English immigrants. No other book offers such a comprehensive history of the Maryland and Virginia colonies and their place within the emerging British Empire&quot;-- c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">975.202 RUS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

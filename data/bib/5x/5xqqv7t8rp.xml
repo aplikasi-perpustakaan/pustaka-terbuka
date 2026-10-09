@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984044</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789863777656</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">986377765X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984044</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tomabechi, Hideto, 1959-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">煩惱斷捨離 = 「頭のゴミ」を捨てれば, 脳は一瞬で目覚める | Fan nao duan she li = &quot;Atama no gomi&quot; o sutereba, nō wa isshun de mezameru</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">If you often feel like your mind is clouded and unclear, it might be because you&apos;re spending too much time worrying about &quot;mental garbage.&quot; Japanese cognitive scientist Hideto Tomabechi, known for his work on unlocking human potential, guides readers in identifying their most important goals. He then shows how to eliminate the mental clutter caused by emotions, others’ expectations, your past self, and fear of failure. By clearing away these distractions, you can gain motivation, self-affirmation, and inspiration. omabechi argues that the so-called “Ah Q-style spiritual victory method” has a scientific basis. He believes that training yourself to see “success” as your default state—and viewing “failure” as something that simply doesn’t match who you are—can give you the courage to face future challenges head-on. If you&apos;re tired of being stuck in confusion, follow the 8 mental decluttering steps in Goodbye, Worry to clear your mind and awaken the success power that’s been lying dormant within you</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.1 TOM</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

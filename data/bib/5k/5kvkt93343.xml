@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000775647</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780857832283</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">085783228X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000775647</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Rayman, Margaret</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">healthy eating to reduce the risk of dementia : 100 fantastic recipes based on extensive, in-depth research</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Dementia affects nearly 36 million people worldwide, with 7.7 million new cases every year, and has a dramatic impact on sufferers and their families. There is evidence, however, that a healthy lifestyle and diet, especially in mid-life, can help to reduce the risk of developing dementia. In this much-needed book, Margaret Rayman and her team of nutritional experts give clear and effective guidelines on how to adapt your diet and lifestyle to help protect you against this condition. In addition to general dietary advice, it includes 100 delicious and easy-to-follow recipes, all of which are based on two years of careful research. The detailed introduction summarises the team&apos;s findings and explains, in a clear and concise manner, what foods, food components and nutrients can help to protect the brain and keep it functioning to its best capacity. The introduction is followed by a tempting collection of recipes, such as Blueberry and Wheatgerm Pancakes for breakfast, Warm Chicken and Grapefruit Salad for lunch, and Baked Trout with White Wine and Fennel for dinner, with a tempting Chocolate Orange Mousse or a bright and zingy Cranberry Sorbet for dessert. The fantastic health benefits of these dishes are sure to make them a welcome addition at any stage of life.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.563 RAY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

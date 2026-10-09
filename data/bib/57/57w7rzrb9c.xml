@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746593</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007514632</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7514638</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746593</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hodgkinson, Will</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The House is Full of Yogis : the story of a childhood turned upside down</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Neville and Liz Hodgkinson bought into the Thatcherite dream of home ownership, aspiration and advancement. The first children of their working class parents to go to university and have professional careers, they lived in a semi-detached house in Richmond, sent their sons Tom and Will to private school, and went on holiday to Greece once a year. Neville was an award-winning science writer and Liz was a high-earning tabloid hack. Then a disastrous boat holiday, followed by a life-threatening bout of food poisoning from a contaminated turkey, led to the search for a new way of life. Nev joined the Brahma Kumaris, who believe evolution is a myth, time is circular, and a forthcoming Armageddon will make way for a new Golden Age. Out went drunken dinner parties and Victorian dcor schemes; in came large women in saris meditating in the living room and lurid paintings of smiling deities on the walls. Liz took the arrival of the Brahma Kumaris as a chance to wage all-out war on convention, from announcing her newfound celibacy on prime time television to writing books that questioned the value of getting married and raising children. By an unfortunate coincidence, this dramatic and highly public transformation of the self coincided with the onset of Will&apos;s adolescence. This is his story.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">780.92 HOD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000639473</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000639473</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">tha</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Ong-Bak 3</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">200X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The legend of ONG BAK 3 begins with Tien (Tony Jaa), captured and defeated. Suffering ultimate defeat in his final battle, he is brought back to life in the Kana Khone Village. Through deep meditation, Tien recovers and attains Nathayut - the ancient martial art. However, once again fate is thrust upon him as The Crow makes his deadly move and attacks the village. Tien must now put all of his skill to the test to take on not only all of the Golden-Armoured King&apos;s army at once, but also the mysterious killers in black and the evil sorcerer Crow himself. The final installment of the ONG BAK trilogy converges on a heart-stopping climax of deadly martial arts fury!</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Videorecording</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 ONG</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000813443</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000813443</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">HOT FUZZ : A NEW COMEDY FROM THE MAKERS OF &apos;SHAUN OF THE DEAD&apos;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Nicholas Angel is the finest cop London has to offer. He has an arrest record that is higher than any other officer on the force. As a result, Angel&apos;s superiors send him to a place where his talents won&apos;t be quite so obvious. They send him to the sleepy and seemingly crime-free village of Sandford. He is partnered with the well-meaning but overeager police officer Danny Butterman, who is the son of the police chief. Danny is a huge action movie fan and believes this may be his chance to experience the life of gunfights and car chases. However, as a series of grisly accidents rocks the village, Angel is convinced that Sandford is not what it seems and as the intrigue deepens, Danny&apos;s dreams of explosive, high-octane, car-chasing, gunfighting, all-out action seem more and more like a reality.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 HOT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

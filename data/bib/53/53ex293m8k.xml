@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000650594</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780748639953</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">748639950</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000650594</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Schoon, Natalie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Islamic asset management : an asset class on its own?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Edinburgh guides to Islamic finance</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book reviews the Islamic asset management industry in detail, including the types of funds offered and their operational procedures. It shows that although there are differences between conventional and Islamic asset management, these do not appear to have a significant impact on how the funds perform. Sharia&apos;a-compliant funds are therefore an attractive alternative for Muslim and non-Muslim investors alike. -- Key Features -- contains valuable information on Sharia&apos;a-compliant fund structures and the type of instruments that can be invested in -- considers practical implementation matters such as operational issues, available indices and the role of the Sharia&apos;a Supervisory Board -- includes case studies of the funds available to investors including the BLME $ Income Fund, SWIP Islamic Global equity Fund, the Saudi Al Rajhi Fund Range and the Malaysian blue chip i-VCAP-MyETF-DJIM25 -- features a glossary of abbreviations and key Arabic terms -- has relevance to investors and practitioners in the industry, and to non-Muslims interested in investing based on the same set of principles, norms and values. --Book Jacket.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.6091767</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

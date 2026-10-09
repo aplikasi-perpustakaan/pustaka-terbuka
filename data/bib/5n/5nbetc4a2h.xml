@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000647533</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470920428</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470920424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000647533</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Roberts, Dan, (Dan D.), 1963-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Unleashing the power of IT : bringing people, business, and technology together</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Timely guidance for transforming IT into a strategic business partner. Today’s leaders are expected to reduce costs, increase productivity, drive innovation and help the business identify and pursue new business opportunities. Successful IT leaders will be the ones that become strategic business partners and decision influencers in their organizations. Leading IT Transformation describes in actionable detail, the new mindset, core skill set, and interpersonal tool set that are necessary for IT leaders to thrive in today’s increasingly complex challenging business environment. Provides tangible, hard-hitting, real-world strategies, techniques and approaches that will immediately transform your IT workforce and culture Includes Top Ten lists of tips and techniques, proven frameworks and practical guidance to help you launch and sustain your IT culture change and professional development initiatives Addresses how to build a client-focused IT culture; move your organization from order takers to trusted business partners, market IT’s value, lead change with confidence, manage projects and vendor relationships A special feature of this book includes a chapter profiling several world-class organizations that have implemented the principles in this book. Learn about the culture change challenges they overcame and benefit from their best practices and successes&quot;-- c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">004.068 ROB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

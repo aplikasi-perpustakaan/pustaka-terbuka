@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000693205</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000693205</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Jangan pandang-pandang</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sinopsis : Empat pelajar kolej jurusan Sains Sosial dan Manusia; Ajis, Ben, Yaya dan Diana ditugaskan untuk membuat satu tugasan mengumpul maklumat dan data tentang artifak-artifak di Gua Bewah. Yaya baru mendapat tahu Ajis main kayu tiga dan bertekat mahu putus hubungan, namun demi menyiapkan tugasan, Yaya setuju untuk berdamai buat seketika. Tugasan berkumpulan memaksa mereka mencari ahli kumpulan ke-5, seorang pelajar jurusan sama tetapi dari luar kampus bernama Marsha, seorang gadis Gothik yang penuh misteri. Marsha kata beliau boleh membawa mereka untuk membuat kajian dan penemuan-penemuan artifak di kawasan gua yang tidak pernah dimasuki manusia moden. Tiba di jeti Tasik Kenyir, mereka bermalam di dalam sebuah rumah bot kepunyaan seorang lelaki misteri bernama Abang Bob. Bermulalah pengalaman pelik dan ganjil serta menakutkan sepanjang mereka mencari artifak di gua tersebut.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.430899923 JAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

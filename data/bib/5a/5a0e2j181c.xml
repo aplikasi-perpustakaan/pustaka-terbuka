@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000682388</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781846687778</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1846687772</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000682388</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mabanckou, Alain, 1966-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Black bazaar</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This is a riotous account of a Black dandy trying to cut it in Paris today. Buttocks Man is down on his uppers. His girlfriend, Original Colour, has cleared out of their Paris studio and run off to the Congo with a vertically challenged drummer known as The Mongrel. She&apos;s taken their daughter with her. Meanwhile, a racist neighbour spies on him something wicked, accusing him of &apos;digging a hole in the Dole&apos;. And his drinking buddies at Jips, the Afro-Cuban bar in Les Halles, pour scorn on Black Bazaar, the journal he keeps to log his sorrows. There are days when only the Arab in the corner shop has a kind word; while at night his dreams are stalked by the cannibal pygmies of Gabon. Then again, Buttocks Man wears no ordinary uppers. He has style, bags of it (suitcases of crocodile and anaconda Westons, to be precise). He&apos;s a dandy from the Bacongo district of Brazzaville - AKA a sapeur or member of the Society of Ambience-makers and People of Elegance. But is flaunting sartorial chic against tough times enough for Buttocks Man to cut it in the City of Light?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">843.92 MAB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

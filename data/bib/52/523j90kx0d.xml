@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000656487</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780521199339</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">521199336</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000656487</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wang, Faye Fangfei</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Internet jurisdiction and  choice of law : legal practises in The EU, US and China</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A comparison of the rules of internet jurisdiction, choice of law and dispute resolution in the EU, USA and China. &quot;Internet Jurisdiction and Choice of Law: Legal Practices in the EU, US and China takes a &quot;solutions to obstacles&quot; approach, examines the existing jurisdiction and choice of law rules and proposes the interpretation of those rules to the digital age. It discusses the need of the modernisation and harmonisation of private international law, compares current legislative frameworks in the EU, US, China, and suggests a series of ways to remove the obstacles of the determination of Internet jurisdiction and choice of law for cross-border electronic B2B and B2C contracts&quot;-- &quot;The adoption of electronic commercial transactions has facilitated cross-border trade and business, but the complexity of determining the place of business and other connecting factors in cyberspace has challenged existing private international law. This comparison of the rules of internet jurisdiction and choice of law as well as online dispute resolution (ODR) covers both B2B and B2C contracts in the EU, USA and China. It highlights the achievement of the Rome I Regulation in the EU, evaluates the merits of the Hague Convention on Choice of Court Agreement at the international level and gives an insight into the current developments in CIDIP. The in-depth research allows for solutions to be proposed relating to the problems of the legal uncertainty of internet conflict of law and the validity and enforceability of ODR agreements and decisions&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">343.08 WAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

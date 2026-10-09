@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000340960</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000340960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Cermin desa (Episod 8; siri 3) pembangunan 13 kampung dalam kawasan Bandar Muazam Shah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">200X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Pembangunan 13 kampung dalam kawasan Bandar Muazam Shah yang giat membangun dari segi ekonomi, kemudahan asas dan sosialyang ditadbir oleh JKKK sendiri, iaitu desa Kernji, Desa Bidara, Desa Pelangi, Desa Melor, Desa Kenanga, Desa Mawar 1 dan 2, Desa Anggerik, Desa Teratai, Desa Jati 1 dan 2, Desa Dahlia dan Desa Tanjung.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Projected Medium</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">307.7209595123 CER</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

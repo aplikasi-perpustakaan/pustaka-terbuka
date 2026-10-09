@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735022</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780385525183</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">385525184</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Baker, Peter, 1967-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">DAYS OF FIRE : BUSH AND CHENEY IN THE WHITE HOUSE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;From the senior White House correspondent for The New York Times comes the definitive history of the Bush and Cheney White House--a tour de force narrative of those dramatic and controversial eight years. Taking readers into the offices of the West Wing and the cabins of Air Force One, Peter Baker tells the gripping inside story of the Bush and Cheney era. Theirs was the most fascinating American partnership since Nixon and Kissinger, an untested president and his seasoned vice president confronted by one crisis after another as they struggled to protect the country, remake the world, and define their own relationship along the way. Packed with revealing anecdotes and told with in-the-room immediacy, Days of Fire narrates two profoundly significant and conflicted terms marked by 9/11, Iraq, Katrina, jihad, nuclear proliferation, genocide, and economic collapse. George W. Bush was one of the most polarizing presidents of our time, jettisoning decades of foreign policy pragmatism to redefine America&apos;s mission as a crusade to bring freedom to the world. Yet his early dream of transforming Republicans into the party of &quot;compassionate conservatism&quot; and building an &quot;ownership society&quot; were dashed by two consuming wars and a devastating financial crash. At his side was Dick Cheney, the trusted adviser who became the most influential vice president in history only to watch as Bush drifted away, leaving the two at odds over a wide array of fundamental issues. Baker&apos;s interviews with more than two hundred players--White House aides, cabinet secretaries, generals, senators and congressmen, relatives and friends of both men--help reveal the truth of their complicated and shifting relationship. Days of Fire is the first book to capture in a truly defining way all eight years of the most consequential presidency in a generation. It is an essential history and thrilling reading&quot;-- Provided by publisher</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">973.931092 BAK</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
