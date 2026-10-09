@@ -10,6 +10,7 @@ param (
     [switch]$SkipHarvest,
     [switch]$SkipPublish,
     [switch]$SkipTests,
+    [switch]$SkipBuild,
     [switch]$Force,
     [string]$Message = "Automated publish"
 )
@@ -119,8 +120,12 @@ foreach ($Source in $Sources) {
 Write-Log "Validating holdings..."
 Invoke-GateCommand "npm run validate-holdings"
 
-Write-Log "Building catalog..."
-Invoke-GateCommand "npm run build"
+if (-not $SkipBuild) {
+    Write-Log "Building catalog..."
+    Invoke-GateCommand "npm run build"
+} else {
+    Write-Log "Skipping catalog build (-SkipBuild)."
+}
 
 # Step 8: Tests
 if ($SkipTests -or $env:IN_TEST -eq "1") {

@@ -27,7 +27,23 @@ export function saveManifest(filePath, manifest) {
     fs.mkdirSync(dir, { recursive: true });
   }
   
-  fs.writeFileSync(filePath, JSON.stringify(sortedManifest, null, 2) + '\n', 'utf8');
+  const content = JSON.stringify(sortedManifest, null, 2) + '\n';
+  let saved = false;
+  let lastErr;
+  for (let attempt = 0; attempt < 5; attempt++) {
+    try {
+      fs.writeFileSync(filePath, content, 'utf8');
+      saved = true;
+      break;
+    } catch (err) {
+      lastErr = err;
+      const start = Date.now();
+      while (Date.now() - start < 150) {}
+    }
+  }
+  if (!saved && lastErr) {
+    throw lastErr;
+  }
 }
 
 export function hasChanged(manifest, recordId, hash) {
