@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984980</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9786267089194</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">6267089193</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984980</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kim, Yoo-jin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">其實你可以再賣貴一點 : 打破CP值迷思, 放大商品獨特價值, 讓顧客乖乖掏錢買單 = 당신의 가격은 틀렸습니다 : 최고의 이윤을 남기는 가격의 비밀 | Qi shi ni ke yi zai mai gui yi dian : da po CP zhi mi si, fang da shang pin du te jia zhi, rang gu ke guai guai tao qian mai dan = 당신의 가격은 틀렸습니다 : 최고의 이윤을 남기는 가격의 비밀</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">一版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Shi yong zhi shi ; 80</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The author systematically and logically offers pricing advice for products and services, using simple charts and formulas to make the content easy to understand. Readers can grasp the author&apos;s concepts effortlessly, making this a highly practical guide to pricing strategies. Each chapter includes real-world examples that not only help readers fully understand the logic being presented but also provide opportunities to apply the concepts through hands-on practice. This book is ideal for those who are confused about pricing strategies or want to better position and brand their products or services—it offers valuable insights into setting the right price</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.816 KIM</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

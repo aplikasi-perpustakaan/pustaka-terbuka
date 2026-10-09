@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000745357</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781137278913</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1137278919</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000745357</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Neal, Catherine S.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">TAKING DOWN THE LION : THE TRIUMPHANT RISE AND TRAGIC FALL OF TYCO&apos;S DENNIS KOZLOWSKI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Taking Down the Lion is a compelling inside look at the controversial CEO best known for his $6,000 shower curtain--who when at the pinnacle of success was taken down in a very public legal drama that played out twice in a New York City courtroom. As the widely-admired CEO of Tyco International, Dennis Kozlowski grew a little-known New Hampshire conglomerate into a global giant. In a stunning series of events, Kozlowski suddenly lost his job along with his favored public status when he was indicted by legendary Manhattan DA Robert Morgenthau--it was an inglorious end to an otherwise brilliant career. Kozlowski was the face of corporate excess in the turbulent post-Enron environment; he was pictured under headlines that read &quot;Oink Oink,&quot; and publicly castigated for his extravagant lifestyle. &quot;Deal-a-Day Dennis&quot; was transformed into the &quot;poster child for corporate greed.&quot; Kozlowski was ultimately convicted of grand larceny and other crimes that, in sum, found the former CEO guilty of wrongfully taking $100 million from Tyco. Taking Down the Lion shines a bright light on former CEO Dennis Kozlowski and the Tyco corporate scandal--it is the definitive telling of a largely misunderstood episode in U.S. business history. In an unfiltered view of corporate America, Catherine Neal pulls back the curtain to reveal a world of big business, ambition, money, and an epidemic of questionable ethics that infected not only business dealings but extended to attorneys, journalists, politicians, and the criminal justice system. When the ugly truth is told, it&apos;s clear the &quot;good guys&quot; were not all good and the &quot;bad guys&quot; not all bad. And there were absolutely no heroes. &quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.7681092 NEA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

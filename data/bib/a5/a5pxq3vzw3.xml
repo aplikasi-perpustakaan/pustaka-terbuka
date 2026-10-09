@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876682</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781785605666</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1785605666</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0895-9935 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09388068</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876682</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Enabling gender equality future generations of the global world</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Research in political sociology ; v. 23.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">To challenge gender discrimination and to secure the world&apos;s prosperity and peace, we urgently need pro-girls and pro-women policies in the contemporary, globally developing world. Such policies could mark an era of building greater gender equality across the world by sheltering domains of women&apos;s well-being that are shown to decline. These needs can be best summarized by Kofi Annan, Secretary General of the United Nations in 2005: &quot;When women are fully involved, the benefits can be seen immediately: families are healthier, they are better fed, their income, savings and reinvestment go up. And what is true for families is true of communities and, eventually, of whole countries.&quot; The desperately needed gender equality would honor women&apos;s place in the world, would greatly honor each country&apos;s political constituencies and enrich democratic institutions. This volume of Research in Political Sociology addresses a broad range of gender equality issues from women&apos;s status and opportunities at work, education, health, political participation, community involvement and global migration; from a vast domain of countries in Europe, America, Australia, Asia and Africa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">305.42</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/0895-9935/23</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

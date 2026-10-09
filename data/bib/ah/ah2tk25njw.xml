@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000986238</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9787573500977</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7573500971</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000986238</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Higashino, Keigo, 1958-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">透明的螺旋 | Tou ming de luo xuan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">第1版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Xin jing dian wen ku ; 1534</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A man&apos;s body is found drifting off the coast of Chiba. The deceased, Ryota Kamitsuji, had been reported missing just days earlier by his live-in girlfriend, Sonoka Shimauchi. Strangely, Sonoka herself disappeared shortly after filing the report. The only clue? A mysterious children&apos;s book author who had been seen with her—Asahina Nana.Kamitsuji was notoriously abusive. Known for frequent conflicts at work and violent behavior toward Sonoka, his reputation was common knowledge—yet no one dared intervene. Wanting to escape such a terrifying partner seems entirely justifiable. But if Kamitsuji is dead, why is Sonoka still on the run?As the police investigation stalls, a surprising discovery is made in one of Asahina Nana’s picture books: the familiar name of physicist Yukawa Manabu. Brilliant, logical, and notoriously difficult, how could this scientist be linked to a children&apos;s book? Detective Kusanagi’s instincts tell him that even those we think we know best may have hidden sides. Perhaps Yukawa’s unexpected involvement is a thread—delicate as a spider’s silk, nearly invisible, yet strong enough to unravel a vast and unthinkable truth. Ultimately, what is the true nature of human connection? Sometimes, it feels like a dream—fragile yet unbreakably resilient. Sometimes, it’s a distant memory—faint and elusive, seemingly non-existent until someone dares to call it by name. In this intricate weave of fate and chance, of loneliness that cannot be escaped and goodbyes that cannot be avoided, is there ever a day when regret no longer lingers?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">813.6 HIG</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

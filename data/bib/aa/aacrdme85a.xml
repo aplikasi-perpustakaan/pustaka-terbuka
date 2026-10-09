@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000782821</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780691166261</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">691166269</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000782821</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Shiller, Robert J.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Irrational Exuberance</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">REVISED AND EXPANDED THIRD EDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In this revised, updated, and expanded edition of his New York Times bestseller, Nobel Prize-winning economist Robert Shiller, who warned of both the tech and housing bubbles, now cautions that signs of irrational exuberance among investors have only increased since the 2008-9 financial crisis. With high stock and bond prices in the United States, and rising housing prices in many countries, the post-subprime boom may well turn out to be another illustration of Shiller&apos;s influential argument that psychologically driven volatility is an inherent characteristic of all asset markets. In other words, Irrational Exuberance is as relevant as ever. But Irrational Exuberance is about something far more important than the current situation in any given market because the book explains the forces that move all markets up and down. It shows how investor euphoria can drive asset prices up to dizzying and unsustainable heights, and how, at other times, investor discouragement can push prices down to very low levels. Previous editions covered the stock and housing markets--and famously predicted their crashes. This new edition expands its coverage to include the bond market, so that the book now addresses all of the major investment markets. This edition also includes updated data throughout, as well as Shiller&apos;s 2013 Nobel Prize lecture, which puts the book in broader context. In addition to diagnosing the causes of asset bubbles, Irrational Exuberance recommends urgent policy changes to lessen their likelihood and severity--and suggests ways that individuals can decrease their risk before the next bubble bursts. No one whose future depends on a retirement account, a house, or other investments can afford not to read it&quot;--Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.632220973 SHI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

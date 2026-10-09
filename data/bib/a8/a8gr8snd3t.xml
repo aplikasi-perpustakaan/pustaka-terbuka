@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000815839</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000815839</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">大英雄小男人 | Da ying xiong xiao nan ren = PETALING STREET WARRIORS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Year 1908. See and Zhuang run a Hokkien mee stall in Petaling Street, Kuala Lumpur, and they always face extortion from the colonial police and the Chinese gangs. One day, See finds a Chinese seal in her pillow and gambles it away. To impress Zhung, See recruits his neighbors to form the Self-Strengthening Society to protect themselves from the gangs. In the hilarious process, See befriends a mysterious, beautiful kungfu expert who believes that he is a descendent of the missing Jian Wen Emperor of the Ming Dynasty. Meanwhile, Zhung and Tan Kun start to reveal their superb kungfu skills. Soon, skilled fighters from Japan and the Qing government start to converge in Kuala Lumpur and pursue See for a treasure map that he doesn’t know he has. Can See find out what has really happened and finally reconcile with his wife?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43089951 PET</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

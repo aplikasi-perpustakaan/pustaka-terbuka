@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000750460</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781578264926</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1578264928</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000750460</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Fry, Stephanie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE IVF JOURNAL : The Solution for Managing Practitioners, Tests, Medications, Procedures, Tests, Meditations, Appointments, Procedures, Finances, and the Emotional Aspects of Your Journey</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The IVF (In Vitro Fertilization) Journal is your personalized guide to surviving and thriving during your In Vitro Fertilization cycle. The author, a former In Vitro Fertilization patient, guides you before, during, and after your cycle so you can stay informed, reduce stress, and have a more positive cycling experience no matter what the outcome. With calendars, charts, logs, and worksheets, The IVF Journal is designed to be customized to your specific situation, and offers tools for every stage of your journey. Whether you are just starting your first IVF cycle or have already undergone multiple cycles, each beautifully designed section has detailed instructions and helpful hints on how to navigate every aspect of cycling. The IVF Journal will help you prepare emotionally, physically, financially, and logistically. In addition, it will help you track responses, results, and progress while organizing and storing all your cycle details in one place. The IVF Journal allows you to: - Easily log, find, and review often changing information, such as contact details, medication information, hormone levels, testing and procedural instructions, and results - Prepare for treatment and reduce stress by developing coping tools and creating a support network - Avoid confusion and keep track of important insurance and financial information - Understand the basics of In Vitro Fertilization treatment - Track and compare multiple cycles side by side Stop questioning everything and begin to have an educated, informed dialogue with your providers and loved ones. Save time, money, and headaches with The IVF Journal: the complete, all-in-one tool to help make the most of your In Vitro Fertilization experience&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">618.178 FRY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

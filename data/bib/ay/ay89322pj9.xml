@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000985024</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9786267129753</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">6267129756</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000985024</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mauboussin, Michael J., 1964-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">泛蠢 : 偵測99%聰明人都會遇到的思考盲區, 哥倫比亞商學院的高效決斷訓練 | Fan chun : zhen ce 99% cong ming ren dou hui yu dao de si kao mang qu, Gelunbiya shang xue yuan de gao xiao jue duan xun lian</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In this book, Michael Mauboussin draws on his experience in the investment industry, combined with insights from psychology and science, to analyze the key reasons behind poor decision-making. He identifies the flaws in our thinking habits and offers a practical, three-step approach to help readers avoid making “foolish” mistakes. Being wrong isn’t the problem—the real danger lies in believing you can’t be wrong. If you don’t want your intelligence to backfire, it’s time to examine your mental blind spots and learn to “think again” before making important decisions. Let Columbia Business School’s “Professor of the Year,” Michael Mauboussin, guide you through a practical framework for training high-quality decision-making—so you can avoid costly errors and make smarter choices in life and work</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4/03 MAU</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

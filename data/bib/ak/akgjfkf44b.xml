@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842801</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781501136368</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1501136364</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842801</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Clarke, Maxine Beneba.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">FOREIGN SOIL AND OTHER STORIES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First 37 Ink/​Atria Books hardcover edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">From a new voice in international fiction, a prize-winning collection of stories that cross the world--Africa, London, the West Indies, Australia--and express the global experience &quot;with exquisite sensitivity&quot; (Dave Eggers, author of The Circle ). In this collection of award-winning stories, Maxine Beneba Clarke gives voice to the disenfranchised, the lost, and the mistreated. Her stories will challenge you, move you, and change the way you view this complex world we inhabit. Within these pages, a desperate asylum seeker is pacing the hallways of Sydney&apos;s notorious Villawood detention centre; a seven-year-old Sudanese boy has found solace in a patchwork bike; an enraged black militant is on the war-path through the rebel squats of 1960s Brixton; a Mississippi housewife decides to make the ultimate sacrifice to save her son from small-town ignorance; a young woman leaves rural Jamaica in search of her destiny; and a Sydney schoolgirl loses her way. In the bestselling tradition of novelists such as Chimamanda Ngozi Adichie and Marlon James, this urgent, poetic, and essential work announces the arrival of a fresh and talented voice in international fiction</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">CLA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

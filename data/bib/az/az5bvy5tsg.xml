@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000827819</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000827819</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">DOCTOR WHO : THE COMPLETE SPECIALS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Disc 1: The Next Doctor. Christmas 1851, and Cybermen stalk Victorian London. The Tenth Doctor discovers a spate of mysterious deaths, and he&apos;s surprised to meet another Doctor! Are two doctors enough to stop the rise of the CyberKing?. Disc 2 : Planet of The Dead. When a London bus takes a detour to an alien world, the Doctor must join forces with the extraordinary Lady Christina. But the mysterious planet holds terrifying secrets hidden in the sand. Disc 3: The Waters of Mars. Mars, 2059. Dowie Base One. Last Recorded message. &quot; Don&apos;t drink the water. Not one drop&quot;. &apos;The water of Mars&apos; ws first broadcast 5 years ago today...</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4572 DOC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

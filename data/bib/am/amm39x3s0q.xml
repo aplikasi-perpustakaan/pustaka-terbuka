@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000733175</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062009791</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62009796</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000733175</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Varvatos, John</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">JOHN VARVATOS : ROCK IN FASHION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In John Varvatos, the legendary designer reveals his perspective on how rock &amp; roll music and style have influenced his own designs and fashion worldwide. Varvatos&apos;s personally curated collection of more than 250 images are some of the most provocative ever shot by top rock photographers from the late 1960s to today, from the Rolling Stones to the Kings of Leon. The featured photographers are among the world&apos;s finest, including Mick Rock, Bob Gruen, Elliott Landy, Danny Clinch, Lynn Goldsmith, and more. Also included are select images from Varvatos&apos;s own advertising campaigns, featuring artists such as Slash, Iggy Pop, Scott Weiland, and Miles Kane. Varvatos&apos;s captions and incisive commentary on the artist and his or her look accompany each image. Every chapter also contains numerous quotes from the musicians themselves, including Mick Jagger, Keith Richards, Iggy Pop, Jack White, Pete Townshend, Robert Plant, Steven Tyler, and Patti Smith. An extraordinary anthology of some of the finest images in rock &amp; roll and the most influential rock looks in fashion and popular culture, this volume will delete music lovers, and fans of music photography, fashion, and fashion history.&quot;-- Provided by publisher</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">746.92092 VAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

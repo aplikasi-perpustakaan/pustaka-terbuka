@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000875971</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781784417796</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1784417793</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">1571-0386 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09358077</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000875971</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Monetary policy in the context of the financial crisis new challenges and lessons</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">International symposia in economic theory and econometrics ; v. 24.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">ISETE 24 analyses monetary policies and central bank actions in the context of the recent global financial crisis. Part 1 discusses standard monetary policies and inflation targeting rules. Those approaches were appropriate to reaching two main objectives during the great moderation: controlling inflation and accommodating economic growth.  But the end of the great moderation revealed the inadequacy of such monetary policies during the rapid development of financial and credit markets. Speculative bubbles, revealing financial instabilities, resulted in a credit crunch, a global financial crisis, and economic depression for major economies. Part II focuses on the non-conventional monetary policies introduced recently by several central banks. New monetary rules and variations in these rules are documented. Besides the well-known targets of monetary policy (inflation, unemployment, and economic growth), these new rules often target asset prices to moderate the development of financial markets and the volatility of financial cycles. ISETE 24 also investigates the effects of non-conventional monetary policies on developing and emerging economies and issues of alternative finance</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.46</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/1571-0386/24</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770976</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262019545</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">026201954X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770976</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bix, Amy Sue</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">GIRLS COMING TO TECH! : A HISTORY OF AMERICAN ENGINEERING EDUCATION FOR WOMEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Engineering studies series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In Girls Coming to Tech!, Amy Bix tells the story of how women gained entrance to the traditionally male field of engineering in American higher education. As Bix explains, a few women breached the gender-reinforced boundaries of engineering education before World War II. During World War II, government, employers, and colleges actively recruited women to train as engineering aides, channeling them directly into defense work. These wartime training programs set the stage for more engineering schools to open their doors to women. Bix offers three detailed case studies of postwar engineering coeducation. Georgia Tech admitted women in 1952 to avoid a court case, over objections by traditionalists. In 1968, Caltech male students argued that nerds needed a civilizing female presence. At MIT, which had admitted women since the 1870s but treated them as a minor afterthought, feminist-era activists pushed the school to welcome more women and take their talent seriously. In the 1950s, women made up less than one percent of students in American engineering programs; in 2010 and 2011, women earned 18.4% of bachelor&apos;s degrees, 22.6% of master&apos;s degrees, and 21.8% of doctorates in engineering. Bix&apos;s account shows why these gains were hard won.&quot; -- Publisher&apos;s description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">620.0071073 BIX</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

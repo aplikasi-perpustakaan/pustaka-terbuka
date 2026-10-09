@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000722418</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781846147661</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1846147662</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000722418</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Galeano, Eduardo, 1940-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">CHILDREN OF THE DAYS : A Calender of Human History</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Galeano&apos;s new book is his richest and most poetic yet, a joyous calendar of the sacred and the damned, a book of inspiration for those fighting tyranny, greed, and amnesia Unfurling like a medieval book of days, each page of Galeano&apos;s new work has an illuminating story that takes inspiration from that day of the calendar year. Each entry resurrects the heroes and heroines who have fallen off the historical map, but whose lives remind us of our darkest hours and sweetest victories. Among many others, you will discover the Brazilians who held a &quot;smooch in&quot; to protest a dictatorship that banned kisses that &quot;undermined public morals&quot; and learn of the day Mexico invaded the United States, the &quot;sacrilegious&quot; women who had the effrontery to marry each other in a church in 1901, and Abdul Kassem Ismael, the grand vizier of Persia, who kept books safe from war by creating a walking library, 117,000 books aboard four hundred camels, forming a mile-long caravan. Beautifully translated by Galeano&apos;s longtime collaborator, Mark Fried, Children of the Days is a great humanist treasure that shows us how to live and how to remember. It awakens the best in us</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">902.02 GAL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

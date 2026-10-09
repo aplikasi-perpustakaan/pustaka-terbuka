@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000879700</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787144910</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787144917</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">1548-6435 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787144910</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000879700</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Qualitative consumer research</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Review of marketing research, v. 14</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In spite of, and because of, the attention recently paid to big data and the huge amount quantitative data available from online and point of sale transactions, qualitative and conceptual research is in greater demand than ever.  Rather than the correlational and superficial view provided from the overflow of numerical data, qualitative and conceptual data help to make sense of what is really going on among consumers. Numerical approaches are a useful first cut at detecting changes in market patterns, but they fail to help understand the underlying and deeper meanings of these data among individual consumers, families, and consumption communities.  By gathering data from observation (first hand and automated), depth interviews, projective measures, netnography, videography, qualitative marketing and consumer research help put flesh on the bones of often sterile quantitative data.  This volume provides a good illustration of the sorts of insights that qualitative and conceptual analysis can provide.  Using some of the latest qualitative research tools, this volume highlights insights about consumption ranging from how consumers process advertising messages, how skiers consume a ski resort, and how small retailers can combat the practice of showrooming by consumers comparing online prices with mobile devices to the nature of consumer presence, rethinking the meanings of prices, and buying counterfeit luxuries with friends.  These and other practices provide eye-opening insights of their own.  But they also spark the imagination by demonstrating what qualitative research can do and why it is an increasingly popular set of techniques.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.8342</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/S1548-6435201714</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

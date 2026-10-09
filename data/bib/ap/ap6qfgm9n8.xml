@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000834287</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780316393249</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">031639324X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn953707568</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000834287</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Madsbjerg, Christian</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Sensemaking : The Power of the Humanities in the Age of the Algorithm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Based on his work at companies like Ford, Christian Madsbjerg&apos;s SENSEMAKING is a provocative stand against the tyranny of big data and scientism, an impassioned defense of a liberal arts education, and a blueprint for how companies and leaders can use human intelligence to solve problems. Humans have become subservient to algorithms. Every day brings a new Moneyball fix--a math whiz who will crack open an industry with clean fact-based analysis rather than human intuition and experience. As a result, we have stopped thinking. Machines do it for us. Christian Madsbjerg argues that our fixation with data often masks stunning deficiencies, and the risks for humankind are enormous. Blind devotion to number crunching imperils our businesses, our educations, our governments, and our life savings. Too many companies have lost touch with the humanity of their customers, while marginalizing workers with liberal arts-based skills. Contrary to popular thinking, Madsbjerg shows how many of today&apos;s biggest success stories stem not from &quot;quant&quot; thinking but from deep, nuanced engagement with culture, language, and history. He calls his method sensemaking. In this landmark book, Madsbjerg lays out five principles for how business leaders, entrepreneurs, and individuals can use it to solve their thorniest problems. He profiles companies using sensemaking to connect with new customers, and takes readers inside the work process of sensemaking &quot;connoisseurs&quot; like investor George Soros, architect Bjarke Ingels, and others. Both practical and philosophical, Sensemaking is a powerful rejoinder to corporate groupthink and an indispensable resource for leaders and innovators who want to stand out from the pack&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.001 MAD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
