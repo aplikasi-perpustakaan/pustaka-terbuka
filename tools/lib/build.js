@@ -157,11 +157,28 @@ export async function buildSite(options) {
     const subjects = record.dataFields?.filter(f => f.tag === '650').map(f => getSubfield(f, 'a')).filter(Boolean) || [];
     const isbns = record.dataFields?.filter(f => f.tag === '020').map(f => getSubfield(f, 'a').split(' ')[0]).filter(Boolean) || [];
     
-    const lccField = record.dataFields?.find(f => f.tag === '050');
-    const lcc = lccField ? getSubfield(lccField, 'a') + ' ' + getSubfield(lccField, 'b') : '';
+    const lccField = record.dataFields?.find(f => f.tag === '050' || f.tag === '090');
+    let lcc = lccField ? (getSubfield(lccField, 'a') + ' ' + getSubfield(lccField, 'b')).trim() : '';
     
-    const ddcField = record.dataFields?.find(f => f.tag === '082');
-    const ddc = ddcField ? getSubfield(ddcField, 'a') : '';
+    const ddcField = record.dataFields?.find(f => f.tag === '082' || f.tag === '092');
+    let ddc = ddcField ? getSubfield(ddcField, 'a').trim() : '';
+
+    const f852 = record.dataFields?.find(f => f.tag === '852');
+    const callNum852 = f852 ? getSubfield(f852, 'h').trim() : '';
+
+    if (!ddc && callNum852) {
+      const parsedDDC = callnumber.parseDDC(callNum852);
+      if (parsedDDC && parsedDDC.classNumber) {
+        ddc = parsedDDC.classNumber;
+      }
+    }
+
+    if (!lcc && !ddc && callNum852) {
+      const parsedLCC = callnumber.parseLCC(callNum852);
+      if (parsedLCC && parsedLCC.scheme === 'LCC') {
+        lcc = parsedLCC.fullCallNumber;
+      }
+    }
     
     let lang = 'en';
     const f008 = record.controlFields?.find(f => f.tag === '008')?.value;
@@ -178,7 +195,7 @@ export async function buildSite(options) {
     const orgCodes = [...new Set(holdings.map(h => h.org))];
     
     // Pagefind index
-    let searchableText = [title, author, publisher, ...subjects, ...isbns, lcc, ddc].join(' ');
+    let searchableText = [title, author, publisher, ...subjects, ...isbns, lcc, ddc, callNum852].filter(Boolean).join(' ');
     
     const schemes = [];
     if (lcc) schemes.push('LCC');
@@ -257,6 +274,7 @@ h1 { font-size: 2rem; margin-bottom: 0.5rem; }
   <p><strong>Subjects:</strong> ${escapeHTML(subjects.join(', '))}</p>
   <p><strong>LCC:</strong> ${escapeHTML(lcc)}</p>
   <p><strong>DDC:</strong> ${escapeHTML(ddc)}</p>
+  ${callNum852 ? `<p><strong>Call Number:</strong> ${escapeHTML(callNum852)}</p>` : ''}
 </div>
 <div class="holdings">
   <h2>Held By</h2>
