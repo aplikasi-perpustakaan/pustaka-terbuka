@@ -28,7 +28,8 @@ export function validateHoldings(holdingsDir, orgsFile, aliasFile) {
     report.errors.push(`orgs.json not found: ${orgsFile}`);
   }
 
-  const aliasMap = fs.existsSync(aliasFile) ? loadAliases(aliasFile) : new Map();
+  const hasAliases = fs.existsSync(aliasFile) || fs.existsSync(aliasFile + '.gz');
+  const aliasMap = hasAliases ? loadAliases(aliasFile) : new Map();
 
   const files = fs.readdirSync(holdingsDir).filter(f => f.endsWith('.csv'));
   for (const file of files) {

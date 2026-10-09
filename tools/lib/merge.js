@@ -116,7 +116,8 @@ export async function mergeInbox(inboxPath, options = {}) {
     fs.mkdirSync(bibDir, { recursive: true });
   }
 
-  if (fs.existsSync(bibDir) && fs.existsSync(aliasesPath)) {
+  const hasAliases = fs.existsSync(aliasesPath) || fs.existsSync(aliasesPath + '.gz');
+  if (fs.existsSync(bibDir) && hasAliases) {
     const val = validateAliasTable(aliasesPath);
     if (!val.valid) {
       throw new Error(`Corrupt alias table: ${val.error}`);
@@ -125,7 +126,7 @@ export async function mergeInbox(inboxPath, options = {}) {
     const stat = fs.statSync(path.join(bibDir, f));
     return stat.isDirectory() && f.length === 2; // Check for shards
   })) {
-    if (!fs.existsSync(aliasesPath)) {
+    if (!hasAliases) {
       throw new Error("Alias table missing but bib records exist.");
     }
   }
@@ -142,7 +143,13 @@ export async function mergeInbox(inboxPath, options = {}) {
   const recordsDir = path.join(inboxPath, 'records');
   const files = fs.existsSync(recordsDir) ? fs.readdirSync(recordsDir).filter(f => f.endsWith('.xml')) : [];
 
+  let fileIndex = 0;
+  const totalFiles = files.length;
   for (const file of files) {
+    fileIndex++;
+    if (fileIndex % 500 === 0 || fileIndex === totalFiles) {
+      console.log(`[MERGE PROGRESS] ${fileIndex}/${totalFiles} files (${((fileIndex / totalFiles) * 100).toFixed(1)}%) - new: ${report.new}, unchanged: ${report.unchanged}, merged: ${report.mergedIntoExisting}, ambiguous: ${report.ambiguous}`);
+    }
     const filePath = path.join(recordsDir, file);
     try {
       const xmlStr = fs.readFileSync(filePath, 'utf8');
@@ -283,6 +290,12 @@ export async function mergeInbox(inboxPath, options = {}) {
     } catch (err) {
       console.error(`Error processing ${file}:`, err);
       report.errors++;
+    }
+
+    if (!dryRun && fileIndex % 2000 === 0) {
+      saveAliases(aliasesPath, aliasMap);
+      saveManifest(manifestPath, manifest);
+      console.log(`[CHECKPOINT] Checkpointed aliases and manifest at file ${fileIndex}/${totalFiles}`);
     }
   }
 

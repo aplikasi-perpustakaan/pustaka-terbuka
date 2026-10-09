@@ -1,11 +1,25 @@
 import fs from 'fs';
 import path from 'path';
+import zlib from 'zlib';
+
+function readAliasContent(filePath) {
+  if (filePath.endsWith('.gz') && fs.existsSync(filePath)) {
+    return zlib.gunzipSync(fs.readFileSync(filePath)).toString('utf8');
+  }
+  if (fs.existsSync(filePath)) {
+    return fs.readFileSync(filePath, 'utf8');
+  }
+  if (fs.existsSync(filePath + '.gz')) {
+    return zlib.gunzipSync(fs.readFileSync(filePath + '.gz')).toString('utf8');
+  }
+  return null;
+}
 
 export function loadAliases(filePath) {
   const aliasMap = new Map();
-  if (!fs.existsSync(filePath)) return aliasMap;
+  const content = readAliasContent(filePath);
+  if (!content) return aliasMap;
   
-  const content = fs.readFileSync(filePath, 'utf8');
   const lines = content.split('\n');
   for (const line of lines) {
     if (!line.trim()) continue;
@@ -42,10 +56,18 @@ export function saveAliases(filePath, aliasMap) {
   
   // Always end with a newline
   const contentToWrite = lines + (lines.length > 0 ? '\n' : '');
+  const byteLen = Buffer.byteLength(contentToWrite, 'utf8');
+  const useGz = filePath.endsWith('.gz') || byteLen > 90 * 1024 * 1024;
+  const targetPath = useGz ? (filePath.endsWith('.gz') ? filePath : filePath + '.gz') : filePath;
+  const dataToWrite = useGz ? zlib.gzipSync(Buffer.from(contentToWrite, 'utf8')) : contentToWrite;
+
   let retries = 5;
   while (retries > 0) {
     try {
-      fs.writeFileSync(filePath, contentToWrite, 'utf8');
+      fs.writeFileSync(targetPath, dataToWrite);
+      if (useGz && !filePath.endsWith('.gz') && fs.existsSync(filePath)) {
+        try { fs.unlinkSync(filePath); } catch {}
+      }
       break;
     } catch (err) {
       retries--;
@@ -104,11 +126,11 @@ export function resolveId(aliasMap, id) {
 }
 
 export function validateAliasTable(filePath) {
-  if (!fs.existsSync(filePath)) {
+  const content = readAliasContent(filePath);
+  if (!content) {
     return { valid: false, error: 'File does not exist' };
   }
   
-  const content = fs.readFileSync(filePath, 'utf8');
   const lines = content.split('\n');
   const aliasMap = new Map();
   
