@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000818737</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000818737</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Yi lu you ni = The Journey</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Uncle Chuan is an old-fashioned and conservative man staying alone in Cameron Highlands leading a lonely retired life. His only hope is to reunite with his only daughter Ah Bee who will be returning from overseas after graduation and stay together as a traditional family. Finally Ah Bee came back after graduation but she brought back her foreign boyfriend Benji with her and they planned to get married. Uncle Chuan vigorously opposed to the 	marriage due to Ben’s frivolous behaviour but he failed to change his daughter’s mind. At the end, Uncle Chuan agreed to their marriage reluctantly, with a condition to be fulfilled- their wedding ceremony must be a Chinese ceremony. According to the Chinese culture, son-in-law Benji is obliged to deliver the wedding invitations together with the father-in-law. To realise a promise of young age, Uncle Chuan decided to invite all his 11 ex-primary classmates that are now located all over Malaysia to attend the daughter’s wedding. He has planned a route map to visit all these ex-classmates in order to hand them the invitation card in person. Benji has agreed to the task but insisted to travel in his motorcycle. Without much choice, the journey of a long distance road trip by Uncle Chuan accompanied by Benji kick started unwillingly</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43089951 YI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

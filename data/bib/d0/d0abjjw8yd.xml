@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000673936</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780099550693</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">99550695</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000673936</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lewis, Susan, 1956-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">No turning back</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Sixteen years ago Eva Montgomery had everything going for her, but her life changed forever when she fell in love with the wrong man. Shortly afterwards she was viciously attacked by a stalker, left disfigured, and forced to give up what was most precious to her for the chance of a new life for them both. Now, Eva has managed to rebuild her life in a way that seemed impossible after the attack. Her home in Dorset, high on the cliffs overlooking the sea, is as elegant as Eva herself, but bears none of the scars. The love she shares with her husband, Don, has become the very mainstay of her existence. Her beloved sister, Patty, lives nearby. To an outsider, Eva’s world seems perfect in every way. However, behind the facade there is more tragedy and deceit than even she is aware of. When the past starts to invade the present, the greatest betrayal of all shatters Eva’s world, over and over. Hurt, frightened, and confused, Eva wonders if she’ll ever be able to break free from a past that nearly destroyed her--and is threatening to do so again.&quot;--from publisher’s description</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">823.914</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

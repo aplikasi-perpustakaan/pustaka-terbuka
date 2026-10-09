@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833970</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781501139390</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1501139398</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn950955409</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833970</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Arnold, Jennifer, 1974-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THINK BIG : Overcoming Obstacles with Optimism</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Bestselling authors and stars of TLC&apos;s The Little Couple return with an inspirational book that encourages readers to reach for their dreams, no matter what obstacles they may face. Jennifer Arnold and Bill Klein have faced some big challenges in their lives. On the way to becoming a preeminent neonatologist and a successful entrepreneur--as well as parents and television stars--these two have faced prejudice, medical scares, and the uncertainty of life with special needs children. And even though they have dealt with fear, depression, hopelessness, and the urge to give up, they have found a way to persevere. Now they share their wisdom and encouragement for everyone who is facing their own challenges. Drawn from their most popular speaking presentation, Think Big is the inspirational guide for dreaming big, setting goals, and the steps you need to take to get there. Each section includes heartwarming anecdotes full of grace, humor, and wit plus a never-before-seen look inside their personal and professional lives. They have plenty of stories to tell and their unique approach to encountering life&apos;s greatest difficulties will inspire a call to action in all of us&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.45028092 ARN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

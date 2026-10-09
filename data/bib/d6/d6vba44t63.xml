@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000690074</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781609619084</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1609619080</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000690074</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sadick, Neil S.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The new natural : your ultimate guide to scalpel-free age reversal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Obvious face-lifts and Botox overload are no longer in vogue, but a new generation of fillers, laser treatments, and topical preparations are keeping millions looking younger--and more natural--for decades longer. Prominent dermatologist and cosmetic surgeon Dr. Neil Sadick explains how every woman, at any age, can have beautiful, healthy skin without a scalpel or surgery. Starting off with the basics of skin care we all need in our early adult, damage-prevention years, Sadick cites the most efficacious cosmetic products and discusses the best practices for preserving a glowing, youthful appearance. For older readers looking to maintain healthy skin and reverse damage, he explains the various nonsurgical options available: from the modern day miracle of cell therapy to cosmeceuticals, fillers, and treatments for cellulite and hair loss. Throughout he mentions brand-name products at every price point and treatments for every budget. User-friendly and backed by the latest science and technology, The New Natural is every adult&apos;s guide to the most advanced antiaging protocol for achieving young, vibrant skin--now and in the future&quot;--Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">646.726 SAD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

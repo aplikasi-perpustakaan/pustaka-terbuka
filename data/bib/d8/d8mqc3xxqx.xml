@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000685221</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781444333435</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1444333437</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000685221</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McGrath, Alister E., 1953-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Darwinism and the divine : evolutionary thought and natural theology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">a &quot;Darwinism and the Divine examines the implications of evolutionary thought for natural theology, from the time of publication of Darwin’s On the Origin of Species to current debates on creationism and intelligent design. Questions whether Darwin’s theory of natural selection really shook our fundamental beliefs, or whether they served to transform and illuminate our views on the origins and meaning of life Identifies the forms of natural theology that emerged in 19th-century England and how they were affected by Darwinism The most detailed study yet of the intellectual background to William Paley’s famous and influential approach to natural theology, set out in 1802 Brings together material from a variety of disciplines, including the history of ideas, historical and systematic theology, evolutionary biology, anthropology, sociology, and the cognitive science of religion Considers how Christian belief has adapted to Darwinism, and asks whether there is a place for design both in the world of science and the world of theology A thought-provoking exploration of 21st-century views on evolutionary thought and natural theology, written by the world-renowned theologian and bestselling author&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">231.7652 MACG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

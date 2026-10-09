@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738647</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118452950</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">111845295X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738647</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gerzema, John, 1961-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE ATHENA DOCTRINE : HOW WOMEN (AND MEN WHO THINK LIKE THEM) WILL RULE THE FUTURE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Women don&apos;t yet rule the world, but people around the globe sure wish they had more influence on business, government, and every other aspect of modern life. Among 64,000 people surveyed in thirteen nations, two-thirds said the world would be a better place if men thought more like women. The sentiment was the same across the planet: we&apos;ve had enough of the winner-takes-all, masculine approach to getting things done. It&apos;s time for something better. Inspired by their data, John Gerzema and Michael D&apos;Antonio traveled the world to uncover stories of women and men who lead innovative organizations with the skills and values commonly associated with women. By emphasizing cooperation, communication, and sharing, these pioneers succeed in a super-connected world. In The Athena Doctrine, the authors show why femininity is the operating system of twenty-first-century prosperity: Leadership : values traditionally associated with women create more effective leaders and organizational strategies in today&apos;s society; career management and self-improvement: traits associated with women--flexibility, empathy, and honesty--underpin career mobility and personal fulfillment; and change management: feminine traits help us adapt seamlessly and effectively to today&apos;s changes. Brought to life through fresh stories from around the world and backed by rigorous data, The Athena Doctrine shows how feminine values are ascending. By nurturing, listening, and collaborating, men and women alike are resolving conflicts, finding profits, and redefining success in every realm. Rich with implications for leadership, change management, and even career management, these stories will inspire you to find the same success.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">305.42 GER</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI BUKU2U RADIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

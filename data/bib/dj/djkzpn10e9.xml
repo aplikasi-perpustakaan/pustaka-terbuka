@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000693230</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000693230</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Jalan kembali bohsia 2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sinopsis : Filem Jalan Kembali Bohsia 2 menceritakan tentang gadis bernama Amy, seorang bekas bohsia yang sudah bertaubat dan tidak mahu mengulangi sejarah hitamnya dengan menjejakkan kaki ke sebuah pusat pemulihan. Manakala Tasya, bekas rakan karibnya pula makin hanyut bergelumang dengan gejala haram dan tingkah lakunya dikawal ketat oleh Keting, teman lelakinya. Seperti Amy, Muz juga telah bertaubat dan tidak mahu lagi bergelumang dengan kehidupan yang pernah sia-sia itu.Namun, Muz dan Ijan sentiasa mencuba untuk meraih kemenangan dalam setiap perlumbaan motor yang diadakan. Akan tetapi, keputusan Amy untuk meninggalkan pusat pemulihan adalah peluang keemasan untuk Keting memesongkan Amy ke jalan hitam.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.430899923 JAL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

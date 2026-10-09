@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000698313</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007225705</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7225709</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000698313</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Holmes, Richard, 1945-2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Soldiers : army lives and loyalties from Redcoats to dusty warriors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The British soldier forms a core component of British history. In this riveting and important book, Richard Holmes addresses the elements of change and continuity that lie at the heart of the soldier. Technological, political and social changes have all made their mark on the development of warfare, but have the attitudes of the soldier shifted as much we might think? For Holmes, the soldier is part of a unique tribe - and the qualities of loyalty and heroism have continued to grow amongst these men. And while today the army constitutes the smallest proportion of the population since the first decade of its existence (regular soldiers make up just 0.087%), the social organisation of the men has hardly changed; the major combat arms, infantry, cavalry and artillery, have retained forms and terminologies that men who fought at Blenheimm, Waterloo and the Somme would readily grasp. Regiments remain an enduring feature of the army and Lieutenant Colonels have lost nothing of their importance in military hierarchy; the death of Lieutenant Colonel Rupert Thornloe in Afghanistan in 2009 shows just how high the risks are that these men continue to face. Filled to the brim with stories from all over the world and spanning across history, this magisterial book conveys how soldiers from as far back as the seventeenth century and soldiers today are united by their common experiences.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">355.00941 HOL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

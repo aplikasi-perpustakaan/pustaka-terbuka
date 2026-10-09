@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000739789</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781408835005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1408835002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000739789</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Rowling, J. K.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">HARRY POTTER &amp; THE ORDER OF THE PHOENIX</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Harry Potter</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book &quot;follows the darkest year yet for our young wizard, who finds himself knocked down a peg or three after the events of last year. Over the summer, gossip (usually traced back to the magic world&apos;s newspaper, the Daily Prophet) has turned Harry&apos;s tragic and heroic encounter with Voldemort at the Triwizard Tournament into an excuse to ridicule and discount the teenager. Even Professor Dumbledore, headmaster of the school, has come under scrutiny from the Ministry of Magic, which refuses to officially acknowledge the terrifying truth: that Voldemort is back. Enter a particularly loathsome new character: the toad-like and simpering (&quot;hem, hem&quot;) Dolores Umbridge, senior undersecretary to the minister of Magic, who takes over the vacant position of defence against dark arts teacher--and in no time manages to become the high inquisitor of Hogwarts. Life isn&apos;t getting any easier for Harry Potter. With an overwhelming course load as the fifth years prepare for their examinations, devastating changes in the Gryffindor Quidditch team line-up, vivid dreams about long hallways and closed doors, and increasing pain in his lightning-shaped scar, Harry&apos;s resilience is sorely tested.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">ROW</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

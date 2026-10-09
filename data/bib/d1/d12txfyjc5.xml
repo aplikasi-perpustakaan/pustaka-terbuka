@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000701311</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780553841152</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">553841157</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000701311</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gerritsen, Tess.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Rizzoli and​ Isles: the silent girl : a novel /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2012 Ballantine Books mass-market international ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Rizzoli and Isles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Mystery fiction. Suspense fiction. In the murky shadows of Boston&apos;s Chinatown lies a severed hand. On the tenement rooftop above is the corpse belonging to that hand, a red-haired woman dressed in black, her head nearly decapitated. Two strands of silver hair--not human--cling to her body. They are homicide cop Jane Rizzoli&apos;s only clues, but they&apos;re enough for her and medical examiner Maura Isles to make the startling discovery: that this violent death had a chilling prequel. Nineteen years earlier, a horrifying murder-suicide in a Chinatown restaurant left five people dead. One woman connected to that massacre is still alive--a mysterious martial arts master who is now the target of someone, or something, deeply and relentlessly evil. Cracking a crime with bone-chilling echoes of an ancient Chinese legend, Rizzoli and Isles must outwit an unseen enemy with centuries of cunning--and a swift, avenging blade.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">GER</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

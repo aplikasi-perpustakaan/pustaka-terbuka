@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000698288</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781844487196</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1844487199</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000698288</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The stitching book : a step-by-step guide to surface stitching techniques</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Drawing on work previously published in the Search Press &apos;Beginner&apos;s Guide&apos; series of needlecraft books, this definitive guide to stitching provides a must-have reference for anyone interested in stitching and embroidery. Aimed at both absolute beginners as well as those wishing to explore new areas or to develop their existing skills, this book provides a complete, step-by-step guide to traditional stitching techniques, including drawn thread work, hardanger, goldwork, stumpwork, silk shading crewel work, mountmellick and blackwork. Each section is written by an expert in that particular field, and leads the reader carefully through the history of the technique; the materials and equipment required; and the most popular stitches used. Each section includes hands-on projects, and are beautifully illustrated with examples of the author&apos;s work as well as step-by-step photographs and diagrams of the methods used. This timely book is the perfect choice for anyone whose interest in stitching has been re-awakened by the current trends in home sewing, and who wishes to make beautiful, hand-embroidered items for their home.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">746.44042 STI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

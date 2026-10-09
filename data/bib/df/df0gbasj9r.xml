@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000781435</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000781435</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">kor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Scent of a Woman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">If you had six months left to live, what would be on your bucket list? From the stars of My Lovely Sam-soon and My Girl comes the touching Korean TV Drama Scent of a Woman, about turning death&apos;s call into a chance to live and love. Yeon-jae (Kim Sun-Ah, My Lovely Sam-soon) has spent her whole life on the sidelines, working hard and saving up to no avail. When she&apos;s diagnosed with terminal cancer, she realizes she may die without ever having lived. With her days numbered, she embarks on a journey to find herself, dream new dreams, and fill her life with purpose. She also makes her final to-do list: learn to tango, meet her idol, and fall in love. Travel agency heir Ji-wook (Lee Dong-Wook, My Girl) is so apathetic, he simply goes along with whatever his father arranges, including getting engaged to a woman he doesn&apos;t love. Life makes no difference to him, until the day he meets Yeon-jae</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Streaming Video</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4572 SCE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

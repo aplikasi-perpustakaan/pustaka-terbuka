@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000774154</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781742708904</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1742708900</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000774154</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Liberman, Nic</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Being WARREN BUFFETT : LIFE LESSON FROM A CHEERFUL BILLIONAIRE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Little is known about what really makes Warren Buffett, the business magnate, investor and philanthropist, so extraordinarily successful. So, the author of this book, private investor Nic Liberman, set out to uncover what makes Warren Buffett tick. Through an analysis of Buffett&apos;s letters and talks, Nic Liberman discovered that the essence of his genius may just be his unique combination of character traits. Buffett&apos;s lack of narcissism and envy, for example, are unexpected characteristics in a man of his magnitude, as are his qualities of loyalty, love and humility. On paper, his financial success may suggest he is a man of mercenary drive, yet he is modest, generous and patient. This isn&apos;t a guide to Buffett&apos;s investment strategies. It is a thought-provoking investigation into the way his self-awareness has enabled him to forge a path to success, and that pairing our personalities to our endeavours may ultimately lead to fulfillment in all aspects of our lives. In his investigation, Nic Liberman might just stumbled have across some secrets to living a good life...&quot;What I have learned about Warren Buffett has led me on a fascinating and challenging journey of self-discovery. Through Buffett I have uncovered life lessons that I can extend to my working life, as a private investor, and to my family life, as a husband and father.&quot; - Nic Liberman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.6 LIB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

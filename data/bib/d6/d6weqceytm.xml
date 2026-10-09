@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000774031</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781138784567</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1138784567</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000774031</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Page, Stephen, 1963-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">TOURISM MANAGEMENT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">5th Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;One of the leading texts in the field, Tourism Management is the ideal introduction to the fundamentals of tourism as you study for a degree, diploma or single module in the subject. It is written in an engaging style that assumes no prior knowledge of tourism and builds up your understanding as you progress through this wide ranging global review of the principles of managing tourism. It traces the evolution and future development of tourism and the challenges facing tourism managers in this fast growing sector of the world economy. This book is highly illustrated with diagrams and colour images, and contains short case studies of contemporary themes of interest, as well as new data and statistics. This fifth edition has been revised and updated to include: New content on: sports, festivals and event tourism, social media impacts on tourism, global economic downturn affecting tourism as well as emerging themes in tourism such as slow travel, dark tourism, volunteer tourism and medical tourism. Updated case studies on BRIC markets and new case studies from Middle East and Asia. Enhanced Tourism and sustainable development coverage, which runs throughout the book as a major theme, highlighting the challenge of climate change and future tourism growth Transport section includes more international perspectives from China and South America. Updated companion website which includes: additional case studies, quizzes, PPT&apos;s, further reading, web reading as well as video links and longer reflective case study per chapter to aid both teaching and learning&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">910.68 PAG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

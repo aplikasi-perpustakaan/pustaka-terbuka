@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735937</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781455598991</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1455598992</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735937</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Maine, Kelli</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Taken by Storm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Give &amp; Take Novel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Deception. Maddie Simcoe knows the devastation that comes from keeping secrets. Now, she&apos;s desperate to move on from the heartbreak that almost destroyed her--trading wild passion that once made her knees weak for a life of comfortable stability. But before Maddie can start over, she must return home to put the past behind her once and for all... Passion. When Maddie blows back into MJ Rocha&apos;s life, nothing will stop him from proving to her that walking away from him was the biggest mistake of her life--not even the engagement ring she wears. Her every look, every touch tells MJ that the fire that once raged between them still burns hot, and MJ won&apos;t give up until Maddie gives in to the inferno. Redemption. Trapped by a hurricane roaring through Turtle Tear Island, MJ and Maddie find shelter in each others&apos; arms. While the lightning flashes, MJ and Maddie are helpless to fight bonds of desire that tie them together. But just as they&apos;re about to surrender to the torturous longing that consumes them both, the storm unleashes violent secrets from MJ&apos;s past--secrets that could wash away all MJ and Maddie&apos;s hopes of forever</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">MAI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

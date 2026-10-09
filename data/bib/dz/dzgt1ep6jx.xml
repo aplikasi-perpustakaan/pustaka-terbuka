@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000775534</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781107011007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1107011000</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000775534</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ekkekakis, Panteleimon, 1968-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Measurement Affect, Mood, and Emotion : A Guide for Health-Behavioral Research</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The role of affective constructs in human behaviour in general, and health behaviour in particular, is recapturing the attention of researchers. Affect, mood and emotion are again considered powerful motives behind dietary choices, physical activity participation, cigarette smoking, alcohol overconsumption and drug abuse. However, researchers entering the fray must confront a vast and confusing theoretical and technical literature. The enormity of this challenge is reflected in numerous problems plaguing recent studies, from selecting measures without offering a rationale, to interchanging terms that are routinely misconstrued. The Measurement of Affect, Mood, and Emotion cuts through the jargon, clarifies controversies and proposes a sound three-tiered system for selecting measures that can rectify past mistakes and accelerate future progress. Panteleimon Ekkekakis offers an accessible and comprehensive guidebook of great value to academic researchers and postgraduate students in the fields of psychology, behavioural and preventive medicine, behavioural nutrition, exercise science and public health.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">152.40287 EKK</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

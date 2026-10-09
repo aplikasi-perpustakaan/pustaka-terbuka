@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738634</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118352427</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118352424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738634</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Robin, Jennifer, 1974-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">NO EXCUSES : How You Can Turn Any Workplace into a Great One</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The business leader&apos;s guide to creating a great workplace from the Great Place to Work(r) Institute. In this follow-up guide to The Great Workplace, experts from Great Place to Work(r) Institute, Inc. reveal the most common excuses managers use for why they can&apos;t create a great workplace. Authors Jennifer Robin and Michael Burchell poke holes in every single excuse. Whether the reasons involve the organization&apos;s leadership, employees, environment, or any other factor, the authors explain that if managers lead people properly, they can create a great workplace. The authors explore how managers can interrupt their own negative thought patterns and instead create lasting change, and they describe how great workplaces have surmounted very real difficulties with aplomb. Includes case studies, stories, tips, and tools for managers who want to transform their organizations From the experts at the Great Place to Work(r), a global research, consulting, and training firm that operates in nearly 50 countries Proves that any and every organization can change for the better when managers have the right tools and mindset Creating a place where people want to work and want to succeed is the primary key to success for every manager. No Excuses shows that managers in any organization can transform their workplace--if they&apos;ll only get out of their own way first&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.3 ROB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

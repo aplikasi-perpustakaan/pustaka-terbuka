@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000647542</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118004623</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118004620</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000647542</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Petz, Jon</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Boring meetings suck : get more out of your meetings, or get out of more meetings</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Author Jon Petz, a former corporate executive and current corporate entertainer who has keynoted meetings for groups ranging from Wal-Mart to IBM, dares to address the boring elephant in the room: where most of the millions of meetings held in the U.S. every day are an unforgiveable waste of time and talent. What’s worse, many of the books, blogs, and articles on the subject are as boring as the meetings themselves. In Boring Meetings Suck, Petz focuses on how attendees can take charge of meetings that have become a waste of time and talent. Most books on meetings focus only on the person responsible for planning and hosting the meeting, but Boring Meetings Suck dares to admit what other authors avoid. Only when attendees are empowered to diplomatically speak up and get meetings back on track will everyone benefit, instead of suffering in silence as an ineffective chair or host loses control of their proceedings. It offers dozens of SRD’s - Suckification Reduction Devices - to help you make your next meeting efficient (get things done right) and effective (get the right things done). It also introduces a contrarian notion that meeting hosts should capitalize on technology use during meetings versus curtail it. Instead of telling people to turn OFF their digital devices, this book suggests participants use these devices for instant crowd sourcing, rapid dissemination of information to those affected by the decisions and innovative note taking so important information is not lost.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.456 PET</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
