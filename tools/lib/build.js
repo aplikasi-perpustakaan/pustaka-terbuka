@@ -6,6 +6,7 @@ import * as marcxml from './marcxml.js';
 import * as callnumber from './callnumber.js';
 import * as aliasesLib from './aliases.js';
 import * as manifestLib from './manifest.js';
+import * as holdingsLib from './holdings.js';
 import { recordToIso2709 } from './marc-iso2709.js';
 
 function escapeHTML(str) {
@@ -104,9 +105,28 @@ export async function buildSite(options) {
   if (!fs.existsSync(dumpsDir)) fs.mkdirSync(dumpsDir, { recursive: true });
 
   const orgs = fs.existsSync(orgsPath) ? JSON.parse(fs.readFileSync(orgsPath, 'utf8')) : {};
+  if (fs.existsSync(orgsPath)) {
+    fs.copyFileSync(orgsPath, path.join(distDir, 'orgs.json'));
+  }
   const aliases = aliasesLib.loadAliases(aliasesPath);
   const manifest = manifestLib.loadManifest(manifestPath);
   const newManifest = {};
+
+  const allHoldingsMap = holdingsLib.loadAllHoldings(holdingsDir);
+  const holdingsByRecord = new Map();
+  for (const [orgCode, rows] of allHoldingsMap.entries()) {
+    const { resolved } = holdingsLib.resolveHoldingsRecords(rows, aliases);
+    for (const row of resolved) {
+      if (!holdingsByRecord.has(row.record)) {
+        holdingsByRecord.set(row.record, []);
+      }
+      holdingsByRecord.get(row.record).push({
+        org: row.org,
+        call_number: row.full_call_number || row.class_number || '',
+        location: row.location || 'Main'
+      });
+    }
+  }
 
   const { index: pfIndex } = await pagefind.createIndex();
 
@@ -196,7 +216,22 @@ export async function buildSite(options) {
 
     // Parse holdings
     const holdingFile = path.join(holdingsDir, `${recordId}.json`);
-    const holdings = fs.existsSync(holdingFile) ? JSON.parse(fs.readFileSync(holdingFile, 'utf8')) : [];
+    const holdings = [];
+    if (fs.existsSync(holdingFile)) {
+      try { holdings.push(...JSON.parse(fs.readFileSync(holdingFile, 'utf8'))); } catch (e) {}
+    }
+    if (holdingsByRecord.has(recordId)) {
+      holdings.push(...holdingsByRecord.get(recordId));
+    }
+    if (orgs['PNM'] && (f852 || callNum852)) {
+      if (!holdings.some(h => h.org === 'PNM')) {
+        holdings.push({
+          org: 'PNM',
+          call_number: callNum852 || 'General Collection',
+          location: getSubfield(f852, 'b') || 'PERPUSTAKAAN NEGARA MALAYSIA'
+        });
+      }
+    }
     
     const orgCodes = [...new Set(holdings.map(h => h.org))];
     
@@ -229,8 +264,9 @@ export async function buildSite(options) {
     for (const h of holdings) {
       const orgInfo = orgs[h.org] || {};
       const orgName = orgInfo.name || h.org;
-      const opacUrl = orgInfo.opac_url || '#';
-      holdingsHtml += `<li><strong>${escapeHTML(orgName)}</strong>: Call Number: ${escapeHTML(h.call_number)} - <a href="${escapeHTML(opacUrl)}">View in OPAC</a></li>`;
+      const control001 = record.controlFields?.find(f => f.tag === '001')?.value;
+      const opacUrl = (h.org === 'PNM' && control001) ? `https://opac.pnm.gov.my/search/resource/${control001}` : (orgInfo.opac_url || '#');
+      holdingsHtml += `<li><strong>${escapeHTML(orgName)}</strong>: Call Number: ${escapeHTML(h.call_number)} - <a href="${escapeHTML(opacUrl)}" target="_blank" rel="noopener">View in OPAC</a></li>`;
       
       // Collect org holdings
       if (!orgHoldings[h.org]) orgHoldings[h.org] = [];

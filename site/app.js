@@ -61,8 +61,12 @@ function updateLangSelect() {
 
 async function loadOrgs() {
   try {
-    // We could fetch orgs list from some schema or index, but pagefind doesn't directly give us all filters easily without a search.
-    // Let's assume we can query pagefind for filters.
+    let orgsData = {};
+    try {
+      const orgsRes = await fetch(`${BASE_URL}orgs.json`);
+      if (orgsRes.ok) orgsData = await orgsRes.json();
+    } catch (e) {}
+
     if (!pagefind) return;
     const filters = await pagefind.filters();
     if (filters && filters.organization) {
@@ -79,7 +83,8 @@ async function loadOrgs() {
       for (const org in filters.organization) {
         const option = document.createElement('option');
         option.value = org;
-        option.textContent = org;
+        const orgName = orgsData[org]?.name ? `${orgsData[org].name} (${org})` : org;
+        option.textContent = orgName;
         select.appendChild(option);
       }
       
