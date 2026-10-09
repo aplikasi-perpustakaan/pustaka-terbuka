@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000985374</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9786263358522</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">6263358521</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000985374</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Xu, Defa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">在承認與平等之間 : 思想視角下的「馬華問題」 | Zai cheng ren yu ping deng zhi jian : si xiang shi jiao xia de &quot;Ma Hua wen ti&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Fuluo ren wen</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book primarily adopts an intellectual perspective—drawing on contemporary Western political thought—to explore the complex cluster of issues (or problematiques) faced by the Malaysian Chinese community and their underlying causes. The author traces the roots of the &quot;Malaysian Chinese problem&quot; (Ma Hua wenti) to the rise of Malay indigeneity (Malay primordialism or Bumiputera ideology). Through discussions on topics such as independence, liberation, constitutional and ethnic relations, and the May 13 Incident, the book clarifies the dual challenges Malaysian Chinese face: a lack of recognition and a lack of equality. It also attempts to evaluate the issue of justice in Malaysian society and politics from a political and moral philosophical standpoint that transcends ethnic boundaries. Since the &quot;Malaysian Chinese problem&quot; remains an ongoing issue, the book’s analysis is both historical and contemporary. Its central concern revolves around the core issues confronting the Malaysian Chinese community, examining the limitations, forms, and developmental trajectory of Chinese social and cultural life within this problematic context—including the dynamics of community formation and evolution</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">959.5 XUD</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

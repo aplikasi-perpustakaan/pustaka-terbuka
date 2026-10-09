@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000331572</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000895565</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000331572</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">ara</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">منهجية التصنيف والتأليف عند علماء الحديث قديماً وحدثاً مجموعةٌ من البحوث المحكَّمة المقدَّمة إلى المؤتمر السَّنَوِيّ العالميّ (الإمام٤)  للسُّنَّة النبوية ,عقده معهد  دراسات الحديث الشريف (إنهاد) في رحاب الكلية الجامعية الإسلامية العالمية بسلانجور (كويس) في ماليزيا بتاريخ: ٣٢ ربيع الأول ١٤٤١ه (٢٠ نوفمبر ٢٠١٩م) | Manhajiyah al-tasnif wa al-ta&apos;lif índa úlama&apos; al-hadith qadiman wa hadithan : majmu&apos; min al-buhuth al-muhakkamah al-muqaddamah ila al-mu&apos;tamar al-sanawiy al-álami (al-ímam: 4) lil sunnah al-nabawayyiah luqdah ma&apos;had warasamat al-hadith al-sharif (INHAD) fi rihab äl-kuliyyah al-jamiáh al-islamiyyah al-álamiyyah bi selanjur (KUIS) fi maliziya : 23 rabial-awal 1441H (20 November M) =  COMPILATION &amp; WRITING METHODOLOGIES ADOPTED BY HADITH SCHOLARS CLASSICAL &amp; CONTEMPORARY PERSPECTIVE : Collection of peer-reviewed papers presented At THE ANNUAL GLOBAL CONFERENCE ON PROPHETIC SUNNAH Organized by the HADITH RESEARCH INSTITUTE (INHAD) At the Selangor International Islamic University College (KUIS) in Malaysia On 23rd Rabi&apos;a al-Awwal 1441H (20th November 2019)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Edisi Pertama 2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">297.125</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

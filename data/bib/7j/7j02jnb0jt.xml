@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000986919</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9787121441400</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7121441403</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000986919</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wang, Chaowei</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">财富增长 : 从0到1000万的财富自由手册 = Wealth growth | Cai fu zeng zhang : cong 0 dao 1000 wan de cai fu zi you shou ce = Wealth growth</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">第1版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book is a financial literacy guide written for China’s emerging middle class. It is the latest work by renowned wealth mentor and &quot;Peking University Wealth Goddess&quot; Wang Zhaowei. Her hit course, &quot;The Wealth Masterclass of the PKU Goddess,&quot; went viral across the internet, garnering over 10 million views in just two months. Drawing on over a decade of experience designing personalized wealth strategies for celebrities and entrepreneurs, this book continues the course’s signature style—clear, engaging, practical, and warm. It breaks down the core elements, growth models, and actionable paths toward achieving financial freedom.Blending real-life case studies from her students with solid, professional insights, the book features a logical, well-structured approach, complemented by easy-to-understand visuals and a fresh, accessible tone. It is designed to guide readers step by step in growing their first million, and then their first ten million</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.6 WAN</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

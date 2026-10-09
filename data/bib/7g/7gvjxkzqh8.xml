@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000879575</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787147003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787147002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787147003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000879575</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Peterson, Jim (Lawyer)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Count down : the past, present and uncertain future of the big four accounting firms</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Second edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The second edition of Count Down is revised to include and discuss developments affecting the Big Four and their business model since the December 2015 release of the first edition. Brought into this updated narrative, for example, are: The Big Four&apos;s growth to collective global 2016 revenue of $128 billion, and the continued disparities in growth between their Audit and Advisory practices. The imposition of mandatory auditor rotation by legislation and regulation in the European Union, and in the US, the PCAOB&apos;s requirement to name lead partners on public company audits. New examples of corporate financial malfeasance and potentially disruptive auditor litigation, involving clients of each of the Big Four. In addition, this new edition expands in scope and details the required re-engineering by which  -  with the necessary mutual cooperation among financial statement issuers and users, the accounting profession, legislators, regulators and agencies of law enforcement  -  a sustainable structure for financial reporting and assurance might emerge -- that is, a Big Audit model truly fit to serve today&apos;s global capital markets.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">657.068</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/9781787147003</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

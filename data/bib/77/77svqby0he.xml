@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746491</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780812993424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">081299342X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746491</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Taibbi, Matt.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE DIVIDE : AMERICAN INJUSTICE IN THE AGE OF THE WEALTH GAP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Matt Taibbi&apos;s genius is in untangling complex stories and making us care about them by providing striking moral clarity and a genuine sense of outrage. He has become among the most read journalists in America, leading the dialogue with epic Rolling Stone pieces that offer an &quot;almost startling reminder of the power of good writing&quot; (Washington Post). In this new work, he once again takes readers into the biggest, most urgent story in America: a widening wealth gap that is not only reshaping our economic life, but changing our core sense of right and wrong. The wealthy 1% operate with near impunity, while everyone else finds their very existence the subject of massive law enforcement attention: from stop-and-frisk programs and the immigrant dragnet to invasive surveillance and the abuse of debtors. Driven by immersive reporting, this is a stunning look into the newest high-stakes divide in our country: between a lawless aristocracy of hyperwealth and the rest of us, living under the shadow of an incipient American police state&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">303.372 TAI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

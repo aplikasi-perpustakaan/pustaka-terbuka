@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746282</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9783037782798</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">303778279X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746282</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">IMPERFECT HEALTH : THE MEDICALIZATION OF ARCHITECTURE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">As health becomes a central focus of political debate, are architects, urban designers, and landscape architects seeking a new moral and political agenda to address these concerns? Imperfect Health looks at the complexity of today&apos;s health problems juxtaposed with a variety of proposed architectural and urban solutions. Essays by Margaret Campbell, David Gissen, Carla C. Keirns, and Sarah Schrank deal with different aspects of the topic of health in the context of architecture such as: &quot;An Architectural Theory of Pollution&quot; and &quot;Strange Bedfellows: Tuberculosis and Modern Architecture-How &apos;The Cure&apos; Influenced Modernist Architecture and Design.&quot; This book is published in collaboration with the CCA, Montreal on the occasion of the exhibition Imperfect Health: The Medicalization of Architecture, curated by Giovanna Borasi, CCA Curator of Contemporary Architecture, and Mirko Zardini, CCA Director and Chief Curator.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">720.103 IMP</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000650641</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262015547</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262015544</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000650641</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Caplan, Paula J.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">When Johnny and Jane come marching home : how all of us can help veterans</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Traumatized veterans returning from our wars in Iraq and Afghanistan are often diagnosed as suffering from a psychological disorder and prescribed a regimen of psychotherapy and psychiatric drugs. But why, asks psychologist Paula J. Caplan in this impassioned book, is it a mental illness to be devastated by war? What is a mentally healthy response to death, destruction, and moral horror? In When Johnny and Jane Come Marching Home, Caplan argues that the standard treatment of therapy and drugs is often actually harmful. It adds to veterans burdens by making them believe wrongly that they have gotten over it; it isolates them behind the closed doors of the therapists office; and it makes them rely on often harmful drugs. The numbers of traumatized veterans from past and present wars who continue to suffer demonstrate the ineffectiveness of this approach. Sending anguished veterans off to talk to therapists, writes Caplan, conveys the message that the rest of us don&apos;t want to listen{u2014}or that we don&apos;t feel qualified to listen. As a result, the truth about war is kept under wraps. Most of us remain ignorant about what war is really like{u2014}and continue to allow our governments to go to war without much protest. Caplan proposes an alternative: that we welcome veterans back into our communities and listen to their stories, one-on-one. (She provides guidelines for conducting these conversations.) This would begin a long overdue national discussion about the realities of war, and it would start the healing process for our returning veterans.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.89008697 CAP</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

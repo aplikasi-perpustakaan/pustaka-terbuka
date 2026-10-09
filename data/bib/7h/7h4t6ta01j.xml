@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833955</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062347176</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62347179</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn952206663</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833955</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McDonald, Duff</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE GOLDEN PASSPORT : Harvard Business School, The Limits of Capitalism, and the Moral Failure of the MBA Elite</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">FIRST EDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;With The Firm, financial journalist Duff McDonald pulled back the curtain on consulting giant McKinsey and Company. In The Golden Passport, he reveals the inner works of a singular nexus of power, ambition, and influence: Harvard Business School. Harvard University still occupies a unique place in the public&apos;s imagination, but the Harvard Business School eclipsed its parent in terms of influence on modern society long ago. A Harvard degree guarantees respect. But a Harvard MBA near-guarantees entrance into Western capitalism&apos;s most powerful realm - the corner office. And because the School shapes the way its powerful graduates think, its influence extends well beyond their own lives. It affects the organizations they command, the economy they dominate, and society itself. Decisions and priorities at HBS touch every single one of us. Most people have a vague knowledge of the power of the HBS network, but few understand the dynamics that have made HBS an indestructible and dominant force for almost a century. Graduates of HBS share more than just an alma mater. They also share a way of thinking about how the world should work, and they have successfully molded the world to that vision - that is what truly binds them together. In addition to teasing out the essence of this exclusive, if not necessarily &apos;secret, &apos; club, McDonald explores two important questions: Has the school failed at reaching the goal it set for itself - &apos;the multiplication of men who will handle their current business problems in socially constructive ways?&apos; Is HBS complicit in the moral failings of Western Capitalism? At a time of soaring economic inequality and growing political unrest, this hard-hitting yet fair portrait offers a much-needed look at an institution that has had a profound influence not just in the world of business but on the shape of our society - and on all our lives.&quot;--Dust jacket of work.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">650.07117444 MACD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

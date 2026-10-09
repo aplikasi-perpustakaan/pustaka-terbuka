@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737810</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781455575695</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1455575690</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737810</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McEwen, Scott.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">EYES ON TARGET : INSIDE STORIES FROM THE BROTHERHOOD OF THE U.S. NAVY SEALS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Told through the eyes of current and former Navy SEALs, EYES ON TARGET is an inside account of some of the most harrowing missions in American history-including the mission to kill Osama bin Laden and the mission that wasn&apos;t, the deadly attack on the US diplomatic outpost in Benghazi where a retired SEAL sniper with a small team held off one hundred terrorists while his repeated radio calls for help went unheeded.    The book contains incredible accounts of major SEAL operations-from the violent birth of SEAL Team Six and the aborted Operation Eagle Claw meant to save the hostages in Iran, to key missions in Iraq and Afganistan where the SEALs suffered their worst losses in their fifty year history-and every chapter illustrates why this elite military special operations unit remains the most feared anti-terrorist force in the world.    We hear reports on the record from retired SEAL officers including Lt. Cmdr. Richard Marcinko, the founder of SEAL Team Six, and a former Commander at SEAL team Six, Ryan Zinke, and we come away understanding the deep commitment of these military men who put themselves in danger to protect our country and save American lives. In the face of insurmountable odds and the imminent threat of death, they give all to protect those who cannot protect themselves.    No matter the situation, on duty or at ease, SEALs never, ever give up. One powerful chapter in the book tells the story of how one Medal of Honor winner saved another, the only time this has been done in US military history. EYES ON TARGET includes these special features:   A detailed timeline of events during the Benghazi attack. Sample rescue scenarios from a military expert who believes that help could have reached the Benghazi compound in time The US House Republican Conference Interim Progress Report on the events surrounding the September 11, 2012 Terrorist Attacks in Benghazi Through their many interviews and unique access, Scott McEwen and Richard Miniter pull back the veil that has so often concealed the heroism of these patriots. They live by a stringent and demanding code of their own creation, keeping them ready to ignore politics, bureaucracy and-if necessary-direct orders. They share a unique combination of character, intelligence, courage, love of country and what can only be called true grit. They are the Navy SEALs, and they keep their Eyes on Target.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">359.984 MACE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI BUKU2U RADIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

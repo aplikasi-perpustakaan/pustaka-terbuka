@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000985273</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789865064723</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9865064723</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000985273</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ford, Martin (Martin R.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">AI 無所不在的未來 : 當人工智慧成為電力般的存在, 人類如何控管風險, 發展應用與保住工作? | AI wu suo bu zai de wei lai : dang ren gong zhi hui cheng wei dian li ban de cun zai, ren lei ru he kong guan feng xian, fa zhan ying yong yu bao zhu gong zuo?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Zhi fu = 364</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">We don’t have to wait until 2030—AI is already disrupting major industries. While AI may not completely replace humans, it is becoming an essential and universal technology. In the face of this wave, it’s crucial to understand just how important AI truly is. AI has been around for decades, so why must we take it more seriously now? Because with a smartphone in your pocket, you already carry AI with you—facial recognition to unlock your phone, voice assistants ready to help, and video recommendations on streaming platforms. AI is already deeply embedded in our daily lives. But the real revolution is just beginning. Today, AI can already flip burgers, develop new drugs, and diagnose diseases. Very soon, it will become as ubiquitous and indispensable as electricity. Everyone—and every industry—will be able to harness its power with ease. That’s why governments and leading global corporations are racing to invest in AI development, eager to gain the upper hand and seize new opportunities</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">006.301 FOR</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

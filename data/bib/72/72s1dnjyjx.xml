@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000773961</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781138023284</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1138023280</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000773961</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Exploring Community Festivals and Events</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Routledge advances in event research series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The development of the festival and event industry has seen large scale growth and extensive government support as a result of objectives to enhance and project the image of place and leverage positive sponsorship and regeneration opportunities. As we move deeper into austerity measures prompted by economic recession, community festivals and events as a sacred or profane time of celebration can be considered even more important than ever before. This book for the first time explores the role and importance of &apos;community&apos;, &apos;culture&apos; and its impact through festivals and events. Split into two distinct sections, the first introduces key themes and concepts, contextualises local traditions and culture, and investigates how festivals and events can act as a catalyst for tourism and create a sense of community. It then questions the social and political nature of festivals and community events through examining their ownership. The second section focuses on communities themselves, seeking to examine and discuss key emerging themes in community event studies such as; the role of diaspora, imagined communities, pride and identity, history, producing and consuming space and place, authenticity, and multi-ethnic communities. Examples are drawn from Portugal, the Dominican Republic, the USA, Malaysia, Malta, Finland and Australia making this book truly international. This significant volume will be valuable reading for students and academics across the fields of Event, Tourism and Hospitality studies as well as other social science disciplines.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">394.26 EXP</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

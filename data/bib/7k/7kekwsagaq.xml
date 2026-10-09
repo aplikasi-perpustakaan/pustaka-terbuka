@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000810076</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781421417950</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1421417952</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000810076</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Rao, Vani, 1958-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Traumatized BRAIN : A Family Guide to Understanding Mood, Memory, and Behavior after Brain Injury</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Johns Hopkins Press health book</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In The Traumatized Brain, neuropsychiatrists Drs Vani Rao and Sandeep Vaishnavi - experts in helping people heal after head trauma - explain how traumatic brain injury, whether mild, moderate, or severe, affects the brain. They advise readers on how emotional symptoms such as depression, anxiety, mania, and apathy can be treated; how behavioral symptoms such as psychosis, aggression, impulsivity, and sleep disturbances can be addressed; and how cognitive functions like attention, memory, executive functioning, and language can be improved. They also discuss headaches, seizures, vision problems, and other neurological symptoms of traumatic brain injury. By stressing that symptoms are real and are directly related to the trauma, Rao and Vaishnavi hope to restore dignity to people with traumatic brain injury and encourage them to ask for help. Each chapter incorporates case studies and suggestions for appropriate medications, counseling, and other treatments, and ends with targeted tips for coping.
+&quot;A traumatic brain injury is a life-changing event, affecting an individual&apos;s lifestyle, ability to work, relationships-even personality. Whatever caused it-car crash, work accident, sports injury, domestic violence, combat-a severe blow to the head results in acute and, often, lasting symptoms. People with brain injury benefit from understanding, patience, and assistance in recovering their bearings and functioning to their full abilities. In The Traumatized Brain, neuropsychiatrists Drs Vani Rao and Sandeep Vaishnavi - experts in helping people heal after head trauma - explain how traumatic brain injury, whether mild, moderate, or severe, affects the brain. They advise readers on how emotional symptoms such as depression, anxiety, mania, and apathy can be treated; how behavioral symptoms such as psychosis, aggression, impulsivity, and sleep disturbances can be addressed; and how cognitive functions like attention, memory, executive functioning, and language can be improved. They also discuss headaches, seizures, vision problems, and other neurological symptoms of traumatic brain injury. By stressing that symptoms are real and are directly related to the trauma, Rao and Vaishnavi hope to restore dignity to people with traumatic brain injury and encourage them to ask for help. Each chapter incorporates case studies and suggestions for appropriate medications, counseling, and other treatments, and ends with targeted tips for coping.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">617.481044 RAO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

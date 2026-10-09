@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000740922</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674050884</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">674050886</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000740922</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hoffman, Brian B.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Adrenaline</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Famous as the catalyst of the fight or flight response, adrenaline has also received forensic attention as a perfect, untraceable poison, and rumors persist of its power to revive the dead. True to the spirit of its topic, this book is a stimulating journey that reveals the truth behind adrenaline&apos;s scientific importance and popular appeal. Inducing highs of excitement, anger, and terror, adrenaline fuels the extremes of human experience. A rush empowers superhuman feats in emergencies. Risk-taking junkies seek to replicate this feeling in dangerous recreations. And a surge may literally scare us to death. Adrenaline brings us up to speed on the fascinating molecule that drives some of our most potent experiences. Adrenaline was discovered in 1894 and quickly made its way out of the lab into clinics around the world. In this engrossing account, the author examines adrenaline in all its capacities, from a vital regulator of physiological functions to the subject of Nobel Prize-winning breakthroughs. Because its biochemical pathways are prototypical, adrenaline has had widespread application in hormone research leading to the development of powerful new drugs. The author introduces the scientists to whom we owe our understanding, tracing the paths of their discoveries and aspirations and allowing us to appreciate the crucial role adrenaline has played in pushing modern medicine forward. He also investigates the vivid, at times lurid, place adrenaline occupies in the popular imagination, where accounts of its life-giving and lethal properties often leave the realm of fact</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.45 HOF</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

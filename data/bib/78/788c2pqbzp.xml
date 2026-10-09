@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000769181</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000769181</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">GREEN ZONE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">During the Iraq war, U.S. Chief Warrant Officer Roy Miller leads Mobile Exploitation Team-Delta (MET-D) on a fruitless search of suspected WMD sites. When he wonders out loud why the intelligence is all wrong, he&apos;s told not rock the boat. Soon Miller, working with a local Iraqi informant named Freddy, is going after a Ba&apos;athist general named Al-Rawi. CIA agent Martin Brown and journalist Lawrie Dayne share Miller&apos;s doubts; each have some pieces to the puzzle. They try to help Miller out, but Department of Defense official Clark Poundstone treats the WMD problem like a PR kerfuffle. When a Delta Force squad is dispatched to intimidate him and shut his team down, Miller&apos;s questioning mutates into a quest: to learn the identity and motives of &quot;Magellan,&quot; the highly protected source of this faulty information</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 GRE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737884</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780813347714</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">813347718</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737884</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Robertson, Stacey M.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Betsy Mix Cowles : Champion of Equality</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">LIVES OF AMERICAN WOMEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Betsy Mix Cowles--a bold reformer whose circle of acquaintances included Frederick Douglass, Abby Kelley, and William Lloyd Garrison--is a brilliant example of what an educated and independent woman can accomplish. A staunch defender of abolitionism, Cowles also took up the cause of women&apos;s rights and dedicated her life to the advocacy of women&apos;s access to education, equal rights, and independence in the pre-Civil War era. The life of this devoted social reformer illuminates the struggles and historical developments relating to abolitionism and the fledgling women&apos;s movement during one of the most contentious periods in American history. About the Lives of American Women series: Selected and edited by renowned women&apos;s historian Carol Berkin, these brief biographies are designed for use in undergraduate courses. Rather than a comprehensive approach, each biography focuses instead on a particular aspect of a women&apos;s life that is emblematic of her time, or which made her a pivotal figure in the era. The emphasis is on a &quot;good read,&quot; featuring accessible writing and compelling narratives, without sacrificing sound scholarship and academic integrity. Primary sources at the end of each biography reveal the subject&apos;s perspective in her own words. Study questions and an annotated bibliography support the student reader&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">305.42092 ROB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734569</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781938073571</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1938073576</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734569</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gorham, John (Chef)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">TORO BRAVO : STORIES, RECIPES, NO BULL, OR, THE MAKING, BREAKING, AND RIDING OF A BULL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;At the heart of Portland&apos;s red-hot food scene is Toro Bravo, a Spanish-inspired restaurant whose small plates have attracted a fiercely loyal fan base. But to call Toro Bravo a Spanish restaurant doesn&apos;t begin to tell the whole story. For chef John Gorham, each dish reflects a time, a place, a moment. For Gorham, food is more than mere sustenance. The Toro Bravo cookbook is an honest look behind the scenes: from Gorham&apos;s birth to a teenage mother who struggled with drug addiction, to time spent in his grandfather&apos;s crab-shack dance club, to formative visits to Spain, to becoming a father and opening a restaurant. Toro Bravo also includes 95 of the restaurant&apos;s recipes, from simple salads to homemade chorizo, along with an array of techniques that will appeal to both the home cook and the most seasoned, forearm-burned chef.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.5946 GOR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

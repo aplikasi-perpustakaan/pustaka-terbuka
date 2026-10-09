@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000732938</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415885942</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415885949</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000732938</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">CAREER COUNSELING : Foundations, Perspectives, and Applications</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Second Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;This text provides the beginning counseling student with a comprehensive overview and discussion of the practical application of career counseling skills. Based on the view that counselors must be prepared in a holisitic manner, it covers the historical and theoretical foundations of career counseling, the skills and techniques needed for career counseling, and contextual perspectives on career and lifestyle planning. Important material that is often overlooked in introductory texts is included, such as career and lifestyle planning with clients in mental health, rehabilitation, and couples and family counseling settings; gender issues; and working with LGBT and minority clients. Throughout the text, case studies, informational sidebars, and experiential activities make for a more engaging learning experience and encourage additional contemplation of chapter content. This new edition features new, updated, and expanded content throughout; the division of career counseling in schools into separate chapters for K-8th grade, high school, and college, including traditional, hybrid, and online campuses; and an online instructor&apos;s manual with student resources, offering material to enhance the pedagogical features of the text.&quot;--Publisher&apos;s website.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">331.702 CAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812349</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781942952848</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1942952848</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812349</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wickman, Gino.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">HOW TO BE A GREAT BOSS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;If your employees brought their &quot;A-Game&quot; to work every day, what would it mean for your company&apos;s performance? Studies have repeatedly shown that the majority of employees are disengaged at work. But it doesn&apos;t have to be this way. Often, the difference between a group of indifferent employees and a fully engaged team comes down to one simple thing-a great boss. In How to Be a Great Boss, Gino Wickman and Rene&apos; Boer present a straightforward, practical approach to help bosses at all levels of an organization get the most from their people. They share time-tested tools that have worked for more than 30,000 bosses in every industry. You can learn to be a great boss-and dramatically improve both your organization&apos;s performance and your team&apos;s excitement about their work. In this book you will discover: How to surround yourself with great people How to make more effective use of your time The difference between leadership and management and why they&apos;re equally important The five leadership practices and five management practices of all great bosses How to create accountability How to develop productive, relationships with each of your people How to deal with direct reports that don&apos;t meet your expectations How to Be a Great Boss provides practical tools that you can apply immediately with your people, allowing you to focus on improving and growing your organization and truly enjoy what you do&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4092 WIC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

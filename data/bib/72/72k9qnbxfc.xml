@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000743544</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118413616</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">111841361X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000743544</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lam, James</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Enterprise Risk Management : From Incentives to Controls</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Second edition.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Wiley finance series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A fully revised second edition focused on the best practices of enterprise risk managementSince the first edition of Enterprise Risk Management: From Incentives to Controls was published a decade ago, much has changed in the worlds of business and finance. That&apos;s why James Lam has returned with a new edition of this essential guide. Written to reflect today&apos;s dynamic market conditions, the Second Edition of Enterprise Risk Management: From Incentives to Controls clearly puts this discipline in perspective.Engaging and informative, it skillfully examines both the art as well as the science of effective enterprise risk management practices. Along the way, it addresses the key concepts, processes, and tools underlying risk management, and lays out clear strategies to manage what is often a highly complex issue. Offers in-depth insights, practical advice, and real-world case studies that explore the various aspects of ERM Based on risk management expert James Lam&apos;s thirty years of experience in this field Discusses how a company should strive for balance between risk and return Failure to properly manage risk continues to plague corporations around the world. Don&apos;t let it hurt your organization. Pick up the Second Edition of Enterprise Risk Management: From Incentives to Controls and learn how to meet the enterprise-wide risk management challenge head on, and succeed&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.155 LAM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

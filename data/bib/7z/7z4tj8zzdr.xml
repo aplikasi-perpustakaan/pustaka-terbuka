@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984938</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789865064822</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9865064820</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984938</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cong, Feicong</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">擁抱受傷的內在小孩 : 瞭解真實的自己, 看見自己的傷痛, 找回療癒自己的能力 | Yong bao shou shang de nei zai xiao hai : liao jie zhen shi de zi ji, kan jian zi ji de shang tong, zhao hui liao yu zi ji de neng li</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Xin shi ye = 246</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Every negative emotion stems from past wounds, unmet needs, and unsoothed feelings. Even if we have forgotten these events, their shadows remain buried in our subconscious, quietly influencing us. In this book, author Cong Fei shares numerous real-life cases from his ten years of counseling experience. Through the lens of five core needs—a sense of security, freedom, value, meaning, and intimacy—he guides us in interpreting what our emotions are trying to tell us. By uncovering the true source of our inner emptiness, he helps us allow our mature inner adult to comfort and care for our wounded inner child, so that we can grow and heal together with that child</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.1 CON</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
