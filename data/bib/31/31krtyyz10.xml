@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000754537</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781574214239</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1574214233</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000754537</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Knight, Choly</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Sew me! sewing basics : Simple Techniques and Projects for Firts-Time Sewers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This is the perfect book for beginner sewers, with friendly and easy-to-follow directions. Sew Me! Sewing Basics is geared towards would-be sewers of all ages, who may never have touched a sewing machine or even threaded a needle before. It&apos;s the perfect book for anyone who wants to get started in the craft, or just needs a quick refresher course in sewing. Choly Knight&apos;s friendly and easy-to-follow directions will get readers sewing with confidence, making repairs and creating new garments from scratch. She starts at the very beginning, showing how to choose a sewing machine and introducing the most basic techniques and shortcuts. From cutting patterns and sewing seams, to binding edges, gathering fabric and installing zippers, each new skill is accompanied by a quick practice exercise to try, allowing readers to learn as they sew. 36 simple and straightforward projects are provided for sewing fun accessories from plushies, pincushions and placemats to hand towels and hats.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">646.2044 KNI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

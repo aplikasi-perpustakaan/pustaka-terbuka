@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000656924</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780800734244</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">800734246</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780800719333</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">800719336</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000656924</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Leman, Kevin, Dr</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Have a New You by Friday : How to Accept Yourself, Boost Your Confidence &amp; Change Your Life in 5 Days</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">How many times have you tried to change your own habits, only to discover that changing yourself is even harder than trying to change someone else? Now, do for yourself what you did for your marriage and your children, with a five-day action plan.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.1 LEM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

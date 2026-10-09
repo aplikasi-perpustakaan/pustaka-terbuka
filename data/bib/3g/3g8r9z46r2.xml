@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000256487</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789670630816</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9670630819</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789670960340</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9670960347</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000769867</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">843497</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000276392</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">769867</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000843497</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000256487</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Comet in Our Sky : Lim Chin Siong in History</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">New Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Electronic Resources</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">320.95957</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://www.gerakbudayaebooks.com/store/p50/Comet_In_Our_Sky%3A_Lim_Chin_Siong_in_History.html</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

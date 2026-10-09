@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000563258</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000563258</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Zodiac</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Robert Graysmith is a socially awkward newspaper cartoonist. He becomes obsessed with the Zodiac, a serial killer whom was murdering people in the San Francisco area. The publicity-hungry Zodiac starts writing cryptic letters to the papers regarding the unsolved murders. He latches onto columnist Paul Avery who has the crime beat and gets overly involved with the investigation. Lead investigator, David Toschi and his partner, William Armstrong, have their hands full with the investigation and the intense interest that the story is generating. Based on actual events that occured in the 1960s and 1970s.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Streaming Video</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 ZOD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

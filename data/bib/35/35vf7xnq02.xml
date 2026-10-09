@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000843236</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000843236</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">kor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Please Come Back, Mister. VOL. 1-16 END</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">After being worked to death, Kim Young Soo gets the chance to live a charmed life when he possesses Lee Hae Joon, a hottie and all around perfect guy. Meanwhile, Hong Nan starts behaving as if she&apos;s possessed by a man, and Shin Da Hye - a widow with new romantic appetites - turn Hae Joon&apos;s department store upside down.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 PLE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

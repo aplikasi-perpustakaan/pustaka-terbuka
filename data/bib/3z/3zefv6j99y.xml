@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000672058</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780838911488</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">083891148X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000672058</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">LIBRARY MANAGEMENT 101 : A PRACTICAL GUIDE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Knowing the principles of general management is both useful and necessary for LIS students, but it s no less important to learn management techniques specific to the world of libraries. Created to fill a surprising educational void, this edited volume focuses on best practices from library management experts teaching in LIS programs across the country. Among the many topics discussed are: Classic and modern theories of management, and how they apply to the library ; Human resource planning ; Marketing and public relations ; Negotiations, mediation, and financial management of the library ; Facilities management. In addition to providing students with a solid foundation in library management, experienced managers will also benefit from the structured, practical knowledge included in this impressive volume.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">025.1 LIB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

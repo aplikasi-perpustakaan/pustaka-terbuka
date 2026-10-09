@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876348</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781785602887</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1785602888</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">2056-7693 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09388330</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876348</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Accessible instructional design</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Advances in special education technology, v. 2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The Advances in special education technology series is designed to focus international attention on applications of technology for individuals with disabilities. Outstanding researchers from around the world will contribute  chapters synthesizing the research evidence on specific types of technology  applications that improve access, engagement, and learning outcomes of  diverse learners.The scope of contributions will cover subfields known as assistive technology, instructional design, instructional technology, online learning, personalized learning, and universal design for learning and will encompass both formal and informal learning settings across the lifespan. Instructional designers often fail to consider issues of accessibility when creating educational materials. As a result, students with disabilities frequently encounter physical, sensory, or cognitive barriers that prevent them from accessing, engaging, and succeeding in learning activities. This volume will examine issues of accessibility and how designers can improve the quality of educational materials by embedding supports that anticipate the special learning needs of diverse learners</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">720</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/2056-7693/2</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

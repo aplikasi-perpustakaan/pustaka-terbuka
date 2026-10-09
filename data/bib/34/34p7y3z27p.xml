@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000741898</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780723286431</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">723286434</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000741898</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Barker, Cicely Mary, 1895-1973</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Flower Fairies of the SPRING</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">PICTURE BOOKS. This is a beautiful new gift edition of Cicely Mary Barker&apos;s Flower Fairies of the Spring. You can relive the beauty and the magic of Cicely Mary Barker&apos;s famous Flower Fairies, with a special new edition of Cicely Mary Barker&apos;s Flower Fairies of the Spring. A perfect gift for fairy fans young and old, this brand new edition of Flower Fairies of the Spring features a stunning cover with an unusual and intricate cut-out design that gives the illusion of delicate lace. Each page features Cicely Mary Barker&apos;s iconic and beautifully painted fairies, representing the delicate flowers of the spring. This gorgeous gift edition is a wonderful celebration of the beauty of spring. Ages 0+</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">821.912 BAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

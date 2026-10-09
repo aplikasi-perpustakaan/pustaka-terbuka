@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000704834</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781856048217</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1856048217</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000704834</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Digital libaries and information access : Research perspectives</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;An authoritative and truly global exploration of current research in digital libraries. Internationally-renowned academics discuss what has been achieved with digital libraries and what we can expect in the future through the prism of research. The increasing number of digital libraries in all sectors and the pressure of ever demanding and diverse user needs has encouraged development of user-centred interfaces, intelligent search and retrieval capabilities, effective metadata description and contents organisation. In addition to the two editors who are renowned for their works in digital library research, this collection brings together established international names in the field such as Elena Maceviciute, Suliman Hawamdeh, Chris Yang, Stefan Gradmann, Michael Fraser, Tom Wilson and Ali Shiri to analyse these developments in relation to users and information access and the future trends and challenges that practitioners will face. Providing an invaluable resource for LIS students, academics and researchers interested in digital libraries and access, it is also a useful introduction to developments for those developing, managing or just starting out with digital libraries.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">025.042 DIG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

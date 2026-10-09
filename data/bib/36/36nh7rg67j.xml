@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000874711</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781785601408</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1785601407</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0147-9121 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09363978</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000874711</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Gender in the labor market</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Research in labor economics ; v. 42.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Although converging somewhat, men are still economically more successful than women. These stark economic differences prevail in the United States and in virtually all countries throughout the world. This volume contains a number of important new articles analyzing reasons for continuing gender discrepancies in wellbeing. To get at these incongruities, the volume analyzes a number of key questions including: Do men seek greater financial risk than women? Do men really bargain better, and under what circumstances? Why are women rapidly closing the college enrollment gap, but not the wage gap? How do educational choices affect men&apos;s and women&apos;s starting salaries? What are the chances of women attaining the same occupational status as men? And, how does intergenerational socioeconomic mobility differ between sons and daughters? The answers will not only further our understanding of resource distribution, but will also inform the policy debate on where within society one finds discriminatory practices and where one does not</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">331.12</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/0147-9121/42</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

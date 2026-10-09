@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000963950</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789675433603</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9675433604</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000963950</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">金能惠 | Jin, Neng Hui</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">智慧的生活方式·八正道 | Zhihui de shenghuo fangshi ·ba zheng dao</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">法雨叢書; 85 | Fa yu cong shu ; 85</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">By practicing the Noble Eightfold Path, one understands the truths of suffering, emptiness, impermanence, and non-self in the world, and the law of karma, one can follow karma without being bound by it, so as to be able to follow karma without changing, and to follow karma without changing, so as to be able to recognize the dharmas of the world, and to be able to realize the first meaning without moving, and then to be at peace, and to be able to live with a life of openness and wisdom.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">294.548 JIN</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737808</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062307552</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">006230755X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737808</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Blum, Howard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">DARK INVASION : 1915 : Germany&apos;s secret war and the hunt for the first terrorist cell in America</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Combining the pulsating drive of Showtime&apos;s Homeland with the fascinating historical detail of such of narrative nonfiction bestsellers as Double Cross and In the Garden of Beasts, Dark Invasion is Howard Blum&apos;s gritty, high-energy true-life tale of German espionage and terror on American soil during World War I, and the NYPD Inspector who helped uncover the plot--the basis for the film to be produced by and starring Bradley Cooper. When a &quot;neutral&quot; United States becomes a trading partner for the Allies early in World War I, the Germans implement a secret plan to strike back. A team of saboteurs--including an expert on germ warfare, a Harvard professor, and a brilliant, debonair spymaster--devise a series of &quot;mysterious accidents&quot; using explosives and biological weapons, to bring down vital targets such as ships, factories, livestock, and even captains of industry like J.P. Morgan. New York Police Inspector Tom Tunney, head of the department&apos;s Bomb Squad, is assigned the difficult mission of stopping them. Assembling a team of loyal operatives, the cunning Irish cop hunts for the conspirators among a population of more than eight million Germans. But the deeper he finds himself in this labyrinth of deception, the more Tunney realizes that the enemy&apos;s plan is far more complex and more dangerous than he suspected.Full of drama and intensity, illustrated with eight pages of black and-white photos, Dark Invasion is riveting war thriller that chillingly echoes our own time&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">940.48673 BLU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

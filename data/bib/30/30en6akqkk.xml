@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000775779</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781444769890</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1444769898</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000775779</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Harcombe, Zoe</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE HARCOMBE DIET 3-STEP PLAN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A word-of-mouth bestseller, The Harcombe Diet has already transformed the lives of thousands of people by helping them to lose weight permanently. Now let it do the same for you. New and easy-to-follow, The Harcombe Diet 3-Step Plan takes you through the 3 stages of the unique Harcombe programme. The first stage will help you lose up to 7 pounds in 5 days and by completing all three stages you&apos;ll permanently change the way you eat. In The Harcombe Diet 3-Step Plan, Zoe Harcombe explains how dieting makes us fatter and induces three common conditions which cause uncontrollable food cravings. By following the 3-Step Plan you can overcome these conditions and lose weight - not by counting calories or starving yourself, but simply by eating real food. You&apos;ll start this diet to lose weight. You&apos;ll stay on it because you&apos;ll feel healthier than you can every remember - and you&apos;ll lose weight.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">613.25 HAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

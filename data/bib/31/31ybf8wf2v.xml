@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000874642</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781785604980</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1785604988</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0732-0671 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09387912</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000874642</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Library staffing for the future</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Advances in library administration and organization, v. 34</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The latest volume of Advances in library administration and organization, contains approaches from researchers around the world.  Sourced in management theory and hands-on practice, the chapters explore such issues as skills-building and other professional development activities, changing demographic profiles of staff, changing modes of resource provision, succession planning, remote work, and planning for Linked Data.  New approaches to student staffing are examined, along with the relationship of library work to topics such as emotional intelligence and positive organizational behavior. Several chapters put forth research and case study information regarding methods for dealing with large-scale changes in library staffing with regard to budget, space, and mode of information delivery. The work as a whole addresses sustainability issues in library staffing both regarding the day-to day work of libraries and in planning for the future. Library staffing for the future provides the reader with a thorough look at relevant staffing issues for libraries today and going forward, and provides advice and information grounded in the theoretical as well as the practical</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">25.1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/0732-0671/34</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

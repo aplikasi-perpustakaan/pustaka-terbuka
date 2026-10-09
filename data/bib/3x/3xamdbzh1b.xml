@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000558096</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789241594653</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9241594659</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789251055779</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9251055777</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000558096</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Benefits and potential risks of the lactoperoxidase system of raw milk preservation : report of an FAO/WHO technical meeting, FAO headquarters, Rome, 28 November - 2 December 2005 ; [report coordinated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Lactoperoxidase is an enzyme that is naturally present in milk. The activation of the lactoperoxidase in the presence of hydrogen peroxide and thiocyanate, both of which are naturally present in milk, has a bacteriostatic effect on raw milk and effectively extends the shelf life of raw milk for 7-8 hours under ambient temperatures of around 30C or longer at lower temperatures. Such an extension of the shelf-life particularly under warm ambient conditions can allow adequate time for the milk to be transported from the collection point to a processing centre without refrigeration. FAO and WHO convened a technical meeting to review the most recent scientific information on the risks and benefits of the lactoperoxidase system, and its application to international trade. This report provides the output of the meeting including a summary report of the most recent information on the topic, and the discussions and recommendations of the technical meeting</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">637.14 BEN</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

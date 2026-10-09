@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000775634</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780857832900</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">857832905</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000775634</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Vatcharin Bhumichitr</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">50 great curries of thailand</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">From well-known favourites such as Green Curry to regional specialities like Gaeng Gai Chian Rai (Northern Chicken Curry) and Stuffed Curry Mussels, top Thai chef Vatcharin Bhumichitr presents 50 of Thailand&apos;s best curries. The gorgeous photographs and useful hints and tips help you dive straight into cooking your own authentic curries at home. The secret to a good Thai curry is a fresh curry paste, made with aromatic ingredients. Vatch begins by teaching you how to create a range of these zingy mixtures of herbs and spices, which form the heart of nearly all Thai dishes, before going on to demonstrate how they can be used in delicious and healthy curries. With a great range of vegetable-, fish- and meat-based curries, from the sumptuous Roast Duck with Lychee Curry to the fresh and tasty Stir-fried Spicy Seafood, there is a wealth of flavour and spice to choose from.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.59593 VAT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

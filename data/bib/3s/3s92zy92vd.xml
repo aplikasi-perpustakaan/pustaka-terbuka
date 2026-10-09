@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000443896</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000080939</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000443896</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">I know what u did last raya</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Dr. Mira bersama kawan-kawannya, Lan, Fazzly, Yasir dan Sahida telah diculik oleh penjahat bernama Man akibat dari dendam yang telah sekian lama tersimpan. Sementara itu, ada misteri yang berlaku pada malam raya menyebabkan huru-hara satu kampung.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Streaming Video</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.436170899923 IK</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

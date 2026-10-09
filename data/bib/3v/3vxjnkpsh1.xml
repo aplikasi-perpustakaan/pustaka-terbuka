@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746314</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780425269459</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">425269450</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746314</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">D&apos;Adamo, Peter J.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Eat right 4 your type personalized cookbook type A : 150+ healthy recipes for your blood type diet</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Based on his revolutionary and highly effective Blood Type Diet, Dr. Peter J. D&apos;Adamo, with personal wellness chef Kristin O&apos;Connor, has written a set of practical, personalized cookbooks so you can eat right for your type every day! Packed with recipes specifically designed for your Blood Type A diet, the Personalized Cookbook features a variety of delicious and nutritious recipes for breakfast, lunch, and dinner, as well as snacks, soups, and other tempting treats that make eating right for your type easy and satisfying. It is an essential kitchen companion with masterfully crafted recipes that make cooking with plant-based proteins, whole grains, and organic vegetables and fruits an exciting and healthy adventure. In this book, you will find delicious recipes for Blueberry-Macadamia Muffins, Roasted-Artichoke Greek Salad, and Moroccan Tofu Tagine. In addition to more than 150 recipes and beautiful color photos, this book also includes: - Valuable tips on stocking the Blood Type A pantry and freezer - Creative ideas for last-minute meals - A four-week meal planner - Recipes tagged for non-Secretors and suitable substitutions&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.5631 DAD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000666637</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780230113824</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">230113826</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000666637</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Guest, Robert</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BORDERLESS ECONOMICS : CHINESE SEA TURTLES, INDIAN FRIDGES AND THE NEW FRUITS OF GLOBAL CAPITALISM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First edition: November 2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Today, thanks to the ease of technology and travel, we enjoy unprecendented levels of interconnectedness. Societies are increasingly mobile, and immigrant populations maintain strong ties with their native countries, allowing for an unbroken chain of innovation and knowledge that stretches all the way back home. Robert Guest, Global Business Editor for The Economist, shows how today&apos;s tribal networks transcend national borders, and how they are shaping the global community in unforeseen ways, including: *So-called &quot;Chinese sea turtles,&quot; young Chinese who come to the West for college before returning to China, eagerly absorb democratic ideals along with their technical training. Now, as they assume leadership positions in Chinese government and business, they will slowly turn China democratic. *Indian diasporas, having long brought western technology to their home countries, are now bringing Indian technology to the West. They&apos;ve already developed $70 refrigerators and $2,000 cars; their frugal innovations and managerial know-how are about to turn the global economy on its head. In a world where trade, trust, and information flow through ethnic networks, the nation that values open borders and encourages the growth of its diaspora populations will be the superpower of the twenty-first century. With on-the-ground reporting from dozens of countries, this is a timely look at the forces greater than national boundaries, and how they can be harnessed to move the whole planet forward&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">303.48209 GUE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

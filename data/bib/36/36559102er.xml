@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000714336</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">838958613</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780838958612</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0024-2586</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000714336</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">King, David Lee, 1966-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Running the Digital Branch : Guidelines for Operating the Library Website</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Library Technology REPORTS ; v. 48, no. 6.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Maintaining a library website is as important as its initial development.  In this issue of Library Technology Reports King draws from his team&apos;s four-year experience running the acclaimed digital branch of the Topeka &amp; Shawnee County Public Library (TSCPL).  From website tweaks to staffing issues, King outlines recommended strategies and workflow plans for continually meeting library users&apos; needs and effectively highlighting library programs and services, including : Ways to engage library users in conversations about books, movies, and other materials ; A detailed listing of what data TSCPL tracks and the tools they use for the website, blogs, and social media platforms such as YouTube, Twitter, Facebook, and FourSquare ; Their team&apos;s approach to efficiently maintaining 24 blogs and six social media accounts ; Tips for using rotating banner ads to draw attention to website content, a technique which brought in 3,000+ page views for a post about the new library catalog and more. The lessons learned by King and his team at TSCPL can help any library sharpen their presence on the Web while efficiently maintaining library website operations.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">025.0422 KIN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

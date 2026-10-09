@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000741137</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780399165559</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">039916555X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000741137</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">NOW WRITE! SCIENCE FICTION, FANTACY, AND HORROR : Speculative Genre Exercises from Today&apos;s Best Writers and Teachers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Now write! series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Featuring speculative fiction-writing exercises from Harlan Ellison (R), Piers Anthony, Ramsey Campbell, Jack Ketchum, screenwriters of The Twilight Zone and Star Trek: The Next Generation, and many more. The fifth volume in the acclaimed Now Write! writing-guide series offers a full toolbox of advice and exercises for speculative fiction writers hoping to craft an engaging alternate reality, flesh out an enthralling fantasy quest, or dream up a bloodcurdling plot twist, including: -Harlan Ellison (R), on crafting the perfect story title -Jack Ketchum, on how economy of language helps create a truly frightening tale -Piers Antony, on making fantastical characters feel genuine and relatable This collection of storytelling secrets from top genre writers-including winners of Nebula, Hugo, Edgar, and Bram Stoker awards-is essential for any writer looking to take a leap beyond the ordinary&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">808.38762 NOW</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

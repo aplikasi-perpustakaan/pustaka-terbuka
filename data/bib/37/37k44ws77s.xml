@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000844140</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000844140</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">the uninvited</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">After the death of her ill mother in a fire, the young teenager Anna tries to commit suicide and is sent to a mental institution for treatment. Ten months later, Anna still cannot remember what had happened on the night her mother died. Her psychiatric Dr. Silberling, however, discharges her telling that she has resolved her issues. Her father and successful writer, Steven, brings her back home in an isolated mansion nearby the coast. Anna finds that her mother&apos;s former nurse, Rachel Summers, is her stepmother now. Anna meets her beloved sister, Alex, swimming in the sea. She discovers that Steven has not delivered the letters and CDs that Alex had sent to her. As time moves on, Anna is haunted by ghosts and she believes that Rachel killed her mother. Alex and Anna decide to look for evidence to prove that Rachel is the murderer and Anna discovers the truth about the fire in the boat house.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Videorecording</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43 UNI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

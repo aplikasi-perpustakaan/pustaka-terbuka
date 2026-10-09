@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000956702</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000956702</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">jpn</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Gintama : THE MOVIE. 1-3</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010-2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In the early 17th century, Japan adopted strict isolation policies and severed almost all ties with foreign countries. In 1853, the US fleet commanded by Admiral Perry forced the doors open, leading to a modernization of the nation&apos;s sociopolitical systems and the eventual fall of the Shogunate. The samurai regime ended its life with the imperial restoration in 1868. That&apos;s what history tells, but in Gintama, that&apos;s not what happens. Instead of the US fleet, the country is stormed by spaceships coming from four corners of the universe and soon we see it occupied by extraterrestrials. The Shogunate has become a puppet of alien occupation armies. All samurais have been disarmed and reduced to temp workers with no skills who just try to make ends meet. Gintama is a story of a handyman named Gintoki, a samurai with no respect for rules set by the invaders, who&apos;s ready to take any job to survive. He and his gang, however, are also among the very few who have not forgotten the morale of a swordsman. Wherever they go, all they do is to create troubles.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Videorecording</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4334 GIN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

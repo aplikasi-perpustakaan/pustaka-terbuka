@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000789620</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062114983</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62114980</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000789620</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tyson, Ann, 1959-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">AMERICAN SPARTAN : THE PROMISE, THE  MISSION, AND THE BETRAYAL OF SPECIAL FORCES MAJOR JIM GANT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Veteran war correspondent Ann Scott Tyson first met Special Forces Major James Gant and heard about his battle renown when he was awarded the Silver Star several years ago. Soon after, in October, 2009, Gant rocked the US military establishment with his paper &quot;One Tribe at a Time,&quot; an incendiary criticism of what he considered a gaping hole in U.S. strategy: The failure to engage Afghanistan&apos;s powerful Pashtun tribes on the eastern border with Pakistan. The article went viral at the Pentagon, the White House, and Capitol Hill and landed in the New York Times. It was even compared to David Hackworth&apos;s public and legendary opposition to military command during the Vietnam War (recounted in his massive bestseller, About Face). After much infighting among US military brass, Gant was finally tasked with a job he&apos;d wanted for a long time, the chance to join Afghan tribes in the fight against the Taliban. Top level US military leaders (including Gen. Petraeus) asked him to recruit and lead a force of hundreds of Pashtun tribal fighters--a mission unlike any that had been tried before. Gant and his men lived among the Pashtun not as Americans, but as Afghans: They wore what the natives wore, slept where they slept, and died for the tribe, if necessary. They were told: &quot;No one can leave until the mission is complete.&quot; The more time Tyson spent with Gant in preparation for his deployment, the more she grew to believe that there was a larger story to tell--about a people desperate to defend their homeland against insurmountable odds, and about Gant the man and the warrior. She began to share his vision that Americans could fight alongside the Pashtuns and turn the tide of the war. Soon she agreed to accompany him to Afghanistan and risk her life to write about it. And then love&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">958.1047373092 TYS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

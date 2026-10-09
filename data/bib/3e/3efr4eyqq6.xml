@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000745362</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781137337436</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1137337435</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000745362</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kerr, James M.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE EXECUTIVE CHECKLIST : A GUIDE FOR SETTING DIRECTION AND MANAGING CHANGE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Today&apos;s economy is rapidly shifting and extremely complex. As we enter this new commercial age, a global restructuring of the business world is underway. Executives must respond to this change by re-imagining their organizations&apos; structures, enhancing product and service offerings, and leveraging emerging technological capabilities in order to keep their organizations vital for years to come. Written for executives and those aspiring to become one, this book serves as a primer for how to set direction and manage change within the 21stcentury enterprise. This book demystifies key aspects of today&apos;s leadership challenge and outlines the steps necessary to revitalize today&apos;s businesses. The See It In Action sidebars provide real world examples of how these concepts are already being implemented in businesses today, featuring companies such as CIGNA HealthCare, Forbes Insights, Virgin Records, DreamWorks Animation, Google, Molex, and Marriott International. Together, these chapter checklists encompass a guide that can be used to institute an overarching, enterprise-wide transformation program and make today&apos;s ultra-complex business world a little easier to manage.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4063 KER</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

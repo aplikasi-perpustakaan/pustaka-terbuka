@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000736235</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781455599202</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1455599204</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000736235</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ashley, Kristen.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">WILD MAN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">DREAM MAN NOVEL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">She&apos;s about to walk on the wild side . . . While filling the display case in her bakery, the bell over the door sounds and Tessa O&apos;Hara looks up to see the man of her dreams. Within thirty seconds he asks her out for a beer. But after four months of dating, she discovers he&apos;s an undercover DEA agent-and he&apos;s investigating her possible role in her ex-husband&apos;s drug business. For Tess, this means their relationship is over. Brock disagrees. He&apos;s committed to his anti-drug mission, but he&apos;s fallen in love with the beautiful woman who&apos;s as sweet as her cupcakes-and he&apos;ll do anything to win her back. Standing between Tess and Brock are their own exes, one of them a drug lord who&apos;s determined to get what he wants. Now as danger threatens, can Brock break the rules he&apos;s lived by and let loose his wild side to protect the woman he loves?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">ASH</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

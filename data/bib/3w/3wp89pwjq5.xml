@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737650</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780307594136</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">307594130</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737650</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Moore, Lorrie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BARK : Stories</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In these eight masterful stories, Lorrie Moore, in a perfect blend of craft and bewitched spirit, explores the passage of time and summons up its inevitable sorrows and hilarious pitfalls to reveal her own exquisite, singular wisdom. In &quot;Debarking,&quot; a newly divorced man tries to keep his wits about him as the United States prepares to invade Iraq, and against this ominous moment, we see--in all its irresistible hilarity and darkness--the perils of divorce and what can follow in its wake. In &quot;Foes,&quot; a political argument goes grotesquely awry as the events of 9/11 unexpectedly manifest at a fund-raising dinner in Georgetown. In &quot;The Juniper Tree,&quot; a teacher, visited by the ghost of her recently deceased friend, is forced to sing &quot;The Star-Spangled Banner&quot; in a kind of nightmare reunion. And in &quot;Wings,&quot; we watch the unraveling of two once-hopeful musicians who neither held fast to their dreams nor struck out along other paths as Moore deftly depicts the intricacies of dead ends and the workings of regret.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">MOO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000624775</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781583332368</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1583332367</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000624775</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Balch, Phyllis A., 1930-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Prescription for nutritional healing /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">4th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This new edition incorporates the most important up-to-date findings in the field of nutrition - from chromium picolinate to melatonin to shark cartilage. It also provides the latest research on herbal medicine - examining cat&apos;s claw, saw palmetto, yohimbe, kombucha, and much more. Written by a medical doctor and a certified nutritionist, this newly revised book provides all the information needed for the average person to design his or her own nutritional program for better health. The book is divided into three parts. Part One explains and lists the various types of nutrients, food supplements, and herbs found in health food stores and drugstores; Part Two describes common disorders, from acne to cancer to yeast infection, and names the supplements that can be used to combat the conditions; and Part Three is a guide to traditional remedies and therapies that can be used in conjuntion with a nutritional program. In addition, there are helpful self-diagnostic tests and insets throughout the book. Included are the latest research and theories on the treatment of aging, Alzheimer&apos;s disease, chronic fatigue, endometriosis, fibromyalgia, HIV and AIDS, infertility, inflammatory bowel disorders, osteoporosis, and a host of other critical subjects. Written in an easy-to-understand style, this new edition will fast become an indispensable health resource for you and your family</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">615.854 BAL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738684</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118435298</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">111843529X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738684</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Johnson, Chris, 1957-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ON TARGET LIVING : YOUR GUIDE TO A LIFE OF BALANCE, ENERGY, AND VITALITY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Make your company--its employees and its culture--healthier inside and out Energy and wellness are of ever increasing importance. With an increase productivity and job satisfaction that come from a healthier life, now is the time to get healthy. A poor food environment and the demanding pace of modern day life continue to contribute to a downward spiral of health, On Target Living offers focused strategies to achieve positive results. Everyone knows that exercise and physical movement contribute to better health, energy, and performance. The challenge comes with knowing what to do and how to do it. Author Chris Johnson has taught thousands how to live a life in balance, and here he shares his practices with you. Developing healthy eating habits Incorporating exercise into daily routines Prioritizing rest and rejuvenation Learning the keys to living well and applying this knowledge to enhanced performance, increased productivity, and positive results for your life and work The journey to optimal health and performance begins with the ideas in On Target Living. Building sustainable changes into your company culture will decrease health risks and sick days while contributing to higher productivity rates, but these improvements will also contribute to healthier and more enjoyable lives for your employees&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">613 JOH</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
