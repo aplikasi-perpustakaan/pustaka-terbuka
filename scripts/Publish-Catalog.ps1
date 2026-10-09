@@ -162,30 +162,31 @@ if ($SkipPublish) {
     Write-Log "Skipping publish to gh-pages (-SkipPublish)."
 } elseif ($WhatIf) {
     Write-Log "[WhatIf] Would checkout orphan branch gh-pages, commit dist/, and force-push."
-} else {
     Write-Log "Publishing to gh-pages branch..."
-    $CurrentBranch = git rev-parse --abbrev-ref HEAD
-    
-    $ghExists = git show-ref --verify --quiet refs/heads/gh-pages
-    if ($LASTEXITCODE -eq 0) {
-        git branch -D gh-pages
+    $RemoteUrl = git config --get remote.origin.url
+    $TempDir = Join-Path ([System.IO.Path]::GetTempPath()) "pustakaterbuka-ghpages-$Timestamp"
+    if (Test-Path $TempDir) {
+        Remove-Item -Path $TempDir -Recurse -Force
     }
-    
-    git checkout --orphan gh-pages
-    git rm -rf .
-    
+    New-Item -ItemType Directory -Path $TempDir -Force | Out-Null
+
     if (Test-Path "dist") {
-        Copy-Item -Path "dist\*" -Destination . -Recurse -Force
+        Copy-Item -Path "dist\*" -Destination $TempDir -Recurse -Force
+        git -C $TempDir init -b gh-pages
+        $userName = git config user.name
+        $userEmail = git config user.email
+        if ($userName) { git -C $TempDir config user.name $userName }
+        if ($userEmail) { git -C $TempDir config user.email $userEmail }
+        git -C $TempDir add -A
+        git -C $TempDir commit -m "Deploy gh-pages for $TagName"
+        git -C $TempDir remote add origin $RemoteUrl
+        Write-Log "Force-pushing to gh-pages..."
+        git -C $TempDir push origin gh-pages --force
+        Remove-Item -Path $TempDir -Recurse -Force
+        Write-Log "Successfully published to gh-pages branch."
     } else {
-        Write-Log "WARNING: dist/ folder not found. Pushing empty or existing tree."
+        Write-Log "WARNING: dist/ folder not found. Skipping gh-pages push."
     }
-    
-    git add .
-    git commit -m "Deploy gh-pages for $TagName"
-    Write-Log "Force-pushing to gh-pages..."
-    git push origin gh-pages --force
-    
-    git checkout $CurrentBranch
 }
 
 # Step 12: Upload dumps
