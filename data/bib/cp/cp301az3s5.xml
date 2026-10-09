@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876528</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781784418731</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1784418730</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">2045-7944 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876528</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Multi-level governance the missing linkages</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Critical perspectives on international public sector management ; v. 4.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Multi-level governance (MLG) is a highly influential, supple and ductile framework for interpreting governance in complex polities. Yet, criticisms have been aimed at its allegedly overly &quot;descriptive&quot;, rather than explanatory, power. This volume argues that progress in both the study and the practice of MLG may derive from developing linkages with disciplines, perspectives and issues that have so far not been explored in connection to MLG. By discussing cases ranging from nuclear power policy to environmental policy in both the Western world and in Eastern Asia, and by engaging different theoretical perspectives and issues of practical significance, such as legitimacy in public decisions or the management of risk in multi-level settings, the book proposes ways forward for advancing the understanding of MLG - a framework of reference in the analysis of contemporary governance. The book will provide scholars and students in the fields of public administration, public policy and political science with key concepts for the analysis of contemporary governance issues, and will be a source of ideas for practitioners and policy-makers engaged in making public decisions in complex polities</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">320.44049</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/2045-7944/4</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

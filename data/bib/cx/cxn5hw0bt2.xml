@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000688901</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118134283</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118134281</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000688901</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Carson, Nacie, 1985-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The finch effect : the five strategies to adapt and thrive in your working life</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Evolve your work strategy and thrive in today’s high-pressure economyAs Darwin famously observed, the beaks of each generation of Galapagos Island finches change to accommodate shifting food resources, allowing the birds to survive by adapting their capabilities to the new environment. Today’s business people should take note: In the post-crisis economy, traditional career strategies spell professional extinction, but the fluid new &quot;gig economy&quot; offers tremendous potential for anyone willing to adapt. Based on her popular blog and drawing on her leadership development experience, Nacie Carson explains what it takes to make it in today’s world of work. Outlines and explains five steps for ensuring professional success: adopt a gig mindset; identify your value; cultivate your skills; nurture your social network; and harness your entrepreneurial energy Builds on Carson’s experience as a popular blogger on Portfolio.com and author of the popular website The Life Uncommon (thelifeuncommon.net) Features a Foreword from Craigslist founder Craig Newmark The Finch Effect offers the information professionals need to earn big, achieve their potential, and remain at the top of the work food chain&quot;-- c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">650.1 CAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

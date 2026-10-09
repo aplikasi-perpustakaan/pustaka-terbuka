@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000810080</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781421417776</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1421417774</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000810080</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Silver, Julie K</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BEFORE AND AFTER CANCER TREATMENT : Heal Faster, Better, Stronger</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Second Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Johns Hopkins Press health book</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A twelve-year cancer survivor and oncology rehabilitation specialist, Dr. Julie K. Silver wroteAfter Cancer Treatment to help others recover from the exhaustion and physical devastation that often follow treatment. This new edition of the book, retitledBefore and After Cancer Treatment, describes improved therapies, better delivery of care, holistic care options, and energetics. In covering the benefits of prehabilitation strategies, which improve physical and emotional strength before beginning therapy, the book adds another dimension to the experience of cancer treatment. Dr. Silver fills this survivor-oriented book with exercise and diet recommendations as well as step-by-step instructions for fighting fatigue, monitoring mood, and overcoming setbacks. Readers are encouraged to set balanced goals, take time to heal, and consult both conventional and alternative medicine. Most people will live for many years after their initial cancer diagnosis-often cured or in remission. Some will live with cancer as a chronic condition. The goal is always to live life to the fullest, which means feeling as strong as possible-physically and emotionally. Dr. Silver recommends daring to dream again and preparing for the future. Wherever they are in their own journey with cancer, readers will find here a personal, practical, and powerful guide to recovery.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.994 SIL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

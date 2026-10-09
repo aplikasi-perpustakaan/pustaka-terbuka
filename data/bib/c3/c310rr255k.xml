@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000762918</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781250037459</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">125003745X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000762918</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Moskin, J. Robert</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">AMERICAN STATECRAFT : THE STORY OF THE U.S. FOREIGN SERVICE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;This magisterial work on American diplomacy by a veteran journalist and historian is the first complete history of the U.S. Foreign Service American Statecraft is a fascinating and comprehensive look at the unsung men and women of the U.S. Foreign Service whose dedication and sacrifices have been a crucial part of our history for over two centuries. Fifteen years in the making, veteran journalist and historian Moskin has traveled the globe conducting hundreds of interviews both in and out of the State Department to look behind the scenes at America&apos;s &quot;militiamen of diplomacy.&quot; As the nation&apos;s eyes and ears, our envoys pledge a substantial part of their lives in foreign lands working for the benefit of their nation. Endeavoring to use dialogue and negotiation as their instruments of change, our diplomats tirelessly work to find markets for American business, rescue its citizens in trouble abroad, and act in general as &quot;America&apos;s first line of defense&quot; in policy negotiations, keeping America out of war. But it took generations to polish these skills, and Moskin traces America&apos;s full diplomatic history, back to its amateur years coming up against seasoned Europeans during the days of Ben Franklin, now considered the father of the U.S. Foreign Service, and up to the recent Benghazi attack. Along the way, its members included many devoted and courageous public servants, and also some political spoilsmen and outright rogues. An important contribution to the political canon, American Statecraft recounts the history of the United States through the lens of foreign diplomacy&quot;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">327.73 MOS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

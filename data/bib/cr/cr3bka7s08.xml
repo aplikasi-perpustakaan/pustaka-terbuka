@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000814387</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062443878</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62443879</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000814387</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Passarlay, Gulwali</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE LIGHTLESS SKY : A Twelve-Year-Old Refugee’s Harrowing Escape from Afghanistan and His Extraordinary Journey Across Half the World</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">FIRST EDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A gripping, inspiring, and eye-opening memoir of fortitude and survival--of a twelve-year-old boy&apos;s traumatic flight from Afghanistan to the West--that puts a face to one of the most shocking and devastating humanitarian crises of our time.&quot;To risk my life had to mean something. Otherwise what was it all for?&quot;In 2006, after his father was killed, Gulwali Passarlay was caught between the Taliban who wanted to recruit him, and the Americans who wanted to use him. To protect her son, Gulwali&apos;s mother sent him away. The search for safety would lead the twelve-year-old across eight countries, from the mountains of eastern Afghanistan through Iran and Europe to Britain. Over the course of twelve harrowing months, Gulwali endured imprisonment, hunger, cruelty, brutality, loneliness, and terror--and nearly drowned crossing the Mediterranean Sea. Eventually granted asylum in England, Gulwali was sent to a good school, learned English, won a place at a top university, and was chosen to help carry the Olympic Torch in the 2012 London Games.In The Lightless Sky, Gulwali recalls his remarkable experience and offers a firsthand look at one of the most pressing issues of our time: the modern refugee crisis--the worst displacement of millions of men, women, and children in generations. Few, like Gulwali, make it to a country that offers the chance of freedom and opportunity. A celebration of courage and determination, The Lightless Sky is a poignant account of an exceptional human being who is today an ardent advocate of democracy--and a reminder of our responsibilities to those caught in terrifying and often deadly circumstances beyond their control.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">958.10471 PAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

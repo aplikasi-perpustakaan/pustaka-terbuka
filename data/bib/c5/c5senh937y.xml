@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000730586</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780240818689</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">240818687</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000730586</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Elkins, David E.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Camera Assistant&apos;s Manual</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">SIXTH EDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Excel as a Camera Assistant (AC) in today&apos;s evolving film industry with this updated classic. Learn what to do--and what NOT to do--during production and get the job done right the first time. The Camera Assistant&apos;s Manual, Sixth Edition covers the basics of cinematography and provides you with the multi-skill set needed to maintain and transport a camera, troubleshoot common problems on location, prepare for job interviews, and work with the latest film and video technologies. Illustrations, checklists, and tables accompany each chapter and highlight the daily workflow of an AC. The new edition has been updated to include: - All new sample reports and forms including AC time cards, resume templates, a digital camera report, and a non-prep disclaimer - A fresh chapter on the entry level camera positions of Camera Trainee/Production Assistant - Instruction and custom forms to help freelance filmmakers keep track of daily expenses for tax purposes - Coverage of emerging iPhone apps that are used by filmmakers and ACs on set - An updated companion website offering online tutorials, clips, and techniques that ACs can easily access while on location (www.cameraassistantmanual.com)&quot; --</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">777 ELK</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

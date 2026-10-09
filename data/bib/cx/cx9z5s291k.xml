@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000658488</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118004760</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118004760</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000658488</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Roedy, Bill</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">What make business rock : building the world&apos;s largest global networks</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Global business lessons from Bill Roedy, the man who built the world&apos;s largest entertainment network. What Makes Business Rock is the compelling story of how Bill Roedy, the Chairman and CEO of MTV International, built the largest international entertainment network in existence, much of the time having to make up answers for questions which had never before been asked.. It&apos;s a free-wheeling, rock and rolling tale filled with a fascinating cast of characters including British entrepreneur Robert Maxwell, Rupert Murdoch and Sumner Redstone, Bono, the Pope, and a range of legendary politicians such as Nelson Mandela, Vladimir Putin, and Fidel Castro.. An important primer on how to build and manage a business in an environment of continually evolving and developing communications platforms. Deals with the cultural demands of countries as diverse as China, Zambia, and Ireland. A business book masquerading as the memoir of one of the most important people in the music industry. Entertaining and engaging, What Makes Business Rock offers an up close look at Bill Roedy the person and professional, and uncovers the innovative strategies he used to help make MTV the most successful, and best known, media brand in the world.&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">384.55065 ROE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

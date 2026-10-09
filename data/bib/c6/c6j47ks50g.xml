@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000773958</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415517409</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415517400</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000773958</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">EMPOWERING THE CHILDREN&apos;S AND YOUNG PEOPLE&apos;S WORKFORCE : Practice based knowledge, skills and understanding</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;While the provision in Children&apos;s and Young People&apos;s Services endures much change and turbulence, the calling for well qualified and critically reflective practitioners remains ever present. This innovative and accessible core textbook explores key themes, ideas, concepts and topics that are central to practitioners working across the 0-19 sector. It aims to help students develop the professional knowledge, practical skills and core values they need to work effectively with children and young people.Clearly divided into four sections; the practitioner, the learner, the workplace and the community, the book covers a broad range of issues including:The different roles and responsibilities of the workforce Multi-agency working and its challenges Working with parents, carers and the community Supporting children with additional needs and meeting the needs of gifted learners Work-based reflective practice Language learning and communication At each stage the book facilitates opportunities for personal and professional reflection, discussion, debate and action through case studies, activities, reflective tasks, areas for further consideration, and annotated further readings. The text also features a glossary of terms and links to practice standards.Empowering the Children&apos;s and Young People&apos;s Workforce seeks to empower the reader by supporting their initial and continuing professional development, enabling them to positively influence provision for children and young people. It will be essential reading for anyone training to work in this sector&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">362.70683 EMP</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
