@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737811</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062266736</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">006226673X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062266743</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62266748</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000812413</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737811</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Saul, Richard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ADHD DOES NOT EXIST : The Truth About Attention Deficit and Hyperactivity Disorder</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Few mental disorders have been met with more controversy in recent years than Attention deficit-hyperactivity disorder. An estimated 4.7% of adults, and up to 16% of children are living with ADHD in the US. However, some allege that doctors are handing out prescriptions indiscriminately. Thousands of patients respond poorly to stimulant medication, which is at times prescribed to individuals without the condition. There have been countless reports of students and professionals abusing Adderall or Ritalin to enhance their performance in the classroom and at work. Meanwhile, pharmaceutical companies have found a goldmine. Yet the symptoms of attention-deficit and hyperactivity are all-too-real for many individuals who are frequently unable to function without treatment. The controversy surrounding the medication has left these patients and their families at a frustrating standstill, with no alternative options available to them. In ADHD Does Not Exist Dr. Richard Saul offers a groundbreaking solution. After thousands of clinical trials, he has determined that ADHD is not an entity on its own, but in fact a cluster of symptoms stemming from 12 other conditions, each of which requires a separate treatment. The comprehensive list ranges from harmless conditions (poor eyesight and giftedness) to more severe illnesses (bipolar disorder). Dr. Saul takes the reader through clinical examples in which he alters peoples&apos; lives by diagnosing the underlying cause of their attention-deficit symptoms. ADHD Does Not Exist will serve as a handbook for doctors, practitioners, educators, and individuals who are seeking an honest approach to treating ADHD. The book will also be of cultural importance, as it aims to deconstruct one of the most elusive medical conditions of our time&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">618.928589 SAU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

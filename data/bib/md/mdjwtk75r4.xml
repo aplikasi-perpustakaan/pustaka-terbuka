@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000782009</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422189412</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422189414</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000782009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Friedman, Stewart D.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">LEADING THE LIFE YOU WANT : Skills for Integrating Work and Life</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Must professional accomplishments come at the expense of having a full life? Not according to Wharton professor and leadership and work-life expert Stewart D. Friedman. In his new book, Friedman identifies critical skills for leading an authentic and balanced life, and illustrates them through the compelling stories of six remarkable high-profile people. He also shows how to develop and apply each skill through a series of exercises anyone can use. Each leader showcased in the book-Bruce Springsteen, Michelle Obama, Sheryl Sandberg, Tom Tierney, Eric Greitens, and Julie Foudy-exemplifies a specific set of skills for achieving greater harmony between work and life. Friedman identifies these discrete skills-for being real, being whole, and being innovative-that reduce conflict. Then, based on in depth interviews and research, he paints a dramatic picture of the creative ways these six very different leaders pursue authenticity and harmony every day. Friedman also includes exercises for practicing each skill, along with actionable ideas curated from research in organizational psychology and related fields, for applying them. This book will inspire and reinforce the changes people want to make to lead more balanced lives and to become better leaders&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">650.1 FRI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

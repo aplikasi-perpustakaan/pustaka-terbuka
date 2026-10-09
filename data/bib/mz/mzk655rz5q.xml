@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000722282</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781591846215</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1591846218</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000722282</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Segall, Ken</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Insanely Simple : The Obsession That Drives Apples&apos;s Success</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Simplicity isn&apos;t just a design principle at Apple--it&apos;s a value that permeates every level of the organization. The obsession with simplicity is what separates Apple from other technology companies. It&apos;s what helped Apple recover from near death in 1997 to become the most valuable company on Earth in 2011. Thanks to Steve Jobs&apos; uncompromising ways, you can see simplicity in everything APple does: the way it&apos;s structured, the way it innovates, and the way it speaks to its customers. It&apos;s by crushing the forces of complexity that the company remains on its stellar trajectory. As ad agency creative director, Ken Segall played a key role in Apple&apos;s resurrection, helping to create such critical marketing campaigns as Think different. By naming the iMac, he also laid the foundation for naming waves of i-products to come. Segall has a unique perspective, given his years of experience creating campaigns for other iconic tech companies, including IBM, Intel, and Dell. It was the stark contrast of Apple&apos;s ways that made Segall appreciate the power of simplicity--and inspired him to help others benefit from it</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4094 SEG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

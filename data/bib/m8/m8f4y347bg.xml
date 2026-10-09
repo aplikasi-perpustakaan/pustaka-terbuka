@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000733665</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422196571</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422196577</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1578518520</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781578518524</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000338521</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000733665</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Christensen, Clayton M.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE INNOVATOR&apos;S SOLUTION : CREATING AND SUSTAINING SUCCESSFUL GROWTH</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2003-2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A seminal work by bestselling author Clayton M. Christensen, now with a refreshed package.  In the international bestseller The Innovator&apos;s Dilemma, Clayton Christensen exposed the Achilles&apos; heel of many companies: by ignoring the disruptive technologies that evolve to displace them, they help initiate their own demise. In The Innovator&apos;s Solution, Christensen and Michael Raynor take the idea of disruption one step further--explaining how companies can and should become disruptors themselves.  Now with a new look, The Innovator&apos;s Solution proves just how timely and relevant these ideas continue to be in today&apos;s hyper-accelerated business environment. Christensen (author of the award-winning Harvard Business Review article, &quot;How Will You Measure Your Life?&quot;), and Raynor give usable advice on the business decisions crucial to achieving truly disruptive growth and propose guidelines for developing your own disruptive growth engine.  Citing in-depth research and theories tested in hundreds of companies across many industries, The Innovator&apos;s Solution is an important addition to any innovation library and an essential read for entrepreneurs and business builders.  Published by Harvard Business Review Press. &quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4063 CHR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000657508</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781742370286</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1742370284</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000657508</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McKernan, Michael</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Gallopoly : a short history</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Jack Fothergill worked on Melbourne&apos;s trams before he went to war and was killed on Pine Ridge on 25 April 1915. In Gallipoli, Michael McKernan tells Jack&apos;s story and that of his family, who never recovered from their grief. He also tells the stories of journalist Charles Bean, Chaplain Bill McKenzie, John Treloar and General Ian Hamilton, capturing the essence of what it was really like for the men who fought on the Gallipoli peninsula during that long campaign. AU Author. A concise and very readable account of the whole Gallipoli campaign written in Michael&apos;s very personal style. Describes: the planning, or rather the lack of planning that went into the campaign; the actual campaign itself and while it does describe the main battles, the landing and withdrawal it doesn&apos;t get into the minute details that most other books get into and which I believe are incomprehensible to the general reader; it describes the impact of the campaign on the folk at home &amp; the way the nation changed from a feeling of great pride early in the campaign to one of horror as the casualty list mounted; and it describes the agonizing that went into the decision to withdraw from the peninsular. While describing in graphic details the horrors of the campaign and the ultimate failure it does get across the message that the Anzacs did a fantastic job and against all odds nearly succeeded in their campaign. Australian History. World War I.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">940.426 MACK</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

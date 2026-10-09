@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000742313</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118735718</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118735714</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000742313</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tracy, John A.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE COMPREHENSSIVE GUIDE ON HOW TO READ A FINANCIAL REPORT : WRINGING VITAL SIGNS OUT OF THE NUMBERS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Financial reports provide vital information to investors, lenders, and managers. Yet, the financial statements in a financial report seem to be written in a foreign language that only accountants can understand. This comprehensive version of How to Read a Financial Report breaks through that language barrier, clears away the fog, and offers a plain-English user&apos;s guide to financial reports. The book features new information on the move toward separate financial and accounting reporting standards for private companies, the emergence of websites offering financial information, pending changes in the auditor&apos;s report language and what this means to investors, and requirements for XBRL tagging in reporting to the SEC, among other topics. Makes it easy to understand what financial reports really say. Updated to include the latest information financial reporting standards and regulatory changes written by an author team with a combined 50-plus years of experience in financial accounting. This comprehensive edition includes an ancillary website containing valuable additional resources. With this comprehensive version of How to Read a Financial Report, investors will find everything they need to fully understand the profit, cash flow, and financial condition of any business.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">657.3 TRA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

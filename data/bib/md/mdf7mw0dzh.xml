@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876219</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787437180</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787437183</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">1745-8862 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787437180</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876219</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Distance in international business : concept, cost and value</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Progress in international business research, volume 12</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This research and teaching volume has been composed in honour of Rosalie Tung, a distinguished institution builder, thought leader and educator in the field of international business (IB).  The volume addresses Rosalie Tung&apos;s main research focus in a career that has already spanned several decades, namely the analysis of distance facing multinational enterprises (MNEs), with a focus on state-of-the-art conceptual and fact-based empirical developments in the realm of cultural and institutional distance elements. The impact of distance on international business transactions and operations remains ill-understood.  How should distance be conceptualized? Which dimensions of distance should be considered?  Is distance always a cost, or can it sometimes confer value? This twelfth volume in the Progress in International Business Research series presents extensive accounts of the contemporary scientific debate on how to assess the impacts of distance, both negative and positive ones, on the conduct of international business. This volume covers five dimensions related to the concept, cost and value of distance, in International business: the concept of distance; the cost of cultural and psychic distance; the cost of institutional distance; the value of distance; alternative lenses for IB research</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.049</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/S1745-8862201712</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

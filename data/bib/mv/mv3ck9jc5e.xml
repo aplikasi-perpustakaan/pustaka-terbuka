@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000771212</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9783791349824</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">3791349821</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000771212</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Baucheron, Elea</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">XXL : WHEN ARTISTS THINK BIG</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">When artists think big, big things happen. In Chicago&apos;s Millennium Park, thousands of visitors flock daily to Anish Kapoor&apos;s Cloud Gate to see their wondrously distorted reflections. Christo&apos;s The Gates mesmerized the citizens of New York City with its bright orange fabric draped throughout Central Park. In Prague, artist David Cerny&apos;s Gesture either infuriated or delighted its many viewers during the city&apos;s recent elections, while Stuart Murdoch&apos;s Pimms Deckchair brilliantly celebrated the traditional English seaside. Political or whimsical, permanent or fleeting, magical or disturbing - each of these monumental works surprises the viewer by its sheer scale. Captured in double-page spreads with brief introductions, these works are organized by location: outdoors, in the streets, indoor, and museum installations. From Niki de Saint-Phalle&apos;s magical Tarot Garden to Robert Smithson&apos;s intermittently visible Spiral Jetty; from Daniel Firman&apos;s enormous stuffed elephant displayed at the Fontainebleau Palace to Doris Salcedo&apos;s Shibboleth, an enormous fissure she built in Tate Modern&apos;s Turbine Hall - each of the works featured in this unique book reminds viewers of the immense power of art.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">709.051 BAU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000652046</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781405196857</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1405196858</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000652046</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Rebels in groups : dissent, deviance, difference and defiance</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;With contributions from leading scholars in the field, Rebels in Groups brings together the latest research on dissent, deviance, difference and defiance. Many of the most famous figures in psychology - Asch, Milgram and Zimbardo and others - have emphasized the pressures to conform and obey which are present in groups, and focused on the positive value that groups place on loyalty and uniformity. From this perspective, dissent, deviance, difference and defiance have been regarded as detrimental forces within groups: reflections of a lack of group loyalty, a sign of disengagement or delinquent behaviour. Contrary to traditional views, this book presents an approach which considers rebellion to be a normal, functional and healthy aspect of group life. Rebels in Groups presents the latest thinking on these issues by examining a broad range of groups - such as political groups, task groups, and teams in organisations - and by considering diverse fields of psychology, including social, organizational, and developmental psychology. In the process, it shows how new approaches to the study of dissent, deviance, difference and defiance have refined our theorizing in this area and shed a more nuanced light upon the role of rebels in groups&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">302.54 REB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

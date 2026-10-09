@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000657411</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781742373324</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1742373321</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000657411</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Eyers, Kerrie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Tackling depression at work : a practical guide for employees and managers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;If you have depression, do you persevere or do you risk telling your manager? If you are a manager, what can you do to support the employee and ensure the job is done? Figures suggest that more than ten per cent of people in the workforce struggle with depression. Both employees and their managers are looking for the same outcome: recovery and return to best functioning. Tackling Depression at Work explains the key issues that arise and offers proven strategies that employees and managers can take. Topics of discussion include: - the importance of education about depression and bipolar disorder - how to support an employee without crossing boundaries - the de-stigmatism of mood disorders - the sensitive issues of disclosure and privacy. With insightful advice from workers who have learned to manage their disorder on the job, this book offers invaluable support for any worker with depression. It is also an essential resource for all line managers, human resource managers and mental health professionals&quot;--Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.89 EYE</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

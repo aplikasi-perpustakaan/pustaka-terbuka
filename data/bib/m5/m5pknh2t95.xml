@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770964</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262526029</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262526026</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770964</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Layzer, Judith A.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Open for Business : Conservatives&apos; Opposition to Environmental Regulation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">American and comparative environmental policy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Since the 1970s, conservative activists have invoked free markets and distrust of the federal government as part of a concerted effort to roll back environmental regulations. They have promoted a powerful antiregulatory storyline to counter environmentalists&apos; scenario of a fragile earth in need of protection, mobilized grassroots opposition, and mounted creative legal challenges to environmental laws. But what has been the impact of all this activity on policy? In this book, Judith Layzer offers a detailed and systematic analysis of conservatives&apos; prolonged campaign to dismantle the federal regulatory framework for environmental protection. Examining conservatives&apos; influence from the Nixon era to the Obama administration, Layzer describes a set of increasingly sophisticated tactics--including the depiction of environmentalists as extremist elitists, a growing reliance on right-wing think tanks and media outlets, the cultivation of sympathetic litigators and judges, and the use of environmentally friendly language to describe potentially harmful activities. She argues that although conservatives have failed to repeal or revamp any of the nation&apos;s environmental statutes, they have influenced the implementation of those laws in ways that increase the risks we face, prevented or delayed action on newly recognized problems, and altered the way Americans think about environmental problems and their solutions. Layzer&apos;s analysis sheds light not only on the politics of environmental protection but also, more generally, on the interaction between ideas and institutions in the development of policy.--Book jacket.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">363.705610973 LAY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

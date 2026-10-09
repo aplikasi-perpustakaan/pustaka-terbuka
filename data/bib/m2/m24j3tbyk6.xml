@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000658053</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470923276</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">047092327X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000658053</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Baer, Jay</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The now revolution : 7 shifts to make your business faster, smarter and more social</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The real-time and the social web have fundamentally changed the way we communicate The future of business is not in measured, considered responses and carefully planned initiatives. Soon, business will be about near-instantaneous response. About doing the best you can with extremely limited information. About every customer being a reporter, and every reporter being a customer. About winning and losing customers in real-time, every second of every day. About a monumental increase in the findable commentary about our companies. Having the time and information required to make a considered business decision is a luxury - a luxury that&apos;s facing extinction faster than a bluegrass band at a punk club. Yet we&apos;ve not yet adapted our businesses-culturally or organizationally-to respond to this shift, from the inside out. And adapt we must. This book isn&apos;t about how to &quot;do&quot; social media. Instead, The Now Revolution gives you the blueprints for making those changes-for reexamining and retooling your company or organization to make real-time business work for you. Read about the seven blueprints that will help you engineer your business for the era of agile business. Culture Talent &amp; Teams Internal Communication Listening Engagement Crisis Response Success Metrics For each blueprint, the authors provide a detailed discussion of what you need to do to succeed in real-time, including detailed process recommendations, and case studies-mostly from small and medium-sized businesses.&quot;--Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.406 BAE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

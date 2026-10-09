@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000698497</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781439189740</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1439189749</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000698497</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Finch, David, 1977-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The journal of best practices : a memoir of marriage, Asperger syndrome, and one man&apos;s quest to be a better husband</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">At some point in nearly every marriage, a wife finds herself asking, What the ... is wrong with my husband?! In the author&apos;s case, this turns out to be an apt question. Five years after he married Kristen, the love of his life, they learn that he has Asperger syndrome. The diagnosis explains his ever-growing list of quirks and compulsions, his lifelong propensity to quack and otherwise melt down in social exchanges, and his clinical-strength inflexibility. But it doesn&apos;t make him any easier to live with. Determined to change, he sets out to understand Asperger syndrome and learn to be a better husband, no easy task for a guy whose inability to express himself rivals his two-year-old daughter&apos;s, who thinks his responsibility for laundry extends no further than throwing things in (or at) the hamper, and whose autism-spectrum condition makes seeing his wife&apos;s point of view a near impossibility. Nevertheless, he devotes himself to improving his marriage with an endearing yet hilarious zeal that involves excessive note-taking, performance reviews, and most of all, this book: a collection of hundreds of maxims and hard-won epiphanies that result from self-reflection both comic and painful. They include &quot;Don&apos;t change the radio station when she&apos;s singing along,&quot; &quot;Apologies do not count when you shout them,&quot; and &quot;Be her friend, first and always.&quot; Guided by the journal, he transforms himself over the course of two years from the world&apos;s most trying husband to the husband who tries the hardest, the husband he&apos;d always meant to be. Filled with humor and surprising wisdom, this book is a candid story of ruthless self-improvement, a unique window into living with an autism-spectrum condition, and proof that a true heart can conquer all.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.8588320092 FIN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

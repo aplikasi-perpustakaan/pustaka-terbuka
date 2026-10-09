@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734302</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118660638</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118660633</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734302</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Berkun, Scott.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE YEAR WITHOUT PANTS : WORDPRESS.COM and the future of work</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A behind-the-scenes look at the firm behind WordPress.com and the unique work culture that contributes to its phenomenal success50 million websites, or twenty percent of the entire web, use WordPress software. The force behind WordPress.com is a convention-defying company called Automattic, Inc., whose 120 employees work from anywhere in the world they wish, barely use email, and launch improvements to their products dozens of times a day. With a fraction of the resources of Google, Amazon, or Facebook, they have a similar impact on the future of the Internet. How is this possible? What&apos;s different about how they work, and what can other companies learn from their methods?To find out, former Microsoft veteran Scott Berkun worked as a manager at WordPress.com, leading a team of young programmers developing new ideas. The Year Without Pants shares the secrets of WordPress.com&apos;s phenomenal success from the inside. Berkun&apos;s story reveals insights on creativity, productivity, and leadership from the kind of workplace that might be in everyone&apos;s future. Offers a fast-paced and entertaining insider&apos;s account of how an amazing, powerful organization achieves impressive results Includes vital lessons about work culture and managing creativity Written by author and popular blogger Scott Berkun (scottberkun.com) The Year Without Pants shares what every organization can learn from the world-changing ideas for the future of work at the heart of Automattic&apos;s success&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.761006752 BER</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

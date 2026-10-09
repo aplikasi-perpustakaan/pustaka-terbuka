@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000596110</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9787119046808</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7119046802</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000596110</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sima, Qian, ca. 145-ca. 86 B.C</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Selections from Records of the historian</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The short-lived Qin dynasty unified China in 2.21 B.C. and created an imperial legacy that lasted until 1911. The extraordinary story of the First Emperor, founder of the dynasty, is told in the Historical Records of Sima Qian, the Grand Historiographer and the most famous Chinese historian. He describes the Emperor&apos;s birth and the assassination attempt on his life, as well as the political and often brutal events that led to the founding of the dynasty and its aftermath. Sima Qian recounts the building of the Great Wall, the &apos;burning of the books&apos;, and the construction of the First Emperor&apos;s magnificent tomb, a tomb now world famous since the discovery of the terracotta warriors in 1974. Sima Qian&apos;s love of anecdote ensures that his history is never dull, and Raymond Dawson&apos;s fluent translation captures his lively and vivid style. Chronicling recent archaeological developments and questioning Sima Qian&apos;s biases, K. E. Brashier&apos;s preface highlights the importance of the Grand Historiographer&apos;s account and Dawson&apos;s translation in the twenty-first century.&quot;--BOOK JACKET</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">951.01 SIM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
