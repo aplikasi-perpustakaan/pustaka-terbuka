@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000983736</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789861756769</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9861756760</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000983736</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kim, Yu-jin, 1940-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">我的一天從4點30分開始 : 當你酣睡時, 有人已醒來實現夢想! = 나의 하루는 4시 30분에 시작된다 | Wo de yi tian cong 4 dian 30 fen kai shi : dang ni han shui shi, you ren yi xing lai shi xian meng xiang! = 나의 하루는 4시 30분에 시작된다</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sheng ya zhi ku ; 203</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Many successful people have the habit of waking up early, such as Amazon founder Jeff Bezos, former U.S. First Lady Michelle Obama, talk show queen Oprah Winfrey, Twitter co-founder Jack Dorsey, and bestselling author Timothy Ferriss. Of course, you don’t have to imitate them exactly. But if you want to change your gloomy daily routine or need a turning point in your life, the simplest and fastest way to start is by changing your morning time. Attorney Kim Yu-jin, who holds law licenses in two U.S. states, transformed millions of mornings in Korea with her morning routine method. By learning this method, you too can create a life-changing turning point in the five seconds after your alarm rings and the two hours before work</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.1 KIM</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

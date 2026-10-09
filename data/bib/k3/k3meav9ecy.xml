@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000921708</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789672908449</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">967290844X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000921708</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Seminar Kebangsaan Kor Siswa Siswi Pertahanan Awam (Ke-7 : 2019 : Tanjong Malim, Perak)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">e-Prosiding : SEMINAR KEBANGSAAN KOR SISWA SISWI PERTAHANAN AWAM (KOR SISPA) IPT KALI KE 7 TAHUN 2019 : KESUKARELAWANAN : NADI KOMUNITI IR 4.0 : TEMPAT: UNIVERSITI PENDIDIKAN SULTAN IDRIS (UPSI), TANJONG MALIM, PERAK MALAYSIA : TARIKH: 2-4 NOVEMBER 2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2020</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">355.00711595</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

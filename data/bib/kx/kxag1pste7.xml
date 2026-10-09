@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000675085</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780743297967</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">743297962</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000675085</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Dreman, David N.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Contrarian investment strategies : the psychological edge</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st Free Press hardcover ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In this major revision of his investment classic, one of the premier investment managers introduces vitally important new findings in psychology that show why most investment strategies are fatally flawed and his contrarian strategies are the best way to beat the market. The need to switch to a new approach for investing has never been more urgent. The Crash of 2007 revealed in dramatic fashion that there are glaring flaws in the theory that underlies all of the prevailing investment strategies-efficient market theory. This theory, and all of the most popular investing strategies, fail to account for major, systematic errors in human judgment that the powerful new research in psychology David Dreman introduces has revealed, such as emotional over-reactions and a host of mental shortcuts in judgment that lead to wild over and under-valuations of stocks, bonds, and commodities and to bubbles and crashes. It also leads to horribly flawed assessments of risk. Dreman shows exactly how the new psychological findings definitively refute those strategies and reveals how his alternative contrarian strategies do a powerful job of accounting for them. He shows readers how by being aware of these new findings, they can become saavy psychological investors, crash-proofing their portfolios and earning market beating long-term returns. He also introduces a new theory of risk and substantially updates his core contrarian strategies with a number of highly effective methods for facing the most pressing challenges in the coming years, such as greatly increased volatility and the prospect of inflation. This is every investor&apos;s essential guide to optimal investing&quot;--  c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.6019 DRE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

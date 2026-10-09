@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000742314</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781421409337</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">142140933X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000742314</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ghaemi, S. Nassir.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">On depression : drugs, diagnosis, and despair in the modern world</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In a culture obsessed with youth, financial success, and achieving happiness, is it possible to live an authentic, meaningful life? Nassir Ghaemi, director of the Mood Disorder Program at Tufts Medical Center, reflects on our society&apos;s current quest for happiness and rejection of any emotion resembling sadness. On Depression asks readers to consider the benefits of despair and the foibles of an unexamined life. Too often depression as disease is mistreated or not treated at all. Ghaemi warns against the &quot;pretenders&quot; who confuse our understanding of depression--both those who deny disease and those who use psychiatric diagnosis &quot;pragmatically&quot; or unscientifically. But experiencing sadness, even depression, can also have benefits. Ghaemi asserts that we can create a &quot;narrative of ourselves such that we know and accept who we are,&quot; leading to a deeper, lasting level of contentment and a more satisfying personal and public life. Depression is complex, and we need guides to help us understand it, guides who comprehend it existentially as part of normal human experience and clinically as sometimes needing the right kind of treatment, including medications. Ghaemi discusses these guides in detail, thinkers like Viktor Frankl, Rollo May, Karl Jaspers, and Leston Havens, among others. On Depression combines examples from philosophy and the history of medicine with psychiatric principles informed by the author&apos;s clinical experience with people who struggle with mental illness. He has seen great achievements arise from great suffering and feels that understanding depression can provide important insights into happiness.&quot; -- Publisher&apos;s description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.8527</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

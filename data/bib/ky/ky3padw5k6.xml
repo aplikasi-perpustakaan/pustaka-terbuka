@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000720852</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007466535</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7466536</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000720852</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Agnew, Jonathan, 1960-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">CRICKET : A Modern Anthology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Jonathan &quot;Aggers&quot; Agnew, England&apos;s voice of cricket, showcases some of the very best writings on the noble game, from the 1930s to the present day. In this wide-ranging and beautifully-produced anthology, Test Match Special&apos;s Jonathan &apos;Aggers&apos; Agnew, chooses a wide variety of writings on the sport that has consumed his life, from the 1932/33 Ashes (Bodyline) series right up to the present day. In a series of carefully considered, thematically organised reflections, he examines the importance of their contribution to our understanding and appreciation of cricket. With input from several eminent cricketing historians, including the librarian at Lord&apos;s, the book contains a fascinating range of material, from renowned classics to books that have hardly seen the light of day in the United Kingdom (e.g. The Hanse Cronje Story by Garth King); from overseas fiction to modern day autobiographies (Marcus Trescothick, Simon Hughes, Mike Brearley etc.) that have attained classic status. With 75 seminal cricket images, original line drawings and a comprehensive index, this book is a must-have for any self-respecting cricket fan.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">796.358 AGN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

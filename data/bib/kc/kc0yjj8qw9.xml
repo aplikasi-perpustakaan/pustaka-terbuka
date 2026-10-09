@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nas a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000311107</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000893357</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000311107</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">INDEKS SEWAAN BANGUNAN PEJABAT BINAAN KHAS LEMBAH KLANG, JOHOR BAHRU &amp; GEORGE TOWN = PURPOSE-BUILT OFFICE RENTAL INDEX (PBO-RI) KLANG VALLEY, JOHOR BAHRU &amp; GEORGE TOWN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">201X-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Journal Article</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">333.3387509595</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://napic.jpph.gov.my/portal/web/guest/publication?p_p_id=ViewPublishings_WAR_ViewPublishingsportlet&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_ViewPublishings_WAR_ViewPublishingsportlet_action=renderReportPeriodScreenArc&amp;publishingId=443&amp;pageno=1</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

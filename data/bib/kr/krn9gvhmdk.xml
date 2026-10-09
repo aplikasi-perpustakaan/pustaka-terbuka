@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000771991</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789971697839</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9971697831</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000771991</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Coutre, Jacques de, 1577-1640</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE MEMOIRS AND MEMORIALS OF JACQUES DE COUTRE : Security, Trade and Society in 16th- and 17th-century Southeast Asia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Jacques de Coutre was a Flemish gem trader who spent nearly a decade in Southeast Asia at the turn of the 17th century. He left history a substantial autobiography written in Spanish and preserved in the National Library of Spain in Madrid. Written in the form of a picaresque tale, with an acute eye for the cultures he encountered, the memoirs tell the story of his adventures in the trading centres of the day: Melaka, Ayutthaya, Patani, Pahang, Johor, Brunei and Manila. Narrowly escaping death several times, De Coutre was inevitably drawn into dangerous intrigues between the representatives of European power, myriad fortune hunters and schemers, and the rulers and courtiers in the palaces of Pahang, Patani, Siam and Johor.0In addition to his autobiography, De Coutre wrote a series of memorials to the united crown of Spain and Portugal that contain recommendations designed to remedy the decline in the fortunes of the Iberian powers in Southeast Asia, particularly against the backdrop of early Dutch political and commercial penetration into the region.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">959 COU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

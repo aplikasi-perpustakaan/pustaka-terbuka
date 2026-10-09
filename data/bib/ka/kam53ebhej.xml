@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738655</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118726839</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118726839</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738655</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mitchell, Dave</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE POWER OF understanding PEOPLE : THE KEY TO STRENGTHENING RELATIONSHIPS, INCREASING SALES, AND ENHANCING ORGANIZATIONAL PERFORMANCE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;How to build lasting connections through meaningful communication Developing successful relationships is critical to our success in both our personal and professional lives. The Power of Understanding People shows you how to establish and develop extremely effective relationships by providing you with techniques to better identify and understand the intrinsic needs of others. As a result, you will achieve better team dynamics, increased sales and client satisfaction, higher levels of employee engagement and performance, and even more satisfying marriages and friendships. This book provides the tools to understand others&apos; unique communication style as well as your own. Get detailed advice on how to adjust to diverse communication styles, develop a unifying language for the organization, and better match motivational techniques to team members. Through storytelling and experiential exercises, author Dave Mitchell helps you gain insight into your own unique interaction style and teaches you how to communicate, motivate, sell, and service more successfully no matter the personality types involved. Offers insight into the behavior cues and questions to ask to better understand someone&apos;s interactive preferences Explains how to enhance your sales efforts by better targeting your brand message to the client&apos;s style so that your products/​services resonate with them more Examines strategies for creating a high performing work environment and achieve greater customer service excellence Contains conflict resolution strategies, including how to effectively work out differences within a team, between work units, with customers, and even in your personal life Armed with the ability to interpret the behavior of the people around you, you will achieve greater levels of success at work and at home while also learning how to better handle the difficult situations involving people in your life&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">650.13 MIT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

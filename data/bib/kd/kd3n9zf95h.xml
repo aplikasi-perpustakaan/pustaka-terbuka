@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770241</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262027441</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262027445</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770241</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ryan, Susan Elizabeth</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Garments of Paradise : Wearable Discourse in the Digital Age</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Wearable technology makes the wearer visible in a technologically literate environment. Twenty years ago, wearable technology reflected cultural preoccupations with cyborgs and augmented reality; today, it reflects our newer needs for mobility and connectedness. This book examines wearable technology as an evolving set of ideas and their contexts, always with an eye on actual wearables -- on clothing, dress, and the histories and social relations they represent. It proposes that wearable technologies comprise a pragmatics of enhanced communication in a social landscape. This book is a reference to wearable technology&apos;s promise of physical and mental enhancements. It defines dress acts, hybrid acts of communication in which the behavior of wearing is bound up with the materiality of garments and devices and focuses on the use of digital technology as part of such systems of meaning. She connects the ideas of dress and technology historically, in terms of major discourses of art and culture, and in terms of mass media and media culture, citing such thinkers as Giorgio Agamben, Manuel De Landa, and Gilles Deleuze and Felix Guattari. It examines the early history of wearable technology as it emerged in research labs ; the impact of ubiquitous and affective approaches to computing ; interaction design and the idea of wearable technology as a language of embodied technology; and the influence of open source ideology. Finally, it considers the future, as wearing technologies becomes an increasingly naturalized aspect of our social behavior.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">004.16 RYA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

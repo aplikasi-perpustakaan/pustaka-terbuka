@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000849764</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000849764</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">kor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">MODERNIZATION on SCREEN : Understanding Korean Society and Modernization through Films : MR. PARK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Mr. Park raises his three children by repairing briquette stoves. Although ignorant and stubborn, he possesses a good heart. He is not happy that his first daughter, Yong-sun, is seeing Jae-cheon, who has no job and an uncertain future ahead of him. Mr. Park is also not pleased with the fact that his second daughter, Myeong-sun, is seeing Ju-sik, who is from a rich family. Only his son, Yong-beom, is the apple of his eye because he is diligent and works hard at a pharmaceutical company. However, he is disappointed to hear that his son has to relocate to an overseas branch office. One day, Mr. Park is humiliated by Ju-sik&apos;s aunt, who says he is poor and uneducated, but he endures it for Myeong-sun&apos;s sake. Eventually, he approves of Yong-beom&apos;s relocation and his two daughters&apos; relationships.&quot;--Container.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Videorecording</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43095195 MOD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

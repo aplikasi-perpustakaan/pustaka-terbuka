@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000687950</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789251068984</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9251068984</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000687950</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Herbel, Denis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Good practices in building innovative rural institutions to increase food security</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Continued population growth, urbanization and rising incomes are likely to continue to put pressure on food demand. International prices for most agricultural commodities are set to remain at 2010 levels or higher, at least for the next decade (OECD-FAO, 2010). Small-scale producers in many developing countries were not able to reap the benefits of high food prices during the 2007-2008 food price crises. Yet, this upward food price trend could have been an opportunity for them to increase their incomes and food security. The opportunity that high food prices could have provided as a pathway out of poverty for small producers was not realized. Evidence from the ground show that when strong rural organizations such as producer groups and cooperatives provide a full range of services to small producers, they are able to play a greater role in meeting a growing food demand on local, national and international markets. Indeed, a myriad of such institutional innovations from around the world are documented in this FAO case-study-based publication. Nevertheless, to be able to provide a broad array of services to their members, organizations have to develop a dense network of relationship, among small producers, between small-producer organizations and with markets actors and policy-makers&quot;--Executive summary.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.1091724 HER</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

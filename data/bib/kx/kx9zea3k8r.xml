@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000647376</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470941645</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470941642</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000647376</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lytle, Chris</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Accidental sales manager : how to take control and lead your sales team to record profits</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Key skills to make sales managers better developers of salespeople. Get out of the firefighting business and into the business of developing the people who develop your profits. Successful salespeople rightfully become sales managers because of superior sales records. Yet too often these sales stars get stuck doing their old sales job while also trying to juggle their manager role, and too often companies neglect to train their sales managers how to excel as managers. That’s the &quot;sales management trap,&quot; and it’s exactly what The Accidental Sales Manager addresses and solves. Full of helpful steps you can apply immediately--whether you’re training a sales manager, or are one yourself--this practical guide reveals step-by-step methods sales managers can use to both learn their jobs and lead their teams. Get tactics to stop burning time and exhausting yourself, while taking effective actions to use time better as a leader. Discover how to integrate learning into leading and make sales meetings an active conversation on what works and what doesn’t. Author has a previous bestseller, The Accidental Salesperson. Don’t get caught in the &quot;sales management trap&quot; or, if you’re in it, get the tools you need to escape it. Get The Accidental Sales Manager and lead your team to do what you do best: make sales, drive profits, and get winning results&quot;-- c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.8102 LYT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

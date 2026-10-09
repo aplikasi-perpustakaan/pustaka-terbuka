@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000839192</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780465094684</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">465094686</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000839192</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Boles, John B.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Jefferson : ARCHITECT OF AMERICAN LIBERTY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">As Alexander Hamilton&apos;s star has risen, Thomas Jefferson&apos;s has fallen, largely owing to their divergent views on race. Once seen as the most influential American champion of liberty and democracy, Jefferson is now remembered largely for his relationship with his slave Sally Hemings, and for electing not to free her or most of the other people he owned. In this magisterial biography, the eminent scholar John B. Boles does not ignore the aspects of Jefferson that trouble us today, but strives to see him in full, and to undertstand him amid the sweeping upheaval of his times. We follow Jefferson from his early success as an abnormally precocious student and lawyer in colonial Virginia through his drafting of the Declaration of Independence at age 33, his travels in Europe on the eve of the French Revolution, his acidic personal battles with Hamilton, his triumphant ascent to the presidency in 1801, his prodigious efforts to found the University of Virginia, and beyond. From Jefferson&apos;s inspiring defenses of political and religious liberty to his heterodox abridgment of Christian belief, Boles explores Jefferson&apos;s expansive intellectual life, and the profound impact of his ideas on the world. Boles overturns conventional wisdom at every turn, arguing, among other things, that Jefferson did not--as later southerners would--deem the states rightfully superior to the federal government. Yet Boles&apos;s view is not limited to politics and public life; we also meet Jefferson the architect, scientist, bibliophile, and gourmet--as well as Jefferson the gentle father and widower, doting on his daughters and longing for escape from the rancorous world of politics. As this authoritative, evenhanded portrait shows, Jefferson challenges us more thoroughly than any other founder; he was at once the most idealistic, contradictory, and quintessentially American of them all</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">973.46092 BOL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

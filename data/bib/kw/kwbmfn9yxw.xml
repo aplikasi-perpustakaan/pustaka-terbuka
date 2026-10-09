@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000843970</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000843970</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">restless</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">1976:- Ruth Gilmartin visits her mother Sally in rural Cambridgeshire and is amazed to learn she is a Russian refugee born Eva Delectorskaya, recruited as a spy by the British in 1939. After narrowly escaping death in the Netherlands Eva is sent to America to seduce the married Mason Harding, an adviser to the president, to find out if the Americans intend joining the war, a mission she successfully accomplishes. However a second assignment is to supply a map to American agents supposedly outlining a planned German invasion of the States but Eva spots errors in the map, informing her spy master and lover Lucas Romer and other colleagues. Though the map fools the president Eva survives an attempt to kill her and, as her fellow spies die one by one,is convinced she was betrayed. Even in the 1970s, years after the event, she believes her life is in danger and shocks Ruth by buying a shotgun for her protection.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 SAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

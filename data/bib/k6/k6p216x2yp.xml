@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000701255</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007436606</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7436602</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000701255</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Watson, Casey.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Little prisoners : a tragic story of siblings trapped in a world of abuse and suffering /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">From the Sunday Times bestselling author comes a harrowing and moving memoir about two innocent and frightened &apos;unfosterable&apos; children who do not know what it means to be loved. The shock that strikes Casey and her family when Ashton and Olivia arrive is immeasurable. Two dirty, frightened little waifs stand before them, huge eyes staring around their new surroundings. Ashton - 9, Olivia - 6, have the same urchin look; hair running wild with head lice, filthy nails and skin covered in scabs. And the smell is horrific. The eldest two children of a group of five siblings, Casey had only been told they were coming two days earlier. But it was an emergency, temporary placement, and they were only due to stay a couple of weeks...Casey is desperate to help these poor, lost children, who have been taken away from their family because they were considered at risk, but before she can even start to understand the horrific things that have happened in the past, she has to teach them the most basic of behaviours. Ashton and Olivia have no barriers and no sense of what&apos;s right and wrong - her challenges begin with the toilet and eating habits. The weeks roll into months and the months roll on, but bit by bit the children are starting to feel like they truly belong to a family, for the first time. With this new found security and love, gradually they start to reveal what really happened to them and their siblings at home, and slowly Casey can help them start to rebuild their young lives.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">362.7330922 WAT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

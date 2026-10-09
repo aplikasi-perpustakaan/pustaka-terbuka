@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000917391</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000917391</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">A FISH CALLED WANDA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In London, Georges Thomason (Tom Georgeson), his seductive American girlfriend Wanda Gershwitz (Jamie Lee Curtis), and their associate Ken Pile (Sir Michael Palin) are planning their latest crime, a diamond heist that should net them thirteen million pounds sterling. They plan on leaving the country with the goods after the heist. On Wanda&apos;s recommendation, they enlist the help of her brother, Otto West (Kevin Kline), a weapons expert, for this heist. In reality, Otto is not Wanda&apos;s brother, but her latest lover, a dimwit who gets off on his own body odor, who believes he&apos;s an intellectual because he reads Nietzsche, and who does not tolerate being called stupid by anyone. Wanda has one weakness in men which is how Otto was able to get her to be his lover: speaking Italian in seduction. Wanda and Otto plan to double cross Georges by having him arrested for the heist, while they abscond with the jewels</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 FIS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

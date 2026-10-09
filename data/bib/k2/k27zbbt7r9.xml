@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000720620</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422186985</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422186989</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000720620</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Isenberg, Daniel J.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">WORTHLESS, IMPOSSIBLE AND STUPID : HOW CONTRARIAN ENTREPRENEURS CREATE AND CAPTURE EXTRAORDINARY VALUE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Global entrepreneurship expert Daniel Isenberg shows the new rules of starting and growing a business with vivid stories of successes, and failures, from around the world. Are you a member of the new class of global entrepreneurs? If not, beware - this book may inspire you to become one. It&apos;s a rallying call for those whose ideas were ever called worthless, impossible, or even stupid. In this fascinating read, global entrepreneurship expert Daniel Isenberg illustrates through storis of real business builders the new rules of starting and growing a business. No longer bound by a western &quot;Silicon Valley&quot; approach to entrepreneurship, a new group of enterprising doers has created a global and diverse mix of organizations that could be tomorrow&apos;s leading firms. Stirred by what he saw while crossing the globe to speak with business leaders young and old, Isenberg began connecting the dots. What he found was a wealth of counter-intuitive lessons that speak to the new way of creating a business. From Albuquerque to Islamabad, you&apos;ll travel with the author and pick up unusual yet practical insights that you can use. You&apos;ll also be moved by businesses fueled by adversity and even necessity. Great stories, successes, failures - it&apos;s all in here. What can the West learn from them? What can you learn - and what will you be inspired to do? Let Worthless, Impossible &amp; Stupid: How Contrarian Entrepreneurs Create and Capture Extraordinary Value be your new manual for making change.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.421 ISE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
