@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls001023082</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9786297675787</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">6297675783</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls001023082</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Zhu , Lawrence Jian Tao</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Jian ren de yi sheng : Zhu Guo Jing yu ta de chuan cheng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2024</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Zhū Guó Jīng was born in 1934, during the turbulent times of World War II. His life is filled with stories of resilience, migration and survival. Growing up in the shadow of Japanese occupation, his early years were filled with hardship and uncertainty. As a teenager, he showed determination and courage when he bravely left his homeland and traveled to Southeast Asia in search of opportunity. His journey took him to Singapore and later settled in Kota Kinabalu, Malaysia, where he built a fulfilling life through resilience, adaptability and hard work. This book chronicles his transformational journey and shows how he overcame challenges, seized opportunities and built a meaningful life. As a father of seven, Zhū Guó Jīng has done his best to provide for his family and ensure that his children receive a good education and a foundation for success. More than a personal story, this is a portrait of the broader experience of Chinese immigrants in Southeast Asia, exploring themes of migration, cultural resilience and the quest for prosperity. The book delves into the pivotal moments, business adventures, and deep family bonds that shaped his legacy, demonstrating the values of perseverance, humility, and the importance of family that he conveyed. Zhū Guó Jīng&apos;s life is an inspiring testament to courage and determination. This book is not only a tribute to his enduring influence, but also a celebration of the values he taught that continue to influence and guide his descendants and the wider community</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">305.895 ZHU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls001015835</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789670060835</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9670060834</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls001015835</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">ara</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Abdul Rahman Moawad Ali, Dr</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">مستخلصات بحوث المؤتمر الدولي الثاني للغة العربية : (تعليم اللغة العربية والدراسات الإسلامية للناطقين بغير العربية في ضوء التطورات الحديثة التحديات والحلول، والطموحات)، 13ـ14 فبراير 2024م الموافق 3ـ 4 شعبان 1445هـ، 13ـ14 فبراير 2024م الموافق 3ـ 4 شعبان 1445هـ | Mustakhlasat buhuth almutamar alduwalii althaani lilughat ularabia : (ALIC 2024) : (ta&apos;lim al-lughatularabiat waldirasat al&apos;iislamiat lilnaatiqin bighayr al-arabiat fi daw&apos; altatawurat alhadithat altahadiyat walhulul, waltumuhat), 13-14 fibrayir 2024m almuafiq 3-4 shaban 1445h</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2024</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">297</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
