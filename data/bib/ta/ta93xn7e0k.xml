@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000771202</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9783791349954</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">3791349953</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000771202</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">ger</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Unverzart, Olaf, 1972-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ALP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">An accomplished young photographer, Olaf Unverzart, takes on an age-old subject and transforms the way we see the Alps. Serious Alpine photography began in the middle of the 19th century by photographers who lugged large plate cameras into inaccessible regions to produce some of the most spectacular images of their time. Nearly two hundred years later, Olaf Unverzart has photographed the Alps and given them a 21st century perspective. Disappearing glaciers, the steeply inclined asphalt roads of the Tour de France, machinery crushed by avalanches, or huge cement fortifications imbedded in rock and defying nature--Unverzart&apos;s large-format images focus on the marks humankind leaves behind when attempting to master nature. He also documents nature&apos;s own power--in the form of avalanches and mudflows--when it overcomes these misguided efforts. Much more than another collection of nature photographs, this volume is a powerful reminder of the ramifications of human intervention toward Earth&apos;s most majestic features--a story told without ideology or didactics, through the eyes of a keen and hopeful observer.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">779.364947 UNV</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

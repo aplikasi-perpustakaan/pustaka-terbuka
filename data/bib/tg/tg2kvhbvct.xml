@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984565</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9786267095645</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">6267095649</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984565</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Yang, Chae-jin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">連我都不瞭解自己內心的時候 ...  : 韓國90萬人的線上心理師, 陪你重新理解不安、憂鬱與焦慮, 找到痛點, 正視內心的求救訊號 = When I don&apos;t know what I want | Lian wo dou bu liao jie zi ji nei xin de shi hou ... : Hanguo 90 wan ren de xian shang xin li shi, pei ni chong xin li jie bu an, you yu yu jiao lu, zhao dao tong dian, zheng shi nei xin de qiu jiu xun hao = When I don&apos;t know what I want</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Xin ling fang zhou ; 0042</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In this book, you&apos;ll find two doctors offering practical guidance for improving life in areas such as family, relationships, work, and friendships, as well as detailed explanations and coping strategies for mental health conditions like depression, anxiety, and panic disorders. Their actionable advice and fresh perspectives on daily life will help you tune into your inner cries for help, embrace your emotional pain, and reclaim self-respect and kindness toward yourself</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.89 YAN</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

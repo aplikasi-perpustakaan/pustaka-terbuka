@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000743583</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118794388</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118794389</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000743583</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Simon, Phil</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Visual Organization : Data Visualization, Big Data, And the Quest for Better Decisions</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Wiley and SAS business series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The era of Big Data as arrived, and most organizations are woefully unprepared. Slowly, many are discovering that stalwarts like Excel spreadsheets, KPIs, standard reports, and even traditional business intelligence tools aren&apos;t sufficient. These old standbys can&apos;t begin to handle today&apos;s increasing streams, volumes, and types of data. Amidst all of the chaos, though, a new type of organization is emerging. In The Visual Organization, award-winning author and technology expert Phil Simon looks at how an increasingly number of organizations are embracing new dataviz tools and, more important, a new mind-set based upon data discovery and exploration. Simon adroitly shows how Amazon, Apple, Facebook, Google, Twitter, and other tech heavyweights use powerful data visualization tools to garner fascinating insights into their businesses. But make no mistake: these companies are hardly alone. Organizations of all types, industries, sizes are representing their data in new and amazing ways. As a result, they are asking better questions and making better business decisions. Rife with real-world examples and case studies, The Visual Organization is a full-color tour-de-force&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4038 SIM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

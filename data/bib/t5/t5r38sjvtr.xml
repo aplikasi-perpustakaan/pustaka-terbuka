@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735306</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781476731490</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1476731497</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735306</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hill, Clint</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">FIVE DAYS IN NOVEMBER</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The New York Times bestselling authors of Mrs. Kennedy and Me share the stories behind the five infamous, tragic days surrounding JFK&apos;s assassination--alongside revealing and iconic photographs--published in remembrance of the beloved president on the fiftieth anniversary of his death.Clint Hill will forever be remembered as the lone secret service agent who jumped onto the car after President Kennedy was shot, clinging to its sides as it sped toward the hospital. Even now, decades after JFK&apos;s presidency, the public continues to be fascinated with the Kennedys--America&apos;s royal family. To mark the fiftieth anniversary of President John F. Kennedy&apos;s assassination, Hill recounts his indelible memories of those five days leading up to, and after, that tragic day in November 1963. Hill, as Jackie&apos;s guard, experienced those days firsthand. Alongside the famous photos everyone is familiar with, Hill provides a moment-to-moment narration evoking the feelings and emotions behind the images--clearing up the persistent conspiracy misconceptions along the way. He also shows us the little-seen photos of Jackie both before and after the terrible event, describing the poignant moments they shared, during that pivotal moment in history. Told movingly by a man who still wishes he could undo it all, Five Days in November is a rare and deeply personal look at the assassination that affected the entire world and changed the United States forever</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">973.922092 HIL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

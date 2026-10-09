@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000873983</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781784418571</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1784418579</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0743-4154 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09340698</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000873983</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">A research annual</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Research in the history of economic thought and methodology ; v. 33.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The Research in the History of Economic Methodology (RHETM) 33, the first under the new editorial team, includes original research from preeminent scholars in the field. Topics range from -What to tell a Graduate Course in Macroeconomics about Keynes (by Keynes scholar Robert W. Dimand), American Institutionalism After 1945 (by 2014 History of Economics Society Distinguished Fellow Malcolm Rutherford), an archival investigation on the nature and extent of Keynes anti-Semitism (by co-editor Luca Fiorito), Bounded Rationality and Bounded Individuality (by leading methodologist John B. Davis), The Genealogy of the Labor Hoarding Conceptâ (by current History of Economics Society President-elect Jeff E. Biddle), the role of Economic Manâ in the writings of Alfred Marshall and the Chicago School (by Steven G. Medema, author of The Hesitant Hand: Taming Self-Interest in the History of Economic Ideas), and Malthus, Utopians, and Economists (by former History of Economics Society President J. Daniel Hammond). RHETM is one of the oldest and most respected publications in the field, and the Vol 33 crucial for economists, methodologists, and historians of the social sciences.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">330.01</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/0743-4154/33</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

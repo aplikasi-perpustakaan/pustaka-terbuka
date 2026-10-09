@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000973003</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787635180</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">178763518X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000973003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kristian, Giles.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Where Blood Runs Cold</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Erik Amdahl and his spirited daughter, Sofia, have embarked on a long-promised cross-country ski trip deep into Norway&apos;s Arctic Circle. For Erik, it&apos;s the chance to bond properly with his remaining daughter following a tragic accident that took Sofia&apos;s sister from them. For Sofia, it&apos;s the proof she needs that her father really does care. Then, far from home in this snowbound wilderness and with night falling and the mercury plummeting, they are suddenly in need of help - and shelter. Nearby is the home of a couple - members of Norway&apos;s indigenous Sami people - who they&apos;ve met before, and who welcome them in. Erik is relieved, believing the worst to be over and that Sofia is now safe. But he could not be more wrong. He and Sofia are not the old couple&apos;s only visitors that night, and soon he and Sofia will be running . . . running for their lives. And as they run, even deeper in the snowbound arctic, they stumble across a secret which could cause the deaths of millions. Beneath the swirling light show of the Northern Lights, a ruthless and relentless killer closes in and a desperate fight for survival plays out across the snows. But within this page-turning tale of suffering and of the desperate, instinctive will to survive, burns the story of a father&apos;s love for his child, of knowing when it&apos;s time to let go - and of a daughter&apos;s determination to prove herself worthy of that love&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">KRI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
