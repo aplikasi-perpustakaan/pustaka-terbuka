@@ -278,6 +278,11 @@ function processResultNode(node) {
   if (node.hasAttribute('data-processed')) return;
   node.setAttribute('data-processed', 'true');
   
+  // Cleanly hide any broken thumbnails
+  node.querySelectorAll('img').forEach(img => {
+    img.onerror = () => { img.style.display = 'none'; };
+  });
+  
   const link = node.querySelector('.pagefind-ui__result-link');
   if (!link) return;
   
@@ -343,6 +348,15 @@ async function init() {
   
   loadBasket();
   renderBasket();
+  
+  window.addEventListener('pageshow', () => {
+    loadBasket();
+    renderBasket();
+  });
+  window.addEventListener('focus', () => {
+    loadBasket();
+    renderBasket();
+  });
   
   document.getElementById('download-basket-btn').addEventListener('click', downloadBasket);
   
@@ -441,10 +455,31 @@ async function performSearch(query, resultsContainer, isInitial = false) {
     const recordId = getRecordIdFromUrl(url) || 'unknown';
     const bookUrl = (recordId !== 'unknown') ? `${BASE_URL}book/${recordId}/` : url;
     
-    let titleHtml = `<h3><a href="${escapeHTML(bookUrl)}">${escapeHTML(data.meta.title || 'Untitled')}</a></h3>`;
-    let metaHtml = `<p><strong>Author:</strong> ${escapeHTML(data.meta.author || '')}</p>`;
+    const isbn = data.meta?.isbn || '';
+    let thumbHtml = '';
+    if (isbn) {
+      thumbHtml = `<div class="result-thumb-wrapper">
+        <img src="https://covers.openlibrary.org/b/isbn/${escapeHTML(isbn)}-S.jpg?default=false" 
+             alt="Cover" 
+             class="result-thumb-img" 
+             loading="lazy" 
+             onerror="this.parentElement.style.display='none';" />
+      </div>`;
+    }
     
-    node.innerHTML = titleHtml + metaHtml + `<p>${data.excerpt}</p>`;
+    let titleHtml = `<h3><a href="${escapeHTML(bookUrl)}">${escapeHTML(data.meta.title || 'Untitled')}</a></h3>`;
+    let metaHtml = data.meta.author ? `<p><strong>Author:</strong> ${escapeHTML(data.meta.author)}</p>` : '';
+    let excerptHtml = data.excerpt ? `<p>${data.excerpt}</p>` : '';
+    
+    node.innerHTML = `
+      <div class="result-card-inner">
+        ${thumbHtml}
+        <div class="result-body">
+          ${titleHtml}
+          ${metaHtml}
+          ${excerptHtml}
+        </div>
+      </div>`;
     
     // Actions
     const actionsDiv = document.createElement('div');
