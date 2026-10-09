@@ -1,4 +1,4 @@
-const BASE_URL = '/pustaka-terbuka/';
+const BASE_URL = window.location.pathname.includes('/pustaka-terbuka') ? '/pustaka-terbuka/' : '/';
 let i18n = {};
 let currentLang = 'en';
 let pagefind = null;
@@ -18,7 +18,7 @@ function escapeHTML(str) {
 
 async function loadI18n(lang) {
   try {
-    const res = await fetch(`i18n/${lang}.json`);
+    const res = await fetch(`${BASE_URL}i18n/${lang}.json`);
     if (!res.ok) throw new Error('Network response was not ok');
     i18n = await res.json();
     document.querySelectorAll('[data-i18n]').forEach(el => {
@@ -120,7 +120,7 @@ async function onOrgChange(org) {
   if (org) {
     try {
       // Fetch org holdings index
-      const res = await fetch(`org/${org}/index.json`);
+      const res = await fetch(`${BASE_URL}org/${org}/index.json`);
       if (res.ok) {
         const data = await res.json();
         for (const item of data) {
@@ -130,12 +130,12 @@ async function onOrgChange(org) {
       
       // Add browse links
       const lccLink = document.createElement('a');
-      lccLink.href = `browse/${org}/LCC.json`;
+      lccLink.href = `${BASE_URL}browse/${org}/LCC.json`;
       lccLink.textContent = `Browse LCC`;
       lccLink.style.marginRight = '10px';
       
       const ddcLink = document.createElement('a');
-      ddcLink.href = `browse/${org}/DDC.json`;
+      ddcLink.href = `${BASE_URL}browse/${org}/DDC.json`;
       ddcLink.textContent = `Browse DDC`;
       
       linksContainer.appendChild(lccLink);
@@ -153,8 +153,7 @@ async function onOrgChange(org) {
 }
 
 function getRecordIdFromUrl(url) {
-  // baseUrl + book/recordId/
-  const match = url.match(/\/book\/([^\/]+)\/?/);
+  const match = (url || '').match(/(?:\/|^)book\/([^\/\?\#]+)\/?/);
   return match ? match[1] : null;
 }
 
@@ -216,7 +215,7 @@ async function downloadBasket() {
   let xmls = [];
   for (const id of basket) {
     try {
-      const res = await fetch(`id/${id}.xml`);
+      const res = await fetch(`${BASE_URL}id/${id}.xml`);
       if (res.ok) {
         const text = await res.text();
         // Remove XML declaration and collection root if present, or just string together records
@@ -281,7 +280,7 @@ function processResultNode(node) {
   const recordId = getRecordIdFromUrl(url);
   if (!recordId) return;
   
-  // Replace link logic to respect BASE_URL if needed, Pagefind might do absolute URLs.
+  link.href = `${BASE_URL}book/${recordId}/`;
   
   const excerpt = node.querySelector('.pagefind-ui__result-excerpt');
   
@@ -297,7 +296,7 @@ function processResultNode(node) {
   
   // Add download button
   const dlBtn = document.createElement('a');
-  dlBtn.href = `id/${recordId}.xml`;
+  dlBtn.href = `${BASE_URL}id/${recordId}.xml`;
   dlBtn.download = '';
   dlBtn.className = 'download-btn';
   dlBtn.textContent = i18n['download_record'] || 'Download MARCXML';
@@ -435,8 +434,9 @@ async function performSearch(query, resultsContainer, isInitial = false) {
     
     const url = data.url;
     const recordId = getRecordIdFromUrl(url) || 'unknown';
+    const bookUrl = (recordId !== 'unknown') ? `${BASE_URL}book/${recordId}/` : url;
     
-    let titleHtml = `<h3><a href="${escapeHTML(url)}">${escapeHTML(data.meta.title || 'Untitled')}</a></h3>`;
+    let titleHtml = `<h3><a href="${escapeHTML(bookUrl)}">${escapeHTML(data.meta.title || 'Untitled')}</a></h3>`;
     let metaHtml = `<p><strong>Author:</strong> ${escapeHTML(data.meta.author || '')}</p>`;
     
     node.innerHTML = titleHtml + metaHtml + `<p>${data.excerpt}</p>`;
@@ -456,7 +456,7 @@ async function performSearch(query, resultsContainer, isInitial = false) {
     };
     
     const dlBtn = document.createElement('a');
-    dlBtn.href = `id/${recordId}.xml`;
+    dlBtn.href = `${BASE_URL}id/${recordId}.xml`;
     dlBtn.download = '';
     dlBtn.className = 'download-btn';
     dlBtn.textContent = i18n['download_record'] || 'Download MARCXML';

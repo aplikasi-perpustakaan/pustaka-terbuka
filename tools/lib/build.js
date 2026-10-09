@@ -131,7 +131,10 @@ export async function buildSite(options) {
     const hash = computeHash(content);
     newManifest[recordId] = hash;
 
-    const isUnchanged = manifest[recordId] === hash;
+    const bookDir = path.join(distDir, 'book', recordId);
+    const bookHtmlPath = path.join(bookDir, 'index.html');
+    const idXmlPath = path.join(distDir, 'id', `${recordId}.xml`);
+    const isUnchanged = manifest[recordId] === hash && fs.existsSync(bookHtmlPath) && fs.existsSync(idXmlPath);
     // For a real incremental build, we would skip some things if unchanged,
     // but we still need to add to Pagefind index and rebuild collections.
     // However, if requested to test incremental builds, we can skip file writes for unchanged records.
@@ -182,7 +185,7 @@ export async function buildSite(options) {
     if (ddc) schemes.push('DDC');
 
     await pfIndex.addCustomRecord({
-      url: `${baseUrl}book/${recordId}/`,
+      url: `book/${recordId}/`,
       content: searchableText,
       language: lang,
       meta: {
@@ -199,7 +202,6 @@ export async function buildSite(options) {
       }
     });
 
-    const bookDir = path.join(distDir, 'book', recordId);
     let holdingsHtml = '';
     for (const h of holdings) {
       const orgInfo = orgs[h.org] || {};
