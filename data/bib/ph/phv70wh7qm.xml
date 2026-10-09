@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812600</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781586489632</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1586489631</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812600</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sparrow, Bartholomew H., 1959-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BRENT SCOWCROFT and THE CALL of NATIONAL SECURITY : the STRATEGIST</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">American foreign policy. Scowcroft helped manage the American departure from Vietnam, helped plan the historic breakthrough to China, urged the first President Bush to repel the invasion of Kuwait, and worked to shape the West{u2019}s skillful response to the collapse of the Soviet empire. And when US foreign policy has gone awry, Scowcroft has quietly stepped in to repair the damage. His was one of the few respected voices in Washington to publicly warn the second President Bush against rushing to war in Iraq. The Strategist offers the first comprehensive examination of Brent Scowcroft{u2019}s career. Author Bartholomew Sparrow details Scowcroft{u2019}s fraught relationships with such powerful figures as Henry Kissinger (the controversial mentor Scowcroft ultimately outgrew), Alexander Haig (his one-time rival for Oval Office influence), and Condoleezza Rice (whose career Scowcroft helped launch--and with whom he publicly broke over Iraq). Through compelling narrative, in-depth research, and shrewd analysis, The Strategist brings color and focus to the complex and often secretive nature of US foreign policy--an intellectual battlefield on which personalities, ideas, and worldviews clash, dramatically shaping the world in which we live.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">353.1224092 SPA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

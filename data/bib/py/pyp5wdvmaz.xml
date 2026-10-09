@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000741072</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781606493441</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1606493442</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000741072</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Menzies, Jane</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Doing Business in China : Getting Ready for the Asian Century</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">INTERNATIONAL BUSINESS COLLECTION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The Asian Century will bring many changes to world trade and to the global economy. It is predicted that China will be the largest single economy in this new economic era; understanding how business operates in China will hence be central to success in the Asian Century. This book will be of particular interest to researchers, managers, and anyone interested in international business in China. It examines the experiences of a wide range of Australian businesses that have internationalized to China, including planning for, establishing and operating a business in China, staff selection and management, the trade and investment environment, legal practices and regulations, politics, corruption and intellectual property protection. Australian businesses were selected for this project because of Australia&apos;s strong economic connection with China and the stability of the Chinese economy over the last 20 years, including during the GFC. China has been Australia&apos;s top trading partner since 2007. The consistency of the Chinese economy and the long-term commitment of Australian businesses to operations in China provided a valuable perspective from which to examine foreign business operations in China. Over the last 20 years, the Chinese economy grew tenfold, to become the second largest in the world. The longitudinal perspective of many of the participants over this period of change enabled them to offer insightful observations regarding the fundamental drivers of business practices in China. The findings presented in this book are based on interviews collected from 40 organizations, ranging from global mining and banking organizations to small manufacturing or service companies, covering a range of industries, and entry modes.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">330.951 MEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

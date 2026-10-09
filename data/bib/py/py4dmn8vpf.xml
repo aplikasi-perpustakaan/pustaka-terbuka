@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876877</marc:controlfield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0163-786X ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ovld001900392</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876877</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Research in social movements, conflicts and change. Vol. 38</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Research in social movements, conflicts and change ; v. 38.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A long-standing characteristic of the Research in Social Movements, Conflicts and Change series is publishing new theoretical and empirical work that connects previously disparate sub-fields. This volume continues that tradition by opening with five papers that join social movements research with organizational theory, new institutionalism, strategic action fields, and nonviolent action. One study does this by examining how the Fenian Brotherhood organized a transnational revolutionary movement for Ireland&apos;s independence. Another paper analyzes the strategic relations between conservative, moderate and radical organizations in different movements, while a further study zeroes in on nonviolent action campaigns. One chapter examines how the North American SlutWalk campaign responded to the organizational field by strategically adapted their framing to make it more resonant transnationally. Other chapters examine how LGBT organizational presence influences the passage of hate crime legislation, and how the women&apos;s movement in Franco&apos;s Spain persevered through repression and abeyance partly due to cultural practices.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">303.484</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/0163-786X/38</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

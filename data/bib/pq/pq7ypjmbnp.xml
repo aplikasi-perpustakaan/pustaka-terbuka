@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738148</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118486399</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118486390</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738148</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Man, Adrianus Pieter de, 1967-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Alliances : An Executive Guide to Designing Successful Strategic Partnerships</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A timely and practical guide that helps senior managers design successful strategic partnerships. Strategic alliances are increasingly common among modern corporations and a hot topic in today&apos;s business schools. Alliance is a sophisticated guide to crafting successful partnerships, offering a combination of carefully designed checklists, up-to-date examples and scenarios from around the world, and the tools needed to ensure that all elements of an alliance are taken into account and fully assessed. Most managers don&apos;t have the experience or knowledge to create a functional alliance governance structure. This book fills that knowledge gap with a clear description of the proper implementation process. Ideal for business leaders engaged in building a corporate alliance and business school students . Covers all of the available alliance structure, describes the building blocks of alliance design, and defines an effective process for managers constructing alliances. Written by a leading expert on the subject who is a member of the Board of Directors of the Association of Strategic Alliance Professionals. As the popularity and frequency of corporate strategic alliances grows, Alliance gives business leaders the insight and practical advice they need to ensure their partnerships benefit all parties&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.046 MAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000774177</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780300189490</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">300189494</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000774177</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wilson, David Sloan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Does Altruism Exist? Culture, Genes and the Welfare of Others</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Foundational questions in science</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">David Sloan Wilson, one of the world&apos;s leading evolutionists, addresses a question that has puzzled philosophers, psychologists, and evolutionary biologists for centuries: Does altruism exist naturally among the Earth&apos;s creatures? The key to understanding the existence of altruism, Wilson argues, is by understanding the role it plays in the social organization of groups. Groups that function like organisms indubitably exist, and organisms evolved from groups. Evolutionists largely agree on how functionally organized groups evolve, ending decades of controversy, but the resolution casts altruism in a new light: altruism exists but shouldn&apos;t necessarily occupy center stage in our understanding of social behavior. After laying a general theoretical foundation, Wilson surveys altruism and group-level functional organization in our own species-in religion, in economics, and in the rest of everyday life. He shows that altruism is not categorically good and can have pathological consequences. Finally, he shows how a social theory that goes beyond altruism by focusing on group function can help to improve the human condition in a practical sense. Does Altruism Exist? puts old controversies to rest and will become the center of debate for decades to come.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">302.14 WIL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

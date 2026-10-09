@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000792087</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781623360405</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1623360404</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000792087</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Silverstone, Alicia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">the kind mama : A Simple Guide to Supercharged Fertility, a Radiant Pregnancy, a Sweeter Birth, and a Healthier, More Beautiful Beginning</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The bestselling author of The Kind Diet offers natural solutions for a healthier and more vibrant approach to new motherhood. When did making babies get to be so hard? Infertility is on the rise globally, affecting as many as one in six couples. But instead of considering diet and lifestyle factors, doctors pump their patients full of expensive and invasive fertility treatments. Once pregnant, women just accept that carrying a baby will be the gassy, swollen, irritable, sleepless nightmare that has become the new normal--and then assume that new motherhood will be just as challenging, from breastfeeding woes to screaming fits. It doesn&apos;t have to be that way. In The Kind Mama, Alicia Silverstone has created a comprehensive and practical guide empowering women to take charge of their fertility, pregnancy, and first 6 months with baby. Drawing on her own experience, as well as that of obstetricians, midwives, nutritionists, holistic health counselors, and others, Silverstone offers advice on getting one&apos;s &quot;baby house&quot; in order through nutrient-rocking foods that heal and nourish, and, once pregnant, gentle ways to boost comfort, energy, and health during each trimester. She helps readers navigate everything from prenatal testing and birth plans to successful breastfeeding and creating a supportive &quot;baby nest.&quot; The result is an authoritative, one-stop guide that empowers women to trust their instincts during this vital milestone, while helping them embark on a healthy and more vibrant path to motherhood&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">618.178 SIL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

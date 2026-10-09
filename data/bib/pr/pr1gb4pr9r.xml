@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000732143</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415529525</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415529522</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000732143</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lankester, Tim</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Politics and Economics of Britain&apos;s Foreign Aid : The Pergau Dam Affair</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The Pergau dam in Malaysia was the most controversial project in the history of British aid. Because of its high cost, it was a poor candidate for aid funding. It was provided in part to honour a highly irregular promise of civil aid in connection with a major arms deal. After two parliamentary inquiries and intense media coverage, in a landmark judgement the aid for Pergau was declared unlawful. Tim Lankester offers a detailed case study of this major aid project and of government decision-making in Britain and Malaysia. Exposing the roles played by key politicians and other stakeholders on both sides, he analyses the background to the aid/arms linkage, and the reasons why the British and Malaysian governments were so committed to the project, before exploring the response of Britain&apos;s Parliament, and its media and NGOs, and the resultant legal case. The main causes of the Pergau debacle are carefully drawn out, from conflicting policy agendas within the British government to the power of the business lobby and the inability of Parliament to provide any serious challenge. Finally, Lankester asks whether, given what was known at the time and what we know now, he and his colleagues in Britain&apos;s aid ministry were correct in their objections to the project. Pergau is still talked about as a prime example of how not to do aid. Tim Lankester, a key figure in the affair, is perfectly placed to provide the definitive account. At a time when aid budgets are under particular scrutiny, it provides a cautionary tale.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.91410595 LAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

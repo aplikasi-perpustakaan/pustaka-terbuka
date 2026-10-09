@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770252</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262525466</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262525461</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770252</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Secrets of Economic Editors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Editors of academic journals are often the top scholars in their fields. They are charged with managing the flow of hundreds of manuscripts each year -- from submission to review to rejection or acceptance -- all while continuing their own scholarly pursuits. Tenure decisions often turn on who has published what in which journals, but editors can accept only a fraction of the papers submitted. In this book, past and present editors of economics journals discuss navigating the world of academic journals. Their contributions offer essential reading for anyone who has ever submitted a paper, served as a referee or associate editor, edited a journal -- or read an article and wondered why it was published The editors describe their experiences at journals that range from the American Economic Review to the Journal of Sports Economics. The issues they examine include late referee reports, slow resubmission of manuscripts, and plagiarism -- as well as the difficulties of herding cats and the benefits of husband-wife editorial partnerships. They consider the role of the editor, as gatekeeper or developer of content; and they advise authors to write more carefully and clearly, to include citations that locate their articles in the context of the existing literature, and to update their work after it has been submitted and rejected elsewhere. The chapters also offer a timely, insider&apos;s perspective on the general effectiveness of the system of academic journals in economics.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">070.44933 SEC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

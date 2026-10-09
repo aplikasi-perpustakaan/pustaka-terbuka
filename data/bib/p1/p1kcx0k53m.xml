@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000758247</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000758247</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE NATIVITY STORY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Begins with the slaughter of Bethlehem&apos;s innocents under orders from a paranoid King Herod. Go back a year to the prophecy that informs Zechariah that his wife, Elizabeth, will bear a child. Elizabeth&apos;s cousin, the adolescent Mary, struggles with her family to make ends meet and is promised to the carpenter Joseph. Mary is told by the angel Gabriel that she will carry, while still a virgin, the long-awaited Messiah who will liberate the Jews from Herod and his Roman benefactors. Joseph and Mary travel to Bethlehem. Three Magi spend months crossing the desert trying to rendezvous with some point below the convergence of three heavenly bodies in the night sky. Friendship and trust emerges between Mary and Joseph after he is told in a dream that she speaks truthfully about her miraculous pregnancy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 NAT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

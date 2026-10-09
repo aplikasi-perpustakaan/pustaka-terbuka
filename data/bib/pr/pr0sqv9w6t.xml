@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000773998</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781482216301</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1482216302</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000773998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cross, Barry L.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Project Leadership : Creating Value with an Adaptive Project Organization</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Introduction I forget the date, but it was somewhere around 1998; my employer at the time was in the middle of a number of important launches for several customer organizations. Some were going very well, while others were collectively raising the blood pressure of the organization and its extended enterprises. Most of you have been in similar situations, where launches that go well are quietly (or otherwise) celebrated, and difficult projects are remembered with a grimace and a tongue-in- cheek, &quot;Well, at least no one died.&quot; Our president would on occasion remind me, &quot;Barry, you can&apos;t buy training like this.&quot; At the time, I was vice president of large illuminated objects, or some such thing, and the leadership team was burning the candle at both ends trying to keep the balls in the air, the alligators at bay, or some other metaphorical impossibility. As was our custom at the time, we agreed to withdraw from the day-to- day festivities to hold our annual off-site, or leadership, retreat to focus on the go-forward plan and make all things better. At some point during the day, we were discussing the state of affairs in our project portfolio. I am sure now that it was late in the day, as we knew this discussion could take a while, and we needed to make sure the bulk of the agenda was covered before embarking on the project discussion&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4092 CRO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

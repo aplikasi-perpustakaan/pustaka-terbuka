@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000647362</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470891421</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470891424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000647362</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hurwitz, Judith</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Smart or lucky? : how technology leaders turn chance into success</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;An insider’s look at the combination of luck and smarts you need to succeed in today’s changing tech world. To be successful in any highly competitive market, you have to be smart, but you also have to be lucky by being at the right place at the right time. The most successful technology entrepreneurs understand the value of the combination of luck and smarts and make it work for them. Those who fail are the ones who may be lucky but get complacent, believe they’re the smartest players in the market, and fail to make the changes needed to sustain leadership. Smart or Lucky? is for business leaders who are interested in learning what it takes to be successful in emerging markets and how to sustain success over the long term. It shows entrepreneurs how to recognize a lucky break and have the foresight to take advantage of it. Offers concrete lessons based on well-tested principles that have broad applications for business leaders and entrepreneurs across industries. Based on experiences with hundreds of successful and failed companies in the software market over three decades. Author’s method has resulted in expanded revenue and increased market success for both large and small companies. Informative and highly detailed, this is a must-read for all business leaders and emerging entrepreneurs who want to understand how to stay nimble and succeed in complicated, competitive markets.&quot;-- c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.401 HUR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000817092</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781434229472</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1434229475</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000817092</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hoena, Blake  A</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Spotlight Striker</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Spotlight Striker</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Carlos Ramirez has always been the Strikers&apos; best scorer. He pulls off bicycle kicks with ease, and his best friend, Tou Yang, knows exactly where to put the passes. But the state&apos;s best team, the Bandits, are coming to town, and Carlos hears that he&apos;ll have a very special fan in the stands. His uncle, a professional soccer player, will be watching his nephew&apos;s every move during the Strikers&apos; biggest game of the year. As the pressure to perform sets in, Carlos struggles to even hit the ball, let alone do bicycle kicks. Everyone has seen that Carlos is a gifted athlete, but no one knows whether he&apos;ll shine as the center of attention, or be blinded by the spotlight.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Electronic Resources</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">741.5973</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://pnm.alkemlibrary.com/index.php?option=com_content&amp;view=article&amp;id=1376:spotlight-striker&amp;catid=34:children&amp;Itemid=182</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

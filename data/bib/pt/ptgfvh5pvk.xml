@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746131</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780754826941</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">754826945</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746131</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Nilsen, Angela</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">cakes : The complete guide to decorating, icing and frosting, with over 170 beautiful cakes, shown in1150 photographs</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">It is a fabulous collection of classic cake recipes and a comprehensive instruction course in cake making and decorating skills, in one easy-to-follow volume. 170 wonderful cake decorating recipes, from traditional to special occasion cakes, including wedding, christening, birthday, Christmas cakes and more. How to master over 50 cake-making techniques including working with royal icing, sugarpaste and fondant, marzipan, icings, frostings and chocolate. It includes a chapter on novelty and party cakes for all ages, showing how to create a rainbow snake, a clown, a festive elephant, a birthday present and a box of chocolates. This clear and comprehensive book takes you through all cake making and decorating skills. Readers will find it easy to follow the illustrated instructions to create various finishes, both simple and lavish. The first part of the book covers all the basics, with tried-and-tested recipes for a wide variety of classic sponge and fruit cakes, and icings and frostings for quick and easy finishing. There are baking charts for different sizes and shapes of cake, guidance on lining tins, and step-by-step techniques for covering, piping and decorating. The second half of the book consists of more than 170 clearly explained recipes, using the techniques and skills acquired to make beautiful cakes for every occasion.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.86539 NIL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

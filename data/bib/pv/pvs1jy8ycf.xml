@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734540</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781451650020</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1451650027</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734540</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hart, Matthew, 1945-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">GOLD : THE RACE FOR THE WORLD&apos;S MOST SEDUCTIVE METAL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;From the lost empires of the Sahara to today&apos;s frenzied global gold rush, a blazing exploration of the human love affair with gold by the award-winning author of Diamond.Since the 2008 financial crisis, the price of gold has skyrocketed--in three years more than doubling from $800 an ounce to $1900. This massive spike kicked off an unprecedented global gold-mining and exploration boom, much bigger than the Gold Rush of the 1800s. In Gold, acclaimed author Matthew Hart takes you on an unforgettable journey around the world and through history to tell the incredible story of how gold became the world&apos;s most precious commodity. Beginning with a page-turning dispatch from the crime-ridden, dangerous inferno of the world&apos;s deepest mine, Hart pulls back to survey gold&apos;s tempestuous past. From the earliest civilizations, 6,000 years ago, when gold was an icon of sacred and kingly power, Hart tracks its evolution, through conquest, murder, and international mayhem, into the speculative casino-chip that the metal has become. On this spellbinding journey the reader will witness the Spanish plunder of the New World, a century of pillage that crushed the glittering Inca empire of the Andes and transferred its staggering wealth to Europe. Hart describes each boom and bust in gold&apos;s long story, each panic and shock, with a masterful storytelling hand, leading the reader to the present day--to the London vaults that hold the multi-ton hoards of such shadowy investors as the American gold fund called &quot;the Spider,&quot; to the amazing gold-rich bamboo forests of eastern Senegal, and to the piratical carnival of theft that enlivens the world&apos;s greatest gold-producing engine: China.  With writing described as &quot;polished and fiery&quot; (Publishers Weekly), Hart weaves together history and cutthroat economics to reveal the human dramas that have driven our lust for a precious yellow metal&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">322.422209 HAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

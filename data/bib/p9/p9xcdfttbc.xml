@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000730388</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781849714150</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1849714150</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000730388</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Serra, Joao Vitor Fernandes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Electric Vehicles : Technology, Policy, and Commercial Development</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Modern electric vehicles (EVs) are well suited to most people&apos;s general transport needs. Despite this, their adoption at a large scale has been grindingly slow. What are the reasons for this? Unlike most books which focus on the technical aspects of EV performance, this guide sets out the commercial and political barriers to their increased use and lays out the ways in which these barriers can be overcome. It begins by charting the rise of the internal combustion engine, and detailing the problems associated with it which are driving efforts to electrify transportation. It goes on to introduce readers to the main EV technologies and examines the key issue of energy storage and recharging infrastructure. The remaining chapters explore the cost-effectiveness of electric mobility, the differing adoption trajectories by which EVs may come to increase in prominence, and the way in which policy can be tailored to encourage this rise. The book covers industrialized and emerging economy contexts, the latter of which have the greatest opportunities - and most urgent need - to take the EV development route. Requiring no specialist engineering knowledge to understand and written in an engaging, accessible style, this is a valuable primer and resource for people in business, policy or study who are keen to understand, encourage and capitalize on the transition to electric mobility. --</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">629.2293 SER</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

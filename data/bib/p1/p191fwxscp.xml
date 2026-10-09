@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000652952</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781420093384</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">142009338X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000652952</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Ubiquitous multimedia computing</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Chapman &amp; Hall/CRC studies in informatics series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Computing is ubiquitous and if you think otherwise, that in itself might be the best evidence that it is so. Computers are omnipresent in modern life and the multimedia computing environment of today is becoming more and more seamless.&quot; &quot;Bringing together contributions from dozens of leading experts, Ubiquitous Multimedia Computing educates readers on Ubi-Media Computing on three levels: infrastructures, where fundamental technologies are being developed; middleware, where the integration of technologies and software systems continues to be defined; and applications, where its concepts are evolving into real-world products and processes. This book presents a wealth of new directions and new technology that is changing the way we communicate, learn, play, and live day by day.&quot; &quot;While these pages serve as a timely reference for researchers working in all areas of product development and human computer interaction, they also provide engineers, doctors, and many other professionals, as well as educators and graduate students with a view that reveals the otherwise invisible seams of this age of ubi-media computing.&quot;--P. [4] of cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">006.7 UBI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

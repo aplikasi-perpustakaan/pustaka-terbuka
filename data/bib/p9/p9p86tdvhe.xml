@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000570090</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000570090</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE GAME PLAN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Joe Kingman is a huge football star. He&apos;s got women, money, and a good career. Everything is perfect for him. Then one day an 8 year old girl shows up at his door telling him that she&apos;s his daughter from a past relationship. Once he has proof that she is for a fact his, he tries but fails miserably at &quot;parenting.&quot; From problems such as his super speedy car with no backseat, to leaving her in a bar at 3 am, he&apos;s got a lot to deal with. Eventually though, she gets him, (and his football team) wrapped around her finger. When she has a near-death experience and Joe finds out her mother died early that year, he wants her to move and live with him. Her aunt though disagrees and takes her home. Joe has to play the game of his life and when he&apos;s injured, and things don&apos;t look good for him, his daughter comes out and gets him right back on the field</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 GAM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
