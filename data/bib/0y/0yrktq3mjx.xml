@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876526</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781784418557</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1784418552</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0163-2396 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876526</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Contributions from European symbolic interactionists conflict and cooperation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Studies in symbolic interaction ; 45</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The papers in this volume were presented at the third conference of the European Society for the Study of Symbolic Interaction (SSSI). The theme of the 2012 conference was &quot;Conflict, cooperation and transformation in everyday life.&quot;  The fifteen papers presented across this volume and volume 45 cover a diverse range of topics, which are divided into two main categories: &quot;Reflections on methods&quot; and (interactions of) &quot;Conflict and cooperation&quot;; this volume focuses on the latter. The papers in this volume present a wide variety of qualitative methods and themes, such as sex-work in Poland, urban public places in the Netherlands, dancing during lunch break in Sweden, self-change in Papua New Guinea, immigration in Malta and the body online. Contributing authors to this volume and the previous come from Belgium, Canada, Sweden, The US, The Netherlands, and Germany, suggesting the thriving diversity of European SSSI in terms of its research themes and methods.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">302</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/0163-2396/45</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

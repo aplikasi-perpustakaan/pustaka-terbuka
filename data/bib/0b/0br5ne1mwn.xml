@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737378</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780714864730</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">714864730</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737378</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Johnson, Michael, 1964-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">PROBLEM SOLVED : How to recognize the nineteen recurring problems faced in design, branding and communication and how to solve them</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Second edition 2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Problem Solved is the only book that teaches students and professionals how to recognize the recurring problems common to all areas of communication and explains how to solve them. Each chapter explores a different problem and concludes with a case study exploring a particular solution in detail. Themes include: producing innovative work, avoiding repetition, standing out in the market place, reinventing a tired brand, keeping a brand young and trendy, using shock tactics, and word-based advertising in a world over-run with images and sound-bites. This new edition is brought up-to-date with new images and updated text throughout as well as a new chapter, examining the contemporary phenomenon of flexible identity schemes. Examples of companies featured include Saks Fifth Avenue, Google, Aol, The Natural History Museum, the BBC 2 and Channel 4 Idents and The Tate. The book provides an unparalleled overview of the design industry, including over 1000 images from throughout the 20th Century to today and bringing together for the first time discussions and case studies that reveal the working methods of major advertising and graphic design firms. Featured agencies and designers include: Saatchi and Saatchi, Paul Rand, Saul Bass, Bob Gill, Milton Glaser, Wolff Olins, Pentagram and George Lois, as well as examples from the johnson banks archive. An entertaining and thorough primer, Problem Solved is essential reading for students and professionals in all areas of the design and communication industries. The first edition was included on many university and college reading lists and this new edition should prove equally popular.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">741.6 JOH</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

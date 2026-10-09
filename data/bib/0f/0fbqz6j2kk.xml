@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000733980</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781451699883</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1451699883</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000733980</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ellefson, David, 1964-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">MY LIFE WITH DETH : Discovering Meaning in a Life Of Rock &amp; Roll</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Howard Books hardcover edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cofounder and bassist of Megadeth David Ellefson reveals the behind-the-scenes details of life in one of the world&apos;s most popular heavy metal bands. If you&apos;re looking for revelations, they&apos;re here, including the drug habits that brought the band members to their knees. You&apos;ll learn of David&apos;s unsuccessful attempts at rehab and the period when he was strung out on methadone, cocaine, and heroin--all at the same time. But My Life with Deth is far more than just another memoir of debauchery. Ellefson also shares the story of his faith journey, which began when he decided his only choice for survival was to get free from his addiction. In his recovery, he returned to his childhood roots in the Lutheran church and embraced his Christianity that continues to inform his life and work today. Here you&apos;ll find insightful comments from some of the biggest names in heavy metal, along with life lessons for every reader. Whether religious or not, you&apos;ll be enthralled, informed, and inspired by this tale of discovering meaning in a life of rock and roll.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">787.87166092 ELL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

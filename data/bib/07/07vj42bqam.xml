@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000710151</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789814414012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9814414018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000710151</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Elverskog, Johan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Buddhism &amp; Islam on the silk road</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Encounters with Asia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In the contemporary world the meeting of Buddhism and Islam is most often imagined as one of violent confrontation. Indeed, the Taliban&apos;s destruction of the Bamiyan Buddhas in 2001 seemed not only to reenact the infamous Muslim destruction of Nalanda monastery in the thirteenth century but also to reaffirm the stereotypes of Buddhism as a peaceful, rational philosophy and Islam as an inherently violent and irrational religion. But if Buddhist-Muslim history was simply repeated instances of Muslim militants attacking representations of the Buddha, how had the Bamiyan Buddha statues survived thirteen hundred years of Muslim rule?&quot; &quot;Buddhism and Islam on the Silk Road demonstrates that the history of Buddhist-Muslim interaction is much richer and more complex than many assume. This groundbreaking book covers Inner Asia from the eighth century through the Mongol empire and to the end of the Qing dynasty in the late nineteenth century. By exploring the meetings between Buddhists and Muslims along the Silk Road from Iran to China over more than a millennium, Johan Elverskog reveals that this long encounter was actually one of profound cross-cultural exchange in which two religious traditions were not only enriched but transformed in many ways.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">294.335095 ELV</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

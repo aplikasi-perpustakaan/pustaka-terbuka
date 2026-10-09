@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812648</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781608683208</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1608683206</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812648</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Shane, Neala, 1948-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">INSPIRED BABY NAMES From Around the World : 6,000 International Names and the Meanings behind Them</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;More than 6,000 baby names and their meanings, with each name accompanied by an inspiring quotation. Includes naming customs, guided meditations for selecting a name, and indexes of names by meaning and ethnicity. Also includes popular names by decade, terms for grandparents, and popular pet names&quot;--Provided by publisher.
+&quot;What&apos;s in a name? Thoreau thought &apos;all the poetry in the world.&apos; How does a parent live up to that? Here, parents find more than lists: each entry illuminates a name&apos;s distinctive spiritual, historical, and cultural background--its poetry. Names, the initial way we meet someone, from the traditional or religious to the &apos;made up&apos; and even controversial, are fully explained. Each entry includes not only alternative spellings, derivation, and meaning but also an affirmation chosen to align with a name&apos;s background. These are culled from sources as diverse as the Bible, Koran, and Buddhist sutras; multicultural proverbs and Shakespeare; and thinkers from Alice Walker and Basho to Rumi and Muhammad Ali. Whether they want to honor ancestors, recognize the essence of their child, or convey their parental hopes, this book helps parents greet and bless their baby with heartfelt meaning&quot;--Provided by publisher</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">929.4003 SHA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

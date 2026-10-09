@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000873973</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781785606526</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1785606522</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0065-2830 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09388251</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000873973</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Accessibility for persons with disabilities and the inclusive future of libraries</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Advances in librarianship, v. 40</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">All libraries have patrons and staff members with disabilities, making equitable service a priority for these organizations as they provide diverse services to their entire communities. Although rapid technological changes in recent years have offered challenges to libraries, these same technologies provide opportunities to embrace the concept of accessible library services and create innovative new services for patrons with disabilities. Accessibility for persons with disabilities and the inclusive future of libraries, edited by Brian Wentz, Paul T. Jaeger, and John Carlo Bertot, focuses on the issues at the intersection of disability, accessibility, inclusion and libraries. The chapters in this volume provide best practices and innovative ideas to share amongst libraries, explore the roles that internet and communication technologies play in the context of inclusive libraries, illuminate the important contributions of libraries in promoting social inclusion of and social justice for people with disabilities, and help libraries to better articulate their contributions in these areas as they engage with disability groups, funders, policymakers, and other parts of their communities</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">27.663</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/0065-2830/40</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

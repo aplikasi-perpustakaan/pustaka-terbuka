@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000792084</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781782393412</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1782393412</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000792084</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Keen, Andrew</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE INTERNET IS NOT THE ANSWER</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The worldwide web is now a quarter of a century old. Invented in 1989, there can be no doubt that the web, and the new businesses it has enabled, has transformed the world. But, according to Andrew Keen, this disruption has been a terrible failure. In this book, Keen has written a sharp, witty polemic proving that, so far, the web has been mostly a disaster for everyone except a tiny group of young privileged white male Silicon Valley multi-millionaires. Rather than making us wealthier, the unregulated digital market is making us all poorer. Rather than generating jobs, it is causing unemployment. Rather than holding our rulers to account, it is creating a brightly lit, radically transparent prison in which everything we do is recorded. Rather than promoting democracy, it is empowering mob rule. And rather than fostering a new renaissance, it is encouraging a culture of distraction, vulgarity and narcissism. So what is to be done? The next twenty-five years are key, Keen explains, because, by 2040, everyone alive will be online. In The Internet is not the Answer, he disrupts the disrupters by laying out a five-part solution to the crisis. He says we need to rethink the web, revive government authority, rebuild the value of content, resurrect privacy and, above all, reconceive humanity. The stakes couldn&apos;t be higher, he warns. If we do nothing at all, this new technology and the companies that control it will continue to impoverish us all.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">302.231 KEE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

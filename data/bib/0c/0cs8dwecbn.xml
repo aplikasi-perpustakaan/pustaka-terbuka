@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812599</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062390677</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62390678</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812599</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ury, William.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">GETTING TO YES WITH YOURSELF and other Worthy Opponents</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">FIRST EDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">William Ury, coauthor of the international bestseller Getting to Yes, returns with another groundbreaking book, this time asking: how can we expect to get to yes with others if we haven&apos;t first gotten to yes with ourselves? Renowned negotiation expert William Ury has taught tens of thousands of people from all walks of life--managers, lawyers, factory workers, coal miners, schoolteachers, diplomats, and government officials--how to become better negotiators. Over the years, Ury has discovered that the greatest obstacle to successful agreements and satisfying relationships is not the other side, as difficult as they can be. The biggest obstacle is actually our own selves--our natural tendency to react in ways that do not serve our true interests. But this obstacle can also become our biggest opportunity, Ury argues. If we learn to understand and influence ourselves first, we lay the groundwork for understanding and influencing others. In this prequel to Getting to Yes, Ury offers a seven-step method to help you reach agreement with yourself first, dramatically improving your ability to negotiate with others. Practical and effective, Getting to Yes with Yourself helps readers reach good agreements with others, develop healthy relationships, make their businesses more productive, and live far more satisfying lives.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.1 URY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

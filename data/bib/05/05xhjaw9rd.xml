@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737788</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781610391665</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1610391667</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737788</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ullah, Haroon K.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Bargain from the Bazaar : A FAMILY&apos;S DAY OF RECKONING IN LAHORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The story of one struggling middle-class Pakistani family, compellingly narrated by a young scholar and diplomat who has observed the traumas of the region firsthand. As a young boy, Awais Reza&apos;s family moved from Indian Kashmir to Lahore in Pakistan after Partition. Now middle-aged, Awais is a shopkeeper in the Anarkali Bazaar. Married, with three sons, he looks back on his journey from idealistic young nationalist to increasingly watchful and anxious member of the mercantile class at the heart of Pakistani life. Awais&apos;s eldest son has drifted, but returned to help his father run the shop; the middle one is involved in radical Islamist politics; and the youngest is a law student who believes that a secular future is Pakistan&apos;s last and only hope. Their lives unfold against an increasingly turbulent and violent background as suicide bombers enter the life of urban Lahore with devastating consequences. Haroon K. Ullah&apos;s portrait of a middle class family oppressed by a state falling apart around them is a remarkable piece of storytelling. Radical Islam is confronted not only in distant mountain passes by the armed forces, but most personally and tellingly across the kitchen table as families like the Rezas debate their future&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">954.9143 ULL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

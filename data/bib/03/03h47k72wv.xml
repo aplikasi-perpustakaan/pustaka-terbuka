@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833912</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781101907313</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1101907312</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn933727034</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833912</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Senghor, Shaka</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">WRITING MY WRONGS : Life, Death, and Redemption in an American Prison</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Convergent Books Paperback Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In 1991, Shaka Senghor was sent to prison for second-degree murder. Today, he is a lecturer at the University of Michigan, a leading voice on criminal justice reform, and an inspiration to thousands. In life, it&apos;s not how you start that matters. It&apos;s how you finish. Shaka Senghor was raised in a middle class neighborhood on Detroit&apos;s east side during the height of the 1980s crack epidemic. An honor roll student and a natural leader, he dreamed of becoming a doctor--but at age 11, his parents&apos; marriage began to unravel and the beatings from his mother worsened, sending him on a downward spiral that saw him run away from home, turn to drug dealing to survive, and end up in prison for murder at the age of 19, fuming with anger and despair. Writing My Wrongs is the story of what came next. During his 19-year incarceration, seven of which were spent in solitary confinement, Senghor discovered literature, meditation, and self-examination, tools that he used to confront the demons of his past, forgive the people who hurt him, and begin atoning for the wrongs he had committed. Upon his release at age 38, Senghor became an activist and mentor to young men and women facing circumstances like his. His work in the community and the courage to share his story led him to fellowships at the MIT Media Lab and the Kellogg Foundation and invitations to speak at events like TED and the Aspen Ideas Festival. Writing My Wrongs is a redemption story told through a stunningly human portrait of what it&apos;s like to grow up in the gravitational pull of poverty, violence, fear, and hopelessness. It&apos;s an unforgettable tale of forgiveness and hope, one that reminds us that our worst deeds don&apos;t define who we are or what we can contribute to the world. And it&apos;s a lasting testament to the power of compassion, prayer, and unconditional love, for reaching those whom society has forgotten&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">365.6092 SEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833965</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062347145</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62347144</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn941442884</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833965</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Piore, Adam</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE BODY BUILDERS : INSIDE THE SCIENCE OF THE ENGINEERED HUMAN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">FIRST EDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Weaving together vivid storytelling and groundbreaking science, The Body Builders dives into the current revolution in human augmentation and explores how these new technologies are helping us triumph over the boundaries of our bodies and our minds. For millennia humans have tried--and often failed--to master nature and transcend our limits. But this has started to change. The new scientific frontier is the human body: The greatest engineers of our generation have turned their sights inward, and their work is beginning to revolutionize mankind. In The Body Builders, Adam Piore takes us on a fascinating journey into the field of bioengineering--which can be used to reverse engineer, rebuild, and augment human beings--and paints a vivid portrait of the people at its center. Chronicling the ways new technology has retooled our physical expectations and mental processes, Piore visits people who have regrown parts of their fingers and legs in the wake of terrible traumas, tries on a muscle suit that allows him to lift ninety pounds with his fingertips, dips into the race to create &quot;Viagra for the brain,&quot; and shadows the doctors trying to give mute patients the ability to communicate telepathically. As science continues to lay bare the mysteries of human performance, it is helping us to see--and exist--beyond our expectations. The Body Builders will take readers past the headlines and the hype to introduce them to the inner workings and the outer reaches of our bodies and minds, and to explore how new developments are changing, and will forever change, what is possible for humankind.&quot;--Jacket.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">660.6 PIO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

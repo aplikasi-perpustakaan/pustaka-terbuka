@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000879640</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787145337</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787145336</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">1041-7060 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787145337</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000879640</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Parables, myths and risks</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Advances in public interest accounting ; v. 20.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Continuing the search for greater reflectivity regarding accounting&apos;s role in society, this volume identifies the many ways accounting contributes to knowledge creation and the consequences in socio-economic realms. Accounting practice has always been concerned with fraud, legitimacy and trust. One might speculate an essential premise behind the audit of publicly held corporations is potential management deception, and thus a raison d&apos;être for accounting and accountability. In this volume researchers, exploring themes of deception: examine financial statement manipulation in the decade after Sarbanes-Oxley (SOX), consider internal control impacts on earnings management, deliberate on the usefulness of audit opinions, and contemplate tax evasion practices and their antecedents. In contextualizing the public interest these researchers contemplate cultural distinctions, conflicts of interest, regulation, and the dynamic interfaces and divides between practitioners and academics. Envisioning the facilitation of overall enhancement of the broad community, recommendations for increasing the quality of communication between scholars and professionals is deliberated. Contributing as well to the undeniable concern for broad environmental degradation, the role of the discipline in maintaining the status quo is challenged. Rather, accounting&apos;s characterization of accountability should include attributes of socio-environmental destruction: complexity, uncertainty and diffused responsibility. These emergent accounts would inform the journey of constructing more representative accounts of technological degradation. Such imaginative emancipatory accounting would enhance decision- making, develop social well-being, and unfold new forms of knowledge and possibilities.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">657.835</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/S1041-7060201720</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

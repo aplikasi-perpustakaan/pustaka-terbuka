@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833948</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780812986648</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">812986644</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn957135536</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833948</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Robison, John Elder</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Switched On : A MEMOIR OF BRAIN CHANGE AND EMOTIONAL AWAKENING</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Spiegel &amp; Grau Trade Paperback Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;When John Elder Robison published Look Me in the Eye, his darkly funny bestselling memoir about growing up with Asperger&apos;s Syndrome, he was launched into international prominence as an autism expert. But in spite of his success, he still struggled to decode the secret language of social interactions, and often felt like a misfit who understood car engines better than people. So when a group of Harvard neuroscientists told John about TMS (Transcranial Magnetic Stimulation), an experimental brain therapy that promised to remediate the disabilities of autism and unlock his emotional intelligence, he jumped at the chance to join their study. Switched On recounts the adventure that followed, as John became a guinea pig to the world&apos;s top brain researchers in an effort to understand the social and emotional deficits that lie at the heart of autism, with electrifying results. As Robison describes his transformation: &quot;For the first time in my life, I learned what it was like to truly &apos;know&apos; other people&apos;s feelings. It was as if I&apos;d been experiencing the world in black and white all my life, and suddenly I could see everything--and particularly other people--in brilliant beautiful color.&quot;&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.8588320092 ROB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

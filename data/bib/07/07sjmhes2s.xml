@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734169</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781476725390</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">147672539X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734169</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cheney, Richard B.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">HEART : AN AMERICAN MEDICAL ODYSSEY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Scribner hardcover edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;For as long as he has served at the highest levels of business and government, Vice President Dick Cheney has also been one of the world&apos;s most prominent heart patients. Now, for the first time ever, Cheney, together with his longtime cardiologist Jonathan Reiner, MD, shares the very personal story of his courageous thirty-five-year battle with heart disease, from his first heart attack in 1978 to the heart transplant he received in 2012. In 1978, when Cheney suffered his first heart attack, he received essentially the same treatment as President Eisenhower had in 1955. Since then, cardiac medicine has evolved in extraordinary ways, and Cheney has benefited from nearly every medical and technological breakthrough along the way. At each juncture, when Cheney faced a new health challenge, the technology was one step ahead of his disease. In many ways, Cheney&apos;s story is the story of the evolution of modern cardiac care. Heart is the riveting, singular memoir of both doctor and patient, tracking their relationship as it unfolds over many years and crises. Like no US politician has before him, Cheney opens up about his health struggles, sharing harrowing, never-before-told stories about the challenges he faced during a perilous time in our nation&apos;s history. Dr. Reiner provides his perspective on Cheney&apos;s case and also gives readers a fascinating glimpse into his own education as a doctor. He masterfully chronicles the important discoveries, radical innovations, and cutting-edge science that have changed the face of medicine and saved countless lives. Powerfully braiding science with story and the personal with the political, Heart is a sweeping, inspiring, and ultimately optimistic book that will give hope to the millions of Americans affected by heart disease.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">973.931092 CHE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

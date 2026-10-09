@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000739818</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781619692435</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1619692430</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000739818</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">IT&apos;s YOUR SHIP : Management Techniques from the Best Drama Ship in the Navy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Naval captain D. Michael Abrashoff reveals the management principles that shaped his ship, the U.S.S. Benfold, into a model of leadership as progressive as any celebrated in the business world.The most important thing a captain can do is to see the ship from the eyes of the crew. This belief has successfully guided D. Michael Abrashoff, the captain of one of the U.S. Navys most modern and lethal warships. Abrashoff has revolutionized how to handle such challenging problems as excessive costs, low morale, sexual harassment, and constant turn-over. Business managers will benefit from Abrashoffs guiding belief that focus should be on empowering your people rather than on chain of command. By shifting organizing principles from obedience to performance, managers will be rewarded with remarkable productivity. As Abrashoff explains, the more people enjoy the process, the better the results. Good leaders listen to the people under their commandand use their ideas to improve operating procedures</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Book on CD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4092 ITS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

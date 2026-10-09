@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770394</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007887378</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">000788737X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781416559184</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1416559183</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000526572</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770394</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gregory, Philippa.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE CONSTANT PRINCESS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Katherine of Aragon is born Catalina, the Spanish Infanta, to parents who are both rulers and warriors. Aged four, she is betrothed to Arthur, Prince of Wales, and is raised to be Queen of england. She is never in doubt that it is her destiny to rule that far-off, wet, cold land. Her faith is tested when her prospective father-in-law greets her arrival in her new country with a great insult; Arthur seems little better than a boy; the food is strange and the customs coarse. Slowly she adapts to the first Tudor court, and life as Arthur&apos;s wife grows ever more bearable. But when the studious young man dies, she is left to make her own future: how can she now be queen, and found a dynasty? Only by marrying Arthur&apos;s young brother, the sunny but spoilt Henry. His father and grandmother are against it; her powerful parents prove little use. Yet Katherine is her mother&apos;s daughter and her fighting spirit is strong. She will do anything to achieve her aim; even if it means telling the greatest lie, and holding to it. Philippa Gregory proves yet again that behind the apparently familiar face of history lies an astonishing story: of women warriors influencing the future of europe, of revered heroes making deep mistakes, and of an untold love story which changes the fate of a nation.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">GRE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
