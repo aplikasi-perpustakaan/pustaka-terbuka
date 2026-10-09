@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833961</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781682611487</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1682611485</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn944380683</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833961</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chestnut, Beatrice, 1964-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The 9 TYPES OF LEADERSHIP : MASTERING THE ART OF PEOPLE IN THE 21ST CENTURY WORKPLACE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The 9 Types of Leadership demonstrates how to solve people problems on the job in a quick, efficient and satisfying way through understanding personality patterns and motivations. In the past few years, mindfulness and other approaches to self-awareness have begun to transform the American workplace. But while it is increasingly widely accepted in the business world that the most direct route to success lies in adopting practices that actively promote a leader&apos;s self-awareness, social skill, and emotional intelligence, the best and most efficient path to developing a more conscious workforce often remains unclear. The 9 Types of Leadership provides a pathway to greater self-awareness and social skillfulness. It will help you orient yourself when you get caught up in people problems that you don&apos;t know how to work your way out of. By providing extremely detailed and accurate descriptions of nine recognizable personalities, The 9 Types of Leadership is an unmatched tool for business people to use to decode the mysteries involved in understanding why people do what they do, why we have conflicts with some people but not others and how we can become aware of our blind spots. Most importantly, it can help leaders know themselves in a deeper way so they can more effectively lead others&quot;--Google Books</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4 CHE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

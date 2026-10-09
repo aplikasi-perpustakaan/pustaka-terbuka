@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000326182</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789674408305</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9674408304</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000917142</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000326182</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">KAEDAH PENERAPAN DAN PENGIRAAN INTEGRASI ILMU NAQLI DAN AQLI DALAM PROGRAM AKADEMIK UNIVERSITI SAINS ISLAM MALAYSIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2020</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Electronic Resources</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">378.199</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://raudahusim.sharepoint.com/sites/USIM-eDocs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FUSIM%2DeDocs%2FShared%20Documents%2FDokumen%20Jabatan%2FPusat%20Jaminan%20Kualiti%2C%20Dasar%20dan%20Kecemerlangan%20Akademik%20%28QAPEX%29%2FIntegrasi%20Ilmu%20Naqli%20%26%20Aqli%20%28iNaQ%29%2FDasar%20%26%20Garis%20Panduan%2Fkaedah%20penerapan%20dan%20pengiraan%20inaq%20dalam%20program%20akademik%20usim%2Epdf&amp;parent=%2Fsites%2FUSIM%2DeDocs%2FShared%20Documents%2FDokumen%20Jabatan%2FPusat%20Jaminan%20Kualiti%2C%20Dasar%20dan%20Kecemerlangan%20Akademik%20%28QAPEX%29%2FIntegrasi%20Ilmu%20Naqli%20%26%20Aqli%20%28iNaQ%29%2FDasar%20%26%20Garis%20Panduan&amp;p=true&amp;originalPath=aHR0cHM6Ly9yYXVkYWh1c2ltLnNoYXJlcG9pbnQuY29tLzpiOi9zL1VTSU0tZURvY3MvRWFZWjltdHlQcWxBaTBMdXB3eFdCUE1CYkphNFVsZkJPYjBFSmtYYXBmZ215dz9ydGltZT03aVRBMl9ETDJFZw</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

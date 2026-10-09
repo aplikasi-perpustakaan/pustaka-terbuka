@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000868955</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000868955</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">PACIFIC RIM : UPRISING</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">It is 2035, ten years after the Battle of the Breach, in which the inter-dimensional portal created by the Precursors (through which they sent marauding Kaiju) was closed. Former Jaeger pilot Jake Pentecost - son of Battle of the Breach hero Stacker Pentecost - makes a living by stealing and selling Jaeger parts on the black market in the Los Angeles area. After he tracks part of a disabled Jaeger&apos;s power core to the secret workshop of fifteen year-old Jaeger enthusiast Amara Namani, both are arrested by the Pan-Pacific Defense Corps (PPDC) after an altercation between Amara&apos;s small, single-pilot Jaeger Scrapper and the Police Jaeger November Ajax. A holographic transmission of Jake&apos;s adoptive sister and PPDC Secretary General Mako Mori persuades him to return to PPDC as an instructor, with Amara as his recruit..</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 PAC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

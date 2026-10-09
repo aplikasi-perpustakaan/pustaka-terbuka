@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000743885</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781596912427</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1596912421</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000743885</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Shore, Zachary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Blunder : why smart people make bad decisions</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">We all make bad decisions. It&apos;s part of being human. The resulting mistakes can be valuable, the story goes, because we learn from them. But do we? Historian Zachary Shore says no, not always, and he has a long list of examples to prove his point. From colonialism to globalization, from gender wars to civil wars, or any circumstance for which our best solutions backfire, Shore demonstrates how rigid thinking can subtly lead us to undermine ourselves. In the process, he identifies seven &quot;cognition traps&quot; to avoid. But he also emphasizes how understanding these seven simple cognition traps can help us all make wiser judgments in our daily lives. For anyone whose best-laid plans have been foiled by faulty thinking, Blunder shines the penetrating spotlight of history on decision making and the patterns of thought that can lead us all astray.--From publisher description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">153.83 SHO</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

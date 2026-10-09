@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000810063</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674417182</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">674417186</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000810063</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Eichengreen, Barry J.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Korean Economy : From a Miraculous Past to Sustainable Future</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Harvard East Asian monographs ; 375</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;South Korea has been held out as an economic miracle - as a country that successfully completed the transition from underdeveloped to developed country status - and as an example of how a middle-income country can continue to move up the technology ladder into the production and export of more sophisticated goods and services. But with these successes have come challenges, among them poverty, inequality, long work hours, financial instability, and complaints about the economic and political power of the country&apos;s large corporate conglomerates, or chaebol. The Korean Economy provides an overview of Korean economic experience since the 1950s, with a focus on the period since democratization in 1987. Successive chapters analyze the Korean experience from the perspectives of political economy, the growth record, industrial organization and corporate governance, financial development and instability, labor and employment, inequality and social policy, and Korea&apos;s place in the world economy. A concluding chapter describes the country&apos;s economic challenges going forward and how they can best be met. The volume also serves to summarize the findings of companion volumes in the Harvard–Korean Development Institute series on the Korean economy, also published by the Harvard University Asia Center&quot; -- Publisher website.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">330.95195 EIC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

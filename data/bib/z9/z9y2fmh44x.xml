@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000707660</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674048065</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">674048067</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000707660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Posner, Richard A.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">How judges think</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A distinguished and experienced appellate court judge, Richard A. Posner offers in this new book a unique and, to orthodox legal thinkers, a startling perspective on how judges and justices decide cases. When conventional legal materials enable judges to ascertain the true facts of a case and apply clear preexisting legal rules to them, Posner argues, they do so straightforwardly; that is the domain of legalist reasoning. However, in non-routine cases, the conventional materials run out and judges are on their own, navigating uncharted seas with equipment consisting of experience, emotions, and often unconscious beliefs. In doing so, they take on a legislative role, though one that is confined by internal and external constraints, such as professional ethics, opinions of respected colleagues, review by higher courts, and limitations imposed by other branches of government on freewheeling judicial discretion.
+Occasional legislators, judges are motivated by political considerations in a broad and sometimes a narrow sense of that term. In that open area, most American judges are legal pragmatists. Legal pragmatism is forward-looking and policy-based. It focuses on the consequences of a decision in both the short and the long term, rather than on its antecedent logic. Legal pragmatism so understood is really just a form of ordinary practical reasoning, rather than some special kind of legal reasoning.&quot; &quot;Supreme Court justices are uniquely free from the constraints on ordinary judges and uniquely tempted to engage in legislative forms of adjudication. More than any other court, the Supreme Court is best understood as a political court</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">347.012 POS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

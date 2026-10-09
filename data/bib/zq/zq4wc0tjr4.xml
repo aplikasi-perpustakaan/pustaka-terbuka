@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000717687</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789251069332</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9251069336</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">2070-7010 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000717687</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Demand and supply of feed ingredients for farmed fish and crustaceans : trends and prospects</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">FAO fisheries and agriculture technical paper, 564</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The rise into global prominence and rapid growth of finfish and crustacean aquaculture has been due, in part, to the availability and on-farm provision of feed inputs within the major producing countries. More than 46 percent of the total global aquaculture production in 2008 was dependent upon the supply of external feed inputs. For the aquaculture sector to maintain its current average growth rate of 8 to 10 percent per year to 2025, the supply of nutrient and feed inputs will have to grow at a similar rate. This had been readily attainable when the industry was young. It may not be the case anymore as the sector has grown into a major consumer of and competitor for feed resources. This paper reviews the dietary feeding practices employed for the production of the major cultured fed species, the total global production and market availability of the major feed ingredient sources used and the major constraints to feed ingredient usage, and recommends approaches to feed ingredient selection and usage for the major species of cultivated fish and crustacean. Emphasis is placed on the need for major producing countries to maximize the use of locally available feed-grade ingredient sources, and, in particular, to select and use those nutritionally sound and safe feed ingredient sources whose production and growth can keep pace with the 8 to 10 percent annual average annual growth of the fed finfish and crustacean aquaculture sector.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">639 DEM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

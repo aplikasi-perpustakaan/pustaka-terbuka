@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000681134</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780393065992</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">393065995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000681134</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Traverso, Amy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The apple lover&apos;s cookbook /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The Apple Lover&apos;s Cookbook celebrates the beauty of apples in all their delicious variety, taking you from the orchard to the kitchen with recipes both sweet (like Apple-Stuffed Biscuit Buns and Blue Ribbon Deep-Dish Apple Pie) and savory (like Cider-Brined Turkey and Apple Squash Gratin). It offers a full-color guide to sixty apple varieties, with descriptions of their flavor, history, and, most important, how to use them in the kitchen. Amy Traverso also takes you around the country to meet farmers, cider makers, and apple enthusiasts.The one hundred recipes run the spectrum from cozy crisps and cobblers to adventurous fare like Cider-Braised Brisket or Apple-Gingersnap Ice Cream. In addition, Amy organizes apple varieties into cooking categories so that it&apos;s easy to choose the right fruit for any recipe. You&apos;ll know to use tart Northern Spy in your pies and Fuji in delicate cakes. The Apple Lover&apos;s Cookbook is the ultimate apple companion.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.6411 TRA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

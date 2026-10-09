@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000759744</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000759744</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Angelina Ballerina : Sets Sail</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A little star with big dreams: Angelina can&apos;t believe her ears when Miss Lilly announces that she&apos;ll be taking her ballet class to headline the Dacovian Festival of Dance! And what&apos;s more, they will be sailing to Dacovia on the grandest ship in the whole of Mouseland - The Royal Stilton! On Board Angelina and Alice meet Yuri, the ship&apos;s radio operator and nephew of Miss Lilly! When Angelina hears that Yuri wants to marry the captain&apos;s daughter, and that the captain is refusing to allow it, Angelina becomes determined to change the captain&apos;s mind. When the ship gets stuck on an iceberg, all seems lost - until Angelina has a brilliant idea to rescue the ship and Yuri&apos;s plans to marry his true love!</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Projected Medium</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.45 ANG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

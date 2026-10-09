@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000743925</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780857084408</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">857084402</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000743925</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Blick, Dee, 1962-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The 15 Essential Marketing Masterclasses for Your Small Business: POWERFUL PROMOTION ON A SHOESTRING</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Practical and proven masterclasses for simple and effective small business marketingThis straightforward, practical book cuts through the morass of marketing theory to reveal the practical steps that small businesses can take to achieve phenomenal marketing results. Presenting fifteen comprehensive masterclasses, marketing expert Dee Blick presents easy-to-understand and easy-to-implement strategies to increase sales, prevent marketing mistakes, and build the foundations of a customer-driven brand. These fifteen comprehensive masterclasses can be implemented immediately, and cover such topics as marketing plans, copywriting, social media marketing, and public relations. Written by successful author and marketing guru who has worked with small businesses for twenty-seven years Includes practical, effective marketing strategies for every small business Appropriate for entrepreneurs, small business owners, and practicing marketing managers When it comes to marketing a small business, success means getting a big impact from a small investment. The 15 Essential Marketing Masterclasses for Your Small Business gives entrepreneurs and small business owners proven strategies for effective, profitable marketing&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.8 BLI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000347750</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789670841670</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9670841674</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000950985</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000347750</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chong, Belinda Chiew Meng, Dr</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">PENYELIDIKAN &amp; PENERBITAN UNIVERSITI TEKNOLOGI MARA CAWANGAN PULAU PINANG : LAPORAN ANUGERAH KUALITI NAIB CANSELOR 2019 / PENULIS LAPORAN ANUGERAH KUALITI NAIB CANSELOR 2019 DR. BELINDA CHONG CHIEW MENG, DR. NOR FARIZA ISMAIL, USTAZAH HABIBAH AYOB, EN. HAZIM BIN SHARUDIN, EN. JUHAIZAD AHMAD, PN. MAHANIM OMAR, PN. MAIZATUL AKMAL MOHD MOKHZAN, EN. MUHAMMAD AMIN AHMAD ZAKI, PN. NINA FARISHA ISA, PN. NOR FADZILAH ZAINAL, PN. NOR LIAWATI ABU OTHMAN, PN. NORHAYATI MOHAMAD NOOR, CIK NURUL HUDA HASHIM, PN. ROZ AZINUR CHE LAMIN, PN SITI SHAREEDA MOHD NASIR ; EDITOR DR. LYLY NYL ISMAIL, EN. FAIRUZ ABD HAKIM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">378.595113</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

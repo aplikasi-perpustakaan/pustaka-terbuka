@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770247</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262027434</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262027437</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770247</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ayres, Robert U.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Buble Economy : Is Sustainable Growth Possible?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The global economy has become increasingly, perhaps chronically, unstable. Since 2008, we have heard about the housing bubble, subprime mortgages, banks &quot;too big to fail,&quot; financial regulation (or the lack of it), and the European debt crisis. Wall Street has discovered that it is more profitable to make money from other people&apos;s money than by investing in the real economy, which has limited access to capital--resulting in slow growth and rising inequality. What we haven&apos;t heard much about is the role of natural resources--energy in particular--as drivers of economic growth, or the connection of &quot;global warming&quot; to the economic crisis. In The Bubble Economy, Robert Ayres--an economist and physicist--connects economic instability to the economics of energy. Ayres describes, among other things, the roots of our bubble economy (including the divergent influences of Senator Carter Glass--of the Glass-Steagall Law--and Ayn Rand); the role of energy in the economy, from the &quot;oil shocks&quot; of 1971 and 1981 through the Iraq wars; the early history of bubbles and busts; the end of Glass-Steagall; climate change; and the failures of austerity. Finally, Ayres offers a new approach to trigger economic growth. The rising price of fossil fuels (notwithstanding &quot;fracking&quot;) suggests that renewable energy will become increasingly profitable.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.54 AYR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

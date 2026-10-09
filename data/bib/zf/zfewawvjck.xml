@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000740758</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674072732</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">674072731</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000740758</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gray, Peter B., 1972-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">EVOLUTION AND HUMAN SEXUAL BEHAVIOR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Few things come more naturally to us than sex--or so it would seem. Yet to a chimpanzee, the sexual practices and customs we take for granted would appear odd indeed. He or she might wonder why we bother with inconveniences like clothes, why we prefer to make love on a bed, and why we fuss so needlessly over privacy. Evolution and Human Sexual Behavior invites us into the thought-experiment of imagining human sex from the vantage point of our primate cousins, in order to underscore the role of evolution in shaping all that happens, biologically and behaviorally, when romantic passions are aroused. Peter Gray and Justin Garcia provide an interdisciplinary synthesis that draws on the latest discoveries in evolutionary theory, genetics, neuroscience, comparative primate research, and cross-cultural sexuality studies. They are our guides through an exploration of the patterns and variations that exist in human sexuality, in chapters covering topics ranging from the evolution of sex differences and reproductive physiology to the origins of sexual play, monogamous unions, and the facts and fictions surrounding orgasm. Intended for generally curious readers of all stripes, this up-to-date, one-volume survey of the evolutionary science of human sexual behavior explains why sexuality has remained a core fascination of human beings throughout time and across cultures.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">306.7 GRA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

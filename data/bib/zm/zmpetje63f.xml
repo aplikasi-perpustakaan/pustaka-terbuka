@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000701993</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780307593405</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">307593401</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000701993</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cox, Lynne</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">South with the sun : Roald Amundsen, his polar explorations, and the quest for discovery</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A powerfully built man more than six feet tall, Amundsen&apos;s career of adventure began at the age of fifteen (he was born in Norway in 1872 to a family of merchant sea captains and rich ship owners). Twenty-five years later he was the first man to reach both the North and South Poles. The author, an adventurer and swimmer, author of Swimming to Antarctica, gives us in this new work a full-scale account of Amundsen&apos;s life and expeditions. We see Amundsen, in 1903-06, the first to travel the Northwest Passage between the Atlantic and Pacific Oceans, in his small ship Gjoa, a seventy-foot refitted former herring boat powered by sails and a thirteen-horsepower engine, making his way through the entire length of the treacherous ice bound route, between the northern Canadian mainland and Canada&apos;s Arctic islands, from Greenland across Baffin Bay, between the Canadian islands, across the top of Alaska into the Bering Strait. The dangerous journey took three years to complete, as Amundsen, his crew, and six sled dogs waited while the frozen sea around them thawed sufficiently to allow for navigation. We see him journey toward the North Pole in Fridtjof Nansen&apos;s famous Fram, until word reached his expedition party of Robert Peary&apos;s successful arrival at the North Pole. Amundsen then set out on a secret expedition to the Antarctic, and we follow him through his heroic capture of the South Pole. The author makes clear why Amundsen succeeded in his quests where other adventurer-explorers failed, and how his methodical preparation and willingness to take calculated risks revealed both the spirit of the man and the way to complete one triumphant journey after another. She also describes reading about Amundsen as a young girl and how his exploits inspired her to follow her dreams. We see how she unwittingly set out in Amundsen&apos;s path, swimming in open waters off Antarctica, then Greenland (always without a wetsuit), first as a challenge to her own abilities and then later as a way to understand Amundsen&apos;s life and the lessons learned from his vision, imagination, and daring.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">919.89 COX</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

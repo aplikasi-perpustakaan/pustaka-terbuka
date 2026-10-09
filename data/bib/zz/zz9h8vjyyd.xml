@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770967</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262027144</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262027143</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770967</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Schrank, Brian, 1976-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Avant-garde Videogames : Playing with Technoculture</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The avant-garde challenges or leads culture; it opens up or redefines art forms and our perception of the way the world works. In this book, Brian Schrank describes the ways that the avant-garde emerges through videogames. Just as impressionism or cubism created alternative ways of making and viewing paintings, Schrank argues, avant-garde videogames create alternate ways of making and playing games. A mainstream game channels players into a tightly closed circuit of play; an avant-garde game opens up that circuit, revealing (and reveling in) its own nature as a game. We can evaluate the avant-garde, Schrank argues, according to how it opens up the experience of games (formal art) or the experience of being in the world (political art). He shows that different artists use different strategies to achieve an avant-garde perspective. Some fixate on form, others on politics; some take radical positions, others more complicit ones. Schrank examines these strategies and the artists who deploy them, looking closely at four varieties of avant-garde games: radical formal, which breaks up the flow of the game so players can engage with its materiality, sensuality, and conventionality; radical political, which plays with art and politics as well as fictions and everyday life; complicit formal, which treats videogames as a resource (like any other art medium) for contemporary art; and complicit political, which uses populist methods to blend life, art, play, and reality -- as in alternate reality games, which adapt Situationist strategies for a mass audience.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">794.81536 SCH</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

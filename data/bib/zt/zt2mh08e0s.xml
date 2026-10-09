@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735257</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781857336856</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1857336852</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735257</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Davey, Steve</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">AROUND THE WORLD IN 500 FESTIVALS : THE WORLD&apos;S MOST SPECTACULAR CELEBRATIONS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">CULTURE SMART!</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Around the World in 500 Festivals is a rare book that will fascinate and inspire. A large-format, beautifully illustrated coffee-table volume, it is a photographic exploration of the richness and variety of the world&apos;s most colourful, moving, joyful, and spectacular celebrations. Thousands of festivals, great and small, take place around the world every year. The book contains: A unique selection of 500 unmissable festivals around the world More than 200 full-colour photographs that capture the spirit and immediacy of the events Special features in the form of extended photographic essays Original research and stunning photography by an internationally recognized writer-photographer Around the World in 500 Festivals takes this approach to a different level. It will help people who want to plan their trip to coincide with a festival. It will also enthrall and inform armchair travelers everywhere. Elegantly designed and lavishly produced, it is exceptional value for money and makes a perfect gift for travellers and readers of all ages, backgrounds, and cultures</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">394.26 DAV</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

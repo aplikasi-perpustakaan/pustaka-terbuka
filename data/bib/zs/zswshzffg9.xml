@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812211</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781476764436</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1476764433</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812211</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Caputo, Theresa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">YOU CAN&apos;T MAKE THIS STUFF UP : Life-Changing Lessons from Heaven</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Atria Books hardcover edition September 2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">For fans of TLC&apos;s &quot;Long Island Medium&quot; and anyone interested in the big questions of life, death, and finding out what&apos;s important in between, &quot;New York Times&quot; bestselling author and medium Theresa Caputo shares the insights and lessons she&apos;s learned through her exceptional gift of communicating with the dead. Theresa imparts the life-changing wisdom she&apos;s received from Spirit and client readings. Each chapter incorporates a powerful lesson that is made real by Theresa&apos;s witty and wise insights. She shares moving client stories and fascinating behind-the-scenes tales from her life and hit reality show to help people find peace and closure and to better understand the spiritual world. With lessons revolving around themes such as choice, faith, fear, gratitude, healing, surrender, relationships, compassion, and living each day to the fullest, the book also includes information from Theresa about spiritual concepts like Angels, Heaven, signs, miracles, intuition, dreams, and God. These compelling and healing messages will guide readers toward happier lives by focusing on what really matters to their souls</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">133.91 CAP</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
