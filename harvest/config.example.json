@@ -1,10 +1,18 @@
 {
   "harvesters": [
     {
-      "source": "example-source",
-      "command": "node harvesters/example-harvester.js",
+      "name": "Perpustakaan Negara Malaysia (Node.js)",
+      "source": "pnm",
+      "command": "node tools/harvesters/pnm/harvester.js --max-pages 1",
       "enabled": false,
-      "notes": "Replace with real harvester command. Harvesters are built separately."
+      "notes": "Harvests PNM catalog records via Vega Discover API using Node.js."
+    },
+    {
+      "name": "Perpustakaan Negara Malaysia (C# Native)",
+      "source": "pnm",
+      "command": "tools\\harvesters\\pnm\\PNM-Harvester.exe --max-pages 1",
+      "enabled": false,
+      "notes": "Harvests PNM catalog records via Vega Discover API using native Windows executable."
     }
   ]
 }

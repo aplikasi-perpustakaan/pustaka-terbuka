@@ -78,6 +78,8 @@ if (-not $SkipHarvest) {
                 $Harvesters = $HarvestConfig
             } elseif ($null -ne $HarvestConfig.sources) {
                 $Harvesters = $HarvestConfig.sources
+            } elseif ($null -ne $HarvestConfig.harvesters) {
+                $Harvesters = $HarvestConfig.harvesters
             } else {
                 $Harvesters = @($HarvestConfig)
             }
