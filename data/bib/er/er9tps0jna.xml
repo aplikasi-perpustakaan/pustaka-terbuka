@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000670425</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781605099224</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1605099228</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000670425</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McAfee, Barbara</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Full Voice : The Art and Practice of Vocal Presence</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Your voice says a lot about you. Based on the tone and expression of your voice alone, your listeners may make up their minds about you before they even process the meaning of your words. And if what you say is at odds with how you say it, they can miss your message altogether. As important as our voices are, few of us know how to use them to their full potential. Full Voice offers a fun, tested method to harness the power of your voice to become a more effective and flexible communicator. Barbara McAfee identifies five distinct vocal tones or qualities?earth, fire, water, metal, and air?and explains how to cultivate each voice. You?ll also discover how to use your voice to convey authority, passion, compassion, and other essential leadership qualities?and how to choose the right voice to ensure your message and meaning are understood. With online practice videos and real-life stories to reinforce the message, you?ll experience an authentic shift in the impact your voice has on your colleagues, friends, and family. McAfee?s approach offers much more than a minor cosmetic improvement. It enables you to use your voice to support your intentions and aspirations, express who you truly are, and bring your gifts to the world. As you become more aware of your own voice, you also become a better listener, more attuned to what people are saying underneath their words. You learn to transform the ordinary act of everyday speech?the presentations you give, the meetings you lead, the stories you read your children at bedtime, even your casual con- versations with friends?into works of art. You?ll discover how opening your full voice opens you to untapped potential, power, and aliveness as well</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">808.5 MACA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

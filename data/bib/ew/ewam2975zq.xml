@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000317703</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789671294970</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9671294979</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000902149</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000317703</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">A. Azman Arshad</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">KAJIAN KONSEP PENGOPERASIAN INDUSTRY ON CAMPUS (IOC) DI KOLEJ KOMUNITI SUNGAI PETANI &amp; KOLEJ KOMUNITI TAIPING / \c Penulis Kertas Kajian: A. Azman bin Arshad, Mohd Firdauz bin Mhd Radzi, Siti Assila binti Murtijan, Nor Zalina binti Mohd Yusof, Roazam bin Ahmad, Sabidatul Afifah binti Abidin, Yusran bin Yusoff, Suriyaty binti Omar, Nurhafizah binti Hashim, Nur Zamahuri bin Ramly, Syazwani binti Ahmad, Haslinda Bt Abu Hasan, Wan Mohd Farid bin Fauzi, Mohd Shahar bin Harun, Abdul Mu&apos;im bin Abd Rahman, Saiidatul binti Mat Nasir, Nurul Fathonah binti Mohd Rosli, Zurina binti Awang, Haslinda binti Abd Hamid, Nor Ashida binti Rodzan, Nurul Azila binti Omor, Dr. Reezlin bin Abd Rahman ; Ketua Editor IOC: Dr. Reezlin Bin Abd Rahman ; Editor: Hanisah binti Ahmad, Hafizol bin Abu Hassan, Nurul Fazila binti Abd Rahman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">378.370595</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

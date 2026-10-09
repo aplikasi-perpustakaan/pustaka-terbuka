@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000703171</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062089465</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62089463</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000703171</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bedford, Lisa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Survival mom : the modern family&apos;s guide to any apocalypse</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The last ten years have done quantifiable damage to Americans&apos; sense of security, both physical and economic. From the ravages of Hurricane Katrina to the collapse of the housing market, the last decade has been a relentless assault on our sense of invulnerability and insulation from natural and financial disasters. In response to this, hundreds of thousands of ordinary Americans have proudly become &quot;preppers.&quot; Preppers are a community and a movement; they are mostly suburbanites who are taking control of their uncertain fate by taking whatever precautions are necessary to make sure their families survive the hazards to which we&apos;re all exposed. In an article last year, Newsweek called this movement &quot;Survivalism Lite.&quot; Among others it featured Lisa Bedford, aka The Survival Mom. Lisa started her blog thesurvivalmom.com in June 2009 when she realized that all the literature on this kind of preparation was written by men for men. There was nothing that spoke to her inherent Mama Grizzly need to protect her family. Long a teacher and trainer, she took it upon herself to be the missing voice for the many moms out there. This book will become the go-to manual for moms who know that the well-being of their brood relies on them. With charts, checklists, and even recipes, Lisa provides all you need to know about food storage, water and sanitation, fuel and energy, medical preparedness, communication protocols and more. But Lisa Bedford refuses to let this be a scary book. With her infectious personality and &quot;you can do it&quot; attitude infused on every page, she allows us to see that being proactive in the face of uncertainty isn&apos;t paranoid. It&apos;s practical and necessary&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">613.69 BED</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

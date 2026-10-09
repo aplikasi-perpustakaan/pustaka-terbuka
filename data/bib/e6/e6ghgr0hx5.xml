@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000782810</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062348173</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62348175</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000782810</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Harper, Joel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">MIND YOUR BODY : - 4 WEEKS - TO A LEANER, HEALTHIER LIFE : 10 Core Concepts for an Optimally Balanced You</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A renowned personal trainer to Olympic athletes, movie stars, Broadway actors, and supermodels, draws on twenty years of experience to create a powerful three-step fitness approach--combining mindful techniques with effective workouts--to achieve stunning results in only fifteen minutes a day. With a foreword by Dr. Mehmet Oz.Cutting edge research in the fields of neuroscience and neuropsychology shows that negative thinking prevents people from improving bad health and shedding excess weight. As the research makes clear, your mindset is the crucial factor when it comes to slimming down, toning up, and boosting overall well being.Joel Harper&apos;s Mind Your Body provides simple, effective ways to harness your brainpower to make lasting changes. Utilizing his powerful three-step approach, readers will learn how to quickly and simply access mindful techniques, combine them with effective fifteen minute workouts, and eat simply and deliciously to quickly, efficiently, and effortlessly yield successful weight loss, a leaner and firmer body, reduced stress, improved health, increased happiness, and enhanced energy.You&apos;ll notice improved mood, impulse control, motivation, and energy in just one day. In one week, you will have established new ways of thinking, moving, and eating that will deliver effortless weight loss, energy surges, and more restful sleep. At the end of four weeks, you will have dropped a dress size, lost up to ten pounds or more, shed fat, toned up, doubled your energy levels, and have bulletproof motivation--all thanks to a positive new outlook and fifteen minutes a day. Mind Your Body shows you how&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">613.712 HAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735407</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118503256</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118503252</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000591278</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735407</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hagstrom, Robert G</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Warren Buffett way</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Third edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2nd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2004-2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The bestselling book on Warren Buffett returns, with new insights on his continued successOften described as the greatest investor of all time, Warren Buffett grew a $100 investment in the late 1950s into an investment empire. In the process, he has become one of the wealthiest individuals in the world, and the foremost authority on investing of our generation.With over one million copies sold, The Warren Buffett Way is the definitive book on &quot;The Oracle of Omaha&apos;s&quot; investment methods. Completely revised and updated, the Third Edition of The Warren Buffett Way focuses on the timeless principles and strategies behind Buffett&apos;s extraordinary investment success. This edition contains new chapters on the important distinctions between investing and trading, as well as an examination of the most successful disciples of Warren Buffett. Throughout the book, fresh examples and case studies are used and Buffett&apos;s successful formula is distilled in a way that will provide value to readers for decades to come.  This edition represents the totality of Buffett&apos;s investment career and focuses on his timeless investing principles  Companion website contains &quot;Buffett Investment Calculators,&quot; which you can use to calculate the value and investment potential of companies  Written by foremost Buffett expert Robert Hagstrom  Engaging and informative, the Third Edition of The Warren Buffett Way is a must read--not just for avid Buffett fans, but for anyone who wants to know what it takes to make the best investment decisions possible&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Describes the innovative, highly successful investment theories and strategies of the world&apos;s most famous stock investor, one of America&apos;s wealthiest men, recounting how he made a fortune by purchasing pieces of outstanding companies since the early 1980s.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Book on CD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.6 HAG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

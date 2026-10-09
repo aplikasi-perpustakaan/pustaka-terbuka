@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746442</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781476746630</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">147674663X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746442</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tougias, Mike, 1955-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">RESCUE OF THE BOUNTY : DISASTER AND SURVIVAL IN SUPERSTORM SANDY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">An all-new harrowing maritime tale of the sinking and rescue efforts surrounding the HMS Bounty--the actual replica used in the 1962 remake of the 1935 classic Mutiny on the Bounty--which sank during Hurricane Sandy with sixteen aboard. On Tuesday, October 24, 2012, Captain Robin Walbridge made the fateful decision to sail the HMS Bounty from New London, Connecticut, to St. Petersburg, Florida. Walbridge was well aware that a hurricane was forecast to come up the Eastern seaboard. He explained to his crew of fifteen that the ship would fare better at sea than at port, and that he thought he could sail &quot;around the hurricane.&quot; He told the crew that anyone who did not want to come on the voyage could leave the ship and there would be no hard feelings. No one took the captain up on his offer. Four days into the voyage, superstorm Sandy made an almost direct hit on the Bounty. The vessel&apos;s pumps could not keep up with the incoming water and a few hours later, in the dark of night, the ship overturned, sending the crew tumbling into the ocean filled with crashing thirty-foot waves. The Coast Guard launched one of most complex and massive rescues in its history, flying two Jayhawk helicopter crews into the hurricane and lowering rescue swimmers into the raging ocean again and again despite the dangers. Ultimately fourteen crew members were rescued; tragically, two members did not survive. Dripping with suspense and vivid high-stakes drama, Rescue of the Bounty is an unforgettable tale about the brutality of nature and the human will to survive&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">910.916348 TOU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000810054</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674417090</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">674417097</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000810054</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Marburger, John H., III (John Harmen), 1941-2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Science Policy Up Close</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In a career that included tenures as president of Stony Brook University, director of Brookhaven National Laboratory, and science advisor to President George W. Bush, John Marburger (1941 2011) found himself on the front line of battles that pulled science ever deeper into the political arena. From nuclear power to global warming and stem cell research, science controversies, he discovered, are never just about science. Science Policy Up Close &quot;presents Marburger s reflections on the challenges science administrators face in the twenty-first century. In each phase of public service Marburger came into contact with a new dimension of science policy. The Shoreham Commission exposed him to the problem of handling a volatile public controversy over nuclear power. The Superconducting Supercollider episode gave him insights into the collision between government requirements and scientists expectations and feelings of entitlement. The Directorship of Brookhaven taught him how to talk to the public about the risks of conducting high-energy physics and about large government research facilities. As Presidential Science Advisor he had to both represent the scientific community to the administration and the administration to the scientific community at a time when each side was highly suspicious of the other. What Marburger understood before most others was this: until the final quarter of the twentieth century, science had been largely protected from public scrutiny and government supervision. Today that is no longer true. Scientists and science policy makers can learn from Marburger what they must do now to improve their grip on their own work.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.97306 MAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

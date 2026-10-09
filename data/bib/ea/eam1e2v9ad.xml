@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000849752</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000849752</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">kor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">MODERNIZATION on SCREEN : Understanding Korean Society and Modernization through Films : THE CONTACT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Dong-hyeon is a radio program producer who has had a reclusive life since his beloved Young-hye left him. One day, a music record is sent to him. Guessing Yeong-hye sent it, Dong-hyeon tries to look for her by playing a song from the record on his radio program. At that time, Su-hyeon, who is suffering from a secret crush on her friend&apos;s boyfriend, goes on a night-time drive to soothe herself and almost has a car accident. She requests the song on Dong-hyeon&apos;s radio program, which leads him to contact her via computer. As they continue on-line talks, Dong-hyeon and Su-hyeon begin to feel close to each other and promise to meet in real life. However, Dong-hyeon fails to keep the promise because he is told that Yeong-hye has died. Depressed, Dong-hyeon quits working and decides to leave Korea. Though he does not answer Su-hyeon, she keeps trying to see him. Finally, they face each other for the first time at the night before Dong-hyeon&apos;s departure.&quot;--Container.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Videorecording</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43095195 MOD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

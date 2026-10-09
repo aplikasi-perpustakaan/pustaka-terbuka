@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls001036426</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9786267119365</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">626711936X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls001036426</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">李澍奕 (Writer on Taiwan history | Li, Shuyi (Writer on Taiwan history)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Taiwan Sheng zhu xi nian pu. Qiu Chuanghuan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The subject of this biography, Mr. Chuang-Huan Chiu, was a quintessential career civil servant in Taiwan. After passing the national civil service examination, he entered the public sector and served with dedication and diligence throughout his career. While serving as Vice Premier of the Executive Yuan, he also temporarily assumed the duties of Acting Premier, reaching the pinnacle of bureaucratic service. During his tenure as Governor of Taiwan Province, which coincided with the post-martial law era, he faced numerous challenges, including labor and farmers’ movements, as well as issues related to environmental pollution, natural disasters, and industrial safety accidents. In response, he upheld a principle of active governance, striving to achieve reform and social harmony. Chairman Chiu was widely regarded as a modest and down-to-earth government official, known for his quiet but steadfast commitment to public service, having held several key positions throughout his career. His tangible achievements include the implementation of farmers’ insurance, the special civil service examinations for persons with disabilities, the drafting of major laws such as the Election and Recall Act, the Labor Standards Act, and the Welfare Act for the Disabled, as well as the establishment of the Construction and Planning Agency and the Central Election Commission. These were policies and institutions that had a real and lasting impact on the lives of the people</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">324.20951249 TAI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

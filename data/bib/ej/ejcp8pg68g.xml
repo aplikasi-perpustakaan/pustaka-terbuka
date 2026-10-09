@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000597671</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000597671</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Palast, Greg.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Armed madhouse who&apos;s afraid of Osama Wolf?, China floats, Bush sinks, the scheme to steal &apos;08, no child&apos;s behind left, and other dispatches from the front lines of the class war</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The &quot;top undercover journalist in America and the funniest&quot; (Randi Rhodes, Air America), hangs out the dirty underpants of the &quot;armed and dangerous clowns that rule us.&quot; Feared from corporate suites to Osama&apos;s cave, Palast&apos;s old-style gumshoe detective work to dig out the info on the War on Terror, greed-dripping schemes to seize little nations with lots of oil, the hidden program to steal the 2008 election, and the media biases that keep it unreported are the meat and bones of this BBC television reporter&apos;s new book, is illustrated with dozens of documents marked &quot;secret&quot; and &quot;confidential&quot; that have walked out of file cabinets and fallen into Palast&apos;s hands</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Books</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">355.6091 PAL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

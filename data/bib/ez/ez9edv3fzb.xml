@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls001036424</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9786267119105</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">6267119106</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls001036424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Yang, Wen Chiao, 1920-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">台灣兵 : 重尋一段被歷史遺忘的血淚青春 | Taiwan bing : chong xun yi duan bei li shi yi wang de xue lei qing chun</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">During World War II, as Taiwan was under Japanese colonial rule, more than 200,000 Taiwanese were mobilized into the Japanese military and sent to battlefields in China and Southeast Asia. At the end of the war, Taiwan had a population of around six million. This group of over 200,000 individuals and their families represents more than one-thirtieth of the island’s population at the time, making their experiences a vital part of Taiwan’s collective memory. However, following Japan’s defeat and the subsequent transfer of sovereignty over Taiwan, these Taiwanese soldiers who had served in the Japanese army were not recognized by any new governing authority. The ensuing Chinese Civil War, the February 28 Incident (1947), the &quot;clean-up&quot; campaigns, and the era of White Terror subjected many of these veterans to state violence and persecution. Under the international Cold War climate and 38 years of martial law in Taiwan, the pain of broken families was silenced, demands for state accountability were suppressed, and there was no space for reflecting on the human rights violations caused by war. This book aims to recover the forcibly forgotten history, acknowledge the sacrifices of Taiwanese WWII veterans, and help establish a shared identity grounded in human rights, democracy, and freedom within a diverse and divided society. It also seeks to awaken global awareness of the brutality of war. Tolerating or enabling authoritarian rule and human rights violations is the greatest threat to peace for all humanity</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">920.051249 YAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

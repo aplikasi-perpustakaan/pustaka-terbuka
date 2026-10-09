@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000696726</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422187388</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422187381</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422176757</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422176754</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000589623</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000696726</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mauboussin, Michael J., 1964-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Think twice : harnessing the power of counterintuition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2009-2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Leaders in all fields - business, medicine, law, government - make crucial decisions every day. The harsh truth is that they mismanage many of those choices, even though they have the right intentions. These blunders take a huge toll on leaders, their organizations, and the people they serve.&quot; &quot;Why is it so hard to make sound decisions? We fall victim to simplified mental routines that prevent us from coping with the complex realities inherent in important judgment calls. Yet these cognitive errors are preventable. In Think Twice, Michael Mauboussin shows you how to recognize - and avoid - common mental missteps, including: Misunderstanding cause-and-effect linkages; Aggregating micro-level behavior to predict macro-level behavior; Not considering enough alternative possibilities in making a decision; and Relying too much on experts&quot; &quot;Sharing vivid stories from business and beyond, Mauboussin offers powerful rules for avoiding each error. And he explains how to know when it&apos;s time to think twice-to question your reasoning and adopt decision-making strategies that are far more effective, even if they seem counterintuitive.&quot; &quot;Master the art of thinking twice, and you&apos;ll start spotting dangerous mental errors-in your own decisions and in those of others. Equipped with this awareness, you&apos;ll soon begin making sounder judgment calls that benefit (rather than hurt) your organization.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.403 MAU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

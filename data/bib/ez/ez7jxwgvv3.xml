@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984774</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789865063580</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9865063581</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984774</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Han, Sang-wan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">疫後經濟大崩盤 : 通膨海嘯後崩盤的市場與新商機 | Yi hou jing ji da beng pan : tong peng hai xiao hou beng pan de shi chang yu xin shang ji</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Zhi fu ; 359</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book begins its analysis of the global market with the 2008 subprime mortgage crisis and the European sovereign debt crisis. Starting from real estate, it extends its perspective to the stock market and interest rates, examining the situation from multiple angles. The author outlines how the quantitative easing (QE) policies implemented in response to the subprime crisis eventually faced a turning point—just as interest rates were about to rise to withdraw excess liquidity, the world was hit by the COVID-19 pandemic. As global economies plunged into negative growth, governments had no choice but to continue QE measures to save their economies. This prolonged quantitative easing resulted in an excess of hot money, leading to surging real estate and stock markets. At the same time, a once-in-a-decade commodities supercycle emerged. Boldly, the author predicts that in 2023, the world would face hyperinflation, which could trigger real estate and stock market bubbles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">330.9 HAN</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

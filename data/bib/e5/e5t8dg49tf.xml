@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000752127</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781426211683</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1426211686</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000752127</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">NATIONAL GEOGRAPHIC SCIENCE OF EVERYTHING : HOW THINGS WORK IN OUR WORLD FROM CELL PHONES, SOAP BUBBLES &amp; VACCINES TO GPS, X-RAYS &amp; SUBMARINES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;This clearly written and profusely illustrated book explains the science behind all the machines, gadgets, systems, and processes we take for granted. The perfect book for techies--young or old, male or female--who read Popular Science and Wired or watch &quot;How It Works&quot; and &quot;How It&apos;s Made.&quot; National Geographic answers all the questions about how things work--the science, technology, biology, chemistry, physics, and mechanics--in an indispensible book that reveals the science behind virtually everything. How does the voice of a distant radio announcer make it through your alarm clock in the morning? How does your gas stove work? How does the remote control open your garage door? What happens when you turn the key in the ignition? What do antibiotics really do? Divided into four big realms--Mechanics, Natural Forces, Materials &amp;​ Chemistry, Biology &amp;​ Medicine--The Science of Everything takes readers on a fascinating tour, using plain talk, colorful photography, instructive diagrams, and everyday examples to explain the science behind all the things we take for granted in our modern world&quot;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">500 NAT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
