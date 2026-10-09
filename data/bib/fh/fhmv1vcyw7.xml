@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000314365</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789672355021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9672355025</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000894886</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000314365</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">International Conference on Public Policy and Social Sciences (7th : 2019 : Shah Alam, Selangor)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">7th INTERNATIONAL CONFERENCE ON PUBLIC POLICY AND SOCIAL SCIENCES (ICoPS 2019) : &quot;EMBRACING NEO-TECHNOLOGY THROUGH THE LENS OF SOCIAL SCIENCES&quot; : BOOK OF EXTENDED ABSTRACTS, ACAPELLA SUITE HOTEL SHAH ALAM, MALAYSIA, 18-19 NOVEMBER 2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book consists of the extended abstracts for 7th International Conference on Public Policy and Social Sciences (ICoPS 2019) organised by Faculty of Adminstrative Science &amp; Policy Studies, UiTM Shah Alam. This book is an assemblage of various academic writings ranging from empirical papers, concept/theoretical papers, and project-based papers in conjunction with the theme of the conference : Embracing Neo-Technology Through the Lens of Social Sciences. All together, there are 72 extended abstracts that are categorised in FOUR different themes, i.e., International Relations and Diplomacy, Corporate Administration, Public Administration, Education and Sociology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Electronic Resources</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">361.25</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

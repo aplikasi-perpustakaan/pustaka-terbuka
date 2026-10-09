@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000843690</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780195372472</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">195372476</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000843690</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">LESSONS FROM THE IDENTITY TRAIL : ANONYMITY, PRIVACY AND IDENTITY IN A NETWORKED SOCIETY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">During the past decade, rapid developments in information and communications technology have transformed key social, commercial and political realities. Within that same time period, working at something less than internet speed, much of the academic and policy debates arising from these newand emerging technologies have been fragmented. There have been few examples of interdisciplinary dialogue about the potential for anonymity and privacy in a networked society. Lessons from the Identity Trail fills that gap, and examines key questions about anonymity, privacy and identity in anenvironment that increasingly automates the collection of personal information and uses surveillance to reduce corporate and security risks. This project has been informed by the results of a multi-million dollar research project that has brought together a distinguished array of philosophers, ethicists, feminists, cognitive scientists, lawyers, cryptographers, engineers, policy analysts, government policy makers and privacy experts. Working collaboratively over a four-year period and participating in an iterative process designed to maximize the potential for interdisciplinary discussion and feedback through a series of workshops and peer review, the authors have integrated crucial public policy themes with the most recentresearch outcomes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">342.0858 LES</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

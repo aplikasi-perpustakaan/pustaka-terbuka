@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000752282</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262019231</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">026201923X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000752282</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Relyea, Lane</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">YOUR EVERYDAY ART WORLD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Over the past twenty years, the network has come to dominate the art world, affecting not just interaction among art professionals but the very makeup of the art object itself. The hierarchical and restrictive structure of the museum has been replaced by temporary projects scattered across the globe, staffed by free agents hired on short-term contracts, viewed by spectators defined by their predisposition to participate and make connections. In this book, Lane Relyea tries to make sense of these changes, describing a general organizational shift in the artworld that affects not only material infrastructures but also conceptual categories and the construction of meaning. Examining art practice, exhibition strategies, art criticism, and graduate education, Relyea aligns the transformation of the art world with the advent of globalization and the neoliberal economy. He analyzes the new networked, participatory art world -- hailed by some as inherently democratic -- in terms of the pressures of part-time temp work in a service economy, the calculated stockpiling of business contacts, and the anxious duty of being a &quot;team player&quot; at work. Relyea calls attention to certain networked forms of art --including relational aesthetics, multiple or fictive artist identities, and bricolaged objects --that can be seen to oppose the values of neoliberalism rather than romanticizing and idealizing them. Relyea offers a powerful answer to the claim that the interlocking functions of the network --each act of communicating, of connecting, or practice -- are without political content.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">709.051 REL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

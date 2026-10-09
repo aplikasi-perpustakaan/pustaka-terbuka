@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000604828</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781400095711</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1400095719</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000604828</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000479211</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Friedman, Benjamin M.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The moral consequences of economic growth</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;&quot;Are we right,&quot; Benjamin M. Friedman asks, &quot;to care so much about economic growth as we clearly do?&quot; To answer, Friedman reaches beyond economics. He examines the political and social histories of the large Western democracies - particularly of the United States since the Civil War - distinguishing times of generally rising living standards from those of pervasive stagnation to illustrate how rising incomes render a society more open and democratic. He shows, too, how our attitudes toward economic growth and its consequences have roots in the thinking of prior centuries, especially the Enlightenment, and also include significant strands of religious influence.&quot; &quot;Friedman also delineates the role of economic growth in determining which developing nations extend the broadest freedoms to their citizenry. He makes clear that growth, rather than just the level of living standards, is key to effecting political and social liberalization in the third world. But he also warns that the democratic values of countries even as wealthy as our own are at risk whenever incomes stagnate for extended periods. Merely being rich is no protection against a society&apos;s retreat into rigidity and intolerance once enough of its citizens lose the sense that they are getting ahead.&quot; &quot;Finally, Friedman shows us why, if America is to strengthen democratic institutions around the world as a bulwark against terrorism and social unrest, we must aggressively pursue growth at home and promote worldwide economic expansion beyond what purely market-driven forces would create. And for the United States, he offers concrete suggestions for policy steps to achieve those objectives.&quot;--BOOK JACKET</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">174 FRI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

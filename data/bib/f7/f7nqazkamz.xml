@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746592</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781476709185</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1476709181</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746592</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lescroart, John</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE KEEPER : A NOVEL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;On the evening before Thanksgiving, Hal Chase, a guard in the San Francisco County Jail, drives to the airport to pick up his step-brother for the weekend. When they return, Hal&apos;s wife, Katie, has disappeared without a clue. By the time Dismas Hardy hears about this, Katie has been missing for five days. The case strikes close to home because Katie had been seeing Hardy&apos;s wife, a marriage counselor. By this time, the original Missing Persons case has become a suspected homicide, and Hal is the prime suspect. And the lawyer he wants for his defense is none other than Hardy himself. Hardy calls on his friend, former homicide detective Abe Glitsky, to look into the case. At first it seems like the police might have it right; the Chases&apos; marriage was fraught with problems; Hal&apos;s alibi is suspect; the life insurance policy on Katie was huge. But Glitsky&apos;s mission is to identify other possible suspects, and there proves to be no shortage of them: Patti Orosco--rich, beautiful, dangerous, and Hal&apos;s former lover; the still unknown person who had a recent affair with Katie; even Hal&apos;s own step-mother Ruth, resentful of Katie&apos;s gatekeeping against her grandchildren. And as Glitsky probes further, he learns of an incident at the San Francisco jail, where Hal works--only one of many questionable inmate deaths that have taken place there. Then, when Katie&apos;s body is found not three blocks from the Chase home, Homicide arrests Hal and he finds himself an inmate in the very jail where he used to work, a place full of secrets he knows all too well. Against this backdrop of conspiracy and corruption, ambiguous motives and suspicious alibis, an obsessed Glitsky closes in on the elusive truth. As other deaths begin to pile up he realizes, perhaps too late, that the next victim might be himself&quot; --</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">LES</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

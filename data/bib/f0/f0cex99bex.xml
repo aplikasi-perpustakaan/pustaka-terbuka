@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746250</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780814432198</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">814432190</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746250</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ebenstein, Donny</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">I Hear You : REPAIR COMMUNICATION BREAKDOWNS, NEGOTIATE SUCCESSFULLY, AND BUILD CONSENSUS... IN THREE SIMPLE STEPS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Birth, death, and conflict-three things you truly can&apos;t avoid. Whether it&apos;s big or small, conflict eats into productivity and makes people feel stuck. Yet solutions exist for even the toughest situations with the most intractable people. The answer lies in better communication-not just using different words, but rather learning to think differently. &quot;I Hear You&quot; supplies proven techniques for stepping outside one&apos;s point of view and seeing things from other perspectives. Sample dialogues show how this shift in thinking leads to better conversations and greatly improved outcomes. Readers learn how to: tell the other person&apos;s story-the cornerstone of real engagement; look from the outside in and see themselves as others do; recognize the role systemic factors play - and transform a conflict into a shared challenge; and overcome the defense mechanisms that derail dialogue. For anyone trying to negotiate a difficult situation with a boss, colleague, employee, or client, &quot;I Hear You&quot; changes opposition into understanding and mere talk into real trust.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.45 EBE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

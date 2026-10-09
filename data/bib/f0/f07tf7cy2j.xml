@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000739549</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118587140</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118587146</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000739549</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Nicholson, Colin John, 1943-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THINK LIKE THE GREAT INVESTORS : MAKE BETTER DECISIONS AND RAISE YOUR INVESTING TO A NEW LEVEL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&apos;To invest successfully over a lifetime does not require a stratospheric IQ, unusual insights, or inside information. What&apos;s needed is a sound intellectual framework for making decisions and the ability to keep emotions from corroding that framework ; Warren Buffett It&apos;s no secret that if you want to master the market, your best role models are the most successful investors. They evaluate new information and consistently use their knowledge to make winning decisions about whether to buy, sell, hold or stay out of the market. Their edge is not that they know more than we do. They succeed because they think differently, using decision-making strategies to avoid the natural thought patterns; or cognitive biases; that hold us back in our investing. Think Like the Great Investors uncovers the most common cognitive biases that can undermine our investment decisions and provides practical strategies to manage them. It will help you develop a mindset that leads to investing excellence through superior decision making by avoiding potential traps like confirmation bias, mental accounting, sunk cost bias, the natural tendency towards overconfidence, and being carried along by the crowd at turning points in the market. In a clear and simple style, this book shows you how to: recognise your natural cognitive biases, and how they can distort your investment decisions employ proven strategies for overcoming your biases and improving your investment performance develop the art of contrary thinking to avoid being carried away by crowd behaviour at the top of bull markets manage uncertainty with greater confidence. Learn how the great investors think in order to raise your investing to a new level and join the winners&apos; circle. Think Like the Great Investors shows you the way.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.6322 NIC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

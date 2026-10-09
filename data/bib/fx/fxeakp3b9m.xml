@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000819198</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000819198</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">森林之歌 = FOREST CHINA | Sen lin zhi ge = FOREST CHINA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Forest China is nature documentary. It is a major production that has taken China Central Television (CCTV) four years to complete. It covers most of China&apos;s major forest. They are the vast forests in the Northeast of China, Qinling mountains, the Taklamakan Desert, the primitive forest of Southeastern Tibet, Shennongjia Mountains in Hubei Province, the Hengduan Mountains, the tropical rain forest in Hainan and mangroves of the South China Sea. The documentary features such rare trees as red birches, diversiform-leaved poplars, Chinese silver firs, ginkgos and seed berarer trees. It also show some of China&apos;s unique animal species, such as the panda, the golden monkey, takin, nippoina, the Northeast China tiger and gibbon. It also covers the people who live in forests, their lifestyle and their culture. Forest China is remarkable result of meticulours research and planning. It showcase China&apos;s latest effort in protecting the nature and preserving the ecology in the country. It is fact the only visual document of modern China&apos;s flora and fauna.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">634.90951 SEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

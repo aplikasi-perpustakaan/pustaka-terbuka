@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876798</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787141346</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787141349</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ovld21000101</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876798</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Parietti, Laura Vanoli</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Internationalization of firms : the role of institutional distance on location and entry mode</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Parietti addresses one of the most important topic scrutinized by the scholars of International Business. Distance between two countries is a multidimensional concept, including not only a geographical dimension but also other dimensions related to the culture, the administrative, political and economic aspects as shown by Ghemawat (2001) and its &quot;CAGE&quot; framework, as well as by Berry et al. (2010) and their nine dimensions of cross-national distance. In the last decade, van Tulder (2010) notes that the research tends to be oriented towards the institutional and governance distance between countries. Many scholars have emphasized the role of institutions in the internationalization process of firms (Cantwell et al., 2010; Dunning and Lundan, 2008; Van Hoorn and Maseland, 2016). Institutional distance has been used primarily to explain the location and entry mode choices based on the concept of liability of foreignness introduced by Zaheer (1995). Nevertheless, previous studies show contradictory results due to differences in terms of conceptualization and measurement of institutional distance.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.88</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/9781787141346</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

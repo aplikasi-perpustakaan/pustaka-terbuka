@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000774008</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781138776371</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1138776378</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000774008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Maier-Knapp, Naila</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Southeast Asia and the European Union : Non-traditional security crises and cooperation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Routledge contemporary Southeast Asia series ; 67</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Amidst the Eurozone crisis, the European Union (EU) is stepping up its dialogue and engagement with and within Southeast Asia. The EU&apos;s contemporary approach towards Asia emphasises the importance of open economies and common challenges of the 21st Century. So-called non-traditional security issues have been portrayed increasingly as an avenue to share experiences and enhance cooperation between the EU and Southeast Asia. This contemporary conceptual re-orientation demands a closer look at the EU as an actor in Southeast Asia. This book is the first contemporary monograph-length discussion of the EU as a politico-security actor in Southeast Asia post-Cold War. Drawing upon the historical and institutional context and a broad range of empirical case studies, it illustrates that so-called non-traditional security crises are providing an increasingly important frame to enhance the EU as a politico-security influence in the region. It considers the non-traditional security crises of the late 1990s and early 2000s as triggers for enhanced regional and inter-regional cooperation. In doing so, the book construes new insights into our understanding of the EU as a global actor and its normative influence in regions far away from Europe&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">341.24220959 MAI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

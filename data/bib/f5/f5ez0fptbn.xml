@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000667650</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780849350276</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">849350271</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000667650</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Encyclopedia of biotechnology in agriculture and food</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The Encyclopedia of Biotechnology in Agriculture and Food&quot; provides users with unprecedented access to nearly 200 entries that cover the entire food system, describing the concepts and processes that are used in the production of raw agricultural materials and food product manufacturing. So that users can locate the information they need quickly without having to flip through pages and pages of content, the encyclopedia avoids unnecessary complication by presenting information in short, accessible overviews.  Addresses Environmental Issues &amp; Sustainability in the Context of 21st Century Challenges.  Edited by a respected team of biotechnology experts, this unrivaled resource includes descriptions and interpretations of molecular biology research, including topics on the science associated with the cloning of animals, the genetic modification of plants, and the enhanced quality of foods. It discusses current and future applications of molecular biology, with contributions on disease resistance in animals, drought-resistant plants, and improved health of consumers via nutritionally enhanced foods. Uses Illustrations to Communicate Essential Concepts &amp; Visually Enhance the Text.  This one-of-a-kind periodical examines regulation associated with biotechnology applications with specific attention to genetically modified organisms regulation differences in various countries, and biotechnology&apos;s impact on the evolution of new applications. The encyclopedia also looks at how biotechnology is covered in the media, as well as the biotechnology/environment interface and consumer acceptance of the products of biotechnology.  Rounding out its solid coverage, the encyclopedia discusses the benefits and concerns about biotechnology in the context of risk assessment, food security, and genetic diversity.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">630 ENC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
