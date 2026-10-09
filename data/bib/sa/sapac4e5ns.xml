@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000985226</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789864896097</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9864896091</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000985226</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Perry, Sarah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Mi she ji</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Fiction xiao shuo ; 59</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">London 1893. When Cora Seaborne&apos;s husband dies, she steps into her new life as a widow with as much relief as sadness: her marriage was not a happy one, and she never suited the role of society wife. Accompanied by her son Francis - a curious, obsessive boy - she leaves town for Essex, where she hopes fresh air and open space will provide the refuge they need. When they take lodgings in Colchester, rumours reach them from further up the estuary that the mythical Essex Serpent, once said to roam the marshes claiming human lives, has returned to the coastal parish of Aldwinter. Cora, a keen amateur naturalist with no patience for religion or superstition, is immediately enthralled, convinced that what the local people think is a magical beast may be a previously undiscovered species. As she sets out on its trail, she is introduced to William Ransome, Aldwinter&apos;s vicar. Like Cora, Will is deeply suspicious of the rumours, but he thinks they are founded on moral panic, a flight from real faith. As he tries to calm his parishioners, he and Cora strike up an intense relationship, and although they agree on absolutely nothing, they find themselves inexorably drawn together and torn apart, eventually changing each other&apos;s lives in ways entirely unexpected. Told with exquisite grace and intelligence, this novel is most of all a celebration of love, and the many different guises it can take</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">813.6 PER</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

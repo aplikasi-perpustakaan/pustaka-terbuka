@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000670408</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415992473</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415992478</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000670408</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Controversies in media ethics</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">3rd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Controversies in Media Ethics offers students, instructors and professionals multiple perspectives on media ethics issues presenting vast &quot;gray areas&quot; and few, if any, easy answers. This third edition includes a wide range of subjects, and demonstrates a willingness to tackle the problems raised by new technologies, new media, new politics and new economics. The core of the text is formed by 14 chapters, each of which deals with a particular problem or likelihood of ethical dilemma, presented as different points of view on the topic in question, as argued by two or more contributing authors. The 15th chapter is a collection of &quot;mini-chapters,&quot; allowing students to discern first-hand how to deal with ethical problems. This edition has been thoroughly updated to provide discussions of issues reflecting the breadth and depth of the media spectrum numerous real-world examples, broad discussion of confidentiality and other timely topics. Companion Website supplies additional resources for both students and instructors. Developed for use in media ethics courses, Controversies in Media Ethics provides up-to-date discussions and analysis of ethical situations across a variety of media, including issues dealing with the Internet and new media. It provides a unique consideration of ethical concerns, and serves as provocative reading for all media students&quot;&quot;-- c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">175 CON</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

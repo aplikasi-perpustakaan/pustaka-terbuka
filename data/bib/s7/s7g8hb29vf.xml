@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000568394</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789251056998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9251056994</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000568394</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Food and Agriculture Organization of the United Nations.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Development of criteria for acceptable previous cargoes for fats and oils : report of a joint FAO/WHO technical meeting, Bilthoven, Netherlands 7-9 November 2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Edible fats and oils from vegetable, animal and marine sources have been traded and shipped for thousands of years, as they forman important part of the human diet. Increasing global food trade has meant that the geographical source of these commodities has been broadening steadily. The availability of sea-going vessels reserved for the transport of foodstuffs is insufficient to serve the continuing trade in oils and fats intended for human consumption. A practical solution has been adopted by the industry and involves the bulk transport of fats and oils in vessel tanks that are not exclusively reserved for the transport of foodstuffs. Efforts are ongoing to ensure cargoes of fats and oils are not contaminated with previous cargoes. The Codex Alimentarius Commission has adopted a recommended international code of practice for the storage and transport of edible fats and oil in bulk. An integral part of this code will be the Codex List of Acceptable Previous Cargoes. This Technical Meeting was convened to establish criteria for substances to be included in the Codex List of Acceptable Previous Cargoes.--Publisher&apos;s description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">664.3 FOO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

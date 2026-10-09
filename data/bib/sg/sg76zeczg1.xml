@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000748250</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781847208972</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1847208975</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000748250</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Research Handbook on Environment Health and the WTO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">RESEARCH HANDBOOKS ON THE WTO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This Handbook provides state-of-the-art analysis by leading authors on the links between the international trade regime and health and environment concerns - concerns that make up an increasing proportion of WTO dispute settlement. Research Handbook on Environment, Health and the WTO surveys fields as diverse as climate change mitigation, non-communicable diseases, nanotechnology and public health care. The volume brings to the fore the debates and complexities surrounding these issues and their implications for the international trading system. The Handbook begins in Part I with a survey of general issues that sets a context for the more specific sectorial studies. Part II considers the most pressing issues within health regulation and trade law, whilst Part III is devoted to environmental regulation and its interface with trade law. Part IV looks specifically at aspects of the dispute settlement process and in particular standard of review, and the book concludes in Part V with a consideration of the impact of trade measures on the health and environment regimes of emerging economies. This comprehensive yet concise Handbook will appeal to academics and researchers in international trade law and environmental law, as well as trade law practitioners. -- Publisher description</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">382.92 RES</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770970</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262027151</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262027151</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770970</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ensslin, Astrid</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Literary Gaming</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book examines literary videogames, hybrid digital artifacts that have elements of both games and literature, combining the ludic and the literary. These works can be considered verbal art in the broadest sense (in that language plays a significant part in their aesthetic appeal); they draw on game mechanics; and they are digital-born, dependent on a digital medium (unlike, for example, conventional books read on e-readers). They employ narrative, dramatic, and poetic techniques in order to explore the affordances and limitations of ludic structures and processes, and they are designed to make players reflect on conventional game characteristics. Ensslin approaches these hybrid works as a new form of experimental literary art that requires novel ways of playing and reading. She proposes a systematic method for analyzing literary-ludic (L-L) texts that takes into account the analytic concerns of both literary stylistics and ludology. After establishing the theoretical underpinnings of her proposal, the author introduces the L-L spectrum as an analytical framework for literary games. Based on the phenomenological distinction between deep and hyper attention, the L-L spectrum charts a work&apos;s relative emphases on reading and gameplay. Ensslin applies this analytical toolkit to close readings of selected works, moving from the predominantly literary to the primarily ludic, from online hypermedia fiction to Flash fiction to interactive fiction to poetry games to a highly designed literary auteur game. Finally, she considers her innovative analytical methodology in the context of contemporary ludology, media studies, and literary discourse analysis.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">794.8 ENS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

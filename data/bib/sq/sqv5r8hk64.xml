@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734668</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780151013401</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">151013403</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734668</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ogle, Maureen</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">IN MEAT WE TRUST : AN UNEXPECTED HISTORY OF CARNIVORE AMERICA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The untold story of how meat made America. The moment European settlers arrived in North America, they began transforming the land into a meat-eater&apos;s paradise. Long before revolution turned colonies into nation, Americans were eating meat on a scale the Old World could neither imagine nor provide: an average European was lucky to see meat once a week, while even a poor American man put away about two hundred pounds a year. Maureen Ogle guides us from that colonial paradise through the urban meat-making factories of the nineteenth century to the hyperefficient packing plants of the late twentieth century. From Swift and Armour to Tyson, Cargill, and ConAgra. From the 1880s cattle bonanza to 1980s feedlots. From agribusiness to today&apos;s &quot;local&quot; meat suppliers and organic countercuisine. Along the way, Ogle explains how Americans&apos; carnivorous demands shaped urban landscapes, Midwestern prairies, and Western ranges, and how the American system of meat making became a source of both pride and controversy.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">664.9 OGL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842926</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842926</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Port, Michael, 1970-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">STEAL the SHOW : from SPEECHES to JOB INTERVIEWS to DEAL-CLOSING PITCHES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">An inspiring program full of essential advice for spotlight lovers and wallflowers alike that will teach readers how to bring any crowd to its feet Every day there are moments when you must persuade, inform, and motivate others effectively. Each of those moments requires you, in some way, to play a role, to heighten the impact of your words, and to manage your emotions and nerves. Every interaction is a performance, whether you&apos;re speaking up in a meeting, pitching a client, or walking into a job interview. In Steal the Show, New York Times best-selling author Michael Port draws on his experience as an actor and as a highly successful corporate speaker and trainer to teach readers how to make the most of every presentation and interaction. He demonstrates how the methods of successful actors can help you connect with, inspire, and persuade any audience. His key strategies for commanding an audience&apos;s attention include developing a clear focus for every performance, making sure you engage with your listeners, and finding the best role for yourself in order to convey your message with maximum impact. Michael Port is one of the most in-demand corporate speakers working today. His presentations are always powerful, engaging, and inspirational. And yes, audiences always give him a standing ovation.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Books</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.452 POR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

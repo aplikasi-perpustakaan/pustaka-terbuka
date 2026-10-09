@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000986592</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9787521734027</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7521734025</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000986592</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ward, Sally</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">与宝宝对话 = Baby Talk : Maximise Your Child&apos;s Potential in Just 30 Minutes a Day | Yu bao bao dui hua = Baby Talk : Maximise Your Child&apos;s Potential in Just 30 Minutes a Day</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">第1版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Guang chen =</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Ages 0 to 4 are a critical stage in a child’s development. During this period, children begin to build lifelong abilities such as a sense of security, focus, and independence. The first step in nurturing these abilities is developing your baby’s language potential, which lays the foundation for effective communication between parents and child, guiding the baby from curiosity and understanding to unlocking their full potential. However, many parents struggle to communicate effectively with their little ones who are just beginning to babble. Phrases like “Come on, say it for Mommy” or “What’s this?” may seem encouraging but are often ineffective—in fact, the more parents talk at their babies in this way, the less beneficial it can be for the child’s development. This book presents a scientifically backed parenting method developed by Dr. Sally Ward, consultant to the Royal College of Speech and Language Therapists in the UK. With just 30 minutes a day, parents can build a strong foundation for interactive communication with their child and gently guide them to unlock their developmental potential</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">401.93 WAR</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

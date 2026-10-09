@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000732454</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781848728882</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1848728883</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000732454</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Adolescent Psychology Around the World</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book paints a portrait of adolescent psychology in 4 major regions: Africa/the Middle East, Asia, the Americas, and Europe. Featuring 24 revised and updated chapters from the International Encyclopedia of Adolescence (2007), readers are introduced to the way the majority of the world&apos;s adolescents actually live. Most contributors are indigenous to the country they review. As a whole the book paints an engaging panorama of adolescent life around the world, broadening students&apos; cultural perspective. All chapters follow the same template to make it easier to compare topics across countries: Background (including demographics, ethnic diversity, and political system), Period of Adolescence, Beliefs, Gender, the Self, Family Relationships, Friends and Peers/Youth Culture, Love and Sexuality, Health Risk Behavior, Education, Work, Media, Politics and Military, and Unique Issues. Each chapter contains a map and photos and a list of references and suggested readings. The introductory chapter explains why the countries were selected and introduces the book&apos;s common themes. The section on Africa and the Middle East introduces students to teen life in Cameroon, one of the few places left where adolescents go through formal puberty rituals. In addition, readers learn about adolescent life in Ethiopia, Israel, Morocco, Nigeria, and Sudan. Next we travel to Asia -- China, India, Indonesia, and the Philippines. Here readers see how economic growth in India and China is creating opportunities for young people. In The Americas, readers are introduced to life in Argentina, Canada, Chile, Mexico, Peru, and the United States. -- Book Description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">155.509 ADO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

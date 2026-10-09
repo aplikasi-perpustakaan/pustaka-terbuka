@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000736712</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000736712</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Little Einsteins : Go to America</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">An educational preschool series which teaches children about various historical and cultural aspects of the world, as well as art and music appreciation. Features four children, Leo, June, Quincy and Annie and their intelligent and transformable space/air/water-craft, &quot;Rocket&quot; as they embark on an adventure or mission to solve a problem or help a friend. Each episode concludes with a &quot;curtain&quot; call crediting the team members, ancillary characters and reviewing the featured art and music selection. In these 3 episodes . we adventure from the Big Woods of Arkansas to the Pacific Northwest. Fun, friendship and surprises await, when you go to America! Drum up excitement with Quincy and the team as you journey to the Ozark Mountain with tapper, an ivory billed woodpecker. Whether you are hiking, floating, Skiing or soaring, you&apos;ll discover nonstop adventure and breathtaking scenery with the Little Einsteins</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4334 LIT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000751875</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781439874141</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">143987414X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000751875</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">HUMAN WORK PRODUCTIVITY : A Global Persperctive</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Preface Our world is in an economic flux. The relative economic prowess and hence the influence of industry and commerce on the international stage have created a state of unstable and dynamic equilibrium. The interconnectedness of individual productivity, gross domestic product (GDP), global economic impacts, and potential for technological innovation and advancement has never been so apparent. Thus, enhancement of individual productivity exerts a direct impact on personal prosperity, national affluence, and international influence. Based on these connections and impacts, worker productivity has assumed a central and vital place in our individual and collective economic lives. This is an opportune time to delve into certain aspects of productivity. A topic as broad as productivity deserves and demands an exhaustive discourse--a task that is daunting and beyond the scope of this work. This book is an effort to explore some aspects of productivity in an attempt to expand our understanding of its benefits and consequences. This book begins with a chapter by Gilad and Elnekave that proposes cost-effective ergonomic improvements to boost individual productivity. These authors measured job elements and determined task durations by extracting elemental times from motion-time tables and analyzing them. Using such a quantitative approach, they were able to improve the operation time and determine appropriate rest allowances. Al Kadeem conversely addresses similar issues by redesign and rearrangement of the workplace to enhance productivity (Chapter 2). Landau et al. (Chapter 3) discuss the impact of increasing ages of workers in the labor force. Contrary to common belief, they found that declines in productivity due to age were minor&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">331.118 HUM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
