@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000763191</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118063484</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118063481</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000763191</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Christensen, Clayton M.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Innovative University : CHANGING THE DNA OF HIGHER EDUCATION FROM THE INSIDE OUT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">FIRST EDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A hopeful vision to show universities how they can become more innovative, efficient, and true to their mission. This book shows how higher education can respond to the forces of disruptive innovation that they are currently facing. Unlike many doom and gloom pundits, they offer a nuanced and hopeful analysis of where the traditional university and its traditions have come from and how it needs to change for the future. Through an examination of Harvard and BYU-Idaho as well as other stories of innovation in higher education, Christensen and Eyring decipher how universities can find innovative, less costly ways of performing their uniquely valuable functions. Offers new ways forward to deal with curriculum, faculty issues, enrollment, retention, graduation rates, campus facility usage, and a host of other urgent issues in higher education Discusses a strategic model to ensure economic vitality at the traditional university. Contains novel insights into the kind of change that is necessary to move institutions of higher education forward in innovative ways. This book uncovers how the traditional university survives by breaking with tradition, but thrives by building on what it&apos;s done best&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">378.73 CHR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

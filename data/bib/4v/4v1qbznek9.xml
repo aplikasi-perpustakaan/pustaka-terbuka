@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984293</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9786267164327</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">6267164322</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984293</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kim, Ka-yŏng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">活得那麼認真, 為何還是傷痕累累? : 用剛剛好的努力, 停止倦怠循環, 找回人生的平衡 | Huo de na me ren zhen, wei he hai shi shang hen lei lei? : yong gang gang hao de nu li, ting zhi juan dai xun huan, zhao hui ren sheng de ping heng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Da hao shi guang ; 60</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">What has made our lives feel so overwhelming? How can we live in a way that truly brings us back to ourselves? This book is written by a Korean office worker, known by the pseudonym Sadain (&quot;the person who does too much&quot;), who personally endured workplace burnout, panic disorder, and depression. Through her raw and honest experiences, she reveals a painful truth: the exhaustion that drags life down is not laziness—it&apos;s an illness caused by over-effort. It&apos;s the inability to rest without guilt, the relentless self-pressure to endure everything, and the long-term neglect of our body&apos;s signals of distress. Drawing from her journey through therapy and extensive reading in neuroscience and psychology, the author offers insights and strategies to escape and prevent burnout. She teaches us how to practice just the right amount of effort—and how to restore balance in our lives, careers, and relationships</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.723 KIM</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

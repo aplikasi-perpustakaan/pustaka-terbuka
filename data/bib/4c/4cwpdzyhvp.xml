@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000472937</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000472937</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The life and work of Frank Hurley</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">200X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Narrated by Leo McKern (Rumpole of the Bailey), this is a compelling biography of pioneer cameraman, war photographer, explorer, film director, writer, lecturer and broadcaster, Frank Hurley, one of the world&apos;s finest still photographers. From outback Australia to the deserts of the Middle East to Antarctica this program shows his extraordinary skills and achievements. Featured are compelling images from historic pioneering expeditions, including Sir Ernest Shackleton&apos;s legendary Antarctic Expedition. Also seen is Hurley’s footage of his expedition to New Guinea, his coverage of WW I and WW II, and an excerpt from his foray into feature films with The Jungle Woman in 1926
+Associated Programs: Antarctic Pioneers and Antarctica: Journey to the Ice
+Associated Book: The Endurance: Shackleton&apos;s Legendary Antarctic Expedition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Projected Medium</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">920 LIF</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

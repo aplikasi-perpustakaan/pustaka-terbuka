@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000775777</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781137279781</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1137279788</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000775777</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Dhawan, Erica</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">GET BIG THINGS DONE : THE POWER OF CONNECTIONAL INTELLIGENCE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Digital, social, and mobile connection has exploded. 1.2 billion people-- almost 20% of the population of our planet-- use Facebook. About 250 million use Twitter. For the first time in history we&apos;re all in touch with one another--but how connected are we? Yes, it&apos;s good to have &quot;friends&quot; who &quot;like&quot; you, or contacts that can help you get a new job. But solving big problems, creating amazing products, changing social policy, discovering a cure that saves lives--that&apos;s a lot more meaningful than sitting at a laptop and giving a thumbs up to a post or feverishly playing a game. And that&apos;s what Connectional Intelligence is all about. As game-changing a concept as emotional intelligence was in the 90s, connectional intelligence is the human capability to pool knowledge and ambition towards big, significant ends. It quickly, efficiently and creatively helps individuals enlist helpers, analyze information and find solutions. Though engaging stories like a local amateur pumpkin grower who&apos;s helping solve the global food crisis and the determined mother who got &quot;pink slime&quot; out of our food products, readers will learn how businesses, individuals and communities working together on our greatest challenges can create a better world for everyone. &quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">303.4833 DHA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

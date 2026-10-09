@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000763193</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780465071999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">465071996</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000763193</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Haass, Richard N</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">FOREIGN POLICY BEGINS AT HOME : The Case for Putting America&apos;s House in Order</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A rising China, climate change, terrorism, a nuclear Iran, a turbulent Middle East, and a reckless North Korea present serious challenges to our national security. But the biggest threat to the United States comes not from abroad-but from within. Burgeoning deficit and debt, crumbling infrastructure, second class schools, and an outdated immigration system have resulted in a country less competitive and far more vulnerable than it should be. In Foreign Policy Begins at Home, Council on Foreign Relations President Richard N. Haass describes a twenty-first century in which power is widely diffused. Globalization, revolutionary technologies, and power shifts have created a &quot;nonpolar&quot; world of American primacy but not domination. Still, it is a relatively forgiving world, one with no great power rival. How long this strategic respite will last, though, depends entirely on whether the United States puts its own house in order. Haass outlines a process of Restoration that will ensure the United States has the resources it needs to lead the world, set examples other societies will want to emulate, reduce the country&apos;s vulnerability to hostile forces and fickle markets, and discourage would-be adversaries from mounting aggression. Provocative and bold, Foreign Policy Begins at Home lays out a new vision for American Restoration. It will require hard choices, but hard choices are called for. At stake is nothing less than America&apos;s future and the character of the coming era of history.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">327.73 HAA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

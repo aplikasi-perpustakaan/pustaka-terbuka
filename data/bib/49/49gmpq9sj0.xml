@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000874691</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781785600326</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">178560032X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">1876-0228</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09345789</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000874691</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">New technology-based firms in the new millennium. Volume 11</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">New technology-based firms in the new millennium,</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The latest edition of this international edited book series, based on the formation and growth problems of High Technology Small Firms (HTSFs), contains the best papers presented at the 2011 and 2013 conferences, both held at Manchester Business School. This volume remains true to the initial mission of the HTSF Conference, established in 1993, to advance our knowledge of high-technology entrepreneurship and to advocate the need for more and better designed policy to promote such entrepreneurship. The need is as great as ever it was, not least given the continued economic stagnation of the European economy in the wake of the Financial Crisis and the Euro crisis. These papers address key themes relating to improving our understanding of the processes involved in high-technology entrepreneurship and of the design of effective policy to promote this research. The first two groups of papers examine the start-up and commercialization processes and the internationalization processes, which are often important for new high-technology businesses. Other papers examine topics like entrepreneurship clusters, inter-firm collaboration, and growth strategy for high-technology small firms</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">620.00688</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/1876-0228/11</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

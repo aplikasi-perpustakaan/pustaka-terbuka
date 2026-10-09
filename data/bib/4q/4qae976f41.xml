@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000702029</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422131688</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422131688</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000702029</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Meyer, Christopher, 1948-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Standing on the sun : how the explosion of capitalism abroad will change business everywhere</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;For half a century the US has sat at the center of the global economic system, and Western-style capitalism has dominated. Now, it’s no secret that the center of gravity is shifting. The advanced economies that in 2000 consumed 75% of the world’s output will, by 2050, consume just 32%. Meanwhile, the emerging economies of the world--Brazil, India, China, and others--will surge forward. As these fast-growing, low-income economies mature, will they adopt the practices of the old guard? Or will they make their own way, and create the next prevailing version of capitalism? What new opportunities will that create for firms around the world? Standing on the Sun tackles these questions with fresh ideas and provocative examples. Based on firsthand observations of companies defying capitalism’s old rules yet prospering, the authors outline new principles for commercial success. Among them: ʺ The obsession with return on equity gives way to more broad-based measurements of success. ʺ Adam Smith’s invisible hand of the market is redeemed by the &quot;invisible handshake&quot; of collaborative networks. ʺ Businesses take ownership of the impacts they now call &quot;externalities.&quot; Those who need to understand the emerging shape of global capitalism will benefit from Standing on the Sun&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">330.122 MEY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

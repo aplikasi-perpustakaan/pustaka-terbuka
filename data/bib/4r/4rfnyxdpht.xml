@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000913785</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000913785</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BOLTS &amp; BLIP : BATTLE OF THE LUNAR LEAGUE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In the year 2080, the Earth and the moon were at peace. Tired of the same old daily routine, the ordinary robots &apos;Bolts&apos; and &apos;Blip&apos; coincidentally are chosen as battle robots. They join the perennially bad &apos;Thunderbolts&apos; team to fight in the Moon League. However, as the competition begins, &apos;Blip&apos; realizes he has specials powers and soon becomes the hero of the planet. Just then, &apos;Dr. Blood&apos; threatens to take over the Earth and &apos;Bolts&apos;, who was jealous of popular &apos;Blip&apos;, teams up with Dr. Blood. Now it is left to &apos;Blip&apos; to face the challenge of saving the planet and regaining his friend &apos;Bolts&apos;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Videorecording</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4334 BOL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

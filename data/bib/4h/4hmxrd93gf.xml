@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000906681</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000906681</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">虫不知 = Bug me not! | Chong bu zhi = Bug Me Not!</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Moon is a young misfit who has the ability to talk to bugs. Moon has always been perceived as a &quot;misfit&quot; because she spoke baby talk too long. She has a crush on a boy named Hyland who works in a store across the street from her house. Unknown to Moon, Hyland has a serious problem with body contact with other people. Moon also meets Coochie, an endearing ladybug who speaks to her and becomes part of her daily life, advising her. Moon meets a band of kids who also has abilities, including telekinetic twins, a high jumping teen, a fortune teller, a boy with x-ray vision that is a semi-pervert. Leading these misfits is a woman named Auntie who looks early to mid 20s but her actual age is 70. Auntie wants both Moon and Hyland to join her band of misfits because of Moon&apos;s abilities and Hyland&apos;s ability to dodge other people&apos;s attacks</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43089951 CHO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000652666</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789251060346</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9251060347</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0429-9337 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000652666</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">FAO Expert Workshop on the Use of Wild Fish and/or Other Aquatic Species as Feed in Aquaculture and its Implications to Food Security and Poverty Alleviation (2007 : Cochin, India)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Report of the FAO Expert Workshop on the Use of Wild Fish and/or Other Aquatic Species as Feed in Aquaculture and its Implications to Food Security and Poverty Alleviation : Kochi, India, 16-18 November 2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">FAO fisheries report, no. 867</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The FAO Expert Workshop on the Use of Wild Fish and/or Other Aquatic Species as Feed in Aquaculture and Its Implications to Food Security and Poverty Alleviation was convened in Kochi, India, from 16 to 18 November 2007. The workshop consisted of technical presentations and working group discussions. The technical presentations included regional reviews, case studies, a global synthesis and a number of invited presentations.&quot; &quot;The workshop served to address the following thematic areas and other issues of significance emerging from the regional reviews and case studies: a) fisheries management; b) policy development; c) food security; d) poverty alleviation; e) social and ethical issues; and f) aquaculture technology and development. Following several working group deliberations, the workshop agreed on a series of principles and guidelines on the use of wild fish as feed in aquaculture and concluded that such use should be governed by the above guiding principles.&quot;--BOOK JACKET.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">639.2 FAO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

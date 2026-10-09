@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000783300</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000783300</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">kor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">One Fine Day</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Orphaned as children, siblings Gun (Gong Yoo) and Ha Neul (Sung Yu Ri) are adopted into very different lives. In Korea, Ha Neul grows up in a wealthy, loving family, so loving that she finds it suffocating. In Australia, Gun becomes a small-time gangster whose main talents are swindling and fighting. Gun has a long-time admirer in his adopted sister Hyo Ju (Lee Yeon Hee), while Ha Neul wins the affections of Dong Ho (Nam Gong Min), director of the aquarium she secretly works at. World apart from each other, they reunite after 15 years of separation when Gun returns to Korea. Gun originally wants to swindle money from Ha Neul, but he can&apos;t help protecting and caring for his little sister. As the two grow closer, their relationship and feelings become more complicated. Are they just brother and sister - or is it something more?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4572 ONE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

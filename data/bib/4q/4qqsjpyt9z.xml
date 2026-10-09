@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000973004</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780593471685</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">593471687</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000973004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Morrow, Bethany C.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">CHERISH FARRAH : A NOVEL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Seventeen-year-old Farrah Turner is one of two Black girls in her country club community, and the only one with Black parents. Her best friend, Cherish Whitman, adopted by a wealthy white family, is something Farrah likes to call WGS-White Girl Spoiled. With Brianne and Jerry Whitman as parents, Cherish is given the kind of adoration and coddling that even upper-class Black parents can&apos;t seem to afford-and it creates a dissonance in her best friend that Farrah can exploit. When her own family is unexpectedly confronted with foreclosure, the calculating Farrah is determined to reassert the control she&apos;s convinced she&apos;s always had over her life by staying with Cherish, the only person she loves-even when she hates her. A troubled Farrah manipulates her way further into the Whitman family but the longer she stays, the more her own parents suggest that something is wrong in the Whitman house. She might trust them-if they didn&apos;t think something was wrong with Farrah, too. As strange things start happening at the Whitman household-debilitating illnesses, upsetting fever dreams, an inexplicable tension with Cherish&apos;s hothead boyfriend, and a strange journal that seems to keep track of what is happening to Farrah-it&apos;s nothing she can&apos;t handle. But soon everything begins to unravel when the Whitmans invite Farrah closer, and it&apos;s anyone&apos;s guess who is really in control. Told in Farrah&apos;s chilling, unforgettable voice and weaving in searing commentary on race and class, this slow-burn social horror will keep you on the edge of your seat until the last page&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">MOR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

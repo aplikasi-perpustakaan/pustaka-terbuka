@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000604941</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000604941</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Surah Yasin bertarannum Qari agung Sheikh Dr. Ahmad Nuaina’</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sinopsis: Qari Dr. Ahmad Nuaina&apos; dilahirkan pada tahun 1954 di bandar Matubas, salah sebuah negeri di Kafru Syeikh, Republik Arab Mesir. Beliau merupakan lepasan penuntut pengajian perubatan Universiti Alexanderia, Mesir. Menghafaz Al-Quran sejak berumur 8 tahun. Antara guru Al-Quran yang mengajar beliau adalah Sheikh Amin al-Hilali (ulama al-Azhar), Sheikh Mustafa Ismail, Sheikh Ali Syihabuddin dan Sheikhah Ummi Sa&apos;ad. Beliau sering dijemput untuk membaca Al-Quran ke luar negara seperti Malaysia, Brunei, Eropah, Pakistan, Turki dan beberapa negara Arab yang lain. Sehingga kini beliau merupakan qari utama di Mesir dan merupakan qari jemputan setiap hari Jumaar di Masjid Saidina Hussien r.a.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Book on CD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">297.1224045 SUR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

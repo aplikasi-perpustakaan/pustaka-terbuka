@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000775767</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780349406459</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">349406456</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000775767</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Zamperini, Louis, 1917-2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">DON&apos;T GIVE UP, DON&apos;T GIVE IN : LESSONS FROM AN EXTRAORDINARY MAN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Champion. Survivor. Hero. Legend. Completed just two days before Louis Zamperini&apos;s death at age 97, Don&apos;t Give Up, Don&apos;t Give In shares a lifetime of wisdom, insight, and humor from one of America&apos;s most inspiring lives. Zamperini&apos;s story has touched millions through Laura Hillenbrand&apos;s biography Unbroken, soon to be a major motion picture directed by Angelina Jolie. Now, in his own words, Louis Zamperini reveals, with warmth and great charm, the essential values and lessons that sustained him throughout his remarkable journey. He was a youthful troublemaker from California who turned his life around to become a 1936 Olympian and a world-class miler at the University of Southern California. Putting aside his superstar track career, Louis Zamperini volunteered for the army before Pearl Harbor and was thrust into the violent combat of World War II as a B-24 bombardier. While on a rescue mission, his plane went down in the middle of the Pacific Ocean, where he survived, against all odds, drifting two thousand miles in a small raft for forty-seven days. His struggle was only beginning: Zamperini was captured by the Japanese and, for more than two years, he courageously endured torture and psychological abuse in a series of prisoner-of-war camps. He returned home to face more dark hours, but in 1949 Zamperini&apos;s life was transformed by a spiritual rebirth that would guide him through the next sixty-five years of his long and happy life. Cowritten with longtime collaborator David Rensin, Louis Zamperini&apos;s Don&apos;t Give Up, Don&apos;t Give In is an extraordinary last testament that captures the wisdom of a life lived to the fullest. A son of Italian immigrants, Louis Zamperini (1917-2014) was a U.S. Olympic runner, World War II bombardier, and POW survivor. After the war, he returned to the United States to found the Victory Boys Camp for at-risk youth and became an inspirational speaker. Zamperini&apos;s story was told in his 2003 autobiography Devil at My Heels, as well as in Laura Hillenbrand&apos;s 2010 biography Unbroken. David Rensin worked closely with Louis Zamperini for many years and cowrote Devil at My Heels.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">940.547252092 ZAM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
