@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000736636</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422144053</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422144054</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000736636</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Charan, Ram</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BOARDS THAT LEAD : WHEN TO TAKE CHARGE, WHEN TO PARTNER, AND WHEN TO STAY OUT OF THE WAY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A Call to Leadership. The role of the corporate board has changed. Today&apos;s smartest CEOs have used this to their benefit. But increased board control and involvement also has its downsides. This book, from three leading experts in the field, serves as a guide to help take advantage of board oversight while avoiding the pitfalls. Boardroom veterans Ram Charan, Dennis Carey, and Michael Useem have this to say to today&apos;s leaders: Chief executives must run the corporation, but directors must also lead the corporation on the most crucial issues. Monitoring and governance matters, but the time has come to rebalance the responsibilities of the board. Directors need to know when to take charge, when to partner, and when to get out of the way. Charan, Carey, and Useem describe this emerging trend and argue that its overall impact on business performance will be positive. They offer a new roadmap both to CEOs and directors so that senior executives can better balance board oversight with their day-to-day operations of the firm, and directors have a better understanding of when to lead, when to partner, and when to stay out of the way. Based on work with and study of board leaders and chief executives of Fortune 500 firms across the globe, Boards that Lead is that new roadmap, showing what this new partnership model of leadership looks like-and how to make it work. &quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.422 CHA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000516064</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781876067182</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1876067187</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000516064</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Goulding, Dot (Dorothy Helen)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Recapturing freedom : issues relating to the release of long-term prisoners into the community</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sydney Institute of Criminology monograph series ; no. 24</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;This book is about the prison experience. It relates the stories of several long-term prisoners from the days leading up to their release from prison and through their struggles to cope with life on the outside. Most of these men and women do not successfully reintegrate to wider society and are returned to prison for one reason or another. Using a combination of the prisoners&apos; narratives and academic accounts, the book explores the notion of institutionalisation and the ways in which prisons strip individuals of their prior social identity in order to mould them into controllable &apos;inmates&apos;. The book also explores patterns of surveillance and control in prisons, the role of prison staff, the duality of prison culture, and prisoner resistance to institutionalisation. Violence and brutalisation in prisons are also a central focus of the book. In this respect, it addresses the gendered nature of violence in prisons, the prevalence of sexual violence, and the participants&apos; accounts of violent incidents and their claims of officially sanctioned violence against themselves and other prisoners. The title of the book, Recapturing Freedom, alludes to the participants&apos; experiences of &apos;freedom&apos; out in the wider community. Since most of the participants were returned to prison for one reason or another, the reader can conclude that freedom, for these men and women, was not easily recaptured. Instead, many of the prisoners were recaptured by the system. The text, then, reflects on the participants&apos; descriptions of life outside of prison, however brief the experience may have been.&quot;--Provided by publisher</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">364.609941 GOU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

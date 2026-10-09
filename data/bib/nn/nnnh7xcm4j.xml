@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000878319</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787145436</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787145433</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ovld002108155</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000878319</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Deters, Jurgen</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Global leadership talent management : successful selection of global leadership talents as an integrated process</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In times of globalization, global labor markets and increasingly diverse workforces, Global Leadership, Global Talent Management and integrated management systems belong to the most urgent issues and challenges for the next decade. Hence, it is not a surprise that Global Leadership and effective, integrated Global Talent Management have been identified as key success factors for global organizations. Global organizations see the world as one market for gaining the best global leadership talents. To recruit and retain the best global leaders and leadership talents worldwide, organizations must have effective (global) talent management procedures that are mutually supportive, internally consistent and correlate positively with economic success. This book illustrates integrated practices and success factors of effective Global Leadership Talent Management procedures and shows how to balance the opposing forces of global harmonization and local responsiveness. It describes how global organizations can develop an integrative conceptual framework for the (global) talent management process that sees this as an ongoing acquisition process. Acquisition connotes partnership between talent and company. Like customers, the company proactively identifies candidates for global leadership positions worldwide, attracts them and tries to hire them and win their loyalty. The onus is not solely on the applicant to impress the company. The employer also has to appear attractive to potentially interested parties and maintain that state throughout the employment experience. Globally integrated, high-quality Global Leadership Talent Management creates a long term win-win situation by gaining, retaining and providing service to global candidates and talents and by supporting the sustainable success of global organizations.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4092</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/9781787145436</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

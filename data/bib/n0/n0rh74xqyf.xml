@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000879061</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781786350411</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1786350416</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0882-6145 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ovld001900326</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000879061</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Advances in group processes. Vol. 33</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Advances in group processes ; v. 33.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Advances in Group Processes publishes theoretical analyses, reviews, and theory based empirical chapters on group phenomena. The series adopts a broad conception of &quot;group processes.&quot; This includes work on groups ranging from the very small to the very large, and on classic and contemporary topics such as status, power, trust, justice, social influence, identity, decision-making, intergroup relations and social networks. Previous contributors have included scholars from diverse fields including sociology, psychology, political science, economics, business, philosophy, computer science, mathematics and organizational behavior. Volume 33 brings together papers related to a variety of topics in small groups and organizational research. The volume includes papers that address theoretical and empirical issues related to balance theory, generalized exchange, identity contests and corporate social responsibility. Other contributions examine minority influence, status and identity processes, gender stereotypes and voice pitch as a measure of stress. Overall, the volume includes papers that reflect a wide range of theoretical approaches from leading scholars who work in the general area of group processes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">302.3</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/0882-6145/33</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

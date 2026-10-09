@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls001005046</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789672978121</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">967297812X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls001005046</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Yu, Lian Shui</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">生之道 | Sheng zhi dao</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The book is a beautiful work of philosophy of life, based on philosophical sciences and psychological phenomena, with the idea of &quot;Yijing&quot; running through the whole book, extending to the field of biophysics, and making use of the theory of selforganization, etc., it mainly starts from the theme of &quot;knowing oneself&quot;, and probes into the &quot;reason of life and death&quot; and its wide-ranging manifestations and meanings, in order to construct a model of the representation and application of Yijing.The main focus of the book is on the theme of life, &quot;Knowing oneself&quot;, exploring the &quot;life and death principles&quot; of life and the wide range of manifestations and meanings it implies, in order to construct an easy-to-use model of representation and application. The book adopts the construction method of taking human life as the object, human civilization as the inspiration or evidence, and mathematical principles as the foundation, and explains the inner mechanism of life phenomena 
+through the mutual corroboration and explanation of phenomena and conclusions, which is readable, philosophical, and discursive, and is suitable for the general public to think and be inspired.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">100 YU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

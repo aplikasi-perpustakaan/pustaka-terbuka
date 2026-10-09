@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000732459</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415634809</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415634806</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000732459</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ARCHAEOLOGY IN THE MAKING : Conversations through a discipline</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Archaeology in the Making is a collection of bold statements about archaeology, its history, how it works, and why it is more important than ever. This book comprises conversations about archaeology among some of its notable contemporary figures. They delve deeply into the questions that have come to fascinate archaeologists over the last forty years or so, those that concern major events in human history such as the origins of agriculture and the state, and questions about the way archaeologists go about their work. Many of the conversations highlight quite intensely held personal insight into what motivates us to pursue archaeology; some may even be termed outrageous in the light they shed on the way archaeological institutions operate - excavation teams, professional associations, university departments. Archaeology in the Making is a unique document detailing the history of archaeology in second half of the 20th century to the present day through the words of some of its key proponents. It will be invaluable for anybody who wants to understand the theory and practice of this ever developing discipline.&quot;--Publisher&apos;s website</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">930.1 ARC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

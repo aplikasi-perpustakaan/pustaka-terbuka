@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876216</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787435254</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787435253</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787435254</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876216</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Stein, Guido, 1963-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">And now what? : a guide to leadership and taking charge in your new rule</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">When you start a new managerial role, there is an inevitable contrast between what you believed you would find and what you&apos;re actually faced with. And Now What? helps you manage this gap between expectation and reality, ensuring that you get off to the best possible start in your new job. This book is structured in two parts, and it begins by offering readers a panoramic perspective of what a &apos;landing&apos; entails in terms of personal self-leadership and managing people and uncertainty. The first part of the book reviews the process of taking charge in your new role, from preparation through to implementation. The second part presents a range of case studies arranged in order of increasing professional responsibility, allowing the reader to take a trip from the first stages of a professional leader&apos;s life to the highest responsibilities of a chairperson&apos;s role  -  experiencing changes, promotions, exits, internationalizations and take-offs along the way. The most important thing for a leader is not to discover how to motivate, but to better understand their reasons for motivating others. In this way, you can think of the leadership journey as both a personal and a professional adventure</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4092</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/9781787435254</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

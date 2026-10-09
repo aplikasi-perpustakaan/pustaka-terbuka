@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000843915</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000843915</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">hin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ONCE UPON A TIME IN MUMBAI : WHEN IT ALL STARTED</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">During March 1993, after his Ambassador car is being fished out of water, Assistant Commissioner of Police, Agnel Wilson, narrates to the Commissioner as to how he commenced his investigation against an underworld gangster, Sultan Mirza. He details how Sultan had survived floods in Madras, shortly after Independence; his arrival in Bombay; and his employment which earned him a mere 25 Paisa daily. Agnel&apos;s attempts to rein in Sultan fail, but he keeps tabs on him and his romance with Bollywood actress, Rehana; as well as his new recruit, Shoaib, the son of Sub-Inspector Khan. Agnel will find his investigation slipping out of his hands after Sultan temporarily delegates complete responsibility to Shoaib.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 ONC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842800</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780008105860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">8105863</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842800</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tremayne, S. K., 1963-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE FIRE CHILD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">When Rachel marries dark, handsome David, everything seems to fall into place. Swept from single life in London to the beautiful Carnhallow House in Cornwall, she gains wealth, love, and an affectionate stepson, Jamie. But then Jamie’s behaviour changes, and Rachel’s perfect life begins to unravel. He makes disturbing predictions, claiming to be haunted by the spectre of his late mother – David’s previous wife. Is this Jamie’s way of punishing Rachel, or is he far more traumatized than she thought? As Rachel starts digging into the past, she begins to grow suspicious of her husband.
+        When Rachel marries dark, handsome David, everything seems to fall into place. Swept from single life in London to the beautiful Carnhallow House in Cornwall, she gains wealth, love, and an affectionate stepson, Jamie. But then Jamie&apos;s behaviour changes, and Rachel&apos;s perfect life begins to unravel. As Rachel starts digging into the past, she begins to grow suspicious of her husband. Why is he so reluctant to discuss Jamie&apos;s outbursts? And what exactly happened to cause his ex-wife&apos;s untimely death, less than two years ago?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">TRE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

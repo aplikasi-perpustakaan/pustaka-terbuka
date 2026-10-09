@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833978</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781101912379</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1101912375</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn951948048</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833978</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Frankopan, Peter</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Silk Roads : A New History of the World</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">FIRST VINTAGE BOOKS EDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Our world was made on and by the Silk Roads. For millennia it was here that East and West encountered each other through trade and conquest, leading to the spread of ideas and cultures, the birth of the world&apos;s great religions, the appetites for foreign goods that drove economies and the growth of nations. From the first cities in Mesopotamia to the growth of Greece and Rome to the depredations by the Mongols and the Black Death to the Great Game and the fall of Communism, the fate of the West has always been inextricably linked to the East. The Silk Roads vividly captures the importance of the networks that crisscrossed the spine of Asia and linked the Atlantic with the Pacific, the Mediterranean with India, America with the Persian Gulf. By way of events as disparate as the American Revolution and the horrific world wars of the twentieth century, Peter Frankopan realigns the world, orientating us eastwards, and illuminating how even the rise of the West 500 years ago resulted from its efforts to gain access to and control these Eurasian trading networks. In an increasingly globalized planet, where current events in Asia and the Middle East dominate the world&apos;s attention, this magnificent work of history is very much a work of our times&quot; --</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">909 FRA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

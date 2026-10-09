@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746130</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781555707767</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1555707769</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781856048378</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1856048373</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000732165</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746130</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Building and Managing E-Book Collections :, A How-To-Do-It Manual for Librarians</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">HOW TO-DO-IT MANUALS ; NUMBER 184</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Are you looking for a best practices guide to developing policies and procedures for acquisition, purchase, collection development, cataloging, and retention of e-books? Beginning with a short history of e-books and a review of the e-book publishing industry and its effect on library&apos;s selection and budget process, this how-to provides a thorough treatment of collection development issues, including the selection process and development policies, the use of approval plans, patron-driven acquisition, and practical solutions for creating your e-book collection policies. Chapters on budgeting and licensing covers ownership versus leasing models, the differences in licensing options from the major publishers and aggregators including information on digital rights management, and strategies for success in retention, access, and budgeting. You&apos;ll also gain valuable insight on the e-book&apos;s impact on the publishing industry, scholarly communication, and its integration into future technologies and social media. Offering multiple perspectives from electronic resource professionals at world-renowned libraries such as Harvard, the University of Michigan, Duke, and Northeastern, this book provides a comprehensive and well-rounded e-book education. Success stories highlight each chapter&apos;s lessons, giving you real-world examples of effective e-book implementation in both school and public libraries. -- Book Description</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">025.284 BUI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

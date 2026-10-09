@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000772044</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789971694913</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9971694913</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000772044</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ba, Alice D.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">(Re)negotiating East and Southeast Asia : REGION, REGIONALISM, AND THE ASSOCIATION OF SOUTHEAST ASIAN NATIONS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Studies in Asian security</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book seeks to explain two core paradoxes associated with the Association of Southeast Asian Nations (ASEAN): How have diverse states hung together and stabilized relations in the face of competing interests, divergent preferences, and arguably weak cooperation? How has a group of lesser, self-identified Southeast Asian powers gone beyond its original regional purview to shape the form and content of Asian Pacific and East Asian regionalisms? According to the author, the answers lie in the paradoxical fact that the region&apos;s inherent disunity makes unity imperative. She demonstrates how the critical causal connections that underpin Southeast Asian regionalism are both a necessary response to regional problems, and yet ultimately constrain ASEAN&apos;s defining informality and consensus-seeking process.And she argues for a process-driven view of cooperation, sheds light on intervening processes of argument and debate, and highlights interacting forces central to the construction of regions and regionalisms</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">341.2473 BA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

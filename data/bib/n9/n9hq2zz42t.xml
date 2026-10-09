@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842765</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780306823831</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">306823837</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842765</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Morris, James McGrath</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE AMBULANCE DRIVERS : Hemingway, Dos Passos, and a Friendship Made and Lost in War</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">After meeting for the first time on the front lines of World War I, two aspiring writers forge an intense twenty-year friendship and write some of America&apos;s greatest novels, giving voice to a &apos;lost generation&apos; shaken by war. Eager to find his way in life and words, John Dos Passos first witnessed the horror of trench warfare in France as a volunteer ambulance driver retrieving the dead and seriously wounded from the front line. Later in the war, he briefly met another young writer, Ernest Hemingway, who was just arriving for his service in the ambulance corps. When the war was over, both men knew they had to write about it; they had to give voice to what they felt about war and life. Their friendship and collaboration developed through the peace of the 1920s and 1930s, as Hemingway&apos;s novels soared to success while Dos Passos penned the greatest antiwar novel of his generation, Three Soldiers. In war, Hemingway found adventure, women, and a cause. Dos Passos saw only oppression and futility. Their different visions eventually turned their private friendship into a bitter public fight, fueled by money, jealousy, and lust. Rich in evocative detail-- from Paris cafes to the Austrian Alps, from the streets of Pamplona to the waters of Key West-- [this book] is a biography of a turbulent friendship between two of the century&apos;s greatest writers, and an illustration of how war both inspires and destroys, unites and divides</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">813.52 MOR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

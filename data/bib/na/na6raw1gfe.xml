@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812323</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780593064375</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">593064372</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812323</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">White, Rowland</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">INTO THE BLACK : The  Extraordinary Untold Story of the First Flight of the Space Shuttle and the Men Who Flew Her</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">On 12th April 1981 a revolutionary new spacecraft blasted off from Florida on her maiden flight. NASA&apos;s Space Shuttle Columbia was the most advanced flying machine ever built - the high watermark of post-war aviation development. A direct descendant of the record-breaking X-planes the likes of which Chuck Yeager had tested in the skies over the Mojave Desert, Columbia was a winged rocket plane, the size of an airliner, capable of flying to space and back before being made ready to fly again. She was the world&apos;s first real spaceship. On board were men with the Right Stuff. The Shuttle&apos;s Commander, moonwalker John Young, was already a veteran of five spaceflights. Alongside him, Pilot Bob Crippen was making his first, but Crip, taken in by the space agency after the cancellation of a top secret military space station programme in 1969, had worked on the Shuttle&apos;s development for a decade. Never before had a crew been so well prepared for their mission. Yet less than an hour after Young and Crippen&apos;s spectacular departure from the Cape it was clear that all was not well. Tiles designed to protect Columbia from the blowtorch burn of re-entry were missing from the heatshield. If the damage to their ship was too great the astronauts would be unable to return safely to earth. But neither they nor mission control possessed any way of knowing. Instead, NASA turned to the National Reconnaissance Office, a spy agency hidden deep inside the Pentagon whose very existence was classified.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">629.4410973 WHI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

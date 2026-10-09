@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000667462</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000667462</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ABC Monster volume 7</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Holey Moley: &quot;King Wordy and Queen Scribble were very confused as Alphabet Garden had become very messy. There were small piles of dirt everywhere. Brian even tripped while trying to serve orange juice to King Wordy and Queen Scribble. M-Monster also wanted to get to the bottom of their muddy problem, and sure enough, M-Monster went missing.&quot;--Container
+Noodlicious: &quot;It was noon and was time for lunch. Colin the Cook bought in meals for each of the Alphabets but was out of noodles for N-Momster. After serving the ABC Monsters with each of theri favourite food, Cherry Berry found that one of the meals had not been taken. It belonged to N-Monster but he was nowhere to be found. So the three friends set out on another investigation.&quot;--Container.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4334 ABC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

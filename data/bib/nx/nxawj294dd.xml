@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000774020</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781138804777</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1138804770</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000774020</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bourn, Douglas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE THEORY AND PRACTICE OF DEVELOPMENT EDUCATION : A pedagogy for global social justice</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Development education is much more than learning about development; it is a pedagogy for the globalised societies of the twenty-first century that incorporates discourses from critical pedagogy and postcolonialism, and a mechanism for ensuring that differing perspectives are reflected within education, particularly those from developing countries. Learning about development and global issues is now part of the school curriculum in a number of countries, and terms such as global citizenship, sustainable development and cultural understanding are commonplace in many educational contexts. Development education has been recognised as one of the educational discourses that has influenced the acceptance of these terms, for both policy-makers and practitioners.This ground-breaking volume addresses the history, theoretical influences, practices and impact of development education in Europe, North America, Australia and Japan. Chapters include how development education evolved, the influence of theorists such as Paulo Freire, the practices of aid and development agencies, and the impact of governments seeking evidence of public understanding of and engagement with development. The Theory and Practice of Development Education provides essential reading for anyone engaged in re-thinking and reflecting upon the educational needs of a globalised society, and seeking approaches towards learning that place social justice at the heart of that practice. It will be of particular interest to academics and postgraduate students in the fields of development education, international education and globalisation&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">370.115 BOU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
