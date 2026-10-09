@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000717708</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789211128451</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9211128455</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000717708</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Trade and development report, 1981-2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Summary&quot;This publication was prepared by the UNCTAD secretariat to commemorate the first three decades of the Trade and Development Report (TDR) -- UNCTAD&apos;s main flagship publication -- whose first edition was published in 1981. Part One of this publication traces the key issues relating to the global economy and development strategies discussed in various TDRs over the past three decades. It also shows how the ideas, analytical perspectives and policy proposals expressed in the TDR have differed from &quot;mainstream&quot; thinking, and how they have evolved in response to new challenges arising from global economic developments. The salient features reviewed in this publication are: The concept of interdependence, which has shaped the TDRs&apos; policy analyses and recommendations over three decades -- The approach of the TDR to macroeconomic and financial policies in both developed and developing countries -- The TDRs&apos; contribution to the debate about the shortcomings and the need for reform of global governance in trade, finance and macroeconomics -- The TDRs&apos; assessments of the failures and successes of development policy, as well as their recommendations for development strategies, taking into account lessons from past experiences and -- Issues that remain topical and others that may become relevant for analysis in future TDRs. Part Two of the publication comprises the contributions of the experts who participated in a panel discussion on &quot;Thinking Development: Three Decades of the Trade and Development Report&quot;, a pre-Conference event for UNCTAD XIII, which took place in Geneva on 20 February 2012.&quot;--P. [4] of cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">382.1 TRA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

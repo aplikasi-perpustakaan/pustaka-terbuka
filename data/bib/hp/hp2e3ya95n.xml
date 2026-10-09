@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000711359</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781439160992</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1439160996</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000711359</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Becker, Elizabeth</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Overbooked : the exploding business of travel and tourism</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Travel is no longer a past-time but a colossal industry, arguably one of the biggest in the world and second only to oil in importance for many poor countries. One out of 12 people in the world are employed by the tourism industry which contributes $6.5 trillion to the world&apos;s economy. To investigate the size and effect of this new industry, Elizabeth Becker traveled the globe. She speaks to the Minister of Tourism of Zambia who thinks licensing foreigners to kill wild animals is a good way to make money and then to a Zambian travel guide who takes her to see the rare endangered sable antelope. She travels to Venice where community groups are fighting to stop the tourism industry from pushing them out of their homes, to France where officials have made tourism their number one industry to save their cultural heritage; and on cruises speaking to waiters who earn $60 a month--then on to Miami to interview their CEO. Becker&apos;s sharp depiction reveals travel as a product; nations as stewards. Seeing the tourism industry from the inside out, the world offers a dizzying range of travel options but very few quiet getaways&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.4791 BEC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

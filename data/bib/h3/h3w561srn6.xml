@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000843252</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781510717794</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">151071779X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000843252</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Soltes, Ori Z.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">UNTANGLING THE MIDDLE EAST</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A lucid and engaging breakdown of the history, culture, and politics that define today&apos;s Middle East. Untangling the Middle East is a layman&apos;s guide to the history -- political, religious, and cultural -- that led us to the current challenges plaguing the Middle East. It covers the major interests and actors in the region, from Israel to ISIS, and helps to spin a narrative of the evolution of violence and conflict in this age-old hotbed of unrest. There are no easy answers or simple explanations to be found here, only a clear-eyed and engaging recounting of the many factors that have brought this region to where it is today. Whether he is discussing the history of the Semitic peoples or the birth of Islam in the region, Soltes brings insight and much needed context to the people, places, and things that make up the inheritance of today&apos;s Middle East. He possesses the historian&apos;s appreciation for detail and the teacher&apos;s knack for fashioning coherence out of complex material. This book should be a go-to resource for a solid foundation in understanding the Middle East and a bulwark against the disinformation regarding this region that is often found on cable television or in speeches on the campaign trail. The Middle East may be a mess but it need not be a mystery, with the help of this indispensable guide.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">956 SOL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

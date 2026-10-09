@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000479732</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000479732</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Toman 1 : catatan kembara Episod 10 / Siri 1 - Kaum Kerdil</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Semasa Team Toman 1 berkhemah di tepi salah satu sungai kecil sambil berehat setelah habis musim peperiksaan, Faizal ternampak satu rakit yang amat kecil sebesar tapak kaki berada di atas permukaan air sungai. Rakit yang diperbuat dari ranting kayu itu ditunjuk kepada Mohan dan Calvin. Mereka berasa pelik kerana tidak pernah melihat rakit yang terikat kemas sebelum ini. Pada mulanya mereka memikirkan itu adalah barang perhiasan tetapi setelah diamati barulah mereka percaya rakit itu dibuat oleh orang kecil. Siapakah manusia itu?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Projected Medium</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43340899923 TOM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746276</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9783037783269</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">3037783265</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746276</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE CITY IN THE CITY : BERLIN : A GREEN ARCHIPELAGO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In the manifesto &apos;The City in the City - Berlin: A Green Archipelago&apos;, Oswald Mathias Ungers and a number of his colleagues from Cornell University presented the first concepts and intellectual models for the shrinking city. In contrast to the reconstruction of the European city that was popular at the time, they developed the figure of a polycentric urban landscape. However, the manifesto really began to exert an effect beginning in the 1990s onwards, when the focus of the urban planning discourse turned to the examination of crises, recessions, and the phenomenon of demographic shrinking. This critical edition contains a previously unpublished version of the manifesto by Rem Koolhaas, as well as interviews with co-authors Rem Koolhaas, Peter Riemann, Hans Kollhoff, and Arthur Ovaska. Introductory texts explain the development of the manifesto between Cornell and Berlin, position the work in the planning history of Berlin, and reveal its influence on current approaches.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">711.40943 CIT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

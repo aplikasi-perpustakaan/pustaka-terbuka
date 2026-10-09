@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000680332</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780525952183</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">525952187</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000680332</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hoffman, Paul, 1953-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The last four things</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">To the warrior-monks known as the Redeemers, who rule over massive armies of child slaves, &quot;the last four things&quot; represent the culmination of a faithful life. Death. Judgement. Heaven. Hell. The last four things represent eternal bliss-or endless destruction, permanent chaos, and infinite pain. Perhaps nowhere are the competing ideas of heaven and hell exhibited more clearly than in the dark and tormented soul of Thomas Cale. Betrayed by his beloved but still marked by a child&apos;s innocence, possessed of a remarkable aptitude for violence but capable of extreme tenderness, Cale will lead the Redeemers into a battle for nothing less than the fate of the human race. And though his broken heart foretells the bloody trail he will leave in pursuit of a personal peace he can never achieve, a glimmer of hope remains. The question even Cale can&apos;t answer: When it comes time to decide the fate of the world, to ensure the extermination of humankind or spare it, what will he choose? To express God&apos;s will on the edge of his sword, or to forgive his fellow man-and himself?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">HOF</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

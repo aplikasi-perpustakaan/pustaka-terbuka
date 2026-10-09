@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000755224</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780500516966</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">500516960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000755224</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Piper, Ross</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Animal Earth : The Amazing Diversity of Living Creatures</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Animal Earth is an unbiased tour of the animal kingdom in all its staggeringly diversity. Animals that most easily spring to mind the tigers, elephants, eagles and crocodiles, or perhaps amphibians, fish and even humans account for only a tiny proportion of known species. What&apos;s more, there are estimated to be many tens of millions still unknown to science. Animal Earth highlights the bizarre appearances, hidden lives and mostly small scale of the creatures we share our planet with. The bewildering number of animal species are all offshoots from a relatively small number of lineages, all sharing a common body plan and evolutionary history. This book provides a broadly equal summary of each of these lineages, and is structured according to the latest research on the evolutionary relationships of the animals. How they all fit on the tree of life is a topic that has been debated for decades, not least because new species are being discovered and described all the time and some lesser-known lineages, such as Chaetognatha (arrow worms) and Xenoturbellida (strange worms) continue to defy classification. As humans, we are in a uniquely privileged position as the only species that can appreciate and marvel at our fellow animals. But, as this book makes plain, we are very far from being above nature we are utterly dependent on it. Every species is an integral component of the ecosystem we live in, and as intelligent beings it is our duty to protect and understand animal diversity not only for its own sake but also to maintain the natural systems that keep us and everything else alive.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">590 PIP</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

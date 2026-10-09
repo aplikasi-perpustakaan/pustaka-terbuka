@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833911</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780316341172</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">316341177</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn951764773</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833911</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Powers, Ron</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">no one cares about crazy people : the chaos and heartbreak of mental health in america</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">From the earliest efforts to segregate the &quot;mad&quot; in society, to the wily World War II-era social engineers who twisted Darwin&apos;s &quot;survival of the fittest&quot; theory to fit a much darker agenda, to the follies of the antipsychiatry movement (starring L. Ron Hubbard and his gifted, insanity-denying compatriot Thomas Szasz), we&apos;ve struggled to deal with mental health care for generations. And it all leads to the current landscape, in which too many families struggle alone to manage afflicted loved ones without proper public policies or support. Braided into this social history is the moving saga of Powers&apos;s own family: his bright, buoyant sons, Kevin (a gifted young musician) and Dean (a promising writer and guitarist), both of whom struggled mightily with schizophrenia; and his wife, Honoree Fleming, whose knowledge of human biology and loving maternal instincts proved inadequate against schizophrenia&apos;s hellish power. For Powers the question of &quot;what to do about crazy people&quot; isn&apos;t just academic; it&apos;s deeply personal. And he&apos;s determined to forge a better way forward, for his family&apos;s sake as well as for the many others who deserve better.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">362.26 POW</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

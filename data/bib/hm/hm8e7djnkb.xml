@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000874419</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781784419493</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1784419494</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">1048-4736 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09363957</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000874419</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The challenges of ethics and entrepreneurship in the global environment</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Advances in the study of entrepreneurship, innovation &amp; economic growth ; v. 25.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This is the 25th volume in the Advances in the study of entrepreneurship, innovation, and economic growth, which has led the field with insightful and forward looking perspectives on topics for 25 years.  Papers in this volume focus on topics, perspectives, challenges, and visions of scholars in the area of entrepreneurship as well as in ethics in light of dramatic changes across the global environment of entrepreneurship and innovation.   This volume builds a body of scholarship specific to ethics and entrepreneurship by providing the latest perspectives on how ethics is impacted by or impacting the entrepreneurship field. Scholars examine the most current topics, perspectives, challenges, and visions in the area of ethics and entrepreneurship and reflect the sense of urgency and commitment to creating a generation of ethical entrepreneurial leaders.  The contributors have created a framework for the ethical challenges involved with entrepreneurship and innovation within today&apos;s global environment.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">174.4</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/1048-4736/25</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

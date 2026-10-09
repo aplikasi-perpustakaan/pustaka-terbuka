@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000732415</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781780760605</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1780760604</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000732415</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Baumer, Christoph</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE HISTORY OF CENTRAL ASIA. VOLUME ONE, The Age of the Steppe Warriors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The epic plains and arid deserts of Central Asia have witnessed some of the greatest migrations, as well as many of the most transformative developments, in the history of civilization. Christoph Baumer&apos;s ambitious four-volume treatment of the region charts the 3000-year drama of Scythians and Sarmatians; Soviets and transcontinental Silk Roads; trade routes and the transmission of ideas across the steppes; and, the breathless and brutal conquests of Alexander the Great and Genghis Khan.  Masterfully interweaving the stories of individuals and people, the author&apos;s engaging prose is richly augmented throughout by colour photographs taken on his own travels. For all the complexity of the history, Dr Baumer, a noted authority on Central Asia, never loses sight of the sweeping grandeur of its overall setting. Volume 1 focuses on the geography of the area now occupied by present-day Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, Tajikistan, northern Afghanistan, western and central Mongolia and parts of southern Russia and northern China. Discussing the changing climates of the Palaeolithic, Mesolithic, Neolithic and Bronze Ages, the author explores subjects as diverse as glacial retreat; the invention of the wheel; the legendary Cimmerians and Amazons; Hellenism and Zoroastrianism; and, the Oxus Treasure. This unique work offers a sumptuously illustrated history of one of the most mysterious and compelling  regions on earth. It will be required reading for scholars and students alike of antiquity, history, archaeology and religious studies. Future volumes will explore the later historical periods of the region.&quot; -- Publisher&apos;s description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">958 BAU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

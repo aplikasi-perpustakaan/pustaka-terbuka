@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000764799</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415639316</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">041563931X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000764799</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">WOMEN, LIVESTOCK OWNERSHIP AND MARKETS : Bridging the gender gap in Eastern and Southern Africa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book provides empirical evidence from Kenya, Tanzania and Mozambique and from different production systems of the importance of livestock as an asset to women and their participation in livestock and livestock product markets. It explores the issues of intra-household income management and economic benefits of livestock markets to women, focusing on how types of markets, the types of products and women&apos;s participation in markets influence their access to livestock income. The book further analyses the role of livestock ownership, especially women&apos;s ownership of livestock, in influencing household food security though increasing household dietary diversity and food adequacy.  Additional issues addressed include access to resources, information and financial services to enable women more effectively to participate in livestock production and marketing, and some of the factors that influence this access.   Practical strategies for increasing women&apos;s market participation and access to information and services are discussed.  The book ends with recommendations on how to mainstream gender in livestock research and development if livestock are to serve as a pathway out of poverty for the poor and especially for women.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">305.409676 WOM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

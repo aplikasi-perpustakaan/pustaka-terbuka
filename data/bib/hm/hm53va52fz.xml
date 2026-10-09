@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000653735</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470928424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470928425</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000653735</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jones, David P.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Million-dollar hire : build your bottom line, one employee at a time</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Tools for translating recruiting and hiring decisions into financial returns Even in a down economy, U.S. business and government make millions of hiring decisions every year. Every decision carries risk. Every hire is an investment. Ideally, every one pays a return. In today&apos;s demanding environment, companies no longer have room to get it wrong. Million-Dollar Hire shows how leading companies have re-invented themselves, beat their competition, and added millions to their bottom lines with re-engineered recruiting and hiring practices. Using practical, real world illustrations, it shows that there are tools to treat every hiring decision with the same focus a business applies in acquiring other high-value assets. Shows how new technologies and social networking tools are being used to spider the Internet and find the best candidates before the competition. Explains how different approaches to candidate screening translate to different levels of financial return to a business. Reveals how to estimate the financial payoff for every hire and how to avoid legal challenges. This is an invaluable tool for CEOs, CFOs, COOs and HR professionals who want to revamp what is often one of the least sophisticated parts of a business-the ways it finds talent.&quot;--Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.311 JON</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

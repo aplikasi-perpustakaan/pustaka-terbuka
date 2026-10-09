@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000741449</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674066953</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">674066952</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000741449</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Moore, Mark Harrison</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">RECOGNIZING PUBLIC VALUE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Mark H. Moore&apos;s now classic Creating Public Value offered advice to public managers about how to create public value. But that book left a key question unresolved: how could one recognize (in an accounting sense) when public value had been created? Here, Moore closes the gap by setting forth a philosophy of performance measurement that will help public managers name, observe, and sometimes count the value they produce, whether in education, public health, safety, crime prevention, housing, or other areas. Blending case studies with theory, he argues that private sector models built on customer satisfaction and the bottom line cannot be transferred to government agencies. The Public Value Account (PVA), which Moore develops as an alternative, outlines the values that citizens want to see produced by, and reflected in, agency operations. These include the achievement of collectively defined missions, the fairness with which agencies operate, and the satisfaction of clients and other stake-holders.  But strategic public managers also have to imagine and execute strategies that sustain or increase the value they create into the future. To help public managers with that task, Moore offers a Public Value Scorecard that focuses on the actions necessary to build legitimacy and support for the envisioned value, and on the innovations that have to be made in existing operational capacity.  Using his scorecard, Moore evaluates the real-world management strategies of such former public managers as D.C. Mayor Anthony Williams, NYPD Commissioner William Bratton, and Commissioner of the Minnesota Department of Revenue John James.&quot;--Publisher&apos;s website</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">172.2 MOO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

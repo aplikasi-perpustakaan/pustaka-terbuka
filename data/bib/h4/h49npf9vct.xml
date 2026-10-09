@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000633197</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780393331967</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">393331962</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000633197</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tabor, James M.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Forever on the mountain : the truth behind one of mountaineering&apos;s most controversial and mysterious disasters</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In July 1967, seven young men--members of Joe Wilcox&apos;s twelve-man expedition--died on Mt. McKinley, North America&apos;s highest peak, stranded at 20,000 feet during a vicious Arctic storm. Ten days passed with no rescue attempt; the bodies were never recovered. And, for reasons that have remained cloudy, there was no proper official investigation. This book begins as a classic tale of men against nature, gambling--and losing--on one of the world&apos;s starkest and stormiest peaks. In lives lost, it was then history&apos;s third-worst mountaineering disaster--but elements of finger-pointing, incompetence, and coverup make this disaster unlike any other. Author Tabor draws on previously untapped sources, and consults not only mountaineers but also experts in disciplines including meteorology, forensics, and psychology. What results is the first full account of the tragedy that ended a golden age in mountaineering.--From publisher description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">796.52209798 TAB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.loc.gov/catdir/toc/ecip0714/2007013711.html</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

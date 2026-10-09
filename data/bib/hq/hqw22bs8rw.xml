@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000880259</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781781909195</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1781909199</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0733-558X ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">bslw09145097</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000880259</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Institutional logics in action</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Research in the sociology of organizations ; v. 39a.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The institutional logics perspective is one of the fastest growing new theoretical areas in organization studies (Thornton, Ocasio &amp; Lounsbury, 2012). Building on early efforts by Friedland &amp; Alford (1991) to &quot;bring society back in&quot; to the study of organizational dynamics, this new scholarly domain has revived institutional analysis by embracing a focus on the dynamic and heterogeneous nature of institutions. In doing so, it has embraced a more practice-centered approach to agency that emphasizes situated interactions, the importance of history, the role of both symbolic and material elements, and the study of cross-level processes and mechanisms. This two volume set, seededby an ABC Network conference held in Banff, Alberta, CANADA in June 2012, provides a fresh set of papers by scholars at the cutting edge of research on institutional logics. As a whole, the papers provide many novel theoretical insights about institutional logics in actionfocusing on their dynamics, complexity, and evolving relationship to actors as actors actively navigate their social worlds.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">302.35</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/S0733-558X%282013%2939_Part_A</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

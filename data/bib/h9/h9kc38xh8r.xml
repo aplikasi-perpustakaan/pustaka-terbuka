@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000595180</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781416525998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1416525998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000595180</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Powers, Ron</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Mark Twain a life</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In Mark Twain, Ron Powers consummates years of thought and research with a tour de force on the life of our culture&apos;s founding father, re-creating the 19th century&apos;s vital landscapes and tumultuous events while restoring the human being at their center. He offers Sam Clemens as he lived, breathed, and wrote - drawing heavily on the preserved viewpoints of the people who knew him best (especially the great William Dean Howells, his most admiring friend and literary co-conspirator), and on the annals of the American 19th century that he helped shape. Powers&apos;s prose rivals Mark Twain&apos;s own in its blend of humor, telling detail, and flights of lyricism. With the assistance of the Mark Twain Project at Berkeley, he has been able to draw on thousands of letters and notebook entries, many only recently discovered. 
+&quot;It is hard to imagine a life that encompassed more of its times. Sam Clemens left his frontier boyhood in Missouri for a life on the Mississippi during the golden age of steamboats. He skirted the western theater of the Civil War before taking off for an uproarious drunken newspaper career in the Nevada of the Wild West. As his fame as a humorist and lecturer spread around the country, he took the East Coast by storm, witnessing the extremes of wealth and poverty of New York City and the Gilded Age (which he named). He traveled to Europe on the first American pleasure cruise and revitalized the prim genre of travel writing. He wooed and won his lifelong devoted wife, yet quietly pined for the girl who was his first crush and whom he would re-encounter many decades later. He invented and invested in get-rich-quick schemes. He became the toast of Europe and a celebrity who toured the globe.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">928.1 POW</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734443</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781592408085</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1592408087</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734443</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Vazquez, Lilliana</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE CHEAP CHICA&apos;S GUIDE TO STYLE : SECRETS TO SHOPPING CHEAP AND LOOKING CHIC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Priceless tips and tricks to shopping on a budget, from America&apos;s favorite frugal fashionista Stylish bargain-hunters have been flocking to Lilliana Vazquez&apos;s CheapChicas.com since 2008 for tips and tricks on how to shop smart, copy their favorite designer looks, and dress chic for less. Now a go-to destination for women eager for affordable fashion, the site has established Lilliana as a nationally recognized style expert. Now, in The Cheap Chica&apos;s Guide to Style, Lilliana is spilling her secrets! Fun quizzes will help readers define their style and budget. And Lilliana lays out the best places-from stores to flash-sale sites to their own closets- to score stylish deals. Approachable and beautifully designed, The Cheap Chica&apos;s Guide to Style is the must-have accessory for 2013 and beyond&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">746.92 VAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
