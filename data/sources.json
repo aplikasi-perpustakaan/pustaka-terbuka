@@ -1,1 +1,12 @@
-{"test-source": {"name": "Test Source", "prefix": "TEST", "priority": 1}}
+{
+  "test-source": {
+    "name": "Test Source",
+    "prefix": "TEST",
+    "priority": 1
+  },
+  "pnm": {
+    "name": "Perpustakaan Negara Malaysia",
+    "prefix": "PNM",
+    "priority": 10
+  }
+}
