@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000630096</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781844073467</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1844073467</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000630096</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mason, Colin J</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">A short history of the future : surviving the 2030 spike</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">South Asian ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Has the future a future? Are we bringing history to an end? Observing any one of several individual but critical trends suggests that, without rapid and positive action, history may have only a very short way to run. Whether it is the growth of world population, of greenhouse gas concentrations and the accelerating rate of climate change, the running down of oil and natural gas reserves, growing shortages of fresh water for agriculture, industry and domestic use, or the increasing difficulty in controlling epidemic diseases - we are facing a mounting global crisis that will peak in less than a generation, around the year 2030. Taken together, these trends point to a potentially apocalyptic period, if not for the planet itself then certainly for human societies and for humankind. In this compelling book, and update to The 2030 Spike, Colin Mason explains in clear and irrefutable terms what is going on - largely below the surface of our daily or weekly news bulletins. The picture he paints is stark, and yet it is not bleak. Being forewarned, we are forearmed, and he draws on his own extensive political experience to describe how much we can do as individuals, and above all collectively, not merely to avert crisis but to engineer thoroughgoing change that can usher in genuinely sustainable and valuable alternatives to the way we live now</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">303.49 MAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

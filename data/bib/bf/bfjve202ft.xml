@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000704817</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781856048347</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1856048349</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000704817</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">El-Sherbini, Magda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">RDA : STRATEGIES FOR IMPLEMENTATION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Firmly rooted in the concrete application of RDA, with numerous sample records, this book: Covers FRBR-driven tasks, FRBR-Group relationships, and principles of FRAD, including how FRAD impacts the RDA application Analyzes the roles of manifestations and items, such as pre-cataloguing decisions, preferred sources of information, and mandatory elements of description Discusses works and expressions for specific library materials, from methods of recording primary relationships to constructing the authorized access point and recording relationships Offers advice for using RDA Toolkit, with tips for efficient navigation in RDA Toolkit using workflows and searching techniques Digs deeply into a variety of technical issues, including RDA&apos;s effect on OPAC displays, implementation of the new RDA fields that represent adding new elements, adjusting systems to accommodate the new MARC21 fields, integrating new records using RDA with older records, when to re-catalog a set of manifestations, exporting an RDA-based bibliographic record from OCLC into the OPAC, choosing RDA elements to describe your library materials (core vs. full elements), upgrading OCLC records to RDA, and many more Every cataloguer will want this volume close at hand as a comprehensive roadmap to the changes already underway.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">025.32 ELS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

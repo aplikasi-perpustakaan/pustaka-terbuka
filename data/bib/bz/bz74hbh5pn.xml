@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812190</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781442254268</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1442254262</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812190</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Koehler, Wallace C.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Ethics and Values in Librarianship : A History</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In Ethics and Values in Librarianship: A History, Wallace Koehler, a leading researcher in information ethics, debunks the prevailing notion that library and information science concepts and ethics remain constant. He demonstrates that, in most areas of practice, this is simply not so. Instead of staying the same, professional ethics and standards have evolved or shifted in their application as well as in the recognition of those standards have evolved or shifted in their application as well as in the recognition of those standards by practitioners and users. Topics covered include: the freedom of expression, intellectual freedom, libraries and democracy, intellectual property, copyright, fair use, professional qualifications, and credentialing. Koehler examines the development of and changes to library and information science thorugh practice, the writings of library and information theorists, and practitioners from Varro during the reign of Julius Caesar to the present. He documents technological and social changes that have had foundational implications for the information professions and argues that ethical standards may be redefined over time. New standards may emerge, but older precepts and newer ones coexist. This is one of the few contemporary books suitable for use in foundational courses and courses covering information and library ethics.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">020 KOE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

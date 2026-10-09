@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000799425</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781594631412</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1594631417</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000799425</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Aftel, Mandy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Fragrant : THE SECRET LIFE OF SCENT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The &apos;Alice Waters of American natural perfume&apos; (indieperfume.com) celebrates our most potent sense, through five rock stars of the fragrant world. Mandy Aftel is widely acclaimed as a trailblazer in natural perfumery. Over two decades of sourcing the finest aromatic ingredients from all over the world and creating artisanal fragrances, she has been an evangelist for the transformative power of scent. In Fragrant, through five major players in the epic of aroma, she explores the profound connection between our sense of smell and the appetites that move us, give us pleasure, make us fully alive. Cinnamon, queen of the Spice Route, touches our hunger for the unknown, the exotic, the luxurious. Mint, homegrown the world over, speaks to our affinity for the familiar, the native, the authentic. Frankincense, an ancient incense ingredient, taps into our longing for transcendence, while ambergris embodies our unquenchable curiosity. And exquisite jasmine exemplifies our yearning for beauty, both evanescent and enduring. In addition to providing a riveting initiation into the history, natural history, and philosophy of scent, Fragrant imparts the essentials of scent literacy and includes recipes for easy-to-make fragrances and edible, drinkable, and useful concoctions that reveal the imaginative possibilities of creating with-and reveling in-aroma. Vintage line drawings make for a volume that will be a treasured gift as well as a great read</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">612.86 AFT</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

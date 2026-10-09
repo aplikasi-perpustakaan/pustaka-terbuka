@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000972995</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781250799265</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1250799260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000972995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lawson, Jenny, 1973-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Broken (in the best possible way)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;As Jenny Lawson&apos;s hundreds of thousands of fans know, she suffers from depression. In Broken (in the best possible way), she explores her experimental treatment of transcranial magnetic stimulation with brutal honesty. But also with brutal humor: &quot;People do different things to distract themselves during each treatment. I embroider. It feels fitting. I&apos;m being magnetically stabbed in the head thousands of times as I&apos;m stabbing the embroidery myself. I don&apos;t embroider the same patterns my grandmother did. I embroider girls with octopus faces, David Bowie, a flowery bouquet with F**K Y*S written in the middle. They let you do anything as long as it&apos;s &apos;positive.&apos;&quot; Jenny discusses the frustration of dealing with her insurance company in &quot;An Open Letter to My Insurance Company,&quot; which should be an anthem for anyone who has ever had to call their insurance company to try and get a claim covered. On the lighter side, she tackles such timelessly debated questions as &quot;How do dogs know they have penises?&quot; We see how her vacuum cleaner almost set her house on fire, how she was attacked by three bears, business ideas she wants to pitch to Shark Tank, and why she can never go back to the post office. Of course, Jenny&apos;s long-suffering husband Victor-the Ricky to Jenny&apos;s Lucille Ball-is present throughout. A treat for Jenny Lawson&apos;s already existing fans, and destined to convert new ones, Broken is a beacon of hope and a wellspring of laughter&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">070.92 LAW</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

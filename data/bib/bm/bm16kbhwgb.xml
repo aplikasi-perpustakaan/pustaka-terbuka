@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000668193</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781439812075</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1439812071</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000668193</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mousdale, David M.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Introduction to biofuels</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Mechanical engineering series (Boca Raton, Fla.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;What role will biofuels play in the scientific portfolio that might bring energy independence and security, revitalize rural infrastructures, and wean us off of our addiction to oil? The shifting energy landscape of the 21st century, with its increased demand for renewable energy technology, poses a worrying intellectual challenge. Discussing the multidisciplinary study of bioenergy and its potential for replacing fossil fuels in the coming decades, Introduction to Biofuels provides a roadmap for understanding the broad sweep of technological, sociological, and energy policy issues that intermingle and intertwine.&quot; &quot;Copiously illustrated and with numerous examples, this book explores key technologies, including biotechnology, bioprocessing, and genetic reprogramming of microorganisms. The author examines the future of biofuels from a broader perspective, addressing the economic, social, and environmental issues crucial for studying the sustainable development of bioenergy. Each chapter begins with questions and provides the answers later in the chapter as key informational points. Embedded Science, Technology, Engineering, and Math (STEM) sections provide detailed derivations and equations for a subset of topics that can be found easily as buzzwords in popular media and on web sites. Together, the STEM topics form a thread of essential quantitative parameters that are crucial to the evergrowing biofuels database.&quot; &quot;With so much information scattered throughout the literature, it is often difficult to make sense of what is real and what is an optimistic selling of ideas with no scientific credibility. This book does an excellent job of filtering through volumes of data, providing a historical perspective on which to anchor the information, and outlining the strenghts and constraints of the different biofuels.&quot;--BOOK JACKET.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">662.88 MOU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

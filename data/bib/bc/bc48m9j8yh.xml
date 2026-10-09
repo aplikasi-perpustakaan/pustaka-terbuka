@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000772023</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780804844581</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">804844585</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000772023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tudor, Daniel, 1982-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">NORTH KOREA CONFIDENTIAL : Private Markets, Fashion Trends, Prison Camps, Disssenters and Defectors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Private Markets, Fashion Trends, Prison Camps, Dissenters and Defectors. North Korea is one of the most troubled societies on earth. The country&apos;s 24 million people live under a violent dictatorship led by a single family, which relentlessly pursues the development of nuclear arms, which periodically incites risky military clashes with the larger, richer, liberal South, and which forces each and every person to play a role in the &quot;theater state&quot; even as it pays little more than lip service to the wellbeing of the overwhelming majority. With this deeply anachronistic system eventually failed in the 1990s, it triggered a famine that decimated the countryside and obliterated the lives of many hundreds of thousands of people. However, it also changed life forever for those who survived. A lawless form of marketization came to replace the iron rice bowl of work in state companies, and the Orwellian mind control of the Korean Workers&apos; Party was replaced for many by dreams of trade and profit. A new North Korea Society was born from the horrors of the era one that is more susceptible to outside information than ever before with the advent of k-pop and video-carrying USB sticks. This is the North Korean society that is described in this book. In seven fascinating chapters the authors explore what life is actually like in modern North Korea today for the ordinary &quot;man and woman on the street.&quot; They interview experts and tap a broad variety of sources to bring a startling new insider&apos;s view of North Korean society from members of Pyongyang&apos;s ruling families to defectors from different periods and regions, to diplomats and NGOs with years of experience in the country, to cross-border traders from neighboring China, and textual accounts appearing in English, Korean and Chinese sources. The resulting stories reveal the horror as well as the innovation and humor which abound in this fascinating country.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">951.93 TUD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

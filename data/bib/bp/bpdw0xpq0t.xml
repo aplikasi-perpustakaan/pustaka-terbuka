@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734318</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781939529008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">193952900X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734318</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">DiSalvo, David, 1970-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BRAIN CHANGER : How Harnessing Your Brain&apos;s Power to Adapt Can Change Your Life</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot; Let&apos;s be honest. You&apos;ve tried the sticky-note inspirations, the motivational calendar, and the cute (but ineffective) &quot;carpe diem&quot; mug-yet your attitude hasn&apos;t changed. It&apos;s time to apply cutting-edge science to the challenges of daily life. While everyone desires self-improvement, we are quickly frustrated when trying to implement the contradictory philosophies of self-appointed self-help gurus. Too often, their advice is based on anecdote and personal opinion, not real research. Bestselling author of What Makes Your Brain Happy and Why You Should Do the Opposite David DiSalvo returns with Brain Changer: How Harnessing Your Brain&apos;s Power to Adapt Can Change Your Life. Drawing on the latest research in neuroscience, cognitive psychology, behavioral economics, communications, and even marketing, DiSalvo replaces self-help with &quot;science help.&quot; He demonstrates how the brain&apos;s enormous capacity to adapt is the most crucial factor influencing how we feel and act-a factor that we can control to change our lives. Findings show our brains are fluid and function much like a feedback loop: stimulants from both our environment and from within ourselves catalyze changes in the brain&apos;s response. That response then elicits additional inputs that the brain identifies and analyzes to further tailor its response. DiSalvo shows that the greatest internal tool we have to affect the feedback loop is metacognition (&quot;thinking about thinking&quot;). Littered with relatable examples and tackling major aspects of our lives including relationships, careers, physical health, and personal development, Brain Changer shows you how to harness metacognition to enrich your life&quot;-- Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">153 DIS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

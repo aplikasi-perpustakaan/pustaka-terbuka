@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000819288</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780691162683</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">691162689</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000819288</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lewis, Sara Margery, 1953-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">SILENT SPARKS : The Wondrous World of Fireflies</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;For centuries, the beauty of fireflies has evoked wonder and delight. Yet for most of us, fireflies remain shrouded in mystery: How do fireflies make their light? What are they saying with their flashing? And what do fireflies look for in a mate? In Silent Sparks, noted biologist and firefly expert Sara Lewis dives into the fascinating world of fireflies and reveals the most up-to-date discoveries about these beloved insects. From the meadows of New England and the hills of the Great Smoky Mountains, to the rivers of Japan and mangrove forests of Malaysia, this beautifully illustrated and accessible book uncovers the remarkable, dramatic stories of birth, courtship, romance, sex, deceit, poison, and death among fireflies. The nearly two thousand species of fireflies worldwide have evolved in different ways -- and while most mate through the aerial language of blinking lights, not all do. Lewis introduces us to fireflies that don&apos;t light up at all, relying on wind-borne perfumes to find mates, and we encounter glow-worm fireflies, whose plump, wingless females never fly. We go behind the scenes to meet inquisitive scientists who have dedicated their lives to understanding fireflies, and we learn about various modern threats including light pollution and habitat destruction. In the last section of the book, Lewis provides a field guide for North American fireflies, enabling us to identify them in our own backyards and neighborhoods. This concise, handy guide includes distinguishing features, habits, and range maps for the most commonly encountered fireflies, as well as a gear list.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">595.7644 LEW</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000849758</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000849758</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">kor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">MODERNIZATION on SCREEN : Understanding Korean Society and Modernization through Films : THE AGE OF SUCCESS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Kim Pan-chok is assigned to work in the sales promotion department of Yumisa, a condiment subsidiary of Makgang Group. He gets hospitalized competing for the heated sales campaign with Gammisa, a rival and established vendor. During days of hospitalization, Kim comes up with a brilliant idea which passes a meeting of the board of directors, and is reassigned to the planning department. Kim taps confidential sources of the rival company with the help of Seong So-bi, an owner of a business club who believes that there are mutual feelings between Kim and her. He earns the position and honor he dreamt about, but soon the market share is reversed by the launching of new products from Gammisa. Kim falls to ruin by the hand of the vengeful Seong So-bi. Kim comes up an idea in the demoted rural area, but the idea is disregarded. Being offended, Kim drives his car too fast only to get his car flipped over and wind up dead.&quot;--Container.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Videorecording</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43095195 MOD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

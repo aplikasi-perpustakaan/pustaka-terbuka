@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000834282</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781101904039</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1101904038</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn910979595</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000834282</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bailey, Chris, 1989-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE PRODUCTIVITY PROJECT : Accomplishing More by Managing Your Time, Attention, and Energy Better</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Chris Bailey turned down lucrative job offers to pursue a lifelong dream -- to spend a year performing a deep dive experiment into the pursuit of productivity, a subject he had been enamored with since he was a teenager. After obtaining his business degree, he created a blog to chronicle a year-long series of productivity experiments he conducted on himself, where he also continued his research and interviews with some of the world&apos;s foremost experts, from Charles Duhigg to David Allen. Among the experiments that he tackled: Bailey went several weeks with getting by on little to no sleep; he cut out caffeine and sugar; he lived in total isolation for 10 days; he used his smartphone for just an hour a day for three months; he gained ten pounds of muscle mass; he stretched his work week to 90 hours; a late riser, he got up at 5:30 every morning for three months -- all the while monitoring the impact of his experiments on the quality and quantity of his work. The Productivity Project -- and the lessons Chris learned -- are the result of that year-long journey. Among the counterintuitive insights Chris Bailey will teach you: slowing down to work more deliberately; shrinking or eliminating the unimportant; the rule of three; striving for imperfection; scheduling less time for important tasks; the 20 second rule to distract yourself from the inevitable distractions; and the concept of productive procrastination.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">650.1 BAI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

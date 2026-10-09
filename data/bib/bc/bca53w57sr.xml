@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734493</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781451645606</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1451645600</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734493</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lindhout, Amanda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">A House in the sky : A MEMOIR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The spectacularly dramatic memoir of a woman whose curiosity about the world led her from rural Canada to imperiled and dangerous countries on every continent, and then into fifteen months of harrowing captivity in Somalia--a story of courage, resilience, and extraordinary grace.At the age of eighteen, Amanda Lindhout moved from her hardscrabble Alberta hometown to the big city--Calgary--and worked as a cocktail waitress, saving her tips so she could travel the globe. As a child, she escaped a violent household by paging through National Geographic and imagining herself in its exotic locales. Now she would see those places for real. She backpacked through Latin America, Laos, Bangladesh, and India, and emboldened by each experience, went on to travel solo across Sudan, Syria, and Pakistan. In war-ridden Afghanistan and Iraq she carved out a fledgling career as a TV reporter. And then, in August 2008, she traveled to Mogadishu, Somalia--&quot;the most dangerous place on earth&quot;--to report on the fighting there. On her fourth day in the country, she and her photojournalist companion were abducted.  An astoundingly intimate and harrowing account of Lindhout&apos;s fifteen months as a captive, A House in the Sky illuminates the psychology, motivations, and desperate extremism of her young guards and the men in charge of them. She is kept in chains, nearly starved, and subjected to unthinkable abuse. She survives by imagining herself in a &quot;house in the sky,&quot; looking down at the woman shackled below, and finding strength and hope in the power of her own mind. Lindhout&apos;s decision, upon her release, to counter the violence she endured by founding an organization to help the Somali people rebuild their country through education is a wrenching testament to the capacity of the human spirit and an astonishing portrait of the power of compassion and forgiveness&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">070.92 LIN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

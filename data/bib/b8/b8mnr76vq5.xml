@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735265</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781612432281</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">161243228X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735265</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Nguyen, Brooks Coulson</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Petit Four Cookbook : Adorably Delicious, Bite-Size Confections from the Dragonfly Cakes Bakery</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This is the first ever baking book on petit fours, the most adorably delicious dessert for every occasion. It features 50 amazing recipes along with all the instructions you need to perfect this artful treat, as well as the history of the colorful history of the petit four. This is an enchanting recipe collection featuring ornately decorated, bonbon-sized layer cakes. The Petit Four Cookbook reinvents an 18th-century French delicacy and brings it straight to the reader&apos;s kitchen. With flavor combinations ranging from classic vanilla, chocolate ganache, and lemon butter cream to tangy apricot, raspberry preserve, and rich mocha, there is no end to the types of cakes one can make. The hottest trend in baking is tiny desserts, and these decadent morsels are the quintessential bite-size indulgence. The Petit Four Cookbook features 50 recipes from Brooks Nguyen - teacher, baker extraordinaire, and owner of the country&apos;s premier petit four bakery, Dragonfly Cakes. Brooks uses her years of experience teaching petit four baking classes to guide readers every step of the way as they learn the techniques for baking as well as the artistry for decorating these tiny pastries. With gorgeous full-color photos, time-tested instructions, and some history to boot, this ultimate guide to petit fours is not just the first of its kind, it&apos;s the last word on the subject</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.8653 NGU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

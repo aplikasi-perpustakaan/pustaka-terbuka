@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000606809</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000606809</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">ara</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Al-A’raaf, As-Saaffat Sheikh Raghib Mustofa Ghalwash : bacaan secara mugawwad</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sinopsis: Sheikh Raghib Mustafa Ghalwash adalah seorang qari di masjid Dasuqi yang berada di kota Dasuq. Beliau dilahirkan pada 5 Julai 1938 di desa Barma, pusat kota Thantha di Propinsi sebelah barat Mesir. Ketika menjejak usia 10 tahun, beliau sudah berjaya menamatkan hafalan al-quran. Pada usia 14 tahun, seluruh desa tetangga sudah mengenali beliau dan akhirnya nama beliau sudah terkenal di serata Kota Thantha, kota pusat ilmu dan ulama&apos;. Sheikh Raghib juga telah lebih dari 30 tahun mengadakan kunjungan-kunjungan ke beberapa negara di dunia termasuk Iran dalam rangka memenuhi pelbagai jemputan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Music CD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">297.1224045 ARA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

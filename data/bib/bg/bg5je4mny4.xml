@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000685232</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118026984</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118026985</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000685232</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Scott, David Meerman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The New rules of marketing &amp; PR : how to use social media, online video, mobile applications, blogs, news releases, &amp; viral marketing to reach buyers directly</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">3rd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;David Meerman Scott’s marketing bible has become a modern day business classic. This is the book every ambitious, forward-thinking, progressive marketer or publicist has at the front of their shelf. Business communication has changed over the recent years. Creative ad copy is no longer enough. The New Rules of Marketing and PR has brought thousands of marketers up to speed on the changing requirements of promoting products or services in the new digital age. This is a one-of-a-kind, pioneering guide, offering a step-by-step action plan for harnessing the power of the Internet to communicate with buyers directly, raise online visibility, and increase sales. It’s about getting the right message to the right people at the right time - for a fraction of the cost of a big-budget advertising campaign. This new, updated edition includes: a new introduction discussing recent changes to the world of marketing and PR; a brand new chapter on mobile marketing; an additional chapter on real-time marketing and PR; updated information on how to measure the success of your campaigns; a range of new tools; fresh case studies&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.872 SCO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

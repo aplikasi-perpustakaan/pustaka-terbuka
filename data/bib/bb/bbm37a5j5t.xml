@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000709758</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780857500748</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">857500740</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000709758</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ferguson, Kitty.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Stephen Hawking : his life and work : the story and science of one of the most extraordinary, celebrated, and courageous figures of our time</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;This is the story of one of the most remarkable figures of our time - Professor Stephen Hawking, the Cambridge genius who has earned an international reputation as the most brilliant theoretical physicist since Einstein. This is not quite a biography; it is more the story of one man&apos;s quest to find the &apos;Theory of Everything&apos;. Stephen Hawking&apos;s life and work have produced a multitude of amazing paradoxes: beginnings may be endings, two great scientific theories taken together may seem to give us nonsense, empty space isn&apos;t empty, and black holes aren&apos;t black. Cruel circumstances can lead to happiness, and fame and success may not. A man whose appearance inspires shock and pity takes us to where the boundaries of space and time ought to be - but are not. Substantially updated with new information drawn from interviews with Professor Hawking regarding his theories and personal life, together with fascinating new photographs from his early life to the present day, this is an insightful and captivating account of an extraordinary life and a brilliant mind.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">530.1092 FER</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

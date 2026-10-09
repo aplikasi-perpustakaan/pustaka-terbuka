@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984184</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789869851336</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9869851339</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984184</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Shi zi wen hua Shi ye gong si</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">挑日子! 結婚, 搬家, 開市, 生小孩你應該懂的農民曆常識 | Tiao ri zi ! jie hun, ban jia, kai shi, sheng xiao hai ni ying gai dong de nong min li chang shi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">三版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2020</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Mystery (Shi zi wen hua shi ye you xian gong si) ; 29</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book not only delves into the rich cultural history of the traditional Chinese almanac spanning thousands of years, but also explains its fundamental principles in an accessible and easy-to-understand way. It teaches you how to read and make practical use of the almanac with ease, and even guides you on what to do after selecting an auspicious day. Worried that following everything to the letter might be too complicated? Don’t worry — there’s also a simplified version with easy tips and shortcuts! The book also analyzes related topics such as fortune-telling, luck enhancement, feng shui, and health practices associated with the almanac, showing you how to interpret and apply them correctly without going overboard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">133.59251 SHI</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
