@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833900</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780008127633</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">8127638</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn979982150</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833900</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Collins, Damian, 1974-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">CHARMED LIFE : THE PHENOMENAL WORLD OF PHILIP SASSOON</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">William Collins paperback edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The story of a fascinating man who connected the great politicians, artists and thinkers at the height of British global power and influence. A famed aesthete and patron, Philip Sassoon&apos;s world was one of luxury and classic English elegance with oriental flair. He gathered a social set that would provide inspiration for Brideshead Revisited. At his famous parties you might find Winston Churchill arguing over the tea cups with George Bernard Shaw, the Prince of Wales playing tennis with Charlie Chaplin, Noel Coward mingling with flamingos and Lawrence of Arabia and Rex Whistler painting murals as the party carried on around him. But Philip Sassoon was not just a wealthy aesthete. He worked at the right hand of Douglas Haig during the First World War and then for Prime Minister Lloyd George for the settlement of the peace. He was close to King Edward VIII during the abdication crisis, and Minister for the Air Force in the 1930s. And neither was he wholly &apos;English&apos;. The heir of a family of wealthy Jewish traders from the souks of Baghdad, Philip craved acceptance from the English establishment, many of whom thought him both foreign and too exotic. He opened his house to his friends but rarely his heart, and as he was almost certainly homosexual. In &apos;Charmed&apos;, Damian Collins explores an extraordinary product of an age; a man who, before dying prematurely aged only 50, in June 1939, Noel Coward called a &apos;phenomenon that would never recur&apos;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">328.41092 COL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

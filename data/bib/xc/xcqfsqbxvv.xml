@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737767</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781610394215</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1610394216</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737767</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Soros, George</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE TRAGEDY OF THE EUROPEAN UNION : Disintegration or Revival</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The European Union could soon be a thing of the past. Spurred by anti-EU sentiments due to the euro crisis, national interests conflict with a shared vision for the future of Europe. Is it too late to preserve the union that generated unprecedented peace for more than half a century? This is no mere academic question. In the past decade, the EU has declined from a unified global power to a fractious confederation of states with staggering unemployment, resentfully seeking relief from a reluctant Germany. If the EU collapses and the former member states are transformed again from partners into rivals, the US and the world will confront the serious economic and political consequences. In a series of revealing interviews conducted by Dr. Gregor Peter Schmitz, George Soros offers trenchant commentary and concise, prescriptive advice: The euro crisis was not an inevitable consequence of integration, but a result of avoidable mistakes; and excessive faith in the self-regulating financial markets that Soros calls market fundamentalism inspired flawed institutional structures that call out for reform. Despite the considerable perils of this period, George Soros maintains his faith in the European Union as a model of open society.--From publisher description</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">337.142 SOR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

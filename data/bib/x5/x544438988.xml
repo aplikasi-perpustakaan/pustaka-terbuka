@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000913802</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000913802</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">kor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Pengi and Sommi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">At 60 degrees below zero, winter has come to the South Pole, the coldest glacial region in the world. Abandoned due to its bitter coldness, the South Pole is greeted by the real natives of this place, the Emperor Penguins, who have come to welcome new lives.
+Through the indescribable love and care given by mom and dad, baby Emperor Penguins Pengi and Sommi awake from their egg shells. Gluttonous Pengi, the number one trouble maker in the South Pole, and cutie Sommi, who loves daddy’s embrace the best, become great friends. Then one day, Sommi’s dad goes out to the sea to seek her out. Sommi left all alone, cold and starving to the brink of death, and Pengi desperately tires to help Sommi through her troubles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">598.441 PEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

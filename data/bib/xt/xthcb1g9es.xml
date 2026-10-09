@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000809079</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780316045124</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">316045128</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000809079</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Meyer, Danny</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">MIX SHAKE STIR : cocktails for the home bar : recipes from Danny Meyer&apos;s acclaimed New York City restaurants</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The bartenders at Danny Meyer&apos;s wildly popular restaurants are known for their creative concoctions. Guests at Union Square CafE or Gramercy Tavern expect not only the finest cuisine but also Meyer&apos;s special brand of hospitality that often begins with a Venetian Spritz or a Cranberry Daiquiri. In MIX SHAKE STIR, Meyer offers all the tips and tools needed to become a masterful mixologist and supplements the cocktail recipes with gourmet takes on bar snacks. There are over 100 recipes of bar classics, signature favorites, and original, refreshing libations--from the Modern&apos;s elegant mojito made with champagne and rose water to Tabla&apos;s Pomegranate Gimlet. Shaken or stirred, straight up or on the rocks, these cocktails make this collection an invaluable resource for elegant entertaining.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.874 MEY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812570</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781476799865</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1476799865</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812570</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ward, James, 1981-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE PERFECTION of the Paper Clip : Curious Tales of Invention, Accidental Genius, and Stationery Obsession</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This wonderfully quirky book will change the way you look at your desk forever with stories of accidental genius, bitter rivalries, and an appreciation for everyday objects, like the humble but perfectly designed paper clip and the utilitarian, irreplaceable pencil. How many of humanity&apos;s brightest ideas started out on a scrap of paper, a Post-It, or in the margins of a notebook? In a delightfully witty and fresh voice, James Ward--cofounder of the Boring Conference and collector of the arcane--explores the secret histories of deskbound supplies, from pencils to fluorescent ink, and the gleaming reams of white paper we all take for granted, encouraging a deeper appreciation and fascination for the things that surround us each day. In the spirit of The Evolution of Useful Things and A History of the World in 100 Objects, Ward transforms the mundane into stories of invention, discovery, and even awe. The Perfection of the Paper Clip is a fascinating tour of the objects that touch our daily lives, filled with charming drawings, illuminating stories, and winning humor that will satisfy curious minds and armchair inventors.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">651.2 WAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

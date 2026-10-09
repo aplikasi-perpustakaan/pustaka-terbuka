@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000713335</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000713335</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">fre</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Amadou Mahtar M&apos;Bow : directeur general de l&apos;Unesco : 1974-1987 : temoignages et souvenirs, hommage a l&apos;occasion de son 90e anniversaire = Director-General of Unesco : 1974-1987 : reflections and recollections, tribute on the occasion of his 90th anniversary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This publication is a compilation of the papers collected on the occasion of the 90th birthday of Amadou Mahtar M&apos;Bow. Some were delivered at the international symposium orgazised by AFUS on 31 May 2011, while others were drafted subsequently and submitted to AFUS. These reflections and recollections by former UNESCO staff members and dignitaries who came to know Mr M&apos;Bow in his capacity as a member of the Executive Board, Assistant Director-General for Education or UNESCO Director-General (1974-1987) tell the story of the efforts carried out by Amadou Mahtar M&apos;Bow to adapt UNESCO to the realities of the contemporary world, particularly regarding the recognition of diversity, and to guarantee the independence of the international civil service.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">353.7211 AMA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

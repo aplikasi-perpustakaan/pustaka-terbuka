@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000647539</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470881293</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470881291</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000647539</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pasher, Edna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The complete guide to knowledge management : a strategic plan to leverage your company’s intellectual capital</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A straightforward guide to leveraging your company’s intellectual capital by creating a knowledge management culture The Complete Guide to Knowledge Management offers managers the tools they need to create an organizational culture that improves knowledge sharing, reuse, learning, collaboration, and innovation to ensure mesurable growth. Written by internationally recognized knowledge management pioneers, it addresses all those topics in knowledge management that a manager needs to ensure organizational success. Provides plenty of real-life examples and case studies Includes interviews with prominent managers who have successfully implemented knowledge management structures within their organizations Offers chapters composed of short theoretical explanations and practical methods that you can utilize, based primarily on hands-on author experience Taking an intellectual journey into knowledge management, beginning with an understanding of the concept of intellectual capital and how to establish an appropriate culture, this book looks at the human aspects of managing knowledge workers, promoting interactions for knowledge creation and sharing.&quot;-- c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4038 PAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

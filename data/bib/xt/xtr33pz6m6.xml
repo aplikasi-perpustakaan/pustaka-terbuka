@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000849755</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000849755</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">kor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">MODERNIZATION on SCREEN : Understanding Korean Society and Modernization through Films : A FINE, WINDY DAY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Deok-bae, Chun-sik, and Gil-nam, who left their hometown for Seoul, lead their lives and comfort each other working at a Chinese restaurant, a motel, and a barbershop located in a development area on the outskirts of Seoul. The native local residents are excelled from their fields and paddies. Gil-nam falls for Jin-ok, a hairdresser, and Chun-sik for Miss Yu, an assistant to a barber. Meanwhile, Naive Deok-bae is hesitant between Chun-sun, a chearful and even dashing girl coming from the rural area and Chun-sik&apos;s sister, and Myeong-hui, an ill-tempered but attractive girl from the upperclass. Deok-bae finds out that he was fooled by Myeong-hui whom Deok-bae believed to have a certain feeling mutually, and Jin-ok runs away with the money she held in trust for Gil-nam. Miss Yu has some feeling for Chun-sil, but becomes a secret lover of President Kim to cover her father&apos;s medical fees and the tuition for her brothers and sisters. Chun-sik ends up being in jail for slashing President Kim with a razor, Gil-nam goes to serve in the military, and Deok-bae makes up his mind to fight off the world as a boxer.&quot;--Container.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Videorecording</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43095195 MOD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

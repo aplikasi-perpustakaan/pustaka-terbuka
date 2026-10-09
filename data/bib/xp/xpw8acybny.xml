@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000407914</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000486206</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000407914</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Anaknya Sazali</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">200X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kisah filem ini bermula selepas Sazali tamat menjalani hukuman penjara di atas kesalahan jenayah. Apabila berkeluarga, dia tidak mahu anaknya mengamalkan pergaulan bebas sebagaimana yang dilaluinya sehingga menjadi seorang yang tidak berguna kepada masyarakat. Untuk itu Sazali mengurung anaknya Farid agar tidak bercampur dengan budak lain dan mengupah guru untuk mengajar anaknya di dalam bilik. Tindakan itu membuatkan Farid menjadi seorang yang terlalu pemalu dan takut untuk berjumpa dengan masyarakat luar. Untuk mengatasi rasa malunya, sejenis pil menahan rasa malu telah diberikan membuatkan Farid menjadi tidak tahu malu dan melakukan apa saja tanpa perasaan.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Projected Medium</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.430899923 ANA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

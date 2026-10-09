@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000698616</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781620610657</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1620610655</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000698616</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Robert, Katee</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Queen of swords</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sanctify series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;When the cards tell Ophelia Leoni she&apos;s supposed to marry the Prince of Hansarda, the gunrunner grits her teeth and boards the starship that comes for her. It doesn&apos;t matter if the ship&apos;s commander is the gorgeous stranger she just spent a wild, drunken night with. As a Diviner, she&apos;s painfully aware the cards don&apos;t lie. Ever. Boone O&apos;Keirna knows Ophelia is trouble the second he sees the way she moves. Not about to let the deadly little hellcat marry his sadistic half-brother, Boone pretends to be the Prince&apos;s emissary and kidnaps Ophelia. Too bad they can&apos;t be in the same room without him wanting to throw her out an airlock--or into bed. Even as they fight each other--and their explosive attraction--Ophelia and Boone sense something is wrong. Too much is going their way. Soon, they realize while the cards may never lie, the truth is sometimes hidden between them...and the future king of Hansarda is not one to take defeat lying down.&quot;--P. [4] of cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">ROB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

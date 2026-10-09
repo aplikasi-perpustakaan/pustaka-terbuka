@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000700618</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422173350</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422173356</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000700618</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Reichheld, Frederick F.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The ultimate question 2.0 : how net promoter companies thrive in a customer-driven world</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Rev. and expanded ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In the first edition of this landmark book, business loyalty guru Fred Reichheld revealed the question most critical to your company’s future: &quot;Would you recommend us to a friend?&quot; By asking customers this question, you identify detractors, who sully your firm’s reputation and readily switch to competitors, and promoters, who generate good profits and true, sustainable growth. You also generate a vital metric: your Net Promoter Score. Since the book was first published, Net Promoter has transformed companies, across industries and sectors, constituting a game-changing system and ethos that rivals Six Sigma in its power. In this thoroughly updated and expanded edition, Reichheld, with Bain colleague Rob Markey, explains how practitioners have built Net Promoter into a full-fledged management system that drives extraordinary financial and competitive results. With his trademark clarity, Reichheld: Defines the fundamental concept of Net Promoter, explaining its connection to your company’s growth and sustained success, Presents the closed-loop feedback process and demonstrates its power to energize employees and delight customers, Shares new and compelling stories of companies that have transformed their performance by putting Net Promoter at the center of their business Practical and insightful, The Ultimate Question 2.0 provides a blueprint for long-term growth and success&quot;-- Provided by publisher</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.872 REI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

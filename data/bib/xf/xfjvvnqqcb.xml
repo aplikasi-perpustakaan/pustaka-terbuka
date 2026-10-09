@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000748905</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781409379256</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1409379256</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000748905</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bynghall, Steve</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">PIXER CHARACTER ENCYCLOPEDIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Tuck into some Ratatouille, spend the day at Monsters Inc., head Up into the sky in a magical house pulled by balloons, and who could forget Toy Story? Featuring over 200 of your favourite characters, &quot;Disney Pixar Character Encyclopedia&quot; takes you through them all, one page at a time. Young (and not so young) Disney Pixar fans will find this A to Z reference guide totally addictive and easy to use. It packs the whole of the Disney Pixar world, from &quot;Toy Story&quot; to 2012&apos;s &quot;Brave&quot;, into one compact, portable volume for the first time. So whether you can&apos;t stop watching &quot;A Bug&apos;s Life&quot;, &quot;Finding Nemo or Wall E&quot;, &quot;Disney Pixar Character Encyclopedia&quot; will tell you all you need to know with great images and fascinating facts. &quot;The Disney Pixar Character Encyclopedia&quot; is a must have for all Disney Pixar fans.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.433403 BYN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
