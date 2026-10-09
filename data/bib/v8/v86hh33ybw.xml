@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735236</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062218889</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62218883</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735236</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Manzo, Caroline</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Let Me Tell You Something : Life as a Real Housewife, Tough-Love Mother, and Street-Smart Businesswoman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Red-hot advice from the redhead who doesn&apos;t pull any punches. Mother, wife, and fan favorite Caroline Manzo has been through it all as one of the original breakout stars of Bravo&apos;s The Real Housewives of New Jersey. The addicting reality series has seen some of the craziest moments in Real Housewives history, but Caroline has managed to set herself apart as the levelheaded, fiercely loyal, and down-to-earth member of the cast. Now for the first time, Caroline, who is known for her no-nonsense advice, &quot;tells you something&quot; about what it really takes to juggle three kids and a husband (and still maintain your sanity), all while living in the spotlight. Her wisdom on family, life, and love, and her confessions about beauty, body image, and even plastic surgery, resonate with women of every generation. Equal parts funny, sincere, and revealing, Caroline exposes the sweeter, more reflective side of herself that fans of the show might not always see.--From publisher description</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.45028092 MAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

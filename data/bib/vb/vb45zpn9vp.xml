@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000844401</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000844401</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">JOY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Joy has always been fascinated by creating things, This pursuit was always supported emotionally by her maternal grandmother, Mimi. Joy feels that lack of practical support has led to others making fortunes on ideas she came up with years ago but could not act upon manufacturing. Despite being broke, Joy is the person in her extended family to whom everyone has always turned, in the process forgoing her own life, including not having attended college to help see her parents through their divorce. She works in an unsatisfying job as an Eastern Airlines ticket clerk; and lives with her mother Terry who spends all day in bed watching soap operas; her ex-husband Tony, a less than successful aspiring Latino Tom Jones wannabe; and their two children. Added to this mix is her father Rudy, the owner of a failing heavy-duty garage, which is managed by Joy&apos;s older half-sister Peggy, with whom she has somewhat of a strained relationship, and for which Joy does the books.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Blu-ray Disc</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 JOY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

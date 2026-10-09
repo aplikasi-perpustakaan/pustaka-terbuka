@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000729909</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415834841</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415834848</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000729909</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Creativity and Leadership in Science, Technology, and Innovation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Routledge Studies in Innovation, Organization and Technology ; 29</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Leadership is vital to creativity and successful innovation in groups and organizations; leadership is however seldom studied in the academic literature as a creativity driver. One reason for the lack of attention paid to leadership&apos;s effect on creativity may be the common belief that creativity cannot and should not be managed. Creative individuals and groups are regarded as, and indeed often are, autonomous and self-driving. From this belief the erroneous conclusion is drawn that there is no need for leadership in creative environments and situations. The better conclusion, proposed by this book, is that leadership not only stimulates creativity, but that such a leadership in the science, technology, and innovation fields should specifically possess at least two features: a) expertise in the field(s), and b) an ability to create, support, and encourage individuals, groups, and creative knowledge environments. A number of specialist authors in this volume offer original theoretical, empirical, and applied chapters that elucidate how to better organize and lead creative efforts in science, technology, and innovation. A number of important research questions are raised and answered, including: What kinds of leaderships are needed at different levels of S&amp;T organizations for a creative output? What social and cognitive abilities and skills are needed for leadership in creative environments? How does leadership vary with different phases of the creative process? This book offers concrete analysis of how leaders and managers can facilitate, promote, and organize for creative performance in science, technology, and in innovating organizations, making it required reading for academic and industrial research leaders, scientists, and engineers&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">506.84 CRE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

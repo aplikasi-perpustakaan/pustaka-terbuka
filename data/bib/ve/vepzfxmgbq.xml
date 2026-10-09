@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000771156</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674729070</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">674729072</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000771156</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Unger, Roberto Mangabeira.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Religion of the Future</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">How can we live in such a way that we die only once? How can we organize a society that gives us a better chance to be fully alive? How can we reinvent religion so that it liberates us instead of consoling us? These questions stand at the center of Roberto Mangabeira Unger&apos;s The Religion of the Future. Both a book about religion and a religious work in its own right, it proposes the content of a religion that can survive faith in a transcendent God and in life after death. According to this religion--the religion of the future--human beings can be more human by becoming more godlike, not just later, in another life or another time, but right now, on Earth and in their own lives. Unger begins by facing the irreparable flaws in the human condition: our mortality, groundlessness, and insatiability. He goes on to discuss the conflicting approaches to existence that have dominated the last 2,500 years of the history of religion. Turning next to the religious revolution that we now require, he explores the political ideal of this revolution, an idea of deep freedom. And he develops its moral vision, focused on a refusal to squander life. The Religion of the Future advances Unger&apos;s philosophical program: a philosophy for which history is open, the new can happen, and belittlement need not be our fate.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">200 UNG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000647531</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470886021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470886021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000647531</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Thomas, David B., 1952-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Executive’s guide to enterprise social media strategy : how social networks are radically transforming your business</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Wiley &amp; SAS business series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;An actionable framework for developing and executing successful social media strategies supporting collaboration, teamwork and communication in modern corporations Using straightforward language, this book offers real-world stories and revealing anecdotes to demonstrate how executives and business leaders develop successful corporate social media strategies. High level guidance to developing the practical business frameworks and policies necessary for implementing and managing successful corporate social media strategies Describes the actual processes, organizational structures, and technology platforms required to develop and execute a strategy of continuous engagement with customers, partners, and stakeholders Provides both how-to advice as well as best practices on creating an enterprise social networking strategy Other titles by Barlow: Partnering with the CIO: The Future of IT Sales Seen Though the Eyes of Decision Makers An executive handbook and referencefor social media strategy planning and development, The Executive’s Guide to Enterprise Social Media Strategy answers all the questions you have on this topic, including why every corporation needs a social media strategy and how it can be successfully leveraged to achieve business objectives.&quot;-- c Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">006.70684 THO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

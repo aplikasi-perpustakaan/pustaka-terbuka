@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735868</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781476730950</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1476730954</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735868</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Agus, David, 1965-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">A SHORT GUIDE TO A LONG LIFE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In this book the author, a doctor and writer, presents the simple rules everyone should follow in order to live a long, healthy, and productive life. In his previous book, The End of Illness, he shared what he had learned from his work as one of today&apos;s most prominent cancer doctors and researchers, revealing the risks he takes in a field begging for innovations that can prolong not only the lives of cancer patients but anyone hoping to live long and robustly. Now he has turned his analysis into a practical illustrated health guide for everyday living for improving quality of life for millions of people.  The author believes that our foundation for optimal health begins with the daily habits we keep, and that we can build upon that bedrock with inexpensive, widely accessible drugs that have been proven to work while ditching false promises, such as vitamins and supplements. The book is divided into three sections that provide the definitive answers to many common and not-so-common questions: Who should take a baby aspirin daily? ; Are flu shots safe? ; Are vitamins bad for you? ; What is truly &quot;fresh&quot; produce? ; Why is it important to protect your senses? ; Are airport scanners hazardous?  The responses will help you develop new, effective patterns of personal health care so you can maintain your health using the latest and most reliable science. -- Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">613.2 AGU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

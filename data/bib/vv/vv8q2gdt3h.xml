@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000706061</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781846145599</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1846145597</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000706061</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ellena, Jean-Claude.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The diary of a nose</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Perfume creation is an exclusive and secretive endeavour. What is day to day life like for a perfume-maker? How does the creation of a new scent begin? How do you capture the essence of a smell on the skin? For one year, Jean-Claude Ellena kept a diary of his life as &apos;parfumeur exclusif&apos; (&apos;le nez&apos; or &apos;the nose&apos;) for Herms̈. Believing that creating a scent is like creating a work of art, and describing himself as a writer using &apos;olfactory colours&apos;, he explains how all of the five senses come into play when creating a perfume: &apos;the painter learns to see, the pianist learns to listen, I learned to smell.&apos; He also reveals how inspiration can come from a market stall, a landscape, or even the movement of calligraphy, and concludes this charming, perceptive diary with recipes for natural fragrances, each made up of three synthetic ingredients, to create the illusion of smells like freesia, orange blossom, grapefruit, pear, chocolate, cashew and cotton candy. This is the story behind the creation of scent. The quest to capture what is most elusive. With this diary, Jean-Claude Ellena offer readers a rare insight into the secrets of his business, his art, and his life as one of the world&apos;s most important and admired perfumers.
+Social History.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.766854092 ELL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

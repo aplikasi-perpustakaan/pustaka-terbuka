@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770232</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262027380</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262027380</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770232</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Losh, Elizabeth (Elizabeth Mathews)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The War on Learning : Gaining Ground in the Digital University</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Behind the lectern stands the professor, deploying course management systems, online quizzes, wireless clickers, PowerPoint slides, podcasts, and plagiarism-detection software. In the seats are the students, armed with smartphones, laptops, tablets, music players, and social networking. Although these two forces seem poised to do battle with each other, they are really both taking part in a war on learning itself. In this book, This book examines current efforts to reform higher education by applying technological solutions to problems in teaching and learning. Many of these initiatives fail because they treat education as a product rather than a process. Highly touted schemes, video games for the classroom, for example, or the distribution of iPads, let students down because they promote consumption rather than intellectual development. This book analyzes recent trends in postsecondary education and the rhetoric around them. In an effort to identify educational technologies that might actually work, this book looks at strategies including MOOCs (massive open online courses), the gamification of subject matter, remix pedagogy, video lectures and educational virtual worlds. This book also outlines six basic principles of digital learning and describes several successful university-based initiatives. This is essential reading for campus decision makers and for anyone who cares about education and technology.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">378.17344678 LOS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

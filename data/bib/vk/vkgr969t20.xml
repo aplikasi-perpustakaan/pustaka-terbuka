@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842954</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842954</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Prince, Victor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">the Camino Way</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Stretching across 500 miles of northern Spain, the Camino de Santiago has been a pilgrimage route for a millennium. Each year, hundreds of thousands of peregrinos make their way through rugged countryside and medieval towns in order to reflect, test their will, and join a community of strangers on a shared mission. In short, it&apos;s the ideal training ground for authentic leadership. Challenged to walk the Camino, Victor Prince began his trek as one person: driven, work-focused and highly competitive, and he finished it a very different one: more balanced, more caring, and more present in the moment. In this transformative book he guides readers on their own Camino, translating his experience into seven essential leadership lessons inspired by the values emblazoned on the back of every pilgrim&apos;s passport: Treat each day as its own adventure Make others feel welcome Learn from those who&apos;ve walked before Consider your impact on those who follow And more Leadership is a journey. The Camino Way prepares you to tackle it with a pilgrim&apos;s heart, a wayfarer&apos;s grit, and a leader&apos;s vision.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Books</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4092 PRI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

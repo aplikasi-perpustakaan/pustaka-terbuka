@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770958</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262026925</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262026929</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770958</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Anguelovski, Isabelle</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Neighborhood as Refuge : Community Reconstruction, Place Remaking, and Environmental Justice in the City</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Urban and industrial environments</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Environmental justice as studied in a variety of disciplines is most often associated with redressing disproportionate exposure to pollution, contamination, and toxic sites. In Neighborhood as Refuge, Isabelle Anguelovski takes a broader view of environmental justice, examining wide-ranging comprehensive efforts at neighborhood environmental revitalization that include parks, urban agriculture, fresh food markets, playgrounds, housing, and waste management. She investigates and compares three minority, low-income neighborhoods that organized to improve environmental quality and livability: Casc Antic, in Barcelona; Dudley, in the Roxbury section of Boston; and Cayo Hueso, in Havana. Despite the differing histories and political contexts of these three communities, Anguelovski finds similar patterns of activism. She shows that behind successful revitalization efforts is what she calls &quot;bottom to bottom&quot; networking, powered by broad coalitions of residents, community organizations, architects, artists, funders,political leaders, and at times environmental advocacy groups. Anguelovski also describes how, overtime, environmental projects provide psychological benefits, serving as a way to heal a marginalized and environmentally traumatized urban neighborhood. They encourage a sense of rootedness and of attachment to place, creating safe havens that offer residents a space for recovery. They also help to bolster residents&apos; ability to deal with the negative dynamics of discrimination and provide spaces for broader political struggles including gentrification. Drawing on the cases of Barcelona, Boston, and Havana, Anguelovski presents a new holistic framework for understanding environmental justice action in cities, with the right to a healthy community environment at its core.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">307.76 ANG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000760104</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118413685</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118413687</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000760104</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wakeman, Cy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE REALITY-BASED RULES OF THE WORKPLACE : Know What Boosts Your Value, Kills Your Chances, &amp; Will Make You Happier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">For many, work has never seemed harder. In tough economic times, and the aftermath of hiring freezes and layoffs, people are asked to do the same amount of work with reduced resources, sometimes even for reduced benefits and pay. Many employees feel unrecognized and under-rewarded, with studies showing workplace dissatisfaction at record highs. But what if the things that are currently making you unhappy simply lost their power over you? What if you could go to work feeling energetic and excited, regardless of any external circumstances? What does it take to be valued, appreciated -- even a favorite at the office? More than anything else, your satisfaction and success at work depend on understanding exactly how you are evaluated, and your annual performance review doesn&apos;t tell the whole story. This book goes beyond guesswork to reveal a formula for understanding how your manager calculates your value to the organization. Based on her research with more than 50,000 people, Cy Wakeman reveals a formula for measuring your current performance, your future potential, and your &quot;emotional expense&quot; -- the toll your actions and attitudes take on the people around you, which is your single biggest detractor. Only once you know your true score can you improve it. Using the advice in this book can help you boost your value to your manager and colleagues, become an invaluable team member, and even learn to love your job again.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">650.1 WAK</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
