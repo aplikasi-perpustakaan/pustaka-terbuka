@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000843257</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781610396226</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1610396227</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000843257</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Starobin, Paul</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">MADNESS RULES the HOUR : Charleston, 1860 and the Mania for War</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The tea has been thrown overboard-the revolution of 1860 has been initiated.&quot;--Charleston Mercury, November 8, 1860 In 1860, Charleston, South Carolina, embodied the combustible spirit of the South. No city was more fervently attached to slavery, and no city was seen by the North as a greater threat to the bonds barely holding together the Union. And so, with Abraham Lincoln&apos;s election looming, Charleston&apos;s leaders faced a climactic decision: they could submit to abolition-or they could drive South Carolina out of the Union and hope that the rest of the South would follow. In Madness Rules the Hour, Paul Starobin tells the story of how Charleston succumbed to a fever for war and charts the contagion&apos;s relentless progress and bizarre turns. In doing so, he examines the wily propagandists, the ambitious politicians, the gentlemen merchants and their wives and daughters, the compliant pastors, and the white workingmen who waged a violent and exuberant revolution in the name of slavery and Southern independence. They devoured the Mercury, the incendiary newspaper run by a fanatical father and son; made holy the deceased John C. Calhoun; and adopted &quot;Le Marseillaise&quot; as a rebellious anthem. Madness Rules the Hour is a portrait of a culture in crisis and an insightful investigation into the folly that fractured the Union and started the Civil War</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">975.7915 STA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

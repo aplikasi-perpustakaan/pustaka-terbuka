@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000775773</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780749472115</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">749472111</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000775773</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Strong, Colin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Humanizing Big Data : Marketing at the meeting of data, social science and consumer insight</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Big data raises more questions than it answers, particularly for those organizations struggling to deal with what has become an overwhelming deluge of data. It can offer marketers more than simple tactical predictive analytics, but organizations need a bigger picture, one that generates some real insight into human behaviour, to drive consumer strategy rather than just better targeting techniques. Humanizing Big Data guides marketing managers, brand managers, strategists and senior executives on how to use big data strategically to redefine customer relationships for better customer engagement and an improved bottom line. Humanizing Big Data provides a detailed understanding of the way to approach and think about the challenges and opportunities of big data, enabling any brand to realize the value of their current and future data assets. First it explores the &apos;nuts and bolts&apos; of data analytics and the way in which the current big data agenda is in danger of losing credibility by paying insufficient attention to what are often fundamental tenets in any form of analysis. Next it sets out a manifesto for a smart data approach, drawing on an intelligent and big picture view of data analytics that addresses the strategic business challenges that businesses face. Finally it explores the way in which datafication is changing the nature of the relationship between brands and consumers and why this calls for new forms of analytics to support rapidly emerging new business models. After reading this book, any brand should be in a position to make a step change in the value they derive from their data assets&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.8340285 STR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

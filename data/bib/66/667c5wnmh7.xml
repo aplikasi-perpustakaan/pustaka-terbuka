@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842972</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842972</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Conti-Brown, Peter, 1981-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Power and Independence of the Federal Reserve</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The independence of the Federal Reserve is considered a cornerstone of its identity, crucial for keeping monetary policy decisions free of electoral politics. But do we really understand what is meant by &quot;Federal Reserve independence&quot;? Using scores of examples from the Fed&apos;s rich history, The Power and Independence of the Federal Reserve shows that much common wisdom about the nation&apos;s central bank is inaccurate. Legal scholar and financial historian Peter Conti-Brown provides an in-depth look at the Fed&apos;s place in government, its internal governance structure, and its relationships to such individuals and groups as the president, Congress, economists, and bankers. Exploring how the Fed regulates the global economy and handles its own internal politics, and how the law does--and does not--define the Fed&apos;s power, Conti-Brown captures and clarifies the central bank&apos;s defining complexities. He examines the foundations of the Federal Reserve Act of 1913, which established a system of central banks, and the ways that subsequent generations have redefined the organization. Challenging the notion that the Fed Chair controls the organization as an all-powerful technocrat, he explains how institutions and individuals--within and outside of government--shape Fed policy. Conti-Brown demonstrates that the evolving mission of the Fed--including systemic risk regulation, wider bank supervision, and as a guardian against inflation and deflation--requires a reevaluation of the very way the nation&apos;s central bank is structured. Investigating how the Fed influences and is influenced by ideologies, personalities, law, and history, The Power and Independence of the Federal Reserve offers a clear picture of this uniquely important institution&quot;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Books</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.110973 CON</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

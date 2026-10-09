@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000810075</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781421417998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1421417995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000810075</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ferrara, Mark S.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">PALACE of ASHES : CHINA AND THE DECLINE OF AMERICAN HIGHER EDUCATION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In addition to possessing the world&apos;s largest economies, China and the United States have extensive higher education systems comparable in size. By juxtaposing their long and distinctive educational traditions, Palace of Ashes offers compelling evidence that American colleges and universities are quickly falling behind in measures such as scholarly output and the granting of doctoral degrees in STEM fields. China, in contrast, has massed formidable economic power in support of its universities in an attempt to create the best educational system in the world. Palace of Ashes argues that the overall quality of U.S. institutions of higher learning has declined over the last three decades. Mark S. Ferrara places that decline in a broad historical context to illustrate how the forces of globalization are helping rapidly developing Asian nations—particularly China—transform their major universities into serious contenders for the world&apos;s students, faculty, and resources.Ferrara finds that American institutions have been harmed by many factors, including chronic state and federal defunding, unsustainable tuition growth, the adoption of corporate governance models, adjunctification, and the overall decline of humanities education relative to job-related training. Ferrara concludes with several key recommendations to help U.S. universities counter these trends and restore the palace of American higher learning&quot;--Publisher&apos;s description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">378.73 FER</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734504</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780307886842</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">307886840</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734504</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bloom, Paul, 1963-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">JUST BABIES : THE ORIGINS OF GOOD AND EVIL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A leading cognitive scientist argues that a deep sense of good and evil is bred in the bone.  From Sigmund Freud to Lawrence Kohlberg, psychologists have long believed that we begin life as amoral animals. After all, isn&apos;t it the parents&apos; role to turn babies into civilized beings who can experience empathy and shame, and override selfish impulses? In Just Babies, Paul Bloom argues that humans are in fact hardwired with a sense of morality. Drawing upon years of original research at his Yale lab, he shows that babies and toddlers can judge the goodness and badness of others&apos; actions; that they act to soothe those in distress; and that they feel guilt, shame, pride, and righteous anger.  Yet this innate morality is tragically limited. Our natural strong moral feelings toward those in our own group--same family, same race--are offset by ingrained dislike, even hatred, of those in different groups. Put more simply, we are natural-born bigots. Vivid and intellectually probing, Just Babies argues that through intelligence and creativity we can transcend the primitive sense of morality we are born with. This erudite yet accessible book will captivate readers of Steven Pinker, Philip Zimbardo, and Robert Wright&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">155.41825 BLO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

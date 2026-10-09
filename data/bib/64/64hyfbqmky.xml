@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000701476</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781409376422</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1409376427</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000701476</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gifford, Clive.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Outside-in human body : what&apos;s under the skin you&apos;re in?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">HUMAN BIOLOGY. What&apos;s under the skin you&apos;re in? Ever wondered, &apos;How do I breathe?&apos;, &apos;Where does my food go?&apos;, &apos;What goes on inside my brain?&apos; or &apos;Why is my poo brown?&apos; Outside In Human Body is an eye-popping, touchy-feely journey into the human body that reveal layer by layer how it works. This is a book of two halves - the first half shows you what goes on in your head, the second half explores the torso. Every page contains a cutaway of a different part of the body, and is full of fun facts, labels and descriptions, making learning about the eyes and ears, or the lungs, kidneys and heart not only interesting, but fun too! Outside In Human Body is perfect to explore with your child or for them to discover on their own. With an amazing squidgy eye, colourful pictures and lift-up flaps their questions about the human body will be answered in style. Ages 7+.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">612 GIF</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

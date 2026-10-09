@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734423</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780684831688</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">684831686</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734423</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wilson, Victoria, 1949-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">A LIFE OF BARBARA STANWYCK. STEEL-TRUE 1907-1940</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Simon &amp; Schuster hardcover edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Fifteen years in the making, the first volume of the full-scale astonishing life of one of our greatest screen actresses whose career in pictures spanned four decades beginning with the coming of sound--the first to delve deeply into Stanwyck&apos;s rich, complex life and to explore her extraordinary range of eighty-eight motion pictures, many of them iconic; her work, her world, her Hollywood through an American century. Frank Capra called her, &quot;The greatest emotional actress the screen has yet known.&quot; Yet she was one of its most natural, timeless, and underrated stars. Now Victoria Wilson, gives us the most complete portrait we have yet had, or will have, of this magnificent actresses, seen as the quintessential Brooklyn girl whose family was in fact of old New England stock...her years in New York as dancer and Broadway star...her fraught marriage to Frank Fay, Broadway genius, who influenced a generation of actors and comedians (among them, Jack Benny and Stanwyck herself)...the adoption of a son, embattled from the outset; her partnership with the &quot;unfunny&quot; Marx brother, Zeppo, together creating one of the finest horse breeding farms in the west; her fairytale romance and marriage to the younger Robert Taylor, America&apos;s most sought-after male star...Here is the shaping of her career working with many of Hollywood&apos;s most important directors: among them, Capra, King Vidor, Cecil B. Demille, Preston Sturges, all set against the times--the Depression, the rise of the unions, the coming of World War II and a fast-evolving coming-of-age motion picture industry. At the heart of the book, Stanwyck herself--her strengths, her fears, her desires--how she made use of the darkness in her soul, keeping it at bay in her private life, transforming herself from shunned outsider into one of Hollywood&apos;s--and America&apos;s--most revered screen actresses. Written with full access to Stanwyck&apos;s family, friends, colleagues, and never-before-seen letters, journals and photographs.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43028 WIL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

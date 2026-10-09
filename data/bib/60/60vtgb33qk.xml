@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842799</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062677105</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62677101</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842799</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sykes, Plum.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Party Girls Die in Pearls : AN OXFORD GIRL MYSTERY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">An Oxford girl mystery</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;It&apos;s 1985, and at Oxford University, Pimm&apos;s, punting, and ball gowns are de rigeur. Ursula Flowerbutton, a studious country girl, arrives for her first term anticipating nothing more sinister than days spent poring over history books in gilded libraries?and, if she&apos;s lucky, an invitation to a ball. But when she discovers a glamorous classmate on a chaise longue with her throat cut, Ursula is catapulted into a murder investigation.&quot;--
+1985, Oxford University. Ursula Flowerbutton, a studious country girl, arrives for her first term anticipating nothing more sinister than days spent poring over history books in gilded libraries and, if she&apos;s lucky, an invitation to a ball. When she discovers a classmate on a chaise longue with her throat cut, Ursula is determined to bag her first scoop for the famous student newspaper Cherwell. Enlisting the help of American exchange student Nancy Feingold and navigating a whirl of black-tie parties, they discover a surfeit of suspects. And now Ursula may be next on the murderer&apos;s list</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">SKY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

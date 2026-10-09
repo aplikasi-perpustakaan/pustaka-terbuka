@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746187</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118123096</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118123093</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746187</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Schreyer, Alexander C</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Architectural Design with SketchUp : Component-Based Modeling, Plugins, Rendering, and Scripting</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The book is wonderfully illustrated with full color and descriptive images that complement each tutorial or exercise. Alex&apos;s teaching background really rings through as every item is nicely structured and very informative. Overall Alex&apos;s book is a winner. Well structured, illustrated and most of all easy to read and understand. While the overall theme is based in architecture, the techniques can be applied to any discipline and the wide range of topics covered are excellently delivered.&quot;/ -Richard O&apos;Brien, CatchUp Editor, the official SketchUcation newsletter/ b / / / /The one-stop guide to SketchUp for architects, designers, and builders/b SketchUp is the tool of choice for architects, interior designers, and construction professionals. Though the basics are simple to understand, getting the most out of it requires deeper instruction and guidance. iArchitectural Design with Google SketchUp/i uses easy-to-understand tutorials to describe both common and advanced process, illustrated throughout with full-color renderings./ ulliHandy sidebars throughout the book cover fundamentals and background information/liliEnd-of-chapter exercises help readers master new skills and techniques/liliA robust companion website includes helpful videos, sample files, and plug-ins/li/ul.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">006.68 SCH</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

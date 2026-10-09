@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000777242</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000777242</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">tha</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BEST OF TIMES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Khwamcham san tǣ rak chan yao (Best of Times) is a feature film directed by Yongyut Thongkongthun in 2009. Synopsis: &quot;Best in Time&quot; tells a story of two couples who fall in love within a short window of time. Keng (Arak Amonsupasiri) finds a stray dog and takes the dog to the clinic. At the animal clinic he meets Fai (Yarindā Bunnak), who is taking her dog to the clinic as well. Although Fai doesn&apos;t recognize Keng and Keng pretends not to recognize Fai, Keng had a crush on Fai 8 years ago while both were in college. Mr. Jamrat (Krissana Srēdthathamrong) and Mrs. Sompit (Sansanī Wattanānukūn) are both elderly singles who meet at a computer club. Every Sunday, Mr. Jamrat drives a considerable distance just so he can spend 3 hours with Mrs. Sompit. The couple fall in love, but face obstacles with their families and a personal crisis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 BES</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

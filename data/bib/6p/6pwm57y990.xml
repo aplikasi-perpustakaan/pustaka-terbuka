@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000972948</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780593546413</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">593546415</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000972948</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Maher, Kerri</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE PARIS BOOKSELLER</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Discover the dramatic story of how a humble bookseller fought against incredible odds to bring one of the most important books of the 20th century to the world in this new novel from the author of The Girl in the White Gloves. When bookish young American Sylvia Beach opens Shakespeare and Company on a quiet street in Paris in 1919, she has no idea that she and her new bookstore will change the course of literature itself. Shakespeare and Company is more than a bookstore and lending library: Many of the most prominent writers of the Lost Generation, like Ernest Hemingway, consider it a second home. It&apos;s where some of the most important literary friendships of the twentieth century are forged-none more so than the one between Irish writer James Joyce and Sylvia herself. When Joyce&apos;s controversial novel Ulysses is banned, Beach takes a massive risk and publishes it under the auspices of Shakespeare and Company. But the success and notoriety of publishing the most infamous and influential book of the century comes with steep costs. The future of her beloved store itself is threatened when Ulysses&apos; success brings other publishers to woo Joyce away. Her most cherished relationships are put to the test as Paris is plunged deeper into the Depression and many expatriate friends return to America. As she faces painful personal and financial crises, Sylvia-a woman who has made it her mission to honor the life-changing impact of books-must decide what Shakespeare and Company truly means to her&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">MAH</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

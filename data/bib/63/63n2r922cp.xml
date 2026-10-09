@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876263</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787145634</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787145638</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787145634</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876263</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Phakathi, Timothy Thulisizwe, 1976-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Production, safety and teamwork in a deep-level mining workplace : perspectives from the rock-face</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In almost any industry, the day-to-day lived experiences of workers directly shape production processes. Those experiences are of fundamental importance to a range of managerial concerns including organisational behaviour and human resource management, organisational safety and risk management, production systems, work relations and change management. Yet they are too often overlooked by the executives and managers who design management strategies. In this book, Sizwe Phakathi addresses such issues head-on, providing insights into the underlying social, human, managerial and organisational processes that shape workers&apos; orientations towards reorganisation of work, production, safety, teamwork and work relations. Through an in-depth study of a deep-level mining workplace, Phakathi brings to the fore the realities of how work processes shape the actions of frontline teams, production supervisors and managers. He points out how these realities trigger the informal work practice of making a plan, which is an indispensable organisational tactic for production, safety, teamwork and work relations in the mining workplace. In the process, he highlights frontline miners&apos; perspectives of managing, balancing and coping with the competing demands of physically challenging work, production, safety and team dynamics while at the rock-face. This book will help practitioners, policy-makers and researchers to understand the factors influencing work processes, production, safety, teamwork and work relations  -  not only in a mining workplace but more generally as well. The insights it provides into the importance of day-to-day lived working experiences will help them to improve organisational, employee and team performance</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">305.5620968</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/9781787145634</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

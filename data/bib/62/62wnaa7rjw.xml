@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000697163</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780345532886</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">345532880</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000697163</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lynch, Marisa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">New dress a day : the ultimate DIY guide to creating fashion dos from thrift-store don&apos;ts</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Based on her wildly popular blog of the same name, guerrilla seamstress Marisa Lynch shows you how to easily (and affordably!) transform your wardrobe from frumpy to fabulous! With just a snip here and a stitch there, your basement bargains will rival anything in designer collections. Yes, with a little imagination--and DIY tools like needles, thread, and safety pins--you too can update an outdated castoff. Inside you&apos;ll discover how to ace the sewing basics (remember: safety first!) create DIY designer look-alikes cut Flashdance-inspired sweatshirts make an old, tired muumuu a smashing must-have give bridesmaid dresses a second life dye your way to a vibrant new wardrobe whip up accessories in seconds style the same dress seven different ways Complete with colorful before-and-after photos, fun sidebars, and even a groovy sewing song playlist to get you in the zone, New Dress a Day proves that you don&apos;t need a sewing machine or a big budget to turn unfashionable trash into stylish treasure&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">646.408 LYN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

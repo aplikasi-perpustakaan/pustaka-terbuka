@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000702781</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780440245469</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">044024546X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000702781</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Balogh, Mary.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">A Christmas bride : Christmas beau /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In a pair of classic Regency-era Christmas romance novels from &quot;New York Times&quot; bestselling author Mary Balogh, the holidays herald the greatest gift of all: unexpected, all-consuming love. A CHRISTMAS BRIDE The very wealthy Edgar Downes has promised his aging father to finally take a bride--specifically, to wed a titled lady by Christmas. London is full of pretty, proper, and eligible misses, but it&apos;s the widow Helena, Lady Stapleton, in a shocking red dress, who captures Edgar&apos;s attention. Helena is intrigued by the seductive stranger--but he&apos;s simply not in her class. Marriage, of course, would never do. But in a season of miracles, something wondrous is about to happen. CHRISTMAS BEAU Not even the warm, forgiving Christmas spirit can stop the Marquess of Denbigh from settling his score with Judith Easton: The beautiful young widow injured Denbigh&apos;s pride years ago by jilting him for another man. Now that Judith is free from a nightmare marriage, the handsome marquess has her in his sights--and wants her in his arms. But to trust the tender words on his lips, Judith must not only see past the hardness of his heart, but learn once again to trust her own heart&apos;s desire.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">BAL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

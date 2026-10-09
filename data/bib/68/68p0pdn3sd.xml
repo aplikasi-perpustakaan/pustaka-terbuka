@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000840629</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781780972640</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1780972644</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000840629</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Nightingale, Benedict</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Les Misérables : From Stage to Screen</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">It is 150 years since Victor Hugo&apos;s novel &quot;Les Miserables&quot; was first published. However, for the last 25 or so, the poignant saga of Jean Valjean, a villain to some, but a saviour to others, set in France during the early years of the nineteenth century, has become one of the world&apos;s most popular musicals, and is about to become one of the must-see movies of 2013. In &quot;Les Miserables: The Official Archives&quot;, the reader can find out how the musical came to life - the trials and tribulations of turning it from the initial concept into a thrilling musical extravaganza - and how the new film version starring Hugh Jackman and Russell Crowe, and directed by the Oscar-winning Tom Hooper (&quot;The King&apos;s Speech&quot;) has emerged from the show that has been seen by over 55 million people worldwide. To bring this fascinating story to life, the book also contains at least 15 facsimiles that highlight key moments in the creation of &quot;Les Miserables&quot;, both on stage and on the screen.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">782.14 NIG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

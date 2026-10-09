@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000733333</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781476715520</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1476715521</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000733333</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kelly, Clinton</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">FREAKIN&apos; FABULOUS on a BUDGET : How to dress, entertain, and decorate in the style you so richly deserve</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The style guru and author of Freakin&apos; Fabulous shows you how to have it all--haute fashion, food and de;cor--at bargain-basement prices. As co-host of TLC&apos;s popular What Not to Wear and ABC&apos;s The Chew, Clinton Kelly is constantly helping his guests look and feel their best. Now he&apos;s going to share his secrets for making every part of your life more fabulous--whether you want to make over your wardrobe, add glamour to your next soiree, or brighten up that dingy bathroom--even if there&apos;s no room in your budget. After all, Freakin&apos; Fabulous doesn&apos;t have to come at a price--if you have Clinton in your corner. Filled with pages of full-color photography, helpful advice, and numerous ideas for styling, partying, and better living, this book will make you the envy of everyone on the block without emptying your bank account. As Kelly doles out wit and wisdom on everything from thrift store sprees to proper dinner etiquette, he playfully reminds you that you don&apos;t need to be a movie star to live like one ... as long you shop smartly. Remember, anybody can be fabulous--it&apos;s not the size of your funds but how you use them&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">646.7 KEL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

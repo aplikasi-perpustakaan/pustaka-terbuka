@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746206</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781627051378</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1627051376</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">1932-3174 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746206</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Barrett, Steven F. (Steven Frank), 1957-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Bad to the Bone : Crafting Electronic Systems with Beaglebone and Beaglebone Black</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Synthesis lectures on digital circuits and systems ; # 41</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">BeagleBone is a low cost, open hardware, expandable computer first introduced in November 2011 by BeagleBoard.org, a community of developers sponsored by Texas Instruments. Various BeagleBone variants, including the original BeagleBone and the new BeagleBone Black, host a powerful 32-bit, super-scalar ARM Cortex A8 processor operating from 720 MHz to 1 GHz. Yet, BeagleBone is small enough to fit in a small mint tin box. The &quot;Bone&quot; may be used in a wide variety of projects from middle school science fair projects to senior design projects to first prototypes of very complex systems. Novice users may access the power of the Bone through the user-friendly Bonescript environment, a browser-based experience, in MS Windows, the Mac OS X, or the Linux operating systems. Seasoned users may take full advantage of the Bone&apos;s power using the underlying Linux-based operating system, a host of feature extension boards (Capes) and a wide variety of Linux community open source libraries. This book provides an introduction to this powerful computer and has been designed for a wide variety of users including the first time novice through the seasoned embedded system design professional. The book contains background theory on system operation coupled with many well-documented, illustrative examples. Examples for novice users are centered on motivational, fun robot projects while advanced projects follow the theme of assistive technology and image processing applications.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">629.89 BAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

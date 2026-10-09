@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000810081</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781421417578</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">142141757X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000810081</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Thuluvath, Paul J.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Hepatitis C : A complete Guide for Patients and Families</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Johns Hopkins Press health book</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The liver is the body&apos;s workhorse. It makes proteins and bile, processes fats, and detoxifies drugs and alcohol. The liver is a resilient organ, but it is susceptible to damage from a number of sources, including viral infections. Such infections cause inflammation of the liver, called hepatitis. This book is a comprehensive guide to hepatitis C, which affects about 3 percent of the world&apos;s population-3 to 4 million people in the United States alone. Some people with acute hepatitis C infection will be cured without any treatment, but when hepatitis C becomes chronic it may cause cirrhosis, liver cancer, and death. Hepatitis C is transmitted from an infected person to an uninfected person by sharing drug-injecting equipment, snorting cocaine, having sex, or getting a blood transfusion or organ transplant. It can be spread by getting a tattoo with unsterile equipment. In rare cases, women with hepatitis C transmit the virus to their infants. World-renowned gastroenterologist and liver specialist Dr Paul J Thuluvath provides detailed information about the disease and its diagnosis and management, including dramatically improved treatments that have recently emerged.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.3623 THU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

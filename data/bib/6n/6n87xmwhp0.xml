@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000720668</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780593069745</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">593069749</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000720668</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Goddard, Robert.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE WAYS OF THE WORLD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">1919. The eyes of the world are on Paris, where statesmen, diplomats and politicians have gathered to discuss the fate of half the world&apos;s nations in the aftermath of the cataclysm that was the Great War. A horde of journalists, spies and opportunists have also gathered in the city and the last thing the British diplomatic community needs at such a time is the mysterious death of a senior member of their delegation. So, when Sir Henry Maxted falls from the roof of his mistress&apos;s apartment building in unexplained circumstances, their first instinct is to suppress all suspicious aspects of the event. But Sir Henry&apos;s son, ex Royal Flying Corps ace James &apos;Max&apos; Maxted, has other ideas. He resolves to find out how and why his father died - even if this means disturbing the impression of harmonious calm which the negotiating teams have worked so hard to maintain. In a city where countries are jostling for position at the crossroads of history and the stakes could hardly be higher, it is difficult to tell who is a friend and who a foe.And Max will soon discover just how much he needs friends, as his search for the truth sucks him into the dark heart of a seemingly impenetrable mystery.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">GOD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

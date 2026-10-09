@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000765917</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789251080825</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9251080828</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000765917</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Strengthening organizations and collective action in fisheries : A way forward in implementing the international guidelines for securing sustainable small-scale fisheries : FAO Workshop, 18-20 March 2013, Rome, Italy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">FAO fisheries and aquaculture proceedings ; 32</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Strengthening organizations and collective action in small-scale fisheries (SSFs) is crucial to safeguarding fishers&apos; livelihoods and food and nutrition security as well as to fighting poverty and vulnerability. The crucial role of organizations in SSFs was underscored during the 2008 Global Conference on Small-scale Fisheries, held in Bangkok, Thailand, and the consultative workshops and related events supporting the development of the international guidelines for securing sustainable small-scale fisheries (SSF Guidelines). The United Nations declared 2012 the International Year of Cooperatives with the theme Cooperative Enterprises Build a Better World. This provided further impetus for championing fishers&apos; organizations and collective action as important instruments and drivers in promoting responsible fisheries and achieving the twin objectives of human and ecosystem well-being. In this context, the workshop Strengthening Organizations and Collective Action in Fisheries was held at FAO, Rome, Italy, on 18-20 March 2013. It was attended by 26 SSF experts representing civil society organizations, governments and academia. The workshop anticipated the implementation of the SSF Guidelines by looking at the diversity of existing organizations and collective action in SSFs, discussing their strengths and weaknesses, and proposing elements for a capacity development strategy to strengthen organizations and collective action in SSFs to reduce poverty while promoting responsible fisheries. The workshop identified challenges and opportunities and examined alternative pathways on how organizations and collective action in fisheries can strengthen and be strengthened by the SSF Guidelines. This publication summarizes the workshop results and intends to provide a useful reference document that will feed into the process of implementing the SSF Guidelines, which should be endorsed by the FAO Committee on Fisheries during its session in 2014.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">354.57 STR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
