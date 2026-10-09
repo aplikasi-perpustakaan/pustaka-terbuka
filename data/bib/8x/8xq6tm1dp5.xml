@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000640440</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781841495576</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1841495573</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000640440</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Brooks, Terry.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Witches brew</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Magic kingdom of landover novel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Former Chicago lawyer Ben Holiday was very proud and quite happy. And why shouldn&apos;t he be? The Magic Kingdom that he ruled as High Lord was finally at peace. He was free to lie back and watch as his new daughter grew. And grow she did - by leaps and bounds, shooting through infancy in a matter of months. She took her first steps and learned to swim in the same week. An amalgam of magic and heredity, Mistaya was born a seedling, nourished by soils from Landover, Earth, and the fairy mists, come into being in the dank, misty deadness of the Deep Fell. She was as lovely as her mother, the sylph Willow, with dazzling green eyes that cut to the soul. Ben wished he could enjoy his daughter&apos;s childhood and his happy kingdom forever. Alas, those idyllic days were not to last. For Rydall, king of lands beyond the fairy mists, rode up to the gates of Sterling Silver and shattered the peace of Landover. His armies were poised on the border, ready to invade unless Ben accepted a challenge: Rydall would send seven champions to face Ben, each in a different form. If Ben triumphed over all seven, Rydall would then abandon his claims to the kingdom. Some counseled the High Lord to refuse Rydall&apos;s challenge, but Holiday could not, for Mistaya had been snatched from her guardians by foul magic. And Rydall held the key to her fate...</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">BRO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

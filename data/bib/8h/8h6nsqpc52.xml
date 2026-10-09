@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000616301</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000616301</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">60th Anniversary of Founding of the People&apos;s Republic of China national day military parade and mass pageant celebrations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Disk 1: China National Day 60th Anniversary Military Parade: highlights the pageantry of this military review, displaying China&apos;s military great achievements in modernization and standardization as well as some new weapons, which presents a new China to the world; Disk2: China National Day 60th Anniversary Evening Gala:The evening gala for the 60th anniversary of the founding of the People&apos;s Republic of China will be held in Tiananmen Square at eight pm on Oct 1st 2009. Directed by Zhang Yimou, this gala consists of one prelude and four acts: &apos;This is a Great Nation&apos;, &apos;It is Where I Grew Up&apos;, &apos;On this Vast and Great Land&apos; and &apos;There is Beautiful Sunshine Everywhere&apos;. The gala will feature a lights show, fireworks, and ethnic arts performances; Disk3: Previous Military Parades.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">394.2640951 SIX</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

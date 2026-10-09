@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000748015</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781421413082</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1421413086</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000748015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Helfman, Gene S.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Sharks : The Animal Answer Guide</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Answering every conceivable question about sharks, authors Gene Helfman and George H. Burgess describe the fascinating biology, behavior, diversity (there are more than 1,000 species worldwide), and cultural importance of sharks, their close relationship to skates and rays, and their critical role in healthy ecosystems. Helfman and Burgess take readers on a round-the-world tour of shark habitats, which include oceans as well as lakes and even rivers (as far up the Mississippi as St. Louis). They describe huge, ferocious predators like (Great) White and Tiger sharks and species such as Basking and Whale sharks that feed on microscopic prey yet can grow to lengths of more than 40 feet. The mysterious and powerful Greenland shark, the authors explain, reaches a weight of 2,200 pounds on a diet of seal flesh. Small (less than 2-foot long) Cookiecutter sharks attack other sharks and even take a chunk out of the occasional swimmer. Despite our natural fascination with sharks, we have become their worst enemy. Many shark species are in serious decline and a number are threatened with extinction as a result of overfishing and persecution. Sharks: The Animal Answer Guide presents a perfect mix of current science, history, anthropology, intriguing facts, and gripping photographs. Whether your fascination with sharks stems from fear or curiosity, your knowledge of these animals will improve immensely when you consult this book.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">597.3 HEL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

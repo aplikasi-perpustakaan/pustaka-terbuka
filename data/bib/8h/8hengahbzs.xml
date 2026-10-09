@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000729851</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415890847</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415890845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000729851</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Costin, Carolyn</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Your Dieting Daughter : Antidotes Parents can Provide for Body Dissatisfaction, Excessive Dieting, and Disordered Eating</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Second Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Your Dieting Daughter is a unique text in a field overrun by books for the practitioner and lay reader. It can speak to both audiences, but is primarily as a text written for mothers who have daughters suffering from an eating disorder or disorders. It also serves as a reference for doctors, therapists, nutritionists, and eating disorder centers, and is an appropriate book for the same audience to recommend to clients. In the first edition, Dr. Costin, a well-respected therapist in the field, gave sound and practical advice for mothers to help them communicate with and understand their daughters as they go through the ordeal of eating disorders. There were letters, annecdotes, and diet plans along with recipes included, and readers enjoyed the unique focus of the mother/daughter relationship that the book stayed true to. This second edition will include many changes, including getting rid of the psychodelic cover. The diet and nutrion plans will likewise be deleted as many reviewers found them outdated. The availability of such plans on the internet also makes them fairly irrelevant in printed format, and would quickly outdate the book as new nutrition facts arise. In addition to deleting, the author will also be adding addition information on cultural issues, newer studies (such as DBT, Mindfulnnes, and Maudsley techniques), and medication. The focus will also be broadened on the clinical front and more information will be added on issues of body image, weight concerns, and dieting in the general population&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.852600835 COS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

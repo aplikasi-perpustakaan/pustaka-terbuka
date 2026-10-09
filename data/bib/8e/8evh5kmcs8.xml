@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000341321</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789670902999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9670902991</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000947450</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000341321</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">2021 年教育研究论文集 : “研究促动工业革命 4.0时代的教育发展” : 教师荣誉学士学位课程(小学华文). JILID 3/UNIT S3 | KOLEKSI ARTIKEL PENYELIDIKAN PENDIDIKAN 2021 : &quot;Penyelidikan Memacu Pendidikan Di Era Revolusi 4.0&quot; : PROGRAM IJAZAH SARJANA MUDA PERGURUAN DENGAN KEPUJIAN (BAHASA CINA SEKOLAH RENDAH) JUN 2021. JILID 3/UNIT S3 = 2021 Nian jiao yu yan jiu lun wen ji : “Yan jiu cu dong gong ye ge ming 4.0 shi dai de jiao yu fa zhan” : jiao shi rong yu xue shi xue wei ke cheng (xiao xue hua wen) JUN 2021. JILID 3/UNIT S3</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">378.00720595</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://drive.google.com/file/d/1T6bDrTswzZGlMYDbdigQduh5jJwAHtVO/view</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://depositori.pnm.gov.my/mydeposit/M211-00769e</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

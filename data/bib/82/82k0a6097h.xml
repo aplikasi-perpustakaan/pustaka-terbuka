@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738651</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118461303</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118461304</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738651</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gregerman, Alan S.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE NECESSITY of STRANGERS : The Intriguing Truth About Insight, Innovation, and Success</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A counterintuitive approach to fostering greater creativity and innovationMost of us assume our success relies on a network of friends and close contacts. But innovative thinking requires a steady stream of fresh ideas and new possibilities, which strangers are more likely to introduce. Our survival instincts naturally cause us to look upon strangers with suspicion and distrust, but in The Necessity of Strangers, Alan Gregerman offers the provocative idea that engaging with strangers is an opportunity, not a threat, and that engaging with the right strangers is essential to unlocking our real potential. The Necessity of Strangers reveals how strangers challenge us to think differently about ourselves and the problems we face. Shows how strangers can help us innovate better, get the most out of each other, and achieve genuine collaboration Presents principles for developing a &quot;stranger-centric&quot; mindset to develop new markets and stronger customer relationships, leverage the full potential of partnerships, and become more effective leaders Includes practical guidance and a toolkit for being more open, creating new ideas that matter, finding the right strangers in all walks of life, and tapping the real brilliance in yourself To stay competitive, you and your business need access to more new ideas, insights, and perspectives than ever before. The Necessity of Strangers offers an essential guide to discovering the most exciting opportunities you haven&apos;t met yet&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">650.1 GRE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

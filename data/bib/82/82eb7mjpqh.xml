@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000487363</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000487363</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Black Hawk down</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Details the near-disastrous mission in Somalia on October 3, 1993 where nearly 100 U.S. Army Rangers, commanded by Capt. Mike Steele. The troops were dropped by helicopter deep into the capital city of Mogadishu to capture two top lieutenants of a Somali warlord. The resulting action lead to a large and drawn-out firefight between the Rangers and hundreds of Somali gunmen. The battle led to the destruction of two U.S. Black Hawk helicopters and to the heroic efforts by various Rangers to get to them out. Centers on Sgt. Eversmann commanding one Ranger unit pinned down by the street fighting, to Warrant Officer Durant who was only survivor of the second black hawk crash site and subsequently captured. Lt. Col. McKnight leads a rescue convoy for the Rangers only to get lost within the hostile city. Lt. Perino leads the Rangers to the first black hawk crash site, while Staff Sgt. Yurek leads his decimated Ranger group through gunfire to safety</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 BLA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

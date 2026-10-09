@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770101</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781555709648</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1555709648</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770101</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Berger, Sidney E.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">RARE BOOKS AND SPECIAL COLLECTIONS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">From cuneiform, coins, and codices to prints, drawings, photographs, and maps, departments of rare books and special collections are the premier repositories of significant printed and manuscript works and artifacts. Entrusted with the responsibility of preserving the records of history and culture, these institutions enable access to millions of source materials. Berger, a veteran of rare book and special collections, offers a landmark examination of this field, aimed at practitioners in the library field, instructors teaching courses on the subject, booksellers, private collectors, historians, bibliophiles, and others involved in rare and unique materials. Showing readers everything they need to know about rare books and special collections, this wide-ranging book offers coverage of such key topics as: the profession&apos;s history and its relevance in the face of an increasingly digital world; archives&apos; relationship to the special collections department and their role in the wider institution; collection development, cataloging, processing, physical layout, and other operational functions, with coverage of acquisition sources and methods; what everyone needs to know about the physical materials in their care, including preservation, conservation, and restoration, storage, handling, and security; reference and outreach services, including a look at exhibitions and tours; fundraising and financial management; legal and ethical issues; forgeries, fakes, and facsimiles; bibliography and its impact on the rare book world, including a look at booksellers, donors, and auctions; the present state of books in our digital environment; the vocabulary of the trade. Rare Books and Special Collections presents a meticulous and systematic understanding of this growing field.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">025.2816 BER</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

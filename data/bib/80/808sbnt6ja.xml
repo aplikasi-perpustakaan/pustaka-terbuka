@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000749351</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062105097</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62105094</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000749351</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jenkins, Philip, 1952-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE GREAT AND HOLY WAR : How World War I Became a Religious Crusade</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This work offers the first look at how religion created and prolonged the First World War. At the one-hundredth anniversary of the outbreak of the war, the author, a historian, reveals the powerful religious dimensions of this modern-day crusade, a period that marked a traumatic crisis for Western civilization, with effects that echoed throughout the rest of the twentieth century.  The war was fought by the world&apos;s leading Christian nations, who presented the conflict as a holy war. Thanks to the emergence of modern media, a steady stream of patriotic and militaristic rhetoric was given to an unprecedented audience, using language that spoke of holy war and crusade, of apocalypse and Armageddon. But this rhetoric was not mere state propaganda. The author reveals how the widespread belief in angels and apparitions, visions and the supernatural was a driving force throughout the war and shaped all three of the major religions, Christianity, Judaism and Islam, paving the way for modern views of religion and violence. The disappointed hopes and moral compromises that followed the war also shaped the political climate of the rest of the century, giving rise to such phenomena as Nazism, totalitarianism, and communism. Connecting numerous remarkable incidents and characters, from Karl Barth to Carl Jung, the Christmas Truce to the Armenian Genocide, the author creates a powerful and persuasive narrative that brings together global politics, history, and spiritual crisis and shows how religion informed and motivated circumstances on all sides of the war.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">940.31 JEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

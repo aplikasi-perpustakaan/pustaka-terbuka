@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738471</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780500290958</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">500290954</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738471</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Higgins, Jackie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">WHY IT DOES NOT HAVE TO BE IN FOCUS : MODERN PHOTOGRAPHY EXPLAINED</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book offers a lively, informed defence of modern photography. Choosing 100 key photographs - with particular emphasis on the last twenty years - it examines what inspired each photographer, and traces how the piece was executed. In doing so, she brings to light the layers of meaning behind these singular works, some of which were initially dismissed out of hand for being blurred, overexposed or &apos;badly&apos; composed. Discover why Gillian Wearing&apos;s &apos;Self-Portrait at 17 Years Old&apos; is not the straightforward photobooth snap it appears on first sight; find out what lies behind Hiroshi Sugimoto&apos;s decision to use a 19th-century large-format camera for his work; and explore what prompted Richard Prince to begin photographing existing photographs. The often controversial images discussed in this book play with our expectations of a photograph, our ingrained tendency to believe that it is telling us the unadorned truth. Jackie Higgins proves once and for all that there&apos;s so much more to the art of photography than &apos;point and click&apos;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">770.905 HIG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

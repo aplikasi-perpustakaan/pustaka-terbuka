@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000752047</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781781005743</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1781005745</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000752047</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Asian Century, Sustainable Growth and Climate Change : Responsible futures matter</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This path-breaking book investigates the challenges of realizing the Asian century. Prosperity in Asia does not only mean economic growth; the issues of public health, sanitation, income equality, the social safety net and efficient use of natural resources are also important. It argues for new policy initiatives in social, environmental and natural resource areas of South, Southeast and East Asia. This insightful volume is presented in three parts: Part I identifies the major socio-economic factors which are likely to take away the opportunities in realizing the Asian century by 2050; Part II presents the responsible policy issues which would be needed to overcome the hurdles such as public finance, natural resources, public health and sanitation, intra-Asia migration and decentralized governance; and Part III articulates major challenges in realizing Asian prosperity including sustainable international business and sustainable growth. The topics examined range from demographic conditions and tax reform to responsible use of natural resources in the years to come. The Asian Century, Sustainable Growth and Climate Change will appeal to academics in the fields of Asian studies and environment ecology. Both practitioners and policymakers will find this detailed analysis of the major challenges for South Asian growth an invaluable resource.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.9500905 ASI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

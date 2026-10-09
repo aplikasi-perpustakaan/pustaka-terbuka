@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812356</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062355911</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62355910</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812356</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Roosevelt, Eleanor, 1884-1962.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Autobiography : of ELEANOR ROOSEVELT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A candid and insightful look at an era and a life through the eyes of one of the most remarkable Americans of the twentieth century The long and eventful life of Eleanor Roosevelt (1884-1962) was full of rich experiences and courageous actions. The niece of Theodore Roosevelt, she married a Columbia University law student named Franklin Delano Roosevelt, who gradually ascended in the world of New York politics to reach the presidency in 1932. Throughout his three terms, Eleanor Roosevelt was not only intimately involved in FDR&apos;s personal and political life but also led women&apos;s organizations and youth movements, and fought for consumer welfare, civil rights, and better housing standards. During World War II she traveled with her husband to meet leaders of many powerful nations; after his death in 1945 she worked as a UN delegate, chairman of the Commission on Human Rights, newspaper columnist, Democratic Party activist, and diplomat, and was a world traveler. By the end of her life, Eleanor Roosevelt was recognized around the world for her fortitude and commitment to the ideals of liberty and human rights. Her autobiography constitutes a self-portrait no biography can match for its candor and liveliness, wisdom, tolerance, and breadth of view--a self-portrait of one of the greatest American humanitarians of our time. With 8 pages of black-and-white photographs and an afterword by Eleanor Roosevelt&apos;s granddaughter.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">973.917092 ROS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

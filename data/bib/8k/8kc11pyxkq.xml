@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833944</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781451697223</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1451697228</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn952647509</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833944</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kapsambelis, Niki</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The INHERITANCE : A FAMILY on the FRONT LINES of the BATTLE AGAINST ALZHEIMER&apos;S DISEASE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Simon &amp; Schuster hardcover edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;An inspiring race against time: The courageous, hopeful story of the one family who may hold the key to finding a cure for Alzheimer&apos;s disease. Every sixty-nine seconds, someone is diagnosed with Alzheimer&apos;s disease. Of the top ten killers, it is the only disease for which there is no cure or treatment. For most people, there is nothing that they can do to fight back. But one family is doing all they can. The DeMoe family has the most devastating form of the disease that there is: early onset Alzheimer&apos;s, an inherited genetic mutation that causes the disease in 100 percent of cases, and has a 50 percent chance of being passed onto the next generation. Of the six DeMoe children whose father had it, five have inherited the gene; the sixth, Karla, has inherited responsibility for all of them. But rather than give up in the face of such news, the DeMoes have agreed to spend their precious, abbreviated years as part of a worldwide study that could utterly change the landscape of Alzheimer&apos;s research and offers the brightest hope for future treatments--and possibly a cure. Drawing from several years of in-depth research with this charming and upbeat family, journalist Niki Kapsambelis tells the story of Alzheimer&apos;s through the humanizing lens of these ordinary people made extraordinary by both their terrible circumstances and their bravery. Their tale is intertwined with the dramatic narrative history of the disease, the cutting-edge research that brings us ever closer to a possible cure, and the accounts of the extraordinary doctors spearheading these groundbreaking studies. From the oil fields of North Dakota to the jungles of Colombia, this incredible narrative redefines courage in the face of one of the most pervasive and mysterious pandemics of our time&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.8310092 KAP</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

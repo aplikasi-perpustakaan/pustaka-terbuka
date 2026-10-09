@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000577221</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470173589</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470173580</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000577221</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Weissman, Michaele</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">God in a cup : the obsessive quest for the perfect coffee</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;In God in a Cup, journalist and late-blooming adventurer Michaele Weissman treks into an exotic and paradoxical realm of specialty coffee where the successful traveler must be part passionate coffee connoisseur, part ambitious entrepreneur, part activist, and part Indiana Jones. Her guides on the journey are the nation&apos;s most heralded coffee business hotshots - Counter Culture&apos;s Peter Giuliano, Intelligentsia&apos;s Geoff Watts, and Stumptown&apos;s Duane Sorenson.&quot; &quot;Weissman tells the tale of an odyssey she shares with these and other brash visionaries who devote themselves to coffee with near-religious fervor, unquenchable energy, and geek-like attention to detail. This journey through the rituals and rivalries of today&apos;s ultra-premium coffee business begins in a sweltering Central American hotel, where &quot;cupping&quot; competition judges sniff and spit their way through hundreds of cups, detecting tobacco, chocolate, and blueberry in the brews.&quot;--BOOK JACKET</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.3373 WEI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

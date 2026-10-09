@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000713040</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781780093970</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1780093977</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000713040</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Floyd, David</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE HOT BOOK OF Chilllies</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book is for aficionados of hot, spicy food, the humble chilli inspires near-fanatical devotion. Chillies come in a variety of shapes, sizes and colours, from long and thin to round and berry-like, and from green to fiery orange, and there is a huge variation in the degree of hotness (measured on the Scoville scale). There are some 400 varieties of chillies, ranging in strength from the mild jalapeno to the blisteringly hot habanero. Chillies are grown all over the world, and are an essential ingredient (fresh or dried) in many world cuisines. Indeed, it would be hard to imagine a curry, mole poblano or fajitas without the hot stuff. &quot;The Hot Book of Chillies&quot; is an essential companion to enjoying chillies, and covers the history and biology of the plants, how hotness is measured, chillies and health, nutritional and medicinal value and how to preserve and use chillies. A gallery of chillies presents approximately 100 of the most popular chilli varieties, and the book includes a selection of recipes for salsas, hot sauces, jams and chutneys.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.8236 FLO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

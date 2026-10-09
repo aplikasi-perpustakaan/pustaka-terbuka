@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000636625</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780330443227</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">330443224</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000636625</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Walking, Christopher</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The undertow</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Wilson Taylor is a successful man: the owner of a thriving high-risk business, he has also raised his beloved daughter, Anna almost single-handedly since infancy. But nothing can prepare him for the call he receives from Doctor Jo Hoffman, explaining how Anna, now nineteen and travelling abroad, has been gravely injured while swimming in Australia&apos;s Byron Bay. Wilson rushes to the other side of the world, ready to assess the situation and fix it. And though the police are convinced it was an accident, Wilson&apos;s own investigation convinces him someone is to blame. Who was Anna&apos;s travelling companion and why did he abandon her? Who is the sinister blackmailer threatening Wilson...and how did they get those photos? Interspersed with Anna&apos;s own account of her travels, Wilson&apos;s quest takes him far from his daughter&apos;s bedside and deep into the Australian bush. But how much does he really know - or want to know - about his own child? In this tautly written, vividly compelling novel, Christopher Wakling explores the subjective nature of relationships, truth and perception, and the illusion that we are in control of our lives</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">WAL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

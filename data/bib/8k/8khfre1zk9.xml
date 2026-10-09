@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000256970</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000807091</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000256970</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Abdul Aziz Ahmed Fredericks, Sheikh</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">A COMMENTARY OF IMAM NAWAWI&apos;S 40 HADITHs</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Commentaries of Imam al-Nawawi&apos;s 40 Hadiths is an exclusive audio CD of a weekly series broadcasted on IKIMfm by producer, Mazlina Ismail. Presented by the learned Sheikh Abdul Aziz Ahmed Fredericks, the compilation offers lucid explanations and penetrating insights to one of the most important Islamic texts. Nottingham-born Sheikh Fredericks has both a bachelor&apos;s and post-graduate degrees in Education from universities in Leicester, London, and Strathclyde, while his grounding in Islamic Studies has taken him far and wide under prominent traditional scholars—Habib Ahmed Mashur al-Haddad in Jeddah and Abdul Rahman al-Khitamy in Kenya. A few of his notable works include translations of the Essentials of Islam by Ahmed bin Zayn al-Habashi, The Forty Hadiths on the Holy Quran by Mullah &apos;Ali al-Qari and the recently-completed Riyadatul Sibyan of Imam al-Ramli that was published as Educating Children: Classical Advice for Modern Times. Currently, his translation project is on al-Nasaih al-Dinniyah of Imam al-Haddad. Much of Sheikh Fredericks&apos; teaching experience and interest in special needs, in particular, have helped him not only in his da&apos;wah work but also driven him to co-found the organisation, Islamic Texts for the Blind (Kitaba)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Books</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">297.125</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://niaga.tvikim.my/product/a-commentary-of-imam-nawawis-40-hadiths-sheikh-abdul-aziz-ahmed-fredericks/</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000510491</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000510491</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">全职杀手 Fulltime killer | Quan zhi sha shou Fulltime killer</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">200X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">经历了多年的杀戮与孤独的O, 在失去了最爱Nancy的一刻变得比以前更自我封闭, 他拥有一间清洁得几乎无暇的公寓, Chin受雇清洁这家公寓, 但是从来都没有碰过那神秘的老板, 托狂妄自大, 梦想做上全职杀手的第一把交椅, 他故意制造一次又一次麻烦给Chin, 而Chin 亦发现托的目的是揭开老板O的面纱而已, 原来一切都跟五年前一失踪人口案件有关, 而最后O与托为了名誉和至爱决一死战, 两个只能活一个...</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 QUA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

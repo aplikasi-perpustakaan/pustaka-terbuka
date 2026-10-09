@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000609407</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422202005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422202003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000609407</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Graziano, Jim</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Johnny Depp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Pop culture: a view from the paparazzi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Award-winning actor Johnny Depp&apos;s rebellious personality caused him quite a bit of trouble as an adolescent. His adult life has not been without controversy either - he has been the subject of numerous tabloid rumours, and has also been arrested several times. However, this high-school dropout has been able to overcome his personal demons and go onto forge one of Hollywood&apos;s most interesting careers. After becomingf a star on the television series &apos;21 Jump Street&apos;, Johnny earned a reputation for often playing interesting and offbeat characters such as those in the films &apos;Edward Scissorhands&apos;, &apos;Don Juan DeMarco&apos;, and &apos;Sleepy Hollow&apos;. However, his greatest commercial and popular success came when he portrayed Captain Jack Sparrow in the 2003 film &apos;Pirates of the Caribbean : the curse of the Black Pearl&apos;. Today, Johnny Depp still enjoys making movies, but he is also happily settled into the role of father and spends much of his time appreciating life with family in southern France.&quot; - back cover</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.43028092 GRA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

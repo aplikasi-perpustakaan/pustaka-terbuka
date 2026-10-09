@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000891135</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000974215</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000891135</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BUMBLEBEE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2018-2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">On Cybertron, the Autobots, led by Optimus Prime, are on the verge of losing the Great Cybertronian War to their enemies, the Decepticons, and begin making preparations to leave the planet. The Decepticons led by Shockwave, Soundwave and Starscream ambush them during the evacuation, and Optimus sends a young scout, B-127, to Earth in order to set up a base of operations where the Autobots can regroup. B-127 reaches Earth alone in 1987, crash-landing in California and disrupting a training exercise being conducted by Sector 7, a secret government agency that monitors extraterrestrial activity on Earth. Sector 7 agent Colonel Jack Burns presumes B-127 to be a hostile invader and attacks, driving B-127 into the forest, where he is then ambushed by the Decepticon Blitzwing. When B-127 refuses to reveal Optimus&apos; whereabouts, Blitzwing spitefully tears out his voice-box and damages his memory core. B-127 manages to destroy Blitzwing before collapsing from his wounds</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Videorecording</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 BUM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

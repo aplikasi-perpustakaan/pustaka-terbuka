@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734589</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007317455</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">000731745X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734589</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tubridy, Ryan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE IRISH ARE COMING</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Ryan Tubridy is without doubt one of Eire&apos;s most popular commentators on Irish public life. Much like a certain Sir Terry Wogan, his unique humour and insight into the Irish psyche is the daily news in his home country. Even though he has now embarked on a new fledgling career in the UK, he is still tremendously proud of what his country has given to the world, and especially it&apos;s old former ruler, Great Britain. Casting off this yoke, Ryan feels it&apos;s time to use his historical research skills to unearth the many amazing, and altogether fascinating, contributions the Irish have made to everyday British life. Without trying to sound ungrateful, he delivers with good humour and grace a litany of events, people, inventions and moments in Irish history that elevated British life; whether it be making us laugh (Graham Norton), thrilling us with their acting (Peter O&apos;Toole), shocking us with their audacious adventuring (Earnest Shackleton), and, yes, even scientific discover such as splitting the atom (Ernst Walton). Do you want to see what Ryan thinks about the best footballer there has ever lived (George Best of course!), or comment on that Britain&apos;s greatest general was actually Irish (Lord Wellington); shout to the roof tops that Ireland supplied both headmasters for Hoggwarts, and of course, had an inventor that not only developed the first helicopter, but then designed the ejector seat! Just as Stuart Maconie has celebrated in his own unique way all that is great about his North of England roots, thus Ryan Tubridy takes it one step further and shouts very loudly how magnificent and altogether exceptional is his country&apos;s contribution to the neighbour it sometimes love to hate.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">941.0049162 TUB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

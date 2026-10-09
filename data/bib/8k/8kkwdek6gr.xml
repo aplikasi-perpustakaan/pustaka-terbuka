@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000810022</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262029148</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262029146</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000810022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Smil, Vaclav</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Power Density : A Key to Understanding Energy Sources and Uses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In this book, Vaclav Smil argues that power density is a key determinant of the nature and dynamics of energy systems. Any understanding of complex energy systems must rely on quantitative measures of many fundamental variables. Power density -- the rate of energy flux per unit of area -- is an important but largely overlooked measure. Smil provides the first systematic, quantitative appraisal of power density, offering detailed reviews of the power densities of renewable energy flows, fossil fuels, thermal electricity generation, and all common energy uses. Smil shows that careful quantification, critical appraisals, and revealing comparisons of power densities make possible a deeper understanding of the ways we harness, convert, and use energies. Conscientious assessment of power densities, he argues, proves particularly revealing when contrasting the fossil fuel--based energy system with renewable energy conversions. Smil explains that modern civilization has evolved as a direct expression of the high power densities of fossil fuel extraction. He argues that our inevitable (and desirable) move to new energy arrangements involving conversions of lower-density renewable energy sources will require our society -- currently dominated by megacities and concentrated industrial production -- to undergo a profound spatial restructuring of its energy system.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">333.79 SMI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

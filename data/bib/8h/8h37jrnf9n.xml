@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000644765</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781859642283</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1859642284</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000644765</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Boggs, Richard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Hammaming in the Sham : a journey through the Turkish baths of Damascus, Aleppo and beyond</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In Hammaming in the Sham, Richard Boggs travels the length and breadth of modern Syria, documenting the traditions of bathing in Damascus, Aleppo and elsewhere, and his encounters with Syrians as they bathe. Legend has it that Damascus once had 365 hammams or Turkish baths : one for each day of the year. Originally part of an ancient Roman tradition, hammams were absorbed by Islam to such an extent that many became almost annexes to nearby mosques. For centuries, hammams were an integral part of community life, with some 50 hammams surviving in Damascus until the 1950s. Since then, however, with the onslaught of modernization programs and home bathrooms, many have been demolished; fewer than 20 Damascene working hammams survive today. In Boggs portrayal of life in the hammams he reveals how these ancient institutions cater for both body and soul, and through his conversations with the bathers within, he provides insights into the grass roots of contemporary Syrian society. Approximately 100 color photographs accompany the text, portraying the traditional neighborhoods of Damascus and Aleppo, and the almost religious feel of the hammams. The author&apos;s intimate portraits of the baths employees and bathers show a unique side of Syria rarely exposed to the outside world.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">392 BOG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

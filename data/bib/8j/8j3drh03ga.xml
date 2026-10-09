@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734051</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062265289</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62265288</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734051</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">DuBois, Joshua</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE PRESIDENT&apos;S DEVOTIONAL : THE DAILY READINGS THAT INSPIRED PRESIDENT OBAMA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In the heat of Barack Obama&apos;s first presidential campaign, staff member Joshua DuBois recognized the wear and tear on his boss and asked the senator if he could e-mail a devotional to him each day. When Obama responded positively, DuBois prepared a short e-mail for the future president to read first thing every morning, short snippets of Scripture, inspirational stories, quotes, and prayers to provide counsel, encouragement, and inspiration, which the president himself has stated &quot;meant the world&quot; to him. Through his years of working closely with the president, DuBois learned many life-changing lessons as well as gained an inside view on the faith and values of President Obama. DuBois now provides 365 of the best readings and prayers he sent the president; in addition, each month DuBois offers a longer meditation on the spiritual lessons he learned by accompanying the president as he faced many historic moments and challenges--two elections, meeting Billy Graham, the Sandy Hook shootings, and more. By spending time each day with The President&apos;s Devotional, we are reminded what is most important in life, that we are not alone in our efforts, and what our true mission is in the world.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">973.932092 DUB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
