@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000638660</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">99482185</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780099482185</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000638660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Corlett, William.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The tunnel behind the waterfall : being the third book of the magician&apos;s house</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">The magician&apos;s house</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Thirteen-year-old William Constant and his two younger sisters, Mary and Alice, have come to ancient, mysterious Golden House in Wales for the holidays. Their lives will never be the same once they enter the Magician&apos;s House, and discover their destiny. All that glitters. Summer has returned, with a dangerous new mission at Golden House for William, Mary, and Alice. Developers are determined to transform Golden Valley into a Disneyland-style amusement park. The village is eager for the jobs it will bring. Old Meg Lewis has been offered a small fortune to sell her home. Even Uncle Jack and Phoebe may be forced out of their beloved Golden House. Only the children can save them. But first they must find the secret that lies behind the waterfall, and take a dark and dangerous journey to a lost world where no one can go, or escape, without magic. The evil Morden watches their every move. His black magic is more powerful than ever. Not even the Magician can battle him now. But are the lessons he has taught William, Mary, and Alice enough to defeat an ancient foe? Suddenly they&apos;re alone, with only the Magician&apos;s subjects, the badger, the kestrel, the fox, and the otter, to lead them in the fight of their lives!</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">COR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

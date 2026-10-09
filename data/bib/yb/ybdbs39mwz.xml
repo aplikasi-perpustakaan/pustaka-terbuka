@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000702296</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780307266514</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">307266516</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000702296</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sebag Montefiore, Simon, 1965-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Jerusalem : the biography</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Jerusalem is the universal city, the capital of two peoples, the shrine of three faiths; it is the prize of empires, the site of Judgment Day and the battlefield of today&apos;s clash of civilizations. From King David to Barack Obama, from the birth of Judaism, Christianity and Islam to the Israel-Palestine conflict, this is the epic history of three thousand years of faith, slaughter, fanaticism and coexistence. How did this small, remote town become the Holy City, the &quot;center of the world&quot; and now the key to peace in the Middle East? In a gripping narrative, Simon Sebag Montefiore reveals this ever-changing city in its many incarnations, bringing every epoch and character blazingly to life. Jerusalem&apos;s biography is told through the wars, love affairs and revelations of the men and women -- kings, empresses, prophets, poets, saints, conquerors and whores -- who created, destroyed, chronicled and believed in Jerusalem. As well as the many ordinary Jerusalemites who have left their mark on the city, its cast varies from Solomon, Saladin and Suleiman the Magnificent to Cleopatra, Caligula and Churchill; from Abraham to Jesus and Muhammad; from the ancient world of Jezebel, Nebuchadnezzar, Herod and Nero to the modern times of the Kaiser, Disraeli, Mark Twain, Lincoln, Rasputin, Lawrence of Arabia and Moshe Dayan. Drawing on new archives, current scholarship, his own family papers and a lifetime&apos;s study, Montefiore illuminates the essence of sanctity and mysticism, identity and empire in a unique chronicle of the city that many believe will be the setting for the Apocalypse. This is how Jerusalem became Jerusalem, and the only city that exists twice -- in heaven and on earth. --From publisher description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">956.94420099 SEB</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000848671</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789674404468</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9674404465</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000848671</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">International Conference of Islamic Fundamental on Integration of Aqli and Naqli (2018 : Negeri Sembilan)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">PAPER PROCEEDINGS INTERNATIONAL CONFERENCE OF ISLAMIC FUNDAMENTAL ON INTEGRATION OF AQLI AND NAQLI (ICON) 2018 : DIVERSITY OF SUNNAH : WITHIN A WEALTH OF KNOWLEDGE 17 Mac 2018 / 29 Jamadil Akhir 1439h Institut Agama Islam Negeri, Sumatera Barat, Indonesia. Hosted By Faculty Of Quranic And Sunnah Studides, Universiti Sains Islam Malaysia In Collaboration With: Institut Agama Islam Negeri, Sumatera Barat Indonesia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">378.595</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

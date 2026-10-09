@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746277</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9783791346540</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">3791346547</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746277</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kuhl, Isabel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ARCHITECTURE : THE GROUNDBREAKING MOMENTS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">From the pyramids to the Guggenheim Museum, discover how these groundbreaking strucktures changed the course of architecture through the ages. Architecture evolves in response to man&apos;s technological advances and environmental demands. Driven by these developments, architects can be seen as the most innovative of artists. In twenty-five beautifully illustrated chapters, this volume for general readers and architecture lovers alike identifies the most important advancements in the field of architecture, and demonstrates how these innovations influenced the development of architecture. Chapters focus on topics such as monuments to the dead and places of worship; domes; pillars and arches; towers from Pisa to Eiffel; stadia and theaters; palaces and skyscrapers. Readers will learn about the introduction of glass, steel, iron, and concrete; how buildings express ideas; and the rediscovery of antiquity. Arranged chronologically, these chapters can be studied individually to deepen our understanding of particular aspects of architecture or as a whole-to appreciate the ever changing patterns of architectural advancement.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">720.9 KUH</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

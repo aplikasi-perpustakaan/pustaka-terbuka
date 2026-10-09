@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000587452</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780198509899</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">198509898</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000587452</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Spatial analysis in epidemiology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Oxford biology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;This book provides a practical, comprehensive, and up-to-date overview of the use of spatial statistics in epidemiology - the study of the incidence and distribution of diseases. Used appropriately, spatial analytical methods in conjunction with GIS and remotely sensed data can provide significant insights into the biological patterns and processes that underlie disease transmission. In turn, these can be used to understand and predict disease prevalence. This user-friendly text brings together the specialised and widely-dispersed literature on spatial analysis to make these methodological tools accessible to epidemiologists for the first time.&quot; &quot;With its focus on application rather than theory, Spatial Analysis in Epidemiology includes a wide range of examples taken from both medical (human) and veterinary (animal) disciplines, and describes both infectious diseases and non-infectious conditions. Furthermore, it provides worked examples of methodologies using a single data set from the same disease example throughout, and is structured to follow the logical sequence of description of spatial data, visualisation, exploration, modelling, and decision support. This accessible text is aimed at graduate students and researchers dealing with spatial data in the fields of epidemiology (both medical and veterinary), ecology, zoology and parasitology, environmental science, geography, and statistics.&quot;--BOOK JACKET</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">614.40727 SPA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

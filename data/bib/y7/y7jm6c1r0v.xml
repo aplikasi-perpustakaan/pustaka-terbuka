@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000730591</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780240823720</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">240823729</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000730591</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pennington, Adrian</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">EXPLORING 3D : THE NEW GRAMMAR OF STEREOSCOPIC FILMMAKING</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Inspiration and practical wisdom from the leaders in stereoscopic 3D filmmaking! The vanguard of the 3D film and TV industry explains why 3D stereo techniques should become a staple visual storytelling tool, on par with lighting, set design, or sound. Words of wisdom from Jeffrey Katzenberg, Dean DeBlois, Baz Luhrmann, Jon Landau, Barrie M. Osborne, Wim Wenders, and more, provide you with unparalleled insight into the leading minds in 3D. Not only is effective use of 3D in movies thoroughly covered, but also included is a chapter on live events, with insight from the people bringing us the FIFA World Cup in 3D, and those pushing the boundaries of 3D TV documentaries. Including full-color imagery from many of your favorite 3D films released thus far, Exploring 3D provides a window into how those dazzling movies were created, and insight into what the future may hold.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">777 PEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

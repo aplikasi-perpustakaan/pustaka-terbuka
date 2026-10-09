@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735601</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781592538560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1592538568</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735601</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cerruti, Courtney</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Playing with Image Transfers : Exploring Creative Imagery for use In Art, Mixed Media, And Design</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Whatever art you practice, chances are you&apos;re going to come across image transfer techniques. These valuable techniques allow you to reproduce a unique image from any source and apply it to a myriad of surfaces. The options are endless! Playing with Image Transfers is a beautiful and helpful resource that will teach you the four image transfer methods: Packing Tape, Solvent, Medium, and Acrylic transfers, while highlighting basic methods and offering projects across a range of interests and applications. You&apos;ll learn how to make beautiful items, including gift boxes, albums, sketchbook covers, wall art, accordion books, and much more. Once you&apos;ve mastered the techniques, you&apos;ll also explore multiple surfaces as a base for transferring--wood, fabric, paper, canvas, and book forms. A beautiful gallery will show the use of image transfers in a wide variety of high-end artistic works to get your creative juices flowing. The &apos;Considerations&apos; in each chapter offer suggestions on how a single project can be expanded or further adapted if you&apos;re looking to challenge yourself past the basics. By the time you finish this informative book, you&apos;ll be well-equipped to use your own images in your creative work&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">746.62 CER</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

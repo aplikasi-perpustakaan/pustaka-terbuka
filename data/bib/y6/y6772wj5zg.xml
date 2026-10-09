@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000774019</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415640459</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415640458</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000774019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Brown, Robert E., 1945-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Public Relations Of Everything : The ancient, modern and postmodern dramatic history of an idea</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Routledge new directions in public relations and communication research</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The public relations of &quot;everything&quot; takes the radical position that public relations is a profoundly different creature than a generation of its scholars and teachers have portrayed it. Today, it is clearly no longer limited, if it ever has been, to the management of communication in and between organizations. Rather, it has become an activity engaged in by everyone, and for the most basic human reasons: as an act of self-creation, self-expression, and self-protection. The book challenges both popular dismissals and ill-informed repudiations of public relations, as well as academic and classroom misconceptions. In the age of digitization and social media, everyone with a smart phone, Twitter and Facebook accounts, and the will and skill to use them, is in the media. The PR of everything - the ubiquitousness of public relations - takes a perspective that is less concerned with ideas of communication and information than with experience and drama, a way of looking at public relations inside out, upside down and from a micro rather than a macro level. Based on a combination of the research of PR practice and critical-thinking analysis of theory, and founded in the author&apos;s extensive corporate experience, this book will be invaluable reading for scholars and practitioners alike in Public Relations, Communications and Social Media&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">659.2 BRO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

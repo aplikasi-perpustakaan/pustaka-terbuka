@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984210</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789865102210</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9865102218</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984210</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Katō, Masatoshi, 1960-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">不靠藥物降血壓 : 讓你的人生從「高血壓」、「長期服藥」及「減鹽飮食」中自由 | Bu kao yao wu jiang xue ya : rang ni de ren sheng cong &quot;gao xie ya&quot;, &quot;chang qi fu yao&quot; ji &quot;jian yan yin shi&quot; zhong zi you</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">二版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Do you experience headaches, neck stiffness, or dizziness as soon as you get to the office? The greater the work stress and the longer the working hours, the higher the risk of stress-induced hypertension. Surveys show that up to 60% of office workers aged 20 to 39 have abnormal blood pressure, forming what’s now known as “Office Hypertension Syndrome.” In both Taiwan and Japan, hypertension ranks as the number one “national disease.” Most young patients only discover they have high blood pressure during routine health checkups—and many of them don’t smoke or drink, proving that even so-called healthy lifestyles aren&apos;t enough to rule out the risk</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.132 KAT</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984994</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789865596934</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9865596938</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984994</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Grant, Adam, 1981-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">逆思維 | Ni si wei</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Upward ; 133</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Everyone is accustomed to thinking in the most comfortable way and is reluctant to doubt or challenge themselves because “doubt” makes the world unpredictable and even threatens self-identity. As a result, our preconceptions are perpetuated, our intelligence becomes a blind spot, and our fear of change, “Conformal Thinking”, makes us choose to limit ourselves. If we want to break through our self-imposed limitations, we must develop the “counter-thinking” of a “scientist”, break the mold and reflect boldly. Unlike “pastors” who are firm in their beliefs, or ‘politicians’ who are clever in their speeches, “scientists” do not let their ideas become ideologies, nor do they jump to conclusions. Instead, they allow questions to lead us forward, and it is not a matter of who is right and who is wrong, but rather a matter of recognizing our own shortcomings and inadequacies</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.1 GRA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

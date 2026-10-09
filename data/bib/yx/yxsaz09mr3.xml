@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000754313</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781782490869</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1782490868</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000754313</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McCabe, Jenny</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE HAND PRINTED HOME : 35 stylish projects using stencils, lino cuts, and more</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Learn how to make stylish home accessories you have printed yourself with beautiful patterns, from foliage motifs to striking chevrons. Choose from 35 gorgeous projects by designer and maker Jenny McCabe, which range from stylish pillows to curtains and bedsheets, to tea towels and other practical designs that will be endlessly useful. Try making a simple set of napkins, with a gorgeous leaf pattern, or a cheerful table runner in a colourful dotted design, created using potato circles. The roller blind has a cool bird design, while the elegant curtains, covered in a delicate vine pattern, will make your living room look chic and contemporary. If you&apos;ve never handprinted before, the comprehensive techniques section will teach you all you need to know, including how to use a variety of printing methods. Plus, the sewing know-how section will guide beginners, as well as provide a handy reference for experienced stitchers. Each project comes with beautifully illustrated step-by-step instructions, and you are certain to find a design that you will love to make for your home, or as the perfect gift for friends and family.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">745.7 MACC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

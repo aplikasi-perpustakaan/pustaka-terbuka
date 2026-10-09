@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000691125</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781592407231</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1592407234</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000691125</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lustig, Andrea Pomerantz</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">How to look expensive : a beauty editor&apos;s secrets to getting gorgeous without breaking the bank /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Glamour&apos;s &quot;Beauty Sleuth&quot; reveals tricks of the trade to help you look fabulously high-end -- in any economy. Andrea Pomerantz Lustig has spent twenty years as a beauty editor, and her contact list is packed with the names of the most exclusive stylists in the business.In How to Look Expensive, she combines her own experience with highly coveted secrets she&apos;s learned from the experts to help readers achieve buttery highlights, luminous skin, flawless makeup, and more, all on a budget. Delivering red-carpet looks without putting readers in the red, tips include: How to get expensive-looking hair color at an inexpensive salon Superluxe DIY skincare cocktails for less than $20 The cheap cosmetic secrets of expensive makeup artists Tips for princess-perfect skin on a pauper&apos;s budget &quot;Work Your Beauty Budget&quot; sections that help you make the most of every dollarWith How to Look Expensive, every woman can afford to get gold-card gorgeous, and reap the self-confidence that comes with it&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">646.72 LUS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
