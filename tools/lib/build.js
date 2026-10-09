@@ -179,6 +179,12 @@ export async function buildSite(options) {
         lcc = parsedLCC.fullCallNumber;
       }
     }
+
+    const summaryField = record.dataFields?.find(f => f.tag === '520');
+    const summary = summaryField ? getSubfield(summaryField, 'a').trim() : '';
+
+    const noteField = record.dataFields?.find(f => f.tag === '500');
+    const note = noteField ? getSubfield(noteField, 'a').trim() : '';
     
     let lang = 'en';
     const f008 = record.controlFields?.find(f => f.tag === '008')?.value;
@@ -195,7 +201,7 @@ export async function buildSite(options) {
     const orgCodes = [...new Set(holdings.map(h => h.org))];
     
     // Pagefind index
-    let searchableText = [title, author, publisher, ...subjects, ...isbns, lcc, ddc, callNum852].filter(Boolean).join(' ');
+    let searchableText = [title, author, publisher, ...subjects, ...isbns, lcc, ddc, callNum852, summary, note].filter(Boolean).join(' ');
     
     const schemes = [];
     if (lcc) schemes.push('LCC');
@@ -261,6 +267,8 @@ export async function buildSite(options) {
 body { font-family: system-ui, sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem; line-height: 1.6; }
 h1 { font-size: 2rem; margin-bottom: 0.5rem; }
 .metadata { background: #f4f4f4; padding: 1rem; border-radius: 4px; margin-bottom: 2rem; }
+.summary, .notes { background: #f9fbfd; border-left: 4px solid #0056b3; padding: 1rem; margin: 1.5rem 0; border-radius: 4px; }
+.summary h2, .notes h2 { font-size: 1.2rem; margin-top: 0; margin-bottom: 0.5rem; color: #0056b3; }
 .holdings { margin-top: 2rem; }
 </style>
 </head>
@@ -276,6 +284,8 @@ h1 { font-size: 2rem; margin-bottom: 0.5rem; }
   <p><strong>DDC:</strong> ${escapeHTML(ddc)}</p>
   ${callNum852 ? `<p><strong>Call Number:</strong> ${escapeHTML(callNum852)}</p>` : ''}
 </div>
+${summary ? `<div class="summary"><h2>Summary / Abstract</h2><p>${escapeHTML(summary)}</p></div>` : ''}
+${note ? `<div class="notes"><h2>Notes</h2><p>${escapeHTML(note)}</p></div>` : ''}
 <div class="holdings">
   <h2>Held By</h2>
   <ul>${holdingsHtml}</ul>
