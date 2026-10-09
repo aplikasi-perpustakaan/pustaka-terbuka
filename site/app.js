@@ -377,18 +377,21 @@ function buildCustomSearchUI() {
   
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
-    await performSearch(input.value, resultsContainer);
+    await performSearch(input.value, resultsContainer, false);
   });
   
   // Also hook into org changes
   const oldOnOrgChange = window.onOrgChange;
   window.onOrgChange = async (org) => {
     if (oldOnOrgChange) await oldOnOrgChange(org);
-    await performSearch(input.value, resultsContainer);
+    await performSearch(input.value, resultsContainer, false);
   };
+
+  // Perform initial search on load so catalog books appear immediately
+  performSearch('', resultsContainer, true);
 }
 
-async function performSearch(query, resultsContainer) {
+async function performSearch(query, resultsContainer, isInitial = false) {
   if (!pagefind) return;
   
   resultsContainer.innerHTML = 'Searching...';
@@ -398,16 +401,26 @@ async function performSearch(query, resultsContainer) {
     searchOpts.filters = { organization: [currentOrg] };
   }
   
-  const search = await pagefind.search(query, searchOpts);
+  const searchTerm = (query && query.trim()) ? query.trim() : (isInitial ? 'a' : '');
+  if (!searchTerm) {
+    resultsContainer.innerHTML = `<p>${escapeHTML(i18n['no_results'] || 'No results found.')}</p>`;
+    return;
+  }
+
+  const search = await pagefind.search(searchTerm, searchOpts);
   
   if (!search || !search.results || search.results.length === 0) {
     resultsContainer.innerHTML = `<p>${escapeHTML(i18n['no_results'] || 'No results found.')}</p>`;
     return;
   }
   
-  let msg = i18n['results_count'] || '{0} results found.';
-  msg = msg.replace('{0}', search.results.length);
-  resultsContainer.innerHTML = `<p>${escapeHTML(msg)}</p>`;
+  if (isInitial) {
+    resultsContainer.innerHTML = `<p style="color:#555; margin-bottom:1rem;">📚 <strong>Catalog Highlights:</strong> Showing recent titles. Use the search bar above to search across all cataloged records.</p>`;
+  } else {
+    let msg = i18n['results_count'] || '{0} results found.';
+    msg = msg.replace('{0}', search.results.length);
+    resultsContainer.innerHTML = `<p>${escapeHTML(msg)}</p>`;
+  }
   
   const list = document.createElement('div');
   list.className = 'results-list';
