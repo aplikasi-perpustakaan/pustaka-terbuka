@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000810023</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262029087</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262029081</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000810023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chirimuuta, M</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Outside Color : Perceptual Science and the Puzzle of Color in Philosophy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Is color real or illusory, mind independent or mind dependent? Does seeing in color give us a true picture of external reality? The metaphysical debate over color has gone on at least since the seventeenth century. In this book, M. Chirimuuta draws on contemporary perceptual science to address these questions. Her account integrates historical philosophical debates, contemporary work in the philosophy of color, and recent findings in neuroscience and vision science to propose a novel theory of the relationship between color and physical reality. Chirimuuta offers an overview of philosophy&apos;s approach to the problem of color, finds the origins of much of the familiar conception of color in Aristotelian theories of perception, and describes the assumptions that have shaped contemporary philosophy of color. She then reviews recent work in perceptual science that challenges philosophers&apos; accounts of color experience. Finally, she offers a pragmatic alternative whereby perceptual states are understood primarily as action-guiding interactions between a perceiver and the environment. The fact that perceptual states are shaped in idiosyncratic ways by the needs and interests of the perceiver does not render the states illusory. Colors are perceiver-dependent properties, and yet our awareness of them does not mislead us about the world. Colors force us to reconsider what we mean by accurately presenting external reality, and, as this book demonstrates, thinking about color has important consequences for the philosophy of perception and, more generally, for the philosophy of mind&quot;--MIT CogNet.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">121.35 CHI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

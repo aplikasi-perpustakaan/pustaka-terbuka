@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000961625</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789671841822</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9671841821</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000961625</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wisse, G. (Gerard), 1873-1957</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">神圣的忧愁 | Shen sheng de you chou = Godly Sorrow</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The book consists of 38 chapters centered on divine sorrow in all its aspects, richly and thoughtfully presented, including: the origin and nature of divine sorrow, the variety and recurrence of sorrow, the signs of pseudo-sorrow and true sorrow, the state of the soul in divine sorrow, the necessity, duality, and differentiation of imputed righteousness, passive and active imputed righteousness, pseudo-dying and sincere sorrow, the degrees and stages of joy, the content and stages of sanctification etc. 
+ 
+This is not an academic or theological monograph, but an in-depth devotional book to help us understand that divine sorrow is after God&apos;s own heart. In holy sorrow, God touches our souls and brings us into communion with Him. Instead of resisting God and His fellowship with us, divine sorrow draws us closer to God according to His intent to work in our souls!</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">204.32 WIS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

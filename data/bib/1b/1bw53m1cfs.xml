@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000691131</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780300159981</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">300159986</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000691131</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tibi, Bassam, 1924-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Islamism and Islam</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Despite the intense media focus on Muslims and their religion since the tragedy of 9/​11, few Western scholars or policymakers today have a clear idea of the distinctions between Islam and the politically based fundamentalist movement known as Islamism. In this important and illuminating book, Bassam Tibi, a senior scholar of Islamic politics, provides a corrective to this dangerous gap in our understanding. He explores the true nature of contemporary Islamism and the essential ways in which it differs from the religious faith of Islam. Drawing on research in twenty Islamic countries over three decades, Tibi describes Islamism as a political ideology based on a reinvented version of Islamic law. In separate chapters devoted to the major features of Islamism, he discusses the Islamist vision of state order, the centrality of antisemitism in Islamist ideology, Islamism&apos;s incompatibility with democracy, the reinvention of jihadism as terrorism, the invented tradition of shari&apos;a law as constitutional order, and the Islamists&apos; confusion of the concepts of authenticity and cultural purity. Tibi&apos;s concluding chapter applies elements of Hannah Arendt&apos;s theory to identify Islamism as a totalitarian ideology.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">320.557 TIB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

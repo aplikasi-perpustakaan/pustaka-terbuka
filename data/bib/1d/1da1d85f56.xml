@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000706052</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781920989675</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1920989676</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000706052</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kwong, Kylie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Kylie Kwong&apos;s simple chinese cooking class</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kylie Kwong&apos;s Simple Chinese Cooking Class will take your Chinese cooking knowledge and skills to the next level, as well as providing ideas and inspiration by way of more than 130 new recipes. With Kylie at your side in the kitchen, you can easily expand your repertoire by mastering techniques such as tea-smoking and pickling. Learn how to make your own spring rolls, sticky rice parcels and a versatile XO sauce that will transform seafood or vegetables - even fried rice - with its layers of flavour and complexity. To make the most of your newly acquired skills, try your hand at stir-fried chicken with tea-smoked oysters and pickled chillies, steamed crab custard with enoki mushrooms, stir-fried scallops with XO sauce, or Hokkien noodles with chilli sauce and Chinese cabbage. In no time you&apos;ll be rustling up a stir-fried omelette laden with snow peas, fresh herbs and bean sprouts or making a big pot of pork ball and vermicelli soup.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">641.5951 KWO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

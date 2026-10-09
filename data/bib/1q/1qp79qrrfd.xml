@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770954</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262526449</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262526441</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770954</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Drela, Mark</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Flight Vehicle Aerodynamics</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;This book offers a general overview of the physics, concepts, theories, and models underlying the discipline of aerodynamics.  A particular focus is the technique of velocity field representation and modeling via source and vorticity fields and via their sheet, filament, or point-singularity idealizations.  These models provide an intuitive feel for aerodynamic flow-field behavior and are the basis of aerodynamic force analysis, drag decomposition, flow interference estimation, and other important applications.  The models are applied to both low speed and high speed flows.  Viscous flows are also covered, with a focus on understanding boundary layer behavior and its influence on aerodynamic flows.  The book covers some topics in depth while offering introductions and summaries of others. Computational methods are indispensable for the practicing aerodynamicist, and the book covers several computational methods in detail, with a focus on vortex lattice and panel methods. The goal is to improve understanding of the physical models that underlie such methods. The book also covers the aerodynamic models that describe the forces and moments on maneuvering aircraft, and provides a good introduction to the concepts and methods used in flight dynamics. It also offers an introduction to unsteady flows and to the subject of wind tunnel measurements.  The book is based on the MIT graduate-level course &quot;Flight Vehicle Aerodynamics&quot; and has been developed for use not only in conventional classrooms but also in a massive open online course (or MOOC) offered on the pioneering MOOC platform edX.  It will also serve as a valuable reference for professionals in the field. The text assumes that the reader is well versed in basic physics and vector calculus, has had some exposure to basic fluid dynamics and aerodynamics, and is somewhat familiar with aerodynamics and aeronautics terminology.&quot;--back cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">629.1323 DRE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

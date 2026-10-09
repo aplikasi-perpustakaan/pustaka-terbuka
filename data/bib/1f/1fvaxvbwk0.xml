@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770346</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780863568992</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">863568998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770346</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Achcar, Gilbert.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE PEOPLE WANT : A Radical Exploration of the Arab Uprising ; Translated from French by G.M.Goshgarian</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The people want - &quot; So began the slogan chanted by millions of protesters across the Arab world in 2011, as their long-suppressed craving for democracy revealed itself. But huge social and economic problems were also laid bare by the protestors&apos; demands. In this landmark work, noted Middle East analyst Gilbert Achcar draws up a balance sheet of the uprisings in Tunisia, Egypt, Yemen, Bahrain, Libya and Syria, and analyses the specific socio-economic features that hinder the region&apos;s development. Achcar also sheds light on the nature and role of the movements that use Islam as a political banner and the oil monarchies that sponsor them. With incisive and invaluable insight, Achcar outlines the requirements for a lasting solution to the social crisis and the contours of a progressive political alternative. What we have witnessed to date is only the beginning of a revolutionary process that is likely to extend for many more years to come.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">909.097492708312 ACH</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

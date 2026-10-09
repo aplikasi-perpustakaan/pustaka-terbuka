@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842777</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780544808249</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">054480824X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842777</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lipman, Elinor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ON TURPENTINE LANE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;An endearing romantic comedy from the beloved best-selling author of The Family Man and The View from Penthouse B At thirty-two, Faith Frankel has returned to her claustro-suburban hometown, where she writes institutional thank-you notes for her alma mater. It&apos;s a peaceful life, really, and surely with her recent purchase of a sweet bungalow on Turpentine Lane her life is finally on track. Never mind that her fiance is off on a crowdfunded cross-country walk, too busy to return her texts (but not too busy to post photos of himself with a different woman in every state. And never mind her witless boss, or a mother who lives too close, or a philandering father who thinks he&apos;s Chagall. When she finds some mysterious artifacts in the attic of her new home, she wonders whether anything in her life is as it seems. What good fortune, then, that Faith has found a friend in affable, collegial Nick Franconi, officemate par excellence. Elinor Lipman may well have invented the screwball romantic comedy for our era, and here she is at her sharpest and best. On Turpentine Lane is funny, poignant, and a little bit outrageous. &quot;--
+        At thirty-two, Faith Frankel has returned to her claustro-suburban hometown, where she writes institutional thank-you notes for her alma mater. It&apos;s a peaceful life, really, and surely with her recent purchase of a sweet bungalow on Turpentine Lane her life is finally on track. Never mind that her fiance is off on a crowdfunded cross-country walk, too busy to return her texts (but not too busy to post photos of himself with a different woman in every state. And never mind her witless boss, or a mother who lives too close, or a philandering father who thinks he&apos;s Chagall. When she finds some mysterious artifacts in the attic of her new home, she wonders whether anything in her life is as it seems. What good fortune, then, that Faith has found a friend in affable, collegial Nick Franconi, officemate par excellence</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">LIP</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

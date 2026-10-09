@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000713012</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781742701233</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">174270123X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000713012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mendelson, Bryan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">In Your Face : The hidden history of plastic surgery and why looks matter</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">We humans have been modifying our faces for centuries—from medieval face-pulling competitions (often fatal) and criminal punishment in ancient India (rhinokopia), to post-war reconstructive surgery and contemporary cosmetic surgery. But what is it that compels us to go &quot;under the knife&quot;? Is it simply the pursuit of beauty, or is it a deeper drive for survival? And why, with all our advances in medical science, does some plastic surgery look so bad? You can open any women’s magazine and find at least one article showing some celebrity’s cosmetic surgery gone wrong, often resulting in that familiar and laughable but tragic &quot;wind tunnel&quot; face. The truth is that kind of look is not really plastic surgery at all—it’s cosmetic surgery done by underqualified practitioners using outdated techniques. It shouldn’t happen. This book shows you why and how. In the tradition of The Brain that Changes Itself; Guns, Germs &amp;​ Steel; Salt; and Orchid Fever, this lively exploration of the history and science of plastic surgery looks at 500 years of the face—what we do to it, what it means for us, and what the future holds.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">617.95209 MEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

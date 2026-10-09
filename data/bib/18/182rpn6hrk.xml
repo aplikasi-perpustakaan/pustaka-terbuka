@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000774156</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780300162516</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">300162510</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000774156</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bronner, Stephen Eric, 1949-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Bigot : Why Prejudice Persists</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Stephen Eric Bronner is a prolific author, activist, and one of America&apos;s leading political thinkers. His new book presents bigotry as a systematic, all-encompassing mindset that has a special affinity for right-wing movements. In what will surely prove a seminal study, Bronner explores its appeal, the self-image it justifies, the interests it serves, and its complex connection with modernity. He reveals how prejudice shapes the conspiratorial and paranoid worldview of the true believer, the elitist, and the chauvinist. In the process, it becomes apparent how the bigot hides behind mainstream conservative labels in order to support policies designed to disadvantage the targets of his contempt. Examining bigotry in its various dimensions-anthropological, historical, psychological, sociological, and political-Professor Bronner illustrates how the bigot&apos;s intense hatred of &quot;the other&quot; is a direct reaction to social progress, liberal values, secularism, and an increasingly complex and diverse world. A sobering look at the bigot in the twenty-first century, this volume is essential for making sense of the dangers facing democracy now and in the future.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">303.385 BRO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000746148</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781555709235</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1555709230</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000746148</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Burns, Christa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Google Search Secrets</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Google can be an incredibly powerful tool for research, but the top-of-the-page results are seldom the most beneficial to library users and students, and many of the search engine&apos;s most useful features are hidden behind its famously simple interface. Burns and Sauers reveal the secrets of effective Google searches in this invaluable resource showing how to get the most out of the service, with: An overview of all the tool&apos;s search services, including Image, Maps, News, Blogs, Discussions, Scholar, Patents, and Books; Ready-to-use instructions on how to go beyond the simple search box and top results to get library users the answers they need, fast; Straightforward guidance on using filters to refine search results, with examples of common searches like images with Creative Commons licenses, news searches set for a date range or into an archive, and videos with closed captioning; An explanation of the bibliography manager feature of Google Scholar, which allows students and researchers to build bibliographies with ease, and Tips for configuring Safe Search on workstations in children&apos;s departments and schools. Copious screenshots walk readers through each topic step by step, making this a true how-to guide for everyone who uses Google.&quot;--Publisher&apos;s website.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">025.04252 BUR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

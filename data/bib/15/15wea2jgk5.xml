@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984229</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789861756776</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9861756779</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984229</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Helmstetter, Kristen</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">咖啡時間的自我對話 : 5分鐘改寫潛意識, 實現任何目標 | Ka fei shi jian de zi wo dui hua : 5 fen zhong gai xie qian yi shi, shi xian ren he mu biao</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Zi xin ren sheng ; 178</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Have you ever dreamed of living an extraordinary life and achieving all your goals, but don’t know where to start? The answer may be simpler than you think: just five minutes a day. By practicing a simple method called “coffee-time self-talk,” you can transform your life. This powerful daily ritual can lift your mood the moment you wake up and help you attract continuous abundance—whether it&apos;s wealth, career success, lasting habits, weight loss, vibrant health, a loving relationship, or becoming a great parent. By anchoring this “atomic habit” of self-talk to your daily cup of coffee, you create a self-reinforcing loop of personal growth. A small change that can lead to lifelong transformation. Are you willing to give it a try?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">158.1 HEL</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

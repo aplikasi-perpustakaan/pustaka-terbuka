@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000985023</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789863987901</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9863987905</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000985023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Inamori, Kazuo, 1932-2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">稻盛和夫工作的方法 : 了解工作的本質, 實踐自我, 從平凡變非凡的成長方程式 | Dao sheng he fu gong zuo de fang fa : liao jie gong zuo de ben zhi, shi jian zi wo, cong ping fan bian fei fan de cheng zhang fang cheng shi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">第二版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Tian xia cai jing ; 468</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kazuo Inamori, hailed as Japan’s “Saint of Management,” led Kyocera, KDDI, and Japan Airlines to become globally renowned companies. His diligent attitude and unwavering spirit have earned widespread admiration. However, few know that Inamori once harbored deep resentment toward his job. He even applied to join the Self-Defense Forces just to escape the work he disliked. Cornered by reality, he finally decided to give work his all. Unexpectedly, the job he once loathed became the foundation for his life’s transformation and eventual global success. The turning point? Inamori made just one change: he began to devote himself fully to his work</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">174.4 INA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

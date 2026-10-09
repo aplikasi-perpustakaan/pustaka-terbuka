@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000770965</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262525848</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262525844</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000770965</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jablonka, Eva</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Evolution In Four Dimensions : Genetic, Epigenetic, Behavioral, and Symbolic Variation in The History Of Life</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Revised edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Life and mind: Philosophical issues in biology and psychology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Ideas about heredity and evolution are undergoing a revolutionary change. New findings in molecular biology challenge the gene-centered version of Darwinian theory according to which adaptation occurs only through natural selection of chance DNA variations. In Evolution in Four Dimensions, Eva Jablonka and Marion Lamb argue that there is more to heredity than genes. They trace four &quot;dimensions&quot; in evolution--four inheritance systems that play a role in evolution: genetic, epigenetic (or non-DNA cellular transmission of traits), behavioral, and symbolic (transmission through language and other forms of symbolic communication). These systems, they argue, can all provide variations on which natural selection can act. Evolution in Four Dimensions offers a richer, more complex view of evolution than the gene-based, one-dimensional view held by many today. The new synthesis advanced by Jablonka and Lamb makes clear that induced and acquired changes also play a role in evolution. After discussing each of the four inheritance systems in detail, Jablonka and Lamb &quot;put Humpty Dumpty together again&quot; by showing how all of these systems interact. They consider how each may have originated and guided evolutionary history and they discuss the social and philosophical implications of the four-dimensional view of evolution. Each chapter ends with a dialogue in which the authors engage the contrarieties of the fictional (and skeptical) &quot;I.M.,&quot; or Ifcha Mistabra--Aramaic for &quot;the opposite conjecture&quot;--refining their arguments against I.M.&apos;s vigorous counterarguments. The lucid and accessible text is accompanied by artist-physician Anna Zeligowski&apos;s lively drawings, which humorously and effectively illustrate the authors&apos; points.&quot; -- Publisher&apos;s website.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">576.82 JAB</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

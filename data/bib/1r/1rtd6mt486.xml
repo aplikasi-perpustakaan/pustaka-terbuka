@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876143</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787145399</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787145395</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787145399</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876143</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Research in the history of economic thought and methodology : including a symposium on new directions in Sraffa Scholarship. Vol 35B</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Volume 35B of Research in the History of Economic Thought and Methodology features a symposium on the economics of Piero Sraffa, guest edited by Scott Carter and Riccardo Bellofiore. The symposium includes new research from Professor Carter, as well as from John Davis, Nerio Naldi and Eleonora Lattanzi, Bertram Schefold, Andres Lazzarini and Gabriel Brondino, and Lucia Morra. Volume 35B also features general research contributions from Masazumi Wakatabe, and co-authors Eugene Callahan and Andreas Hoffman. Mary Furner, Matthew Frye Jacobson, Scott Scheall, and Charles R. McCann, Jr. offer unique perspectives on Thomas C. Leonard&apos;s (2015) Illiberal Reformers: Race, Eugenics, and American Economics in the Progressive Era. Professor Leonard contributes a response essay.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">330.01</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/S0743-4154201735B</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

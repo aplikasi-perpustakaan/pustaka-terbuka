@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000833952</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780008209360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">8209367</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn973339591</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000833952</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Westaby, Stephen, Prof</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">fragile lives : A heart surgeon&apos;s stories of life and death on the operating table</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">An incredible memoir from one of the world&apos;s most eminent heart surgeons and some of the most remarkable and poignant cases he&apos;s worked on. Grim Reaper sits on the heart surgeon&apos;s shoulder. A slip of the hand and life ebbs away. The balance between life and death is so delicate, and the heart surgeon walks that rope between the two. In the operating room there is no time for doubt. It is flesh, blood, rib-retractors and pumping the vital organ with your bare hand to squeeze the life back into it. An off-day can have dire consequences - this job has a steep learning curve, and the cost is measured in human life. Cardiac surgery is not for the faint of heart. Professor Stephen Westaby took chances and pushed the boundaries of heart surgery. He saved hundreds of lives over the course of a thirty-five year career and now, in his astounding memoir, Westaby details some of his most remarkable and poignant cases - such as the baby who had suffered multiple heart attacks by six months old, a woman who lived the nightmare of locked-in syndrome, and a man whose life was powered by a battery for eight years. A powerful, important and incredibly moving book, Fragile Lives offers an exceptional insight into the exhilarating and sometimes tragic world of heart surgery, and how it feels to hold someone&apos;s life in your hands.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">617.412 WES</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
