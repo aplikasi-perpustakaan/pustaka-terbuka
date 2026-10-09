@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000986412</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9787555117872</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7555117878</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000986412</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kishimi, Ichirō, 1956-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">在变化的世界, 稳稳地活 : 哲学中的锚定之力 = これからの哲学入門 未来を捨てて生きよ | Zai bian hua de shi jie, wen wen di huo : zhe xue zhong de mao ding zhi li = これからの哲学入門 未来を捨てて生きよ</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">第1版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Yang guang xiu mei chuan mei =</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Ichirō Kishimi, known as the “Father of Self-Realization” in Japan and a bestselling author celebrated across Asia, draws upon reflections sparked by the COVID-19 pandemic, combined with over 30 years of research in Adlerian psychology and philosophy. In this book, he delves deeply into essential life questions such as: How can we establish our true self? How do we assess personal value? What is the meaning of existence? What defines happiness? How should we relate to our parents and children? Why do we work, and what happens if we can’t? Through five key themes — self (“I”), life, love, work, and the things within our reach — Kishimi uses philosophical concepts like “the meaning of life,” “human value,” and “the feeling of community” as guiding principles. His aim is to help readers rethink what it means to be alive, enabling them to navigate the journey of life with courage and steadiness, no matter the storms they face</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">128 KIS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

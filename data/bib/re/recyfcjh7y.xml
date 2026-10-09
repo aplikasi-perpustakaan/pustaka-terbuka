@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000631427</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000631427</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Climate wars ep. 1 the battle begins</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In the 1970s scientists warned that we faced a new ice age. Now they&apos;re convinced that the greatest threat is global warming. In between times (and until very recently), confusion has continued to reign on the issue of climate change. Al Gore said it&apos;s the biggest issue facing the planet. Some said it would turn Britain into a desert. Some said it would make the planet wetter. Some said it would become far hotter. Some said it was all man-made. Others said humans had nothing to do with it at all. Now, after 30 years we know the truth. The world is warming and mankind is the cause. So why has it taken this long for us to understand just how sinister the threat of global warming is? This authoritative series travels the globe, and over three episodes charts the astonishing scientific turnaround in climate change to show how we know what we know. It explains how we became aware that climate change was happening, examines the proof that it is a man-made problem and asks how close we are to the point of no return.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">551.6998 CLI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

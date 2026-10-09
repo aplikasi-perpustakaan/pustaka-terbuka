@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000611704</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780330451437</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">033045143X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000611704</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Black, Benjamin, 1945-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Christine Falls</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Quirke series ; no.1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In the debut crime novel from the Booker-winning author, a Dublin pathologist follows the corpse of a mysterious woman into the heart of a conspiracy among the city’s high Catholic society. It’s not the dead that seem strange to Quirke. It’s the living.One night, after a few drinks at an office party, Quirke shuffles down into the morgue where he works and finds his brother-in-law, Malachy, altering a file he has no business even reading. Odd enough in itself to find Malachy there, but the next morning, when the haze has lifted, it looks an awful lot like his brother-in-law, the esteemed doctor, was in fact tampering with a corpse—and concealing the cause of death. It turns out the body belonged to a young woman named Christine Falls. And as Quirke reluctantly presses on toward the true facts behind her death, he comes up against some insidious—and very well-guarded—secrets of Dublin’s high Catholic society, among them members of his own family. Set in Dublin and Boston in the 1950s, the first novel in the Quirke series brings all the vividness and psychological insight of Booker Prize winner John Banville’s fiction to a thrilling, atmospheric crime story. Quirke is a fascinating and subtly drawn hero, Christine Falls is a classic tale of suspense, and Benjamin Black’s debut marks him as a true master of the form</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">BLA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

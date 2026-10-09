@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000834168</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780316359528</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">316359521</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn945352735</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000834168</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Luckett, Oliver</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE SOCIAL ORGANISM : A RADICAL UNDERSTANDING OF SOCIAL MEDIA TO TRANSFORM YOUR BUSINESS AND LIFE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;From visionary tech entrepreneur Oliver Luckett and MIT Media Lab&apos;s Michael J. Casey, a groundbreaking, must-read theory of social media how it works, how it&apos;s changing human life, and how we can master it for good and for profit. In barely a decade, social media has positioned itself at the center of twenty-first century life. The combined power of platforms like Facebook, Twitter, Instagram, Snapchat, and Vine have helped topple dictators and turned anonymous teenagers into celebrities overnight. In the social media age, ideas spread and morph through shared hashtags, photos, and videos, and the most compelling and emotive ones can transform public opinion in mere days and weeks, even attitudes and priorities that had persisted for decades. How did this happen? The scope and pace of these changes have left traditional businesses -- and their old-guard marketing gatekeepers -- bewildered. We simply do not comprehend social media&apos;s form, function, and possibilities. It&apos;s time we did. In The Social Organism, Luckett and Casey offer a revolutionary theory: social networks -- to an astonishing degree -- mimic the rules and functions of biological life. In sharing and replicating packets of information known as memes, the world&apos;s social media users are facilitating an evolutionary process just like the transfer of genetic information in living things. Memes are the basic building blocks of our culture, our social DNA. To master social media -- and to make online content that impacts the world -- you must start with the Social Organism. With the scope and ambition of The Second Machine Age and James Gleick&apos;s The Information, The Social Organism is an indispensable guide for business leaders, marketing professionals, and anyone serious about understanding our digital world -- a guide not just to social media, but to human life today and where it is headed next&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">302.231 LUC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

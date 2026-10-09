@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000782812</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781137519849</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1137519843</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000782812</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Detter, Dag, 1959-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Public Wealth of Nations : How Management of Public Assets Can Boost or Bust Economic Growth</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;When you look around the world it&apos;s almost as if Thatcher/Reagan economic revolution never happened. The largest pool of wealth in the world - a global total that is twice the world&apos;s total pension savings, and ten times the total of all the sovereign wealth funds on the planet - is still comprised of commercial assets that are held in public ownership. And yet, while this is the largest pool of assets in the world, is also one of the murkiest - what goes on inside them is often not even properly known by the governments who own them. In most countries this vast portfolio is both a fiscal and political burden on society. If professionally managed it could generate an annual yield of 2.7 trillion dollars, more than current global spending on infrastructure: transport, power, water and communications. While traditional state control of assets has often proved inefficient, privatization is not always a panacea, as it offers opportunities for quick enrichment, crony capitalism, outright corruption, or dysfunctional regulation. To privatise or nationalise is simply the wrong argument. What matters is whether those assets are managed effectively - in a way that can generate a return that can fund the much needed investments in infrastructure that will boost overall economic growth. Based on both economic research and hands-on experience from many countries, the authors argue that publicly owned commercial assets need to be taken out of the direct and distorting control of politicians and placed under professional management in a &apos;National Wealth Fund&apos;. Such a move would trigger much needed structural reforms in national economies, thus resurrect strained government finances, bolster ailing economic growth and improve the fabric of democratic institutions. &quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">336</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

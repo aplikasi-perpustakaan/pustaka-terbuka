@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000734543</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780812983357</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">812983351</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000734543</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Huang, Eddie, 1982-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">FRESH OFF THE BOAT : [A MEMOIR]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2013 Spiegel &amp; Grau Trade Paperback Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The author, one of the food world&apos;s brightest and most controversial young stars, is the thirty-year-old proprietor of Baohaus, the hot East Village hangout where foodies, stoners, and students come to stuff their faces with delicious Taiwanese street food late into the night.  Huang grew up on a could-be-anywhere cul-de-sac in suburban Orlando, Florida, raised by a wild family of FOB (&quot;fresh off the boat&quot;) hustlers and hysterics from Taiwan. While his father improbably launched a series of successful seafood and steak restaurants, the author burned his way through American culture, obsessing over football, fighting the all-American boys who called him a chink, partied like a gremlin, sold drugs with his crew, and idolized Tupac. His anchor through it all was food. After misadventures as a lawyer, street fashion renegade, and stand-up comic, he finally threw everything he loved into his own restaurant, bringing together a legacy stretching back to China and the shards of global culture he had melded into his own identity.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">647.95092 HUA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

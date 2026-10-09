@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000749346</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781451687156</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">145168715X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000749346</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sankovitch, Nina</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Signed, Sealed, Delivered : Celebrating the Joys of Letter Writing</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Witty, moving, informative, and inspiring, Signed, Sealed, Delivered begins with Nina Sankovitch&apos;s discovery of trunk filled with a trove of hundred-year old letters in an old house she has just bought with her husband. They are from a Princeton freshman to his mother. Sankovitch cannot help think of her own son, who is about to go off to Harvard, and of the letters she&apos;s kept and cherished from a beloved sister and from her husband. From there she sets off on a quest to discover the secrets of letter writers and why we find them so fascinating--from the ancient Egyptians to the medieval lovers, Abelard and Heloise, from letters between Benjamin Franklin and his daughter to the notes that President Lincoln receives when his son dies. Sankovitch celebrates letters from Edith Wharton to Henry James, F. Scott Fitzgerald to his daughter describing life in Hollywood, James Joyce to his Nora, V.S. Naipaul to his father, young Sam Stewart to Gertrude Stein, Georgia O&apos;Keefe to Alfred Stieglitz, and Rachel Carson to her woman lover. She looks at epistolary novels and her husband&apos;s love letters as well as her uncle&apos;s letters from his Holocaust exile, and dozens more. Plus her son&apos;s brief reports from college on the weather and his allowance. In a beautifully written book, itself a perfect gift, Nina Sankovitch reminds us that the letters we write are as important as the ones we wait for&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">809.6 SAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

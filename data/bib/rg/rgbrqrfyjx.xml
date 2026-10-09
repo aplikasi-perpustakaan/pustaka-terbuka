@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000851399</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781101982204</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1101982209</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">1028578384</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">994356227</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">on1028578384</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000851399</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jenkins, McKay, 1963-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Food fight : GMOs and the future of the American diet</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First trade paperback edition.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Are GMOs really that bad? An environmental journalist takes a fresh look at what they actually mean for our food system and for us. In the past two decades, GMOs have come to dominate the American diet. Advocates hail them as the future of food, an enhanced method of crop breeding that can help feed an ever-increasing global population and adapt to a rapidly changing environment. Critics, meanwhile, call for their banishment, insisting GMOs were designed by overeager scientists and greedy corporations to bolster an industrial food system that forces us to rely on cheap, unhealthy, processed food so they can turn an easy profit. In response, health-conscious brands such as Trader Joe&apos;s and Whole Foods have started boasting that they are &quot;GMO-free,&quot; and companies like Monsanto have become villains in the eyes of average consumers. Where can we turn for the truth? Are GMOs an astounding scientific breakthrough destined to end world hunger? Or are they simply a way for giant companies to control a problematic food system? Environmental writer McKay Jenkins traveled across the country to answer these questions and discovered that the GMO controversy is more complicated than meets the eye. He interviewed dozens of people on all sides of the debate-- scientists hoping to engineer new crops that could provide nutrients to people in the developing world, Hawaiian papaya farmers who credit GMOs with saving their livelihoods, and local farmers in Maryland who are redefining what it means to be &quot;sustainable.&quot; The result is a comprehensive examination of the state of our food system and a much-needed guide for consumers to help them make more informed choices about what to eat for their next meal.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">631.5233 JEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

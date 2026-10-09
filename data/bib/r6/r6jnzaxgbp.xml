@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000697089</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007477234</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7477236</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000697089</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Parris, S. J., 1974-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Sacrilege</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Spy and Espionage. Crime and Detective. Perfect for fans of C.J. Sansom and The Name of the Rose, the third historical thriller featuring Giordano Bruno, heretic, philosopher and spy. In the pursuit of power, nothing is sacred. Summer, 1584. The Protestant Prince William of Orange has been assassinated by a fanatical Catholic, and there are whispers that Queen Elizabeth will be next. Fear haunts the streets of London, and plague is driving many citizens away. Giordano Bruno, radical philosopher and spy, chooses to remain, only to find that someone is following him through the city. Confronting his stalker, he realizes it is the woman he once loved--she is on the run, having been accused of murder. Bruno travels to Canterbury to help clear her name, and also on behalf of Sir Francis Walsingham. The Queen&apos;s spymaster has long suspected Catholic influence in the ancient centre of pilgrimage, and instructs Bruno to work to expose any enemy plots. As Bruno begins his hunt for the real killer, he is drawn into the heart of a sinister conspiracy hiding in the shadow of England&apos;s holiest shrine.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">PAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

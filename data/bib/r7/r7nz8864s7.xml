@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000867455</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781633693845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1633693848</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn974699888</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000867455</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bussgang, Jeffrey</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Entering StartUpLand : An Essential Guide to Finding the Right Job</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Many professionals aspire to work for a start-up. Executives from large companies view them as models to help them adapt to today&apos;s dynamic innovation economy. Yes, start-ups look magical, but they can also be chaotic and inaccessible. Many books are written for those who aspire to be founders, but a company only has one or two of those. What&apos;s needed are hundreds of employees to do the day-to-day work required to operate a fledgling company and grow it into something of value. This practical, step-by-step guide provides an insider&apos;s analysis of various start-up roles and responsibilities, including product development, marketing, growth strategy, and sales, to help you figure out if you want to join a start-up and what to expect if you do. You&apos;ll gain insight into how successful start-ups operate and learn to assess which of them you might want to join--or emulate. Inside this book you&apos;ll find: A tour of typical start-up roles to help you determine which one might be the best fit for you Profiles of start-up executives in many different functions who share their stories and describe their responsibilities A practical approach to your job search that will help you position yourself to find the start-up opportunity that&apos;s right for you Written by an experienced venture capitalist, entrepreneur, and Harvard Business School professor, Welcome to StartUpLand will guide you as you seek your ideal entry point into this popular, cutting-edge organizational paradigm.--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.11023 BUS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000722424</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781594486531</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1594486530</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000722424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kapur, Akash</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">India Becoming : A Portrait of Life in Modern India</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A portrait of incredible change and economic development, of social and national transformation told through individual lives. The son of an Indian father and an American mother, Akash Kapur spent his formative years in India and his early adulthood in the United States. In 2003, he returned to his birth country for good, eager to be part of its exciting growth and modernization. What he found was a nation even more transformed than he had imagined, where the changes were fundamentally altering Indian society, for better and sometimes for worse. To further understand these changes, he sought out the Indians experiencing them firsthand. The result is a rich tapestry of lives being altered by economic development, and a fascinating insider&apos;s look at many of the most important forces shaping our world today. Much has been written about the rise of Asia and a rebalancing of the global economy, but rarely does one encounter these big stories with the level of nuance and detail that Kapur gives us in India Becoming. Among the characters we meet are a broker of cows who must adapt his trade to a modernizing economy; a female call center employee whose relatives worry about her values in the city; a feudal landowner who must accept that he will not pass his way of life down to his children; and a career woman who wishes she could &apos;outsource&apos; having a baby. Through these stories and many others, Kapur provides a fuller understanding of the complexity and often contradictory nature of modern India. India Becoming is particularly noteworthy for its emphasis on rural India -- a region often neglected in writing about the country, though 70 percent of the population still lives there. In scenes reminiscent of R.K. Narayan&apos;s classic works on the Indian countryside, Kapur builds intimate portraits of farmers, fishermen, and entire villages whose ancient ways of life are crumbling, giving way to an uncertain future that is at once frightening and full of promise. Kapur himself grew up in rural India; his descriptions of change and modernization are infused with a profound -- at times deeply poignant -- firsthand understanding of the loss that must accompany all development and progress. India Becoming is essential reading for anyone interested in our changing world and the newly emerging global order. It is a riveting narrative that puts the personal into a broad, relevant and revelational context&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">330.954 KAP</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

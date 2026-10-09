@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000622412</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1594481709</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781594481703</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000622412</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Warner, Judith</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Perfect madness : motherhood in the age of anxiety /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A lively and provocative look at the modern culture of motherhood and at the social, economic, and political forces that shaped current ideas about parenting. What is wrong with this picture? That&apos;s the question Judith Warner asks after taking a good, hard look at the world of modern motherhood-at anxious women at work and at home and in bed with unhappy husbands. When Warner had her first child, she was living in Paris, where parents routinely left their children home, with state-subsidized nannies, to join friends in the evening for dinner or to go on dates with their husbands. When she returned to the States, she was stunned by the cultural differences she found toward parenting-in particular, assumptions about motherhood. None of the mothers she met seemed happy: Instead, they worried about the possibility of not having the perfect child, panicking as each developmental benchmark approached. Combining close readings of mainstream magazines, TV shows, and pop culture with a thorough command of dominant ideas in recent psychological, social, and economic theory, Perfect Madness addresses our cultural assumptions, and examines the forces that have shaped them. Working in the tradition of classics like Betty Friedan&apos;s The Feminine Mystique and Christopher Lasch&apos;s The Culture of Narcissism, and with an awareness of a readership that turned recent hits like The Bitch in the House and Allison Pearson&apos;s I Don&apos;t Know How She Does It into bestsellers, Warner offers a context in which to understand the way we live, as well as ways of imagining alternatives-actual concrete changes-that might better our lives</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">306.8743 WAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

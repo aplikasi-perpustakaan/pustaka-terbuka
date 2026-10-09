@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000702201</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781451611113</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1451611110</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000702201</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cashill, Jack</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Deconstructing Obama : the life, loves, and letters of the first postmodern president</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st Threshold Editions hardcover ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Deconstructing Obama tells the story of what happens when a citizen journalist discovers a game-changing reality that the media refuse to acknowledge. Despite their rejection, Cashill expanded his research into Obama’s literary canon. As he came to see, if Dreams serves as sacred text, the poem &quot;Pop&quot; is the Rosetta stone, the key to deciphering Obama’s shrouded past, his fragile psyche, and his uniquely cryptic political life. In unlocking that past, Cashill discovered that the story that Obama has been telling all his life varies from the true story in ways big and small. In fact, much of Obama’s life story appears to be a wholly constructed fabrication, one that Jack Cashill &quot;deconstructs&quot; to show the world just who Barack Obama really is.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">973.932092 CAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

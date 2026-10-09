@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000843249</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781501108631</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1501108638</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000843249</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Russell, Gareth.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">YOUNG AND DAMNED AND FAIR : The Life of Catherine Howard, Fifth Wife of King Henry VIII</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Simon &amp; Schuster hardcover edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Written with an exciting combination of narrative flair and historical authority, this interpretation of the tragic life of Catherine Howard, fifth wife of Henry VIII, breaks new ground in our understanding of the very young woman who became queen at a time of unprecedented social and political tension and whose terrible errors in judgment quickly led her to the executioner&apos;s block.On the morning of July 28, 1540, as King Henry&apos;s VIII&apos;s former confidante Thomas Cromwell was being led to his execution, a teenager named Catherine Howard began her reign as queen of a country simmering with rebellion and terrifying uncertainty. Sixteen months later, the king&apos;s fifth wife would follow her cousin Anne Boleyn to the scaffold, having been convicted of adultery and high treason. The broad outlines of Catherine&apos;s career might be familiar, but her story up until now has been incomplete. Unlike previous accounts of her life, which portray her as a naive victim of an ambitious family, this compelling and authoritative biography will shed new light on Catherine Howard&apos;s rise and downfall by reexamining her motives and showing her in her context, a milieu that goes beyond her family and the influential men of the court to include the aristocrats and, most critically, the servants who surrounded her and who, in the end, conspired against her. By illuminating Catherine&apos;s entwined upstairs/​downstairs worlds as well as societal tensions beyond the palace walls, the author offers a fascinating portrayal of court life in the sixteenth century and a fresh analysis of the forces beyond Catherine&apos;s control that led to her execution--from diplomatic pressure and international politics to the long-festering resentments against the queen&apos;s household at court. Including a forgotten text of Catherine&apos;s confession in her own words, color illustrations, family tree, map, and extensive notes, Young and Damned and Fair changes our understanding of one of history&apos;s most famous women while telling the compelling and very human story of complex individuals attempting to survive in a dangerous age</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">942.052092 RUS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

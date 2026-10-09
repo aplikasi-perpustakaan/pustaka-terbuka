@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000638310</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000638310</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The physics of medical imaging</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Medical imaging is a critical tool in the diagnosis of health conditions, and therefore in decisions about the most appropriate and effective treatment of patients. This technology has developed at a significant rate in recent decades, and is making possible a whole range of important advances in the way we look after people&apos;s health. Behind the technology of medical imagining are a number of important principles of physics, and it is this discipline which has underpinned the advances made in modern health care. This program looks in depth at four kinds of sensing used in medical imaging - Ultrasound, Electromagnetic waves including X-Rays and CAT scans, radioactivity, such as PET or Positron Emission Tomography, and Magnetic Resonance Imaging or MRI, which uses electromagnetism. Chapters: Ultrasound Electromagnetic Waves - X-Rays and CT Scans Radioactivity and PET Magnetic Resonance Imaging (MRI), which uses electromagnetism.&quot; --Container</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.0757 PHY</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
