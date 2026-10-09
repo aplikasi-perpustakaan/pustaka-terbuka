@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812257</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062323347</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62323342</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812257</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mazzeo, Tilar J.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE HOTEL ON PLACE VENDOME : Life, Death, and Betrayal at the Hotel Ritz in Paris</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">FIRST EDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Set against the backdrop of the Nazi occupation of World War II, [this book examines the] history of Paris&apos;s world-famous Hôtel Ritz, a ... tale of glamour, opulence, and celebrity; dangerous liaisons, espionage, and resistance&quot;--Amazon.com.
+        Established in 1898 in the heart of Paris on the Place Vendôme, the Hôtel Ritz instantly became an icon of the city frequented by film stars and celebrity writers, American heiresses and risqué flappers, politicians, playboys, and princes. By the 1920s the bar became a favorite watering hole for F. Scott Fitzgerald and other writers of the Lost Generation, including Ernest Hemingway. In June 1940, when France fell to the Germans, Joseph Goebbels, the propaganda minister of the Third Reich, famously declared that the nation&apos;s capital would remain a high-spirited place or else. Orders from Berlin specified that the Hôtel Ritz would be the only luxury hotel of its kind in occupied Paris. Tilar J. Mazzeo traces the history of this cultural landmark from its opening in fin de siècle Paris to the modern era. At its center, The Hotel on Place Vendôme chronicles life at the Ritz during wartime, when the hotel simultaneously served as headquarters to the highest-ranking German officers, such as Reichsmarschall Hermann Göring, and home to wealthy patrons (and to the spies among them) who stayed on in Paris. At Coco Chanel&apos;s table in the dining room on any given evening, one might find the playwright and screenwriter Sacha Guitry, the lithe Russian ballet star Serge Lifar, or Jean Cocteau and his handsome boyfriend. Mazzeo takes us into the grand palace&apos;s suites, bars, dining rooms, and wine cellars, revealing a hotbed of illicit affairs and deadly intrigue, as well as stunning acts of defiance and treachery, in which refugees were hidden in secret rooms, a Jewish bartender passed coded messages for the German resistance, and Wehrmacht officers plotted to assassinate the Führer. By the spring of 1944, as the tides of the war shifted, these stories were all coming to their dramatic and sometimes heartbreaking conclusions. There were celebrations as well: when Ernest Hemingway returned in the last hours of the occupation with his rogue band of &quot;irregular&quot; troops to liberate the Hôtel Ritz, they also liberated many bottles of vintage wine from its cellars. The result is the story of The Hotel on Place Vendôme a singular season at the world-class hotel, an intimate and riveting portrait of the last days of the Second World War.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">647.94443601 MAZ</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

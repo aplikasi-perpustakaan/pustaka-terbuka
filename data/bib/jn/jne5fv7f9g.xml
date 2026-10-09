@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000755476</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780810892477</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">810892472</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000755476</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hastings, Robin, 1973-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Outsourcing Technology : A Practical Guide for Librarians</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Practical guides for librarians ; No. 4</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Here, acclaimed technology author and speaker Robin Hastings brings both her own experience as a library&apos;s IT manager with outsourcing technical functions - including email and network backups as well as basic hardware maintenance - and that of others in her network of library techies to round out the book to help libraries of all types and sizes save money and expand services. Outsourced functions covered here range from using an outside firm to assist in creating a new library website to outsourcing basic computer maintenance and network administration. Outsourcing Technology: A Practical Guide for Librarians has something for every size and type of library: *Libraries with no IT people at all will learn how to create and manage an IT department made up of outside contractors and providers; *Libraries with small IT departments will learn how to supplement their existing skills and offload staff-intensive but non-essential functions to outsourced providers in order to focus on mission critical functions in-house; and, *Libraries with large IT departments will learn how to use consultants and vendors to get the most bang for their technology bucks. The care and maintenance of technology is a specialized field requiring a diverse set of skills to perform properly.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">025.00285 HAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

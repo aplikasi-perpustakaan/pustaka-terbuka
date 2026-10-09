@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000685620</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780814416761</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">814416764</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000685620</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Vincent, Laurence</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Brand real : how smart companies live their brand promise and inspire fierce customer loyalty /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;To create an exceptional brand experience, remember that sometimes less is more. Companies are forever being more creative in their branding strategies, building identities ranging from the warm-and-fuzzy to the ultra-cool and edgy. But it seems that many of these enterprises forgot that a brand, at its heart, is a promise to deliver. If the brand experience does not live up to that promise, customers will take their business elsewhere. Brand Real is a business strategy guide for making a brand&apos;s promise stand up at every customer touch point. Packed with proven, repeatable management practices, the book shows how to establish a clean brand architecture while avoiding the needless complexity that has tripped up many promising companies. Author Laurence Vincent presents cautionary tales of supposed brand superstars as well as instructive case studies of genuine brand giants like American Express, Apple, Cisco, Google, Qualcomm, Virgin, and others. Readers will learn how to connect the outward-facing elements of their brands--logos, advertising, imagery, communications--directly to the core elements of business strategy and forge a powerful and lasting connection with their customers.&quot;--Publisher&apos;s website.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.827 VIN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

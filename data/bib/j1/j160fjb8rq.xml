@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000985378</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789863987635</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9863987638</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000985378</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gates, Bill, 1955-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">如何避免下一場大流行病 : 比爾·蓋茲解析疫後新未來, 傳染病預防、強化公衛、科技創新的契機 = HOW TO PREVENT THE NEXT PANDEMIC | Ru he bi mian xia yi chang da liu xing bing : Bier Gaizi jie xi yi hou xin wei lai, chuan ran bing yu fang, qiang hua gong wei, ke ji chuang xin de qi ji = HOW TO PREVENT THE NEXT PANDEMIC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">第一版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Tian xia xin shi ye ; 050</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Each chapter of this book outlines a crucial step in pandemic prevention. Together, these steps form a comprehensive plan to eliminate the threat of future pandemics. This plan not only aims to prevent negative outcomes but also to accelerate long-term growth in public health, digital technology, and the metaverse economy. Driven by technological advancements and the impact of the pandemic, digital applications have rapidly progressed across many fields. The transformation of today’s workplaces is just the beginning—a sign of broader changes to come. Ultimately, digitalization will reshape everyone’s lives in various ways. As a result, individuals must rethink traditional methods and approaches to work and daily life</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">614.592414 GAT</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

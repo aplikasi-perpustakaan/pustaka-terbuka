@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000742049</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781421407876</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1421407876</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000742049</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">STARFISH : Biology and Ecology of the Asteroidea</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Among the most fascinating animals in the world&apos;s oceans are the more than 2,000 species of starfish. Called &quot;Asteroids&quot; by scientists who study them (after their taxonomic name, Asteroidea)--or sea stars in some parts of the world--starfish are easily recognized because of their star-like form. Starfish is a comprehensive volume devoted to the integrative and comparative biology and ecology of starfish. Written by the world&apos;s leading experts on starfish, the integrative section covers topics such as reproduction, developmental biology and ecology, larval ecology, and the ecological role of starfish as a group. The comparative section considers the biology and ecology of important species such as Acanthaster planci, Heliaster helianthoides, Asterias amurensis, and Pisaster ochraceus. Replete with detailed, scientifically accurate illustrations and the latest research findings, Starfish examines the important role of these invertebrates in the marine environment, a topic of great interest because of their impact on the food web. As major predators that are able to evert their stomach and wrap it around their prey, starfish can have a significant impact on commercial fisheries. Starfish are of interest not only to echinoderm specialists but also to marine biologists and invertebrate zoologists in general and, increasingly, to the medical community. A starfish&apos;s ability to regenerate body parts is almost unequalled in the animal world, making them ideal models for basic science studies on the topic.&quot;--Publisher&apos;s website</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">593.93 STA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

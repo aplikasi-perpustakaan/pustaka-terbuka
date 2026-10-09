@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735649</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780765335449</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">765335441</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735649</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Modesitt, L. E., Jr., 1943-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE ONE-EYED MAN : A Fugue, with Winds and Accompaniment</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The colony world of Stittara is no ordinary planet. For the interstellar Unity of the Ceylesian Arm, Stittara is the primary source of anagathics: drugs that have more than doubled the human life span. But the ecological balance that makes anagathics possible on Stittara is fragile, and the Unity government has a vital interest in making sure the flow of longevity drugs remains uninterrupted, even if it means uprooting the human settlements. Offered the job of assessing the ecological impact of the human presence on Stittara, freelance consultant Dr. Paulo Verano jumps at the chance to escape the ruin of his personal life. He gets far more than he bargained for: Stittara&apos;s atmosphere is populated with skytubes--gigantic, mysterious airborne organisms that drift like clouds above the surface of the planet. Their exact nature has eluded humanity for centuries, but Verano believes his conclusions about Stittara may hinge on understanding the skytubes&apos; role in the planet&apos;s ecology--if he survives the hurricane winds, distrustful settlers, and secret agendas that impede his investigation at every turn&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">MOD</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

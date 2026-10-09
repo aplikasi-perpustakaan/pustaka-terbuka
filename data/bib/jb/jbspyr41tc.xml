@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000752283</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262526135</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262526131</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000752283</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Rheingold, Howard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Net Smart : How to Thrive Online</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Like it or not, knowing how to make use of online tools without being overloaded with too much information is an essential ingredient to personal success in the twenty-first century. But how can we use digital media so that they make us empowered participants rather than passive receivers, grounded, well-rounded people rather than multitasking basket cases? In Net Smart, cyberculture expert Howard Rheingold shows us how to use social media intelligently, humanely, and, above all, mindfully. Mindful use of digital media means thinking about what we are doing, cultivating an ongoing inner inquiry into how we want to spend our time. Rheingold outlines five fundamental digital literacies, online skills that will help us do this: attention, participation, collaboration, critical consumption of information (or &quot;crap detection&quot;), and network smarts. He explains how attention works, and how we can use our attention to focus on the tiny relevant portion of the incoming tsunami of information. He describes the quality of participation that empowers the best of the bloggers, netizens, tweeters, and other online community participants; he examines how successful online collaborative enterprises contribute new knowledge to the world in new ways; and he teaches us a lesson on networks and network building.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">302.231 RHE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

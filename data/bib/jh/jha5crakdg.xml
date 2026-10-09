@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000984948</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789865257477</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9865257475</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000984948</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Li, Chongyi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">冰山對話 : 從開門到關門、從理解到支持的深度溝通 = SEE THROUGH ONES&apos;S ICEBERG : A New Way to Open and Close the Door of Effective Communication | Bing shan dui hua : cong kai men dao guan men, cong li jie dao zhi chi de shen du gou tong = SEE THROUGH ONES&apos;S ICEBERG : A New Way to Open and Close the Door of Effective Communication</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">第一版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Xin li li zhi ; 473</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Li Chongyi, a former senior executive in the tech industry with many years of experience in team management and interpersonal communication, has immersed himself in the Satir Model for years and has extensively studied psychology. Drawing on his rich background and numerous one-on-one case interviews, he has developed a practical and relatable Iceberg Dialogue Framework tailored to everyday situations. By using three steps and two key techniques, he establishes an effective communication model that helps eliminate unnecessary conflicts and difficulties, enabling conversations that are both efficient and empowering. With his unique life experience and perspective, Li reinterprets the spirit of the Satir Model and structures a dialogue context around three core elements: Caring About the Situation, Expressing the Self, and Attending to Others. This framework is further enhanced by the SAGE method—See the emotion, Acknowledge it, Grant permission to feel it, and Embrace it—offering a powerful approach to emotional guidance. Together, these tools breathe new life into communication, making dialogue more genuine, connected, and transformative</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">302.2 LIC</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

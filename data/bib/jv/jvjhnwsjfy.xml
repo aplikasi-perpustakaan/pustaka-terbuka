@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000576587</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000576587</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Success stories : Lee Kuan Yew =  华人系列 : 李光耀 | Success Stories : LEE KUAN YEW = Cheng gong hua ren xi lie : li guang yao</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A documentary produced by Radio Television Hong Kong (RTHK) which provides insights into Mr. Lee Kuan Yew&apos;s life, personality, family values and his philosophy of government. In part I of the documentary, Lee recounts his personal experience growing up as a 19 year old boy under the Japanese Occupation and tells how through a stroke of luck, he missed the lorry ride that sent young Chinese boys to the beach to be shot. In part II, Lee&apos;s family values, personal lifestyle and character goes under scrutiny by his friends and colleagues. Lee led Singapore to Independence and was sworn in as Singapore&apos;s first Prime Minister on 5 June, 1959. He retired in 1990. Singapore survived and thrived through the able and far-sighted leadership of Lee Kuan Yew. Under his guidance, Singapore also became a financial and industrial powerhouse, despite a lack of abundant natural resources</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">959.57051 SUC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

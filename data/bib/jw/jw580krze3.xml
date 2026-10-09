@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738611</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118879085</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118879082</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738611</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Connors, Richard J., 1927-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">WARREN BUFFETT ON BUSINESS : PRINCIPLES FROM THE SAGE OF OMAHA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This work presents the proven business principles of Warren Buffett. Warren Buffett is one of the most admired and prolific investors and managers in corporate America. &quot;Warren Buffett on Business&quot; is a timeless guide to strategies that can help you run a successful business. This book is a one-of-a-kind collection of Buffett&apos;s letters to the shareholders of Berkshire Hathaway written over the past few decades, and in a clear, simple style distills the basic principles of sound business practices. Through Buffett&apos;s own remarkable words, this practical management handbook shares valuable insights on communicating with, and treating employees and shareholders fairly; responsible corporate governance; ethical behavior; patience and perseverance; admitting mistakes; and, having a passion for work. It contains priceless pearls of business and management wisdom, woven into a delightful narrative. Designed in an accessible manner and organized by business and management topics with strong lessons from Buffett, this work provides direct, hands-on information on major topics concerning managers, entrepreneurs, business students, and anyone interested in business. Informative and inspiring, this unique book puts Warren Buffett&apos;s business beliefs in perspective.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658 CON</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

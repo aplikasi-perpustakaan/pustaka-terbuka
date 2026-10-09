@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000703482</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470941522</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470941529</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000703482</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lencioni, Patrick, 1965-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The advantage : why organizational health trumps everything else in business</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;There is a competitive advantage out there, arguably more powerful than any other. Is it superior strategy? Faster innovation? Smarter employees? No, New York Times best-selling author, Patrick Lencioni, argues that the seminal difference between successful companies and mediocre ones has little to do with what they know and how smart they are and more to do with how healthy they are. In this book, Lencioni brings together his vast experience and many of the themes cultivated in his other best-selling books and delivers a first: a cohesive and comprehensive exploration of the unique advantage organizational health provides.Simply put, an organization is healthy when it is whole, consistent and complete, when its management, operations and culture are unified. Healthy organizations outperform their counterparts, are free of politics and confusion and provide an environment where star performers never want to leave. Lencioni&apos;s first non-fiction book provides leaders with a groundbreaking, approachable model for achieving organizational health--complete with stories, tips and anecdotes from his experiences consulting to some of the nation&apos;s leading organizations. In this age of informational ubiquity and nano-second change, it is no longer enough to build a competitive advantage based on intelligence alone. The Advantage provides a foundational construct for conducting business in a new way--one that maximizes human potential and aligns the organization around a common set of principles&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4 LEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

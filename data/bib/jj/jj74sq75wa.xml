@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000704060</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780061945281</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">61945285</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000704060</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gonzalez-Wallace, Michael</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Super body, super brain : the workout that does it all</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st HarperCollins paperback ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Brain workouts focused on memory are big business. Memory is located in only one part of the brain. It is movement that connects the intricate web of brain circuitry since different kinds of movement are managed by different areas of the brain. These critical brain circuits work with your muscles, tendons and joints to dictate the quality of movement throughout the body. In Super Body, Super Brain, author Michael Gonzalez-Wallace combines specific movements, involving balance and coordination, creating an atmosphere of multi-tasking connecting the brain circuitry and providing the brain with a workout from front to back and left to right. These movements are combined into a powerful, full-body workout that keeps both your body and brain fit. The program only takes ten minutes per day and delivers maximum results in minimal time creating the ultimate in body and brain efficiency. The workout progresses in difficulty over time as both muscles and brain circuits need challenges in order to stay fit. The program can be done anywhere, by anyone regardless of their shape or level of athletic ability. The book will also include a nutrition progam with recommended &quot;power brain foods&quot; and easy-to-follow recipes&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">613.7 GON</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

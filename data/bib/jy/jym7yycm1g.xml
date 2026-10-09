@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000741400</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674073043</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">674073045</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000741400</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Reese, William J., 1951-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Testing Wars in the Public Schools : A Forgotten History</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Written tests to evaluate students were a radical and controversial innovation when American educators began adopting them in the 1800s. Testing quickly became a key factor in the political battles during this period that gave birth to America&apos;s modern public school system. William J. Reese offers a richly detailed history of an educational revolution that has so far been only partially told. Single-classroom schools were the norm throughout the United States at the turn of the nineteenth century. Pupils demonstrated their knowledge by rote recitation of lessons and were often assessed according to criteria of behavior and discipline having little to do with academics. Convinced of the inadequacy of this system, the reformer Horace Mann and allies on the Boston School Committee crafted America&apos;s first written exam and administered it as a surprise in local schools in 1845. The embarrassingly poor results became front-page news and led to the first serious consideration of tests as a useful pedagogic tool and objective measure of student achievement. A generation after Mann&apos;s experiment, testing had become widespread. Despite critics&apos; ongoing claims that exams narrowed the curriculum, ruined children&apos;s health, and turned teachers into automatons, once tests took root in America schools their legitimacy was never seriously challenged. Testing Wars in the Public Schools puts contemporary battles over scholastic standards and benchmarks into perspective by showcasing the historic successes and limitations of the pencil-and paper exam.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">371.26097309034 REE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

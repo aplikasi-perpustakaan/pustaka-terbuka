@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000617169</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000617169</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Digital nation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Within a single generation, digital media and the World Wide Web have transformed virtually every aspect of modern culture, from the way we learn and work to the ways in which we socialize and even conduct war. But is the technology moving faster than we can adapt to it? And is our 24/7 wired world causing us to lose as much as we&apos;ve gained? This in-depth exploration of what it means to be human in a 21st-century digital world continues a line of investigation that began in 2008, with the FRONTLINE report &quot;Growing Up Online.&quot; The journalists attempt to understand the implications of living in a world consumed by technology and the impact that this constant connectivity may have on future generations.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">004.678083 DIG</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

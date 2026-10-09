@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000712982</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781741758320</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1741758327</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000712982</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Trotter, Chris</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Collaborative Family Work : A practical guide to working with families in the human services</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Life can be a struggle for some families and support from skilled human service workers can make a real difference. Collaborative Family Work offers practical strategies for working with families, always emphasising the importance of collaboration in assisting them in developing strategies to learn new skills and improve their lives. Chris Trotter explains how to identify strengths, assist families in setting goals, articulate strategies for change and develop methods of ongoing evaluation. He offers a systematic overview of family work models and theories, from long-term therapeutic and narrative approaches to short-term solution-focused and mediation models. His evidence-based model for family work draws on extensive field research and observation with experienced professionals.
+        Life can be a struggle for some families and support from skilled human service workers can make a real difference. Collaborative Family Work offers practical strategies for working with families, always emphasising the importance of collaboration in assisting them in developing strategies to learn new skills and improve their lives. Chris Trotter explains how to identify strengths, assist in setting goals, articulate plans for change, and develop methods of ongoing evaluation. He offers a systematic overview of family work models and theories, from long-term therapeutic and narrative approaches to short-term solution-focused and mediation models. His evidence-based model draws on extensive field research and observation with experienced professionals. Collaborative Family Work is a valuable reference for professionals seeking to enhance their professional skills, and an essential text for students in the human services.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">362.70994 TRO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
