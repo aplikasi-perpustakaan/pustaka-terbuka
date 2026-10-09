@@ -158,7 +158,10 @@ async function onOrgChange(org) {
 }
 
 function getRecordIdFromUrl(url) {
-  const match = (url || '').match(/(?:\/|^)book\/([^\/\?\#]+)\/?/);
+  if (!url) return null;
+  const idMatch = url.match(/[?&]id=([^&#]+)/);
+  if (idMatch) return idMatch[1];
+  const match = url.match(/(?:\/|^)book\/([^\/\?\#]+)\/?/);
   return match ? match[1] : null;
 }
 
@@ -220,7 +223,11 @@ async function downloadBasket() {
   let xmls = [];
   for (const id of basket) {
     try {
-      const res = await fetch(`${BASE_URL}id/${id}.xml`);
+      let res = await fetch(`${BASE_URL}id/${id}.xml`);
+      if (!res.ok) {
+        const shard = id.substring(0, 2).toLowerCase();
+        res = await fetch(`https://raw.githubusercontent.com/aplikasi-perpustakaan/pustaka-terbuka/main/data/bib/${shard}/${id}.xml`);
+      }
       if (res.ok) {
         const text = await res.text();
         // Remove XML declaration and collection root if present, or just string together records
@@ -290,7 +297,7 @@ function processResultNode(node) {
   const recordId = getRecordIdFromUrl(url);
   if (!recordId) return;
   
-  link.href = `${BASE_URL}book/${recordId}/`;
+  link.href = `${BASE_URL}book/?id=${recordId}`;
   
   const excerpt = node.querySelector('.pagefind-ui__result-excerpt');
   
@@ -305,9 +312,10 @@ function processResultNode(node) {
   };
   
   // Add download button
+  const shard = recordId.substring(0, 2).toLowerCase();
   const dlBtn = document.createElement('a');
-  dlBtn.href = `${BASE_URL}id/${recordId}.xml`;
-  dlBtn.download = '';
+  dlBtn.href = `https://raw.githubusercontent.com/aplikasi-perpustakaan/pustaka-terbuka/main/data/bib/${shard}/${recordId}.xml`;
+  dlBtn.download = `${recordId}.xml`;
   dlBtn.className = 'download-btn';
   dlBtn.textContent = i18n['download_record'] || 'Download MARCXML';
   dlBtn.style.marginLeft = '10px';
@@ -453,7 +461,7 @@ async function performSearch(query, resultsContainer, isInitial = false) {
     
     const url = data.url;
     const recordId = getRecordIdFromUrl(url) || 'unknown';
-    const bookUrl = (recordId !== 'unknown') ? `${BASE_URL}book/${recordId}/` : url;
+    const bookUrl = (recordId !== 'unknown') ? `${BASE_URL}book/?id=${recordId}` : url;
     
     const isbn = data.meta?.isbn || '';
     let thumbHtml = '';

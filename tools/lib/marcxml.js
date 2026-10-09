@@ -164,7 +164,18 @@ export function serialize(records) {
   return builder.build(obj);
 }
 
+export function serializeSingleRecord(record) {
+  const full = serialize([record]);
+  const start = full.indexOf('<marc:record>');
+  const end = full.lastIndexOf('</marc:record>') + 14;
+  if (start !== -1 && end !== -1) {
+    return full.substring(start, end);
+  }
+  return '';
+}
+
 export function contentHash(record) {
   const serialized = serialize(record);
   return crypto.createHash('sha256').update(serialized).digest('hex');
 }
+
