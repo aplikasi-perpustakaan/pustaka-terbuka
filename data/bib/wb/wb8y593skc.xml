@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876335</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787148413</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787148416</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">1479-3504 ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787148413</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876335</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Understanding Mattessich and Ijiri : a study of accounting thought</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Studies in the development of accounting thought, v. 21</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Richard Mattessich&apos;s Accounting and Analytical Methods (1964) and Yuji Ijiri&apos;s Theory of Accounting Measurement (1975) are two classic works of American accounting literature written by eminent scholars. Mattessich&apos;s work contributed to the debate around the role of accountants in designing systems, and it made a sweeping case for accounting as a management science within an emerging interdisciplinary movement. Ijiri focused on proposing a theory of conventional accounting as an accounting system, which has facilitated accountability among interested parties during five centuries. Understanding Mattessich and takes a 21st-century view of these authors and their work, which was well ahead of its time in the challenges it offered to formidable institutional arrangements. This volume revivifies Mattessich&apos;s and Ijiri&apos;s emphases on processes and circumstances irreducible to rigorous study, which since the 1960s has been the primary focus of accounting literature, and it re-examines important axiomatic views as foundations for accounting research, views to which both scholars dedicated their early careers. Ultimately, this work examines how their ideas fit with emerging economic theories and technologies which neither could have foreseen, and which now compete for attention when it comes to understanding the intricacy of capital and income measurement</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">657</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/S1479-3504201721</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000773994</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415811958</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415811953</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000773994</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Edwards, Lee (Lee M. S.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Power, Diversity and Public Relations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Routledge new directions in public relations and communication research</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Power, Diversity and Public Relations addresses the lack of diversity in PR by revealing the ways in which power operates within the occupation to construct archetypal practitioner identities, occupational belonging and exclusion. It explores the ways in which the field is normatively constructed through discourse, and examines how the experiences of practitioners whose ethnicity and class differ from the &apos;typical&apos; PR background, shape alternative understandings of the occupation and their place within it. The book applies theoretical perspectives ranging from Bourdieuvian and occupational sociology to postcolonial and critical race theory, to a variety of empirical data from the UK PR industry. Diversity emerges as a product of the dialectics between occupational structures, norms and practitioners&apos; reactions to those constraints; it follows that improving diversity is best understood as an exercise in democracy, where all practitioner voices are heard, valued, and encompass the potential for change. This insightful text will be essential reading for researchers and students in Public Relations, Communications, Media Studies, Promotional Industries, as well as all scholars interested in the sociology of race and work relations&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">659.2 EDW</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

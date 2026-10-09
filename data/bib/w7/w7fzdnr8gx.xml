@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738636</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781118356852</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1118356853</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738636</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Siegel, Eric, 1968-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">PREDICTIVE ANALYTICS : THE POWER TO PREDICT WHO WILL CLICK, BUY, LIE, OR DIE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">You have been predicted -- by companies, governments, law enforcement, hospitals, and universities. Their computers say, &quot;I knew you were going to do that!&quot; These institutions are seizing upon the power to predict whether you&apos;re going to click, buy, lie, or die. Why? For good reason: predicting human behavior combats financial risk, fortifies healthcare, conquers spam, toughens crime fighting, and boosts sales. How? Prediction is powered by the world&apos;s most potent, booming unnatural resource: data. Accumulated in large part as the by-product of routine tasks, data is the unsalted, flavorless residue deposited en masse as organizations churn away. Surprise! This heap of refuse is a gold mine. Big data embodies an extraordinary wealth of experience from which to learn. Predictive analytics unleashes the power of data. With this technology, the computer literally learns from data how to predict the future behavior of individuals. Perfect prediction is not possible, but putting odds on the future -- lifting a bit of the fog off our hazy view of tomorrow -- means pay dirt. In this rich, entertaining primer, former Columbia University professor and Predictive Analytics World founder Eric Siegel reveals the power and perils of prediction: What type of mortgage risk Chase Bank predicted before the recession. Predicting which people will drop out of school, cancel a subscription, or get divorced before they are even aware of it themselves. Why early retirement decreases life expectancy and vegetarians miss fewer flights. Five reasons why organizations predict death, including one health insurance company. How U.S. Bank, European wireless carrier Telenor, and Obama&apos;s 2012 campaign calculated the way to most strongly influence each individual. How IBM&apos;s Watson computer used predictive modeling to answer questions and beat the human champs on TV&apos;s Jeopardy! How companies ascertain untold, private truths -- how Target figures out you&apos;re pregnant and Hewlett-Packard deduces you&apos;re about to quit your job. How judges and parole boards rely on crime-predicting computers to decide who stays in prison and who goes free. What&apos;s predicted by the BBC, Citibank, ConEd, Facebook, Ford, Google, IBM, the IRS, Match.com, MTV, Netflix, Pandora, PayPal, Pfizer, and Wikipedia. A truly omnipresent science, predictive analytics affects everyone, every day. Although largely unseen, it drives millions of decisions, determining whom to call, mail, investigate, incarcerate, set up on a date, or medicate. Predictive analytics transcends human perception. This book&apos;s final chapter answers the riddle: What often happens to you that cannot be witnessed, and that you can&apos;t even be sure has happened afterward -- but that can be predicted in advance? Whether you are a consumer of it -- or consumed by it -- get a handle on the power of Predictive Analytics.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">303.49 SIE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

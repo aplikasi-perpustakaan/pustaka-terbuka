@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842973</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842973</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Levinson, Marc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">AN EXTRAORDINARY TIME : The End of the Postwar Boom and the Return of the Ordinary Economy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In An Extraordinary Time, acclaimed economic historian Marc Levinson recounts the global collapse of the postwar economy in the 1970s. While economists struggle to return us to the high economic growth rates of the past, Levinson counterintuitively argues that the boom years of the 1950s and 1960s were an anomaly; slow economic growth is the norm-no matter what economists and politicians may say. Yet these atypical years left the public with unreasonable expectations of what government can achieve. When the economy failed to revive, suspicion of government and liberal institutions rose sharply, laying the groundwork for the political and economic polarization that we&apos;re still grappling with today. A sweeping reappraisal of the last sixty years of world history, An Extraordinary Time describes how the postwar economic boom dissipated, undermining faith in government, destabilizing the global financial system, and forcing us to come to terms with how tumultuous our economy really is.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Books</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">330.904 LEV</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

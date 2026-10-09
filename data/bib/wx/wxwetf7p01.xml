@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735249</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062231734</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62231731</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735249</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hannan, Daniel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">INVENTING FREEDOM : How the English-Speaking Peoples Made the Modern World</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Why does the world speak English? Why does every country at least pretend to aspire to representative government, personal freedom, and an independent judiciary? This book is an ambitious account of the historical origin and spread of those principles, and their role in creating a sphere of economic and political liberty that is as crucial as it is imperiled. According to author Daniel Hannan, the ideas and institutions we consider essential to maintaining and preserving our freedoms--individual rights, private property, the rule of law, and the institutions of representative government--are not broadly &quot;Western&quot; in the usual sense of the term. Rather, they are the legacy of a very specific tradition, one that was born in England and that the Americans, along with other former British colonies, inherited. By the tenth century, a thousand years before most modern countries, England was a nation-state whose people were already starting to define themselves with reference to common-law rights. Inventing Freedom explains why the extraordinary idea that the state was the servant, not the ruler, of the individual evolved uniquely in the English-speaking world. It is a chronicle of the success of Anglosphere exceptionalism</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">323.44 HAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

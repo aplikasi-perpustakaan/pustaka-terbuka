@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000747360</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781598571196</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1598571192</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000747360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Moomaw, Sally, 1948-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Teaching Mathematics in Early Childhood</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Synopsis: Children who learn math fundamentals in preschool and kindergarten have the best chance of later achievement in school-but too often, children don&apos;t get the effective early math instruction that makes all the difference. Now there&apos;s a core early childhood textbook that helps current and future educators teach the most critical math concepts to young students while meeting today&apos;s national standards for mathematics education. Developed by Sally Moomaw, a nationally respected expert with more than 20 years of classroom experience, this accessible textbook gives readers a solid theoretical understanding of math concepts and standards and the guidance they need to create and implement their own lessons. Highly readable and practical enough for years of use beyond the classroom, this text explicitly aligns with the most current recommendations from the National Research Council&apos;s Committee on Early Childhood Mathematics and the focal points of the National Council of Teachers of Mathematics; helps teachers plan effective lessons-includes more than 50 classroom activities with detailed instructions and helpful photos; advances inclusion by giving teachers universal design strategies and adaptations to help them support all learners, including English language learners and students with disabilities; targets the critical math skills children will build on for the rest of their lives, from geometry to data analysis; focuses on the youngest students (including children with special needs) so teachers can implement developmentally appropriate math instruction when it&apos;s the most effective; gives teachers invaluable guidance on weaving math lessons into everyday routines and conversations; makes teacher preparation clear and easy, with student-friendly features such as chapter summaries, reflection questions, vignettes that model key concepts, and a glossary of math terminology. Whether used in preservice courses on teaching mathematics or in-service professional development, this comprehensive textbook will help educators give the youngest students a strong foundation of basic math concepts-and prepare them for lifelong academic success. Teach young children the basics of: quantification; operations; algebraic; reasoning; geometry; spatial sense; measurement; data analysis and probability.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">372.7 MOO</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

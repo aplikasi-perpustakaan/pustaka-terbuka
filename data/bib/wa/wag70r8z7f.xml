@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000729866</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415844567</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415844568</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000729866</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Political Marketing : Strategic Campaign Culture</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Routledge Research in Political Communication ; 10</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A guiding principle in creating Political Marketing has been to examine the ways in which culture, politics, and society interrelate in the field of political marketing. In the course of the book, the editors and contributors consider &apos;culture&apos; as a distinctive concept with transformative capacities that need further and deeper development in the engineering of the political marketing process. This may be introduced and, consequently, lead to broad formulation of a &apos;campaign culture&apos;. Indeed, understanding and adapting a broader &apos;campaign culture&apos;, political marketing models may be seen as sets of pathways of key resources resulting viability in human assets, forms of influence, class stratification, alternative flows of information or networking and intercultural knowledge -- sharing activity. This book consists of 18 chapters which deal with aspects of political marketing and &apos;campaign culture.&apos; Theoretical chapters are found first, followed by two chapters that deal with theoretical issues which became a subject of research. Next presented are the articles that study aspects of electoral behavior, followed by the papers that analyze aspects of nationalism &amp; national identity. Finally, the book concludes with three case studies on various issues in political marketing.&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">324.7 POL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

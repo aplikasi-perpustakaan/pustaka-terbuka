@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000876164</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787435636</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787435636</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787435636</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000876164</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Sport business in leading economies</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">From a renowned group of international scholars, this new work examines how leading economic countries use sport business, particularly individual sports events (such as the Olympics or FIFA Men&apos;s or Women&apos;s World Cup) as well as participant sport, in comprehensive plans toward driving and furthering economic development, raising brand awareness (country as a brand), transforming lagging communities, and enhancing travel and tourism in the country. Comparative sport studies are fundamentally designed for cross-country and cross-cultural understanding, learning, and improvement. By recognizing the achievements, administrative procedures, and management practices of peer countries and using them as a mirror or referencing parameter, government agencies and sport organizations of a country may be able to identify areas that need improvements in their own administration and cultivate development and growth in the country&apos;s sport industry. Exploring how China, Japan, South Korea, Russia, the UK, Germany, the US, Canada, Brazil, South Africa, and Australia have all used sport as a catalytic agent, each chapter delves into the country&apos;s sports industry by looking at: recent history and stages of the industry; current state including scope, magnitude, structure, governance, policies, facilities, and programs; developmental characteristics, strength, and highlights; contemporary challenges and issues; and trends of development and advancement</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.47796</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/9781787435636</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

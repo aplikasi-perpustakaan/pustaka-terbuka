@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000819289</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780691154855</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">691154856</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000819289</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Myers, Susan, 1962-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">WILDLIFE OF SOUTHEAST ASIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Princeton pocket guides</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This handy photographic guide offers a stunning look at the wildlife of Southeast Asia, which includes Burma, Thailand, Laos, Cambodia, Vietnam, West Malaysia, and Singapore. Accessible text and more than 500 color photographs help readers to learn about and identify the most common species found in the region, particularly the mammals, birds, reptiles, amphibians, and insects that visitors will most likely encounter. Detailed photos are accompanied on facing pages by succinct species accounts highlighting key identification features, status, and distribution. The book&apos;s brief introduction offers readers useful information on major wildlife sites as well as practical advice on making the most of a wildlife-watching trip.Wildlife of Southeast Asia is the essential resource for visitors and residents interested in the fauna of this fascinating area of the world.A photographic guide to the wildlife of Southeast Asia, including Burma, Thailand, Laos, Cambodia, Vietnam, West Malaysia, and SingaporeMore than 500 stunning color photographsAccessible species accounts highlight key identification features, status, and distributionA brief introduction discusses wildlife locations and practical travel know-how.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">591.50959 MYE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

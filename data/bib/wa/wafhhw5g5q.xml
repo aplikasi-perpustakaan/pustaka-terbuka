@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000880524</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780552173100</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">055217310X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">993640012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn993640012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000880524</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ewing, Jack</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Faster, Higher, Farther : THE INSIDE STORY OF THE VOLSWAGEN SCANDAL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Corgi edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A shocking expose of Volkswagen&apos;s fraud by the New York Times reporter who covered the scandal. When news of Volkswagen&apos;s clean diesel fraud first broke in September 2015, it sent shockwaves around the world. Overnight, the company long associated with quality, reliability and trust became a universal symbol of greed and deception. Consumers were outraged, investors panicked, the company embarrassed and facing bankruptcy. As lawsuits and criminal investigations piled up, by August 2016 VW had settled with American regulators and car-owners for $15 billion, with additional fines and claims still looming. In Faster, Higher, Farther, Jack Ewing rips the lid off the scandal. He describes VW&apos;s rise from &apos;the people&apos;s car&apos; during the Nazi era to one of Germany&apos;s most prestigious and important global brands, touted for being &apos;green&apos;. He paints vivid portraits of Volkswagen chairman Ferdinand Piech and chief executive Martin Winterkorn, arguing that their unremitting ambition drove employees, working feverishly in pursuit of impossible sales targets, to illegal methods. With unprecedented access to key players and a ringside seat during the course of the legal proceedings, Faster, Higher, Farther reveals how the succeed-at-all-costs culture prevalent in modern boardrooms led to one of corporate history&apos;s farthest-reaching cases of fraud -- with potentially devastating consequences. As the future of one of the world&apos;s biggest companies remains uncertain, this is the extraordinary story of Volkswagen&apos;s downfall.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">364.163 EWI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

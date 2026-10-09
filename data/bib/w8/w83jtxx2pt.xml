@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000782805</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781625275868</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1625275862</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000782805</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Reeves, Martin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">YOUR STRATEGY NEEDS A STRATEGY : How to Choose and Execute the Right Approach</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;What approach does your company use to develop and execute its strategy? We are confronted with a plethora of different approaches and frameworks which purport to answer this question-from the classic Michael Porter approach to Kim and Mauborgne&apos;s blue ocean strategy to Steve Jobs&apos; &quot;build it and they will come&quot; philosophy. The answer? There is no one approach that works for everyone-but there is a best approach for your specific context. And it has never been more important to choose the right one: not only has the number of different approaches proliferated ten-fold over the past 40 years, but the environments in which executives must formulate and execute strategy have become increasingly diverse and complex. The difference between winning and losing has never been greater. And using the right approach pays off: firms that successfully match their approach to their environment realize significantly better returns than those who don&apos;t. And, they avoid the common frustrations stemming from lack of perceived relevance and engagement around on the strategy process. How you choose and execute the right approach is the focus of this book. From Global BCG strategy experts Martin Reeves, Knut Haans, Janmejaya Sinha (and based on the bestselling article in Harvard Business Review), Your Strategy Needs a Strategy offers a practical guide to help you to match your approach to strategy to your environment and execute it effectively, to combine different approaches for companies which operate in multiple environments, and to lead your organization in making better strategic choices. Organizing approaches into five strategic archetypes-Be Big, Be Fast, Be First, Be the Orchestrator, Be Viable-the authors explain the conditions under which each is appropriate, when and how to execute each one, and how to avoid common strategy traps. They richly illustrate the idea with interviews with CEOs from different industries from around the globe. For anyone leading a business or charged with developing a winning strategy this book is for you. The world of strategy is thick with opposing ideas and frameworks; Your Strategy Needs a Strategy will help you cut through the noise and find clarity on which approach is your best bet&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4012 REE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

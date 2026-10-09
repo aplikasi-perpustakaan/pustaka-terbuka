@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735299</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007487271</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7487274</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735299</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Falconer, Daniel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE HOBBIT : THE DESOLATION OF SMAUG : CHRONICLES, ART &amp; DESIGN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The ultimate celebration of the second Hobbit movie reveals the full creative vision of the art and design teams with more than 1,000 exclusive images and photos, including designs and concepts that never made it to the big screen. The Hobbit: The Desolation of Smaug Chronicles - Art &amp; Design explores and celebrates the creative vision of the second film in Academy Award-winning filmmaker Peter Jackson&apos;s trilogy adaptation of The Hobbit by J.R.R Tolkien. This lavish volume follows Bilbo, Gandalf and Thorin&apos;s Company of Dwarves eastward, through hitherto unseen regions of Middle-earth, on their quest to reclaim the lost realm of Erebor from the Dragon Smaug. Exploring the design and development of the environments, cultures, creatures and artefacts encountered by the characters, it is filled with more than 1,000 stunning images of conceptual art, supplementary photographs and detailed commentary provided by the film&apos;s cast and crew. As a bonus feature, unique to this book, there is a special fold-out replica of the portrait of the Master of Lake-town, played by Stephen Fry, exactly as it appears in the film. Compiled by Weta Workshop senior concept designer Daniel Falconer, this is the third book in The Hobbit: Chronicles series and it has been created in full collaboration with key members of the production&apos;s creative team to ensure the most comprehensive and authentic film companion possible.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 FAL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

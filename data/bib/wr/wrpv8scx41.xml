@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000690638</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780262517508</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">262517507</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000690638</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tomlinson, Bill, 1972-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Greening through IT : information technology for environmental sustainability</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Environmental issues often span long periods of time, far-flung areas, and labyrinthine layers of complexity. In Greening through IT, Bill Tomlinson investigates how the tools and techniques of information technology (IT) can help us tackle environmental problems at such vast scales. Tomlinson describes theoretical, technological, and social aspects of a growing interdisciplinary approach to sustain ability, &quot;Green IT,&quot; offering both a human-centered framework for understanding Green IT systems and specific examples and case studies of Green IT in action.&quot; &quot;Tomlinson contrasts the broad ranges of time, space, and complexity against which environmental concerns play out with the relatively narrow horizons of human understanding; it’s hard for us to grasp thousand-year projections of global climatic disruption or our stake in melting icecaps thousands of miles away. IT can bridge the gap between human scales of understanding and environmental scales.&quot; &quot;Tomlinson offers many examples of efforts toward sustainability supported by IT - from fishers in India who maximized the sales potential of their catch by coordinating their activities with mobile phones to the installation of smart meters that optimize electricity use in California households - and discusses three detailed studies of specific research projects that he and his colleagues have undertaken: EcoRaft, an interactive museum exhibit to help children learn principles of restoration ecology; Trackulous, a set of Web-based tools with which people can chart their own environmental behavior; and GreenScanner, an online system that provides access to environmental-impact reports about consumer products. Taken together, these examples illustrate the significant environmental benefits that innovations in information technology can enable.&quot;--BOOK JACKET</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">303.483 TOM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

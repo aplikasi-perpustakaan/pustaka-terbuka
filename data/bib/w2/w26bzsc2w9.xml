@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000976348</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780300257373</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">300257376</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000976348</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Levy, Bernard-Henri</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE VIRUS IN THE AGE OF MADNESS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2020</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;With medical developments, rising death tolls, and conspiracy theories beamed minute by minute through the vast web universe to billions, the dissemination of information during the coronavirus pandemic has radically altered social and political landscapes around the world. In this clear-eyed essay, renowned French public intellectual Bernard Henri-Lévy examines the various meanings we have assigned to the coronavirus pandemic, interrogating what these &quot;messages&quot; tell us about ourselves. Drawing on the philosophical tradition from Plato and Aristotle to Lacan and Foucault, Lévy asks uncomfortable questions about the realities and mythologies that have emerged during the pandemic. He rejects liberal ideas that the virus is a warning from nature, the inevitable result of global capitalism; he troubles the heroic status of physicians and researchers, asking us to think critically about the loci of authority and power; he questions the panicked polarization that dominates online discourse. With signature incisive analysis, Lévy takes a bird&apos;s-eye view of the most consequential historical event of our time, proposing a way to defend human society from contemporary threats to our social and economic future&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">194 LEV</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

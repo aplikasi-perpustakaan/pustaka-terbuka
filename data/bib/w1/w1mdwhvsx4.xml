@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000775739</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781250066442</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1250066441</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000775739</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Niven, David, 1971-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Answer : HOW TO SOLVE UNSOLVABLE PROBLEMS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">It&apos;s Not About the Shark opens the door to the groundbreaking science of solutions by turning problems--and how we solve them--upside down. When we have a problem, most of us zero in, take it apart, and focus until we have it solved. David Niven shows us that focusing on the problem is exactly the wrong way to find an answer. Putting problems at the center of our thoughts shuts down our creative abilities, depletes stamina, and feeds insecurities. It&apos;s Not About the Shark shows us how to transform our daily lives, our work lives, and our family lives with a simple, but rock-solid principle: If you start by thinking about your problems, you&apos;ll never make it to a solution. If you start by thinking about a solution, you&apos;ll never worry about your problems again. Through real-life examples and psychology research, David Niven shows us why: *Focusing on the problem first makes us 17 times less likely to find an answer *Being afraid of a problem is natural: we&apos;re biologically primed to be afraid *Finding a problem creates power - which keeps you from finding a solution *Working harder actually hides answers *Absolute confidence makes you less likely to find the answer *Looking away from a problem helps to see a solution *Listening only to yourself is one of the best ways to find an answer Combining hard facts, good sense, and a strong dose of encouragement, David Niven provides fresh and positive ways to think about problem solving.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">153.43 NIV</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
