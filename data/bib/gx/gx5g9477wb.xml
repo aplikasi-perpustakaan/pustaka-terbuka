@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000748560</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000748560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">tam</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">ரெங்கசாமி, அ | Rengasamy, A</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">நினைவுச்சின்னம் : &apos;மரண இரயில்வே&apos; என்று அழைக்கப்படும் சயாம் பர்மா இரயில் பாதை அமைப்பில் வலுக்கட்டாயமாக ஈடுப்படுத்தப்பட்டு ஆதரவின்றி அநியாயமாய் அந்நிய மண்ணிலே அநாதைகளாய்ப் பலியாகி சயாம் காடுகளில் ஆழ்துயில் கொண்டுவிட்ட ஆயிரமாயிரம் மறக்கப்பட்ட மலாயத் தமிழர்களின் ஆத்மா சாந்தியடைய எழுப்பப்பட்ட நினைவாலயமே இந்த நினைவுச்சின்னம் | Ninaivu chinnam : &apos;Marana irayilway&apos; endru azhaikkapadum, sayam-burma irayil paathai amaippathil valukkatayamaga eedupaduthappattu, aatharavindri aniyayamai, anniya mannile anathaigalaip paliyagi sayam kaadugalil aaltuyil konduvitta aayiramaayiram marakkapatta malaya tamilargalin aathma santhiyadaiya eluppappatta ninaivalayame intha &apos;Ninaivu chinnam&apos;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">305.89143095493 REN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

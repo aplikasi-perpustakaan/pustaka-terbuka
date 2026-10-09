@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000812169</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781442238602</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1442238607</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000812169</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kohn, Karen C., 1978-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Collection Evaluation in Academic Libraries : A Practical Guide for Librarians</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Practical guides for librarians ; no. 16</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Librarians have long used data to describe their collections. Traditional measures have simply been input and output: volumes acquired, processed, owned, or circulated. Since the growth of culture of assessment beginning in the 1990s, librarians have sought statistics that are evaluative rather than simply descriptive. More recently, increasing journal prices and economic recession have intensified the need to make careful purchasing decisions and to justify these to administrators. A methodical evaluation of a library collection can help librarians understand and meet user needs and also communicate to administrators that maintaining the collection is a good use of an institution&apos;s money. Collection Evaluation in Academic Libraries: A Practical Guide for Librarians equips collection managers to select and implement a method or several methods for assessing library collections. It describes four crucial evaluation tools: Comparison to peer institutions; Core lists; Usage statistics from circulation and interlibrary loans; Citation analysis. Chapters on each of these approaches present the advantages and disadvantages of the method, instructions on data collection and analysis - with screenshots - and suggested steps after completing the analysis. With a unique combination of step-by-step instructions and discussions of the purpose and meaning of data, this comprehensive, practical guide to collection evaluation will be indispensable for collection development librarians and anyone looking to strengthen the culture of assessment within their library.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">025.21877 KOH</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000716763</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781422183212</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1422183211</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000716763</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lorsch, Jay William</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The future of boards : meeting the governance challenges of the twenty-first century</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This book gathers the leading voices from business and academia to address the challenges of governance in the 21st century. We are at a crucial juncture in the evolution of business and the economy. We must now reshape the structures and practices of business leadership to avoid going down the same path again. To a large extent this is a question of governance and the role of corporate boards, to help us wrestle with critical issues like CEO performance and succession, compensation, and forward-looking strategy. This book gathered thought leaders and some of the most experienced voices at Harvard Business School to describe the moment we are in, identify and analyze the salient issues, and chart a course for the future. Articles include Bill George on how boardroom conflicts can be understood and managed; Krishna Palepu on how directors can gain the knowledge necessary to effectively oversee strategy; Lorsch himself and colleague Rakesh Khurana on how boards can set reasonable compensation while still motivating top talent; and Ken Merchant and Kat Pick on group pathologies in the boardroom and how to overcome them. This will be must reading for CEOs, business and industry leaders, policymakers, and anyone involved in influencing and reshaping business in the 21st century.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.422 LOR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

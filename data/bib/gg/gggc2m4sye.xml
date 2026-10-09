@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000763980</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000763980</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Letters to God / Vivendi Entertainment presents a Possibility Pictures release in association with DNP Studios and Vertical Innovations, a David Nixon film ; written by Patrick Doughtie, Art D&apos;Alessandro, Sandra Thrift, Cullen Douglas ; produced by Cameron Kim Dawson, David Nixon ; directed by David Nixon</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Eight-year-old Tyler is armed with strong faith and courage as he faces a battle against cancer. His prayers take the form of letters he sends to his ultimate pen pal, God, on a daily basis. These letters find their way into the hands of Tyler&apos;s postman, Brady, who is at a crossroads in his life, and is searching for meaning. Brady is at first is confused over what to do, but his decision ultimately is a testament to the power of Tyler&apos;s shining spirit, bravery, and grace</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 LET</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

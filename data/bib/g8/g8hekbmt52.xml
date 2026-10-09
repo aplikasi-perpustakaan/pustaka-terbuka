@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000773486</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781936303571</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1936303574</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000773486</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Aaronson, Naomi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">PILATES FOR BREAST CANCER SURVIVORS : A Guide to Recovery, Healing, and Wellness</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Whether you are undergoing therapy for breast cancer or recovering from it, the treatment and disease can leave you feeling weak. Pilates is a safe and effective way to help you get your strength back while fighting chemo brain, lymphedema, fatigue, depression, weight gain, peripheral neuropathy, osteoporosis, and upper extremity impairment. Naomi Aaronson and Anne Marie Turo, occupational therapists and certified Pilates instructors, show you how to build strength, flexibility, and confidence and improve everyday life after breast cancer through Pilates. This customizable three-phase program allows you to ease back into health at your own pace and challenge yourself as you regain mobility and power. With clear instructions and photos, you&apos;ll learn how to use correct posture, form, and alignment to get the most out of your exercise and feel better faster. This book features: Simple exercises to improve core and upper body strength A three-phase program to bring you from treatment to full recovery A special routine for recovery from the TRAM Flap procedure Adaptations for every exercise including seating and standing alternatives.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">616.9944906 AAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

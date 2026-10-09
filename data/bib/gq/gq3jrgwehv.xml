@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000572146</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789251057650</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9251057656</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0429-9345</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000572146</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Disaster response and risk management in the fisheries sector</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">FAO fisheries technical paper ; no. 479</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This document gives an overview of FAO&apos;s work with regard to natural and human-induced disasters in the fisheries and aquaculture sectors, together with the lessons learned and experience gained on how to improve disaster response, preparedness and prevention in these sectors. Over the last few decades, natural and human-induced disasters have become more frequent and increasingly destructive. Populations depending on fisheries and aquaculture for their livelihoods have become more and more vulnerable and have been seriously affected by loss of life and property. These disasters are beyond the control of the victims. Even before disaster strikes, fishing and aquaculture communities face a multitude of problems that increase their vulnerability to hazards, such as marine and industrial pollution, environmental degradation, overexploitation of natural resources, conflicts with industrial fishing operations and precarious economic situations as a result of poverty and food insecurity. In order to provide adequate disaster response in emergency situations and to help communities to be better prepared and warned of potential threats through preventive disaster risk management (DRM), it is imperative that the particular characteristics of the fisheries and aquaculture sectors and the livelihood contexts of small-scale fishers and fish farmers and their communities be clearly understood from the technical, social and economic points of view. Disasters cause serious disruption to communities, their governments and society as a whole. In many cases the rehabilitation and reconstruction process necessitates external assistance to guarantee return to basic livelihoods as quickly as possible. Therefore one of the main purposes of this document is to support policy- and decision-makers involved in disaster response and DRM by increasing their effectiveness in addressing the needs of fishers and coastal communities in relation to disasters. The document is divided into two parts: Part 1 describes disasters in the context of the fisheries sector and Part 2 provides recommendations. These practical recommendations are aimed at those involved in assisting fishing communities in emergency disaster rehabilitation and mitigation. It offers guidance for those working in both the fisheries sector and in emergency and disaster relief and management but who may not have pertinent information for the fisheries and aquaculture sectors. Implementation of these guidelines and recommendations should provide the basis for good policy- and decision-making. As a resource guide, it is hoped that the publication will assist governments and those working in disaster and emergency situations to formulate plans to reduce or prevent the risks and impacts of disasters, manage disaster relief operations more effectively and steer the recovery process on to the fastest track, &quot;building back better&quot;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">639.2 DIS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000657737</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781851496372</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1851496378</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000657737</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cummins, Genevieve</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">HOW THE WATCH WAS WORN : A Fashion for 500 Years</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The watch was not only made to work, but to wear. Its creation, approximately 500 years ago, has been one of man&apos;s mechanical masterpieces. This deserves to be celebrated. The technical and decorative aspect of the watch has been extensively covered in available literature. The manner of wearing has, however, been sadly neglected - a surprising fact, considering that the watch with its attachment is one of the more common and significant fashion accessories. This book aims to correct the deficiency by presenting in largely pictorial fashion the relevant styles and changes from 1510 to 2010. The images depict watches and people wearing watches (paintings, engravings, fashion plates, advertisements and photographic portraits) as well as gowns and outfits of the day adorned with appropriate styles of watches and chains. The types of watches include fob, pocket, pendant, brooch, ring, buckle, cufflink, doll, occupational etc along with the current dominant wristwatch. Attachments for the watch include chatelaines, brooches, wristbands, guard, vest and fob chains. Confused terminology for these chains is clarified.&quot;--Publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">739.309 CUM</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

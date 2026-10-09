@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000732229</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780753515037</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">753515032</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000842956</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000732229</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Branson, Richard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Business Stripped Bare : Adventures of a Global Entrepreneur</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2008-2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Richard Branson shares the inside track on some of his greatest achievements over forty years in business as well as the lessons he has learned from his setbacks. In Business Stripped Bare he discusses why he took on one of the world&apos;s biggest superbrands, how he built Virgin Mobile USA into the fastest growing company in history to reach a billion dollars in revenue, faster than Microsoft, Google or Amazon.com, and how he is the only person in the world to have built seven billion-dollar companies from scratch in seven completely different sectors. Richard tells the story behind the launch of Virgin America, his new airline in the USA, how Virgin Galactic is set to initiate a new era of space tourism from a spaceport deep in the Mojave desert, and what he has learned about business from a diverse group of leaders, including Nelson Mandela, Jack Welch, Herb Kelleher, Steve Jobs and the founders of Google. He also shares his thoughts on the changing face of the global economy and how businesses worldwide need to work together to tackle environmental challenges and invest in the future of our world. Combining invaluable advice with remarkable and candid inside stories, Business Stripped Bare is a dynamic, inspirational and truly original guide to success in business and in life. Whether you are an executive, an entrepreneur or just starting out in the business world, Richard strips down business to show how you can succeed and make a difference.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Audio Books</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658 BRA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

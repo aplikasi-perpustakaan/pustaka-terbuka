@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000676275</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789251068205</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9251068208</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">1814-1137</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000676275</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Investment in agricultural mechanization in Africa : conclusions and recommendations of a Round Table Meeting of Experts</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Agriculture and food engineering technical report ; 8</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Many African countries have economies strongly dominated by the agricultural sector and in some this generates a significant proportion of the gross domestic product. It provides employment for the majority of Africa&apos;s people, but investment in the sector remains low. One of the keys to successful development in Asia and Latin America has been mechanization. By contrast, the use of tractors in sub-Saharan Africa (SSA) has actually declined over the past fourty [sic] years and, compared with other world regions, their use in SSA today remains very limited. It is now clear that, unless some positive remedial action is taken, the situation can only worsen. In most African countries there will be more urban dwellers than rural ones in the course of the next two to three decades. It is critical to ensure food security for the entire population but feeding the increasing urban population cannot be assured by an agricultural system that is largely dominated by hand tool technology. In order to redress the situation, FAO, UNIDO and many African experts are convinced that support is urgently needed for renewed investment in mechanization. Furthermore, mechanization is inextricably linked with agro-industrialization, and there is a need to clarify the priorities in the context of a broader agro-industrial development strategy. This must, however, be done in the right way, taking into account critical factors for success and sustainability. This issue and others were addressed at a three-day Round Table Meeting of experts that was convened in Arusha, Tanzania, in June 2009, with the intention of providing guidance on the key strategies and good practices for maximizing the benefits and sustainability of investments in agricultural mechanization in Africa. This report summarizes the deliberations of this Round Table Meeting.&quot;--P. [4] of cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">338.16 INV</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
