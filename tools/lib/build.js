@@ -268,7 +268,8 @@ export async function buildSite(options) {
       const orgInfo = orgs[h.org] || {};
       const orgName = orgInfo.name || h.org;
       const control001 = record.controlFields?.find(f => f.tag === '001')?.value;
-      const opacUrl = (h.org === 'PNM' && control001) ? `https://opac.pnm.gov.my/search/resource/${control001}` : (orgInfo.opac_url || '#');
+      const pnmQuery = primaryIsbn || control001 || title;
+      const opacUrl = (h.org === 'PNM') ? `https://opac.pnm.gov.my/search?query=${encodeURIComponent(pnmQuery)}` : (orgInfo.opac_url || '#');
       holdingsHtml += `<li><div><strong>${escapeHTML(orgName)}</strong> &mdash; Call Number: <span class="badge badge-call">${escapeHTML(h.call_number)}</span></div> <a href="${escapeHTML(opacUrl)}" target="_blank" rel="noopener" class="opac-link-btn">View in OPAC &rarr;</a></li>`;
       
       // Collect org holdings
