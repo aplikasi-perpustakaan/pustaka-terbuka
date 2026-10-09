@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000985193</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789865064228</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9865064227</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000985193</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pak, Yŏng-suk, 1955-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">2040世界未來報告書 : 太空淘金、人機共生、移動革命、能源戰爭、ESG策略, 疫後時代如何抓住正在崛起的工作與商機? | 2040 shi jie wei lai bao gao shu : tai kong tao jin, ren ji gong sheng, yi dong ge ming, neng yuan zhan zheng, ESG ce lüe, yi hou shi dai ru he zhua zhu zheng zai jue qi de gong zuo yu shang ji?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">初版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Zhi fu guan = 360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">By the year 2040, we will be living in a new world shaped by the fusion of imagination and technology. So, what technologies are Google, Meta, Tesla, Amazon, and Apple focusing on? What emerging opportunities are on the rise? Will current jobs disappear? And how can we prepare in advance? Through an in-depth look at the fields that are radically transforming human life, this book helps readers view the future from new perspectives, overcome fear of the unknown, and seize unprecedented opportunities</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">303.49 PAK</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

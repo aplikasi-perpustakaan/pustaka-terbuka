@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842770</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780008159184</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">8159181</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842770</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">VanderMeer, Jeff.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">BORNE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&apos;Am I a person?&apos; Borne asks Rachel, in extremis. &apos;Yes, you are a person, &apos; Rachel tells him. &apos;But like a person, you can be a weapon, too.&apos; In a ruined, nameless city of the future, Rachel makes her living as a scavenger. She finds a creature she names Borne entangled in the fur of Mord, a gigantic despotic bear that once prowled the corridors of a biotech firm, the Company, until he was experimented on, grew large, learned to fly, and broke free. Made insane by the company&apos;s torture of him, Mord terrorizes the city even as he provides sustenance for scavengers. At first, Borne looks like nothing at all--just a green lump that might be a discard from the Company, which, although severely damaged, is rumored to still make creatures and send them to far-distant places that have not yet suffered collapse. Borne reminds Rachel of the island nation of her birth, now long lost to rising seas. She feels an attachment that she resents: attachments are traps, and in this world any weakness can kill you. Yet when she takes Borne to her subterranean sanctuary, Rachel convinces her lover, Wick--a special kind of dealer--not to render down Borne as raw genetic material for the drugs he sells. But nothing is quite the way it seems: not the past, not the present, not the future. If Wick is hiding secrets, so is Rachel--and Borne most of all. What Rachel finds hidden deep within the Company will change everything and everyone. There, lost and forgotten things have lingered and grown. What they have grown into is mighty indeed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">VAN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

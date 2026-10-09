@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000510600</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000510600</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">薛仁贵传奇 | Xue Rengui chuan qi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1-32集完整版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">200X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">剧情叙述唐太宗李世民一日梦中遇险, 幸得一白袍小将相救, 后经徐茂公以观星相与梦境预测, 断言东方将起战祸, 太宗须寻得梦中的白袍小将才能平乱, 而这位小将就是薛仁贵. 薛仁贵原本出身富贵, 后因意外, 父母双亡, 家道中落, 流落到柳家做临时工, 并与柳家小姐金花日久生情, 相偕私奔结成连理. 后来薛仁贵投军, 几次因缘际会下屡建战功, 还三次救了圣驾, 平定了辽东战事, 终于使高丽王献出降表. 受封为&quot;平辽王&quot;的薛仁贵, 在离家13年后终衣锦还乡, 途中巧遇未曾谋面的儿子丁山, 却失手将他射死, 但也终于和妻女金花、金莲团圆</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">DVD</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">791.4372 XUE</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

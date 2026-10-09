@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000679412</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780691145723</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">691145725</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000679412</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Goldin, Ian, 1955-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Exceptional people : how migration shaped our world and will define our future</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">From the publisher. Throughout history, migrants have fueled the engine of human progress. Their movement has sparked innovation, spread ideas, relieved poverty, and laid the foundations for a global economy. In a world more interconnected than ever before, the number of people with the means and motivation to migrate will only increase. Exceptional People looks at the profound advantages that such dynamics will have for countries and migrants the world over. Challenging the received wisdom that a dramatic growth in migration is undesirable, the book proposes new approaches for governance that will embrace this international mobility. The authors explore the critical role of human migration since humans first departed Africa some fifty thousand years ago -- how the circulation of ideas and technologies has benefited communities and how the movement of people across oceans and continents has fueled economies. They show that migrants in today&apos;s world connect markets, fill labor gaps, and enrich social diversity. Migration also allows individuals to escape destitution, human rights abuses, and repressive regimes. However, the authors indicate that most current migration policies are based on misconceptions and fears about migration&apos;s long-term contributions and social dynamics. Future policies, for good or ill, will dramatically determine whether societies can effectively reap migration&apos;s opportunities while managing the risks of the twenty-first century. A guide to vigorous debate.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">304.8 GOL</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

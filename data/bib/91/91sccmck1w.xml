@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000986585</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9787544876155</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7544876152</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000986585</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Osman, Richard, 1970-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">周四推理俱乐部 | Zhou si tui li ju le bu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">第1版</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">In an upscale retirement community in the English countryside, former spy Elizabeth refuses to grow old “wearing adult diapers and sitting in a wheelchair.” Instead, she teams up with fellow residents—Joyce, a mystery-loving former nurse; Ron, a blue-collar activist; and Ibrahim, a retired psychiatrist—to form The Thursday Murder Club. Every Thursday, they meet to discuss cold cases that the police have long left unsolved. But when a real string of murders unfolds right under their noses, things take a serious turn. A property developer in the community is found murdered. The prime suspect collapses and dies unexpectedly. And a set of unidentified bones from fifty years ago turns up in the cemetery. As the mystery deepens, these four amateur sleuths—with an average age of 77.5—spring into action. Elizabeth digs up key clues using her spycraft. Ron cuts through the noise to identify suspects faster than the police. Ibrahim and Joyce apply their keen professional instincts to break open the case. Together, this unlikely quartet of “armchair detectives” must race against time—and the odds—to uncover the truth</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">823.92 OSM</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

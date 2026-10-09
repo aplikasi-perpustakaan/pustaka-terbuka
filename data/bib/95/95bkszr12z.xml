@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737978</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781599185200</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1599185202</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737978</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Rognerud, Jon.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">ULTIMATE GUIDE TO Optimizing YOUR WEBSITE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Third Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Written for beginners, author Jon Rognerud offers every tip, trick, and secret from keyword research and competitive analysis, to marketing and messaging, content development, link building, and conversions and tracking of search engine positions. Local search, social media, and blogging are new to this edition, and show examples on how to optimize these important new development areas. Updated content includes social media search content that reflects strategies and market information to helps business owners easily add this companion to SEO work, blog optimization steps with best SEO tactics for creating search engine friendly sites, and the top ten hottest WordPress plugins for top traffic boost. A local SEO section shows readers how to avoid the most common mistakes on optimizaing for local search and the updated section on Google analytics shows how to track top keywords and pages. An updated link building section provides new white hat SEO link building tactics to provide better long term rankings and traffic building, and an expanded resource section includes updated screen-shots of SEO applied. Step-by-step examples are written with an &quot;at the kitchen table&quot; type dialogue for accessibility and an advanced strategy section takes readers to the next level&quot;--
+&quot;With over 30% new content, charts and screenshots, plus the addition of an exclusive members website, which will be accessible upon book purchase and offer free downloadable content and videos plus on online community to share and get feedback - this book offers actionable information to build traffic, convert sales and make more money.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.872 ROG</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

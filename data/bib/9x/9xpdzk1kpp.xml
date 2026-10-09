@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737986</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062329547</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">62329545</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737986</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cruvellier,Thierry</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE MASTER OF CONFESSIONS : THE MAKING OF A KHMER ROUGE TORTURER</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">With chilling clarity, a veteran international journalist delineates the totalitarian ideology and horrific crimes of the leaders of Cambodia&apos;s Khmer Rouge. A witness to and chronicler of the war-crimes trials of Rwanda (Court of Remorse, 2010), Cruvellier likewise attended the arduous eight-month Khmer Rouge Tribunal in 2009 of the notorious head of the S-21 &quot;death mill&quot; in Phnom Penh, Kaing Guek Eav, aka Duch. Duch managed the prison, formerly a high school, between 1975 and 1979, and he was tasked with interrogating, eliciting confessions by torture and &quot;smashing&quot; the victim--the verb preferred by the court. A meticulous, methodical former math teacher and a loyal Khmer party member, Duch, then in his mid-30s, was the &quot;perfect fit for the job&quot; of interrogator. The pride he took in his work was reflected in the careful records he diligently kept and did not destroy before he fled upon the invasion of the Vietnamese in early 1979.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">341.69 CRU</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI BUKU2U RADIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

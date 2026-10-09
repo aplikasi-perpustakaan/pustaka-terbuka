@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735594</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9788854407558</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">8854407550</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735594</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Trifoni, Jasmina, 1966-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE WORLD&apos;S 100 BEST ADVENTURE TRIPS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Adventure is worthwhile in itself&quot; said the aviation pioneer Amelia Earhart. Roald Amundsen, one of the most intrepid explorers in History, put it much more prosaically when he declared that &quot;adventure is just bad planning&quot;. Whichever way you look at it, the spirit of adventure is intrinsic in all of us; it is just a question of finding the right key to unleash it. And that is precisely what this book proposes to do with a collection of 100 adventurous journeys to the four corners of the Earth, on foot or by bicycle, by sailing boat or by off-road transport or even by more &quot;exotic&quot; means of transport, to plunge into the wildest forms of Nature or to encounter peoples who are very different from ourselves, and even to test our physical limits in extreme sports. Some of the adventures included in the book only last a few days, while others are epic journeys -- in the Amazon Forest, along the Grand Trunk Road, the &quot;travelling continent&quot; between Pakistan and India or through the ice of the Antarctic -- that will be remembered as once in a lifetime experiences. The chronicle of each one of these journeys, all of which are truly special, is accompanied by spectacular pictures and practical information and advice because, as Amundsen said, a perfect adventure must be well organised.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">910.202 TRI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000842747</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781501117428</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1501117424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000842747</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Barry, Tod</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THANK YOU FOR COMING TO HATTIESBURG : ONE COMEDIAN&apos;S TOUR OF NOT-QUITE-THE-BIGGEST CITIES IN THE WORLD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Gallery Books hardcover edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">From the veteran comedian and actor from The Wrestler and Louie comes a hilarious book of travel essays from his time on tour through secondary markets in the US, Canada, and Israel. Hello. It&apos;s Todd Barry. Yes, the massively famous comedian. I have billions of fans all over the world, so I do my fair share of touring. While I love doing shows in the big cities (New York, Philadelphia), I also enjoy a good secondary market (Ithaca, Bethlehem). Performing in these smaller places can be great because not all entertainers stop there on tour; they don&apos;t expect to see you. They&apos;re appreciative. They say things like &quot;Thank you for coming to Hattiesburg&quot; as much as they say &quot;Nice show.&quot; And almost every town has their version of a hipster coffee shop, so I can get in my comfort zone. My original plan was to book one secondary market show in all fifty states, in about a year, but that idea was funnier than anything in my act. So, instead of all fifty states in a year, my agent booked multiple shows in a lot of states, plus Israel and Canada. Thank You For Coming to Hattiesburg is part tour diary, part travel guide, and part memoir (Yes, memoir. Just like the thing presidents and former child stars get to write). Follow me on my journey of small clubs, and the occasional big amphitheater. Watch me make a promoter clean the dressing room toilet in Connecticut, see me stare at beached turtles in Maui, and see how I react when Lars from Metallica shows up to see me at a rec center in Northern California. I&apos;d love to tell you more, but I need to go book a flight to Evansville, Indiana</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">792.76092 BAR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

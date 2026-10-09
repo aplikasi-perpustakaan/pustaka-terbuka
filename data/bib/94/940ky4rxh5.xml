@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000664875</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470637982</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">470637986</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000664875</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lawler, Edward E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Management reset : organizing for sustainable effectiveness</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Provocative new management principles and practices that create effective organizations for shareholders and society. Management experts Lawler and Worley have developed a set of management principles that enable organizations to be both successful and responsible. Existing command &amp; control and high-involvement management styles depend too much on stable conditions and focus too narrowly on economic outcomes. They convincingly argue that we need to &quot;reset&quot; our approach to management to one that fits today&apos;s demanding business environment. Starting with a change in how success is measured and a more realistic view of risk, Lawler and Worley take us through how strategy, governance, organization structure and talent should be managed. The result is an organization that can reliable produce financial, social, and ecological results. Includes illustrative lessons from Microsoft, Cisco, Netflix, DaVita, Starbucks, Nokia, and the U.S. Secret Service. Offers clear prescriptions for managers who want to organize for sustainable performance effectiveness. Lawler and Worley are the authors of the bestselling Built to Change. Lawler and Worley outline why and how the current practice of management must change in order for organizations to achieve sustained organizational effectiveness.&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.408 LAW</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

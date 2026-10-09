@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000635312</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9784770030429</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">4770030428</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000635312</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tendo, Shoko, 1968-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Yakuza moon : memoirs of a gangster&apos;s daughter /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Yakuza Moon is the shocking yet intensely moving first-person account one woman&apos;s experience of growing up in Japan&apos;s yakuza society. Born into the family of a wealthy yakuza boss, Shoko Tendo lives her early years in luxury. But labeled &quot;the yakuza kid,&quot; she is the victim of bullying and discrimination from teachers and classmates at school, and of her father&apos;s violent rages at home. The family falls into debt, and Tendo falls in with the wrong crowd. By the age of fifteen she is a gang member, by the age of eighteen a drug addict, and her young adulthood is marked by a series of abusive and violent relationships with men.&quot; &quot;After the death of her parents and her own attempt at suicide, Tendo turns her life around. A pivotal moment is the decision to get tattooed: an act of empowerment that helps her take control of her life. This is the universally appealing story of a young woman&apos;s successful struggle to escape from a life of ostracism and abuse, and a rare glimpse into Japan&apos;s closed yakuza world from an insider&apos;s viewpoint.&quot;--BOOK JACKET.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">364.1092 TEN</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000738522</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781609946364</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1609946367</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000738522</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Roche, Joyce M.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Empress Has No Clothes : Conquering Self-Doubt to Embrace Success</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Joyce Roche earned an Ivy League MBA and rose quickly to become the first African-American vice president of Avon, where she led global marketing. She later became president of a leading cosmetics company and CEO of Girls Inc. and now serves on several Fortune 500 boards. Yet through it all she felt like an impostor-the phrase &quot;the empress has no clothes&quot; kept running through her head. As a result she worked 20-hour days, kept quiet in meetings to avoid revealing her supposed shortcomings, and worst of all, never really enjoyed her success. Using her own life story - from her beginnings in rural Louisiana through her rise up the corporate ranks and her transition to the nonprofit sector - Roche exposes the roots of the Impostor Syndrome, its toll on young and emerging professionals, and provides invaluable advice for overcoming feelings of inadequacy. She explores panic points, coping strategies, and just plain common career sense. Each chapter features an interview with a leading executive like Chairman and CEO of BET Holdings Debra Lee, WNBA Founding President Val Ackerman, Starbucks Senior Vice President Mary Wagner, Eileen Fisher, and many more, who share their own imposter syndrome stories. Reading this book is like having the career mentor we all want but can never find. Roche even provides the path to finding joy and meaning at work, which is the proper goal of any true career.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">650.1 ROC</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

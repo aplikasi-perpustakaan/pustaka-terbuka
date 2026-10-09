@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000740875</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674047129</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">674047125</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000740875</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jasienska, Grazyna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THE FRAGILE WISDOM : AN EVOLUTIONARY VIEW ON WOMEN&apos;S BIOLOGY AND HEALTH</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;So many women who do everything right to stay healthy still wind up with breast cancer, heart disease, or osteoporosis. In The Fragile Wisdom, Grazyna Jasienska provides an evolutionary perspective on the puzzle of why disease prevention among women is so frustratingly difficult. Modern women, she shows, are the unlucky victims of their own bodies&apos; conflict of interest between reproductive fitness and life-long health. The crux of the problem is that women&apos;s physiology has evolved to facilitate reproduction, not to reduce disease risk. Any trait--no matter how detrimental to health in the post-reproductive period--is more likely to be preserved in the next generation if it increases the chance of giving birth to offspring who will themselves survive to reproductive age. To take just one example, genes that produce high levels of estrogen are a boon to fertility, even as they raise the risk of breast cancer in mothers and their daughters. Jasienska argues that a mismatch between modern lifestyles and the Stone Age physiology that evolution has bequeathed to every woman exacerbates health problems. She looks at women&apos;s mechanisms for coping with genetic inheritance and at the impact of environment on health. Warning against the false hope gene therapy inspires, Jasienska makes a compelling case that our only avenue to a healthy life is prevention programs informed by evolutionary understanding and custom-fitted to each woman&apos;s developmental and reproductive history.&quot;--book jacket.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">613.04244 JAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

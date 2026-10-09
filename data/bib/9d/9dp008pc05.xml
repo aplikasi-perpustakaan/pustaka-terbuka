@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000735993</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780857520777</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">857520776</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000735993</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cash, Wiley.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">THIS DARK ROAD TO MERCY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">The critically acclaimed author of the New York Times bestseller A Land More Kind Than Home - hailed as &quot;a powerfully moving debut that reads as if Cormac McCarthy decided to rewrite Harper Lee&apos;s To Kill a Mockingbird&quot; (Richmond Times Dispatch) - returns with a resonant novel of love and atonement, blood and vengeance, set in western North Carolina, involving two young sisters, a wayward father, and an enemy determined to see him pay for his sins. After their mother&apos;s unexpected death, twelve-year-old Easter and her six-year-old sister Ruby are adjusting to life in foster care when their errant father, Wade, suddenly appears. Since Wade signed away his legal rights, the only way he can get his daughters back is to steal them away in the night. Brady Weller, the girls&apos; court-appointed guardian, begins looking for Wade, and he quickly turns up unsettling information linking Wade to a recent armored car heist, one with a whopping $14.5 million missing. But Brady Weller isn&apos;t the only one hunting the desperate father. Robert Pruitt, a shady and mercurial man nursing a years-old vendetta, is also determined to find Wade and claim his due. Narrated by a trio of alternating voices, This Dark Road to Mercy is a story about the indelible power of family and the primal desire to outrun a past that refuses to let go</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">CAS</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

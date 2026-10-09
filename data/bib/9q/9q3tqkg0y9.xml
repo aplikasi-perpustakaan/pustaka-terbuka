@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000878261</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781787141865</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1787141861</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">ovld002108150</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000878261</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Developing Africa&apos;s financial services : the importance of high-impact entrepreneurship</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Africa is at a critical moment in its economic development. With the recent decline of commodity prices, it has become apparent that many African economies, which are resource-based, have suffered greatly. The economies of Africa cannot be lifted up only through programs of aid. Indigenous high-impact entrepreneurs are needed, as they know how to best inspire, act as role models for other Africans and serve their fellow entrepreneurs. Entrepreneurial ventures in the financial services sector hold special importance because of the role that they play in the entrepreneurship ecosystem. Financial services are an essential element in powering entrepreneurial activity beyond resource extraction, yet in most sub-Saharan African countries, the financial services sector is relatively nascent compared to developed markets. This book highlights how this is beginning to change. With contributions from leading scholars, it provides inspiring success stories of entrepreneurial financial sector ventures that are making a lasting contribution to the economic development of various sub-Saharan African countries as well as helping the reader understand larger macro-trends.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ebook</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">332.1096</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://www.emeraldinsight.com/doi/book/10.1108/9781787141865</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

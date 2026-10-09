@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000706918</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781743314906</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1743314906</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000706918</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Purcell, Janella, 1968-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">JANELLA PURCELL&apos;S elixir : how to use food as medicine</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">To reap the most out of your life, invest time and thought into your health. And enjoy every moment of it. Janella Purcell knows that the food you eat affects your mind and spirit as well as your physical body. In this invaluable book she shares her expertise in food, health and nutrition, and shows you how to care for yourself naturally, using food as medicine at home. Entertaining, practical and comprehensive, this revised edition of Elixir covers a wide variety of subjects and information, ranging from suggestions for healthy ageing and why you should use organic produce to tips for those suffering from headache, fatigue, immunity problems, fertility issues and digestive complaints. Janella Purcell&apos;s Elixir introduces you to what Eastern philosophy has been practising for thousands of years - the interconnectedness of the body, mind and spirit and how this affects your state of mind, health and personality. Shortlisted for The World Food Media Awards in the category of Best Health Nutrition Book, Elixir is a book to use, keep and treasure.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">613.2 PUR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

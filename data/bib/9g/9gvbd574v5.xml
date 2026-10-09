@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000622807</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781585425235</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1585425230</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000622807</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Shealy, C. Norman, 1932-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Life beyond 100 : secrets of the fountain of youth /​</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">#  &quot;The idea of living well beyond one hundred years - and enjoying those years in good health - used to be the stuff of science fiction. No longer. C. Norman Shealy, M.D., Ph.D., whom Caroline Myss calls a &quot;wizard-genius-scientist-mystic-physician,&quot; offers Life Beyond 100: Secrets of the Fountain of Youth. In this book, Dr. Shealy provides a new concept of longevity, one that reveals we can live far longer than current science suggests.&quot; &quot;The result of years of clinical practice and cutting-edge research, Life Beyond 100 also exposes the fallacies behind many of the claims made by the medical establishment and the pharmaceutical industry. Shealy argues that rather than increasing people&apos;s life expectancy, these two groups create the opposite effect, consigning hundreds of thousands of people to an often miserable and premature old-age by treating symptoms with an antidote - prescription medicine - that is often worse than the ailment itself.&quot;
+# &quot;As a counterpoint, Life Beyond 100 provides the most ambitious - yet medically grounded and common-sensical - longevity program available.&quot; &quot;Easy to follow and supported by advanced research, Dr. Shealy&apos;s guide to uncovering the secrets of youthful aging redefines the concept of human longevity and offers a new vision of healthy living to one hundred, and beyond.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">613.2 SHE</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

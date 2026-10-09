@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000782807</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780345547354</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">345547357</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000782807</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Smart, Geoff</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">POWER SCORE : Your Formula for Leadership Success</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First Edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Whether on the sports field or in the boardroom, leaders and teams intuitively know what it feels like when things are going well. But how do you measure this: are things really as good as they seem, or is there room for improvement? And what should leaders really focus on to make a difference? Based on ... comprehensive leadership data ... collected through interviews with over 15,000 leaders, [this book] reveals the startlingly simple method every leader can use to immediately improve their team&apos;s performance - and their own. It starts with asking the question &apos;Are we running at full power?&apos; and goes on to ask all the questions you need to ask yourself and your team. ... Breaking performance down into a team&apos;s PoWeR score - Priorities (goals), Who (the people helping you achieve them) and Relationships (leading and managing those people) - Smart, Street and Foster&apos;s intuitive guide will explain how you can use your score to increase your impact, help your team to perform better and enjoy your career to the full. Whether you&apos;re a CEO managing hundreds of people, a sports coach running a struggling team, or a manager with a team of just one or two PoWeR Score will help you attain 100 per cent&quot;--Publisher&apos;s description.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">658.4092 SMA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

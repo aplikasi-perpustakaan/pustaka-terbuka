@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000737671</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781455529056</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1455529052</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000737671</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Whitson, Stephanie Grace</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">A CAPTAIN FOR Laura Rose : A NOVEL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot; Laura Rose White is one of the most gifted riverboat pilots on the Missouri River--her late father taught her and her brother Joe everything he knew, and even named their family&apos;s riverboat after her. But in 1867, the idea of a &quot;skirt&quot; being a captain is unheard of. At least until Joe takes ill and dies in the middle of a trip, leaving Laura grieving and halfway upriver with a full cargo. She successfully takes charge of the crew and expertly guides the Laura Rose back to St. Louis. But it seems her troubles are just beginning. Laura learns Joe had taken out a loan, and if she fails to repay it, she could lose the boat that is not only her livelihood, but also her home. The only way to save it is to convince the men in charge she&apos;s capable of being a captain and pilot, and they have a few nearly insurmountable conditions. She must secure a full cargo (who would trust their wares to a woman?), she must find a chaperone (she is an unmarried lady, after all), she must get to Fort Benton and back in less time than it would take most male pilots, and she must get a licensed pilot to agree to oversee her. The only man she can find for that job is her brother&apos;s disreputable friend Finn MacKnight. She&apos;s loath to ask him--though he&apos;s as good a pilot as she is, he has a terrible reputation. But a woman alone in the world will do what she must to survive, and Laura may just gain far more than she ever expected on this historic trip&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">WHI</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN AWAM BUKIT DAMANSARA,</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI AEON AU2</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN KOMUNITI MAHKOTA CHERAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000782819</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781616147631</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1616147636</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)vtls000782819</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Worthy, Kenneth, 1961-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">INVISIBLE NATURE : Healing the Destructive Divide between People and the Environment</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;A revolutionary new understanding of the precarious modern human-nature relationship and a path to a healthier, more sustainable world. Amidst all the wondrous luxuries of the modern world--smartphones, fast intercontinental travel, Internet movies, fully stocked refrigerators--lies an unnerving fact that may be even more disturbing than all the environmental and social costs of our lifestyles. The fragmentations of our modern lives, our disconnections from nature and from the consequences of our actions, make it difficult to follow our own values and ethics, so we can no longer be truly ethical beings. When we buy a computer or a hamburger, our impacts ripple across the globe, and, dissociated from them, we can&apos;t quite respond. Our personal and professional choices result in damages ranging from radioactive landscapes to disappearing rainforests, but we can&apos;t quite see how. Environmental scholar Kenneth Worthy traces the broken pathways between consumers and clean-room worker illnesses, superfund sites in Silicon Valley, and massively contaminated landscapes in rural Asian villages. His groundbreaking, psychologically based explanation confirms that our disconnections make us more destructive and that we must bear witness to nature and our consequences. Invisible Nature shows the way forward: how we can create more involvement in our own food production, more education about how goods are produced and waste is disposed, more direct and deliberative democracy, and greater contact with the nature that sustains us&quot;--</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="h">304.2 WOR</marc:subfield>
+      <marc:subfield code="b">PERPUSTAKAAN NEGARA MALAYSIA</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
