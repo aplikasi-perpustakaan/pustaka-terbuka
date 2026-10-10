@@ -613,7 +613,7 @@ function generateUniversalViewerHtml(baseUrl) {
     const metaContainer = document.getElementById('metadata-container');
     if (metaContainer) {
       if (metaEntries.length > 0) {
-        metaContainer.innerHTML = '<div class="metadata-grid-card"><div class="meta-grid">\n' + metaEntries.join('\n') + '\n</div></div>';
+        metaContainer.innerHTML = '<div class="metadata-grid-card"><div class="meta-grid">' + metaEntries.join('') + '</div></div>';
       } else {
         metaContainer.innerHTML = '';
       }
@@ -664,17 +664,20 @@ function generateUniversalViewerHtml(baseUrl) {
     const apaPub = book.publisher ? escapeHTML(book.publisher) + '.' : 'Perpustakaan Negara Malaysia.';
     const apaFormatted = apaAuthor + apaYear + apaTitle + apaPub;
 
-    const cleanTitleBib = (book.title || 'Untitled').replace(/[{}\\]/g, '');
-    const cleanAuthorBib = (book.author || 'Perpustakaan Negara Malaysia').replace(/[{}\\]/g, '');
-    const cleanPubBib = (book.publisher || '').replace(/[{}\\]/g, '');
-    const bibtexEntry = '@book{pustaka_' + recordId + ',\n' +
-      '  title     = {' + cleanTitleBib + '},\n' +
-      '  author    = {' + cleanAuthorBib + '},\n' +
-      '  year      = {' + (book.year || '') + '},\n' +
-      '  publisher = {' + cleanPubBib + '},\n' +
-      '  isbn      = {' + primaryIsbn + '},\n' +
-      '  url       = {' + window.location.href + '}\n' +
-      '}';
+    const cleanTitleBib = (book.title || 'Untitled').replace(/[{}]/g, '');
+    const cleanAuthorBib = (book.author || 'Perpustakaan Negara Malaysia').replace(/[{}]/g, '');
+    const cleanPubBib = (book.publisher || '').replace(/[{}]/g, '');
+    const bibtexLines = [
+      '@book{pustaka_' + recordId + ',',
+      '  title     = {' + cleanTitleBib + '},',
+      '  author    = {' + cleanAuthorBib + '},',
+      '  year      = {' + (book.year || '') + '},',
+      '  publisher = {' + cleanPubBib + '},',
+      '  isbn      = {' + primaryIsbn + '},',
+      '  url       = {' + window.location.href + '}',
+      '}'
+    ];
+    const bibtexEntry = bibtexLines.join('\\n');
 
     const apaEl = document.getElementById('cite-apa-text');
     if (apaEl) apaEl.innerHTML = apaFormatted;

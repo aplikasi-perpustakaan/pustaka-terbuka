@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import vm from 'vm';
 import test from 'node:test';
 import assert from 'node:assert';
 import { buildSite } from '../tools/lib/build.js';
@@ -170,5 +171,16 @@ test('Build System Tests', async (t) => {
     assert.strictEqual(parsed.controlFields[0].value, '12345');
     assert.strictEqual(parsed.dataFields.length, 1);
     assert.strictEqual(parsed.dataFields[0].subfields[0].value, 'Test Title /');
+  });
+
+  await t.test('10: Universal viewer script syntax validity', async () => {
+    const bookHtmlPath = path.join(DIST_DIR, 'book', 'index.html');
+    assert.ok(fs.existsSync(bookHtmlPath), 'book/index.html must exist');
+    const html = fs.readFileSync(bookHtmlPath, 'utf8');
+    const scriptMatch = html.match(/<script>([\s\S]*?)<\/script>/);
+    assert.ok(scriptMatch, 'script tag must exist in book/index.html');
+    assert.doesNotThrow(() => {
+      new vm.Script(scriptMatch[1], { filename: 'book-viewer.js' });
+    }, 'Viewer script must parse with no SyntaxError');
   });
 });

@@ -104,21 +104,27 @@ if (-not $SkipHarvest) {
 }
 
 # Steps 3-7: Enforce Gates
-Write-Log "Validating and merging inbox..."
-$Sources = Get-ChildItem -Path "harvest/inbox" -Directory
-foreach ($Source in $Sources) {
-    $Runs = Get-ChildItem -Path $Source.FullName -Directory
-    foreach ($Run in $Runs) {
-        $ManifestFile = Join-Path -Path $Run.FullName -ChildPath "manifest.json"
-        if (Test-Path $ManifestFile) {
-            Invoke-GateCommand "npm run validate-inbox -- `"$($Run.FullName)`""
-            Invoke-GateCommand "npm run merge -- `"$($Run.FullName)`""
+if ($WhatIf) {
+    Write-Log "[WhatIf] Skipping inbox validation, merge, and holdings validation."
+} else {
+    Write-Log "Validating and merging inbox..."
+    if (Test-Path "harvest/inbox") {
+        $Sources = Get-ChildItem -Path "harvest/inbox" -Directory
+        foreach ($Source in $Sources) {
+            $Runs = Get-ChildItem -Path $Source.FullName -Directory
+            foreach ($Run in $Runs) {
+                $ManifestFile = Join-Path -Path $Run.FullName -ChildPath "manifest.json"
+                if (Test-Path $ManifestFile) {
+                    Invoke-GateCommand "npm run validate-inbox -- `"$($Run.FullName)`""
+                    Invoke-GateCommand "npm run merge -- `"$($Run.FullName)`""
+                }
+            }
         }
     }
-}
 
-Write-Log "Validating holdings..."
-Invoke-GateCommand "npm run validate-holdings"
+    Write-Log "Validating holdings..."
+    Invoke-GateCommand "npm run validate-holdings"
+}
 
 if (-not $SkipBuild) {
     Write-Log "Building catalog..."
