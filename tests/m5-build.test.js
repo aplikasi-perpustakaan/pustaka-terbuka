@@ -38,6 +38,9 @@ function setupTestDir() {
     <marc:datafield tag="020" ind1=" " ind2=" ">
       <marc:subfield code="a">9781234567890</marc:subfield>
     </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0128-1232</marc:subfield>
+    </marc:datafield>
     <marc:datafield tag="999" ind1=" " ind2=" ">
       <marc:subfield code="a">local data</marc:subfield>
     </marc:datafield>
@@ -76,6 +79,16 @@ test('Build System Tests', async (t) => {
     // Fetch files
     assert.ok(fs.existsSync(path.join(DIST_DIR, 'id', 'REC1.xml')));
     assert.ok(fs.existsSync(path.join(DIST_DIR, 'isbn', '9781234567890.xml')));
+    assert.ok(fs.existsSync(path.join(DIST_DIR, 'issn', '01281232.xml')));
+
+    // Attribution verification in endpoint
+    const idXml = fs.readFileSync(path.join(DIST_DIR, 'id', 'REC1.xml'), 'utf8');
+    assert.ok(idXml.includes('PustakaTerbuka'), 'PustakaTerbuka attribution must be present');
+    assert.ok(idXml.includes('https://github.com/aplikasi-perpustakaan/pustaka-terbuka'), 'GitHub link must be present in attribution');
+    assert.ok(idXml.includes('tag="900"'), 'Custom tag 900 must be present');
+    assert.ok(idXml.includes('tag="856"'), 'MARC 856 tag must be present');
+    assert.ok(idXml.includes('tag="040"'), 'MARC 040 tag must be present');
+    assert.ok(idXml.includes('code="d">PustakaTerbuka'), 'MARC 040 $d must credit PustakaTerbuka');
     
     // Org index
     assert.ok(fs.existsSync(path.join(DIST_DIR, 'org', 'TEST1', 'index.json')));
@@ -91,6 +104,7 @@ test('Build System Tests', async (t) => {
     // Clean export
     const cleanXml = fs.readFileSync(path.join(DIST_DIR, 'export', 'REC1.xml'), 'utf8');
     assert.ok(!cleanXml.includes('999'), '99x fields must be stripped in exports');
+    assert.ok(cleanXml.includes('tag="900"'), 'Attribution 900 tag preserved in clean export');
   });
 
   await t.test('7: Size gate fails', async () => {

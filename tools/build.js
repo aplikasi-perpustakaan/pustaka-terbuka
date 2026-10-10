@@ -7,12 +7,14 @@ let dataDir = 'data';
 let distDir = 'dist';
 let configPath = 'config/config.json';
 let isbnFetchFiles = true;
+let issnFetchFiles = true;
 
 for (let i = 0; i < args.length; i++) {
   if (args[i] === '--data-dir') dataDir = args[++i];
   else if (args[i] === '--dist-dir') distDir = args[++i];
   else if (args[i] === '--config') configPath = args[++i];
   else if (args[i] === '--no-isbn-fetch') isbnFetchFiles = false;
+  else if (args[i] === '--no-issn-fetch') issnFetchFiles = false;
 }
 
 const config = fs.existsSync(configPath) ? JSON.parse(fs.readFileSync(configPath, 'utf8')) : {};
@@ -25,7 +27,8 @@ async function run() {
       dumpsDir: 'dumps',
       baseUrl: config.baseUrl || '/pustaka-terbuka/',
       config,
-      isbnFetchFiles
+      isbnFetchFiles,
+      issnFetchFiles
     });
     
     console.log('Build Report:');

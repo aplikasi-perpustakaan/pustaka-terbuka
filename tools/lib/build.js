@@ -36,6 +36,67 @@ function cleanRecord(record) {
   return cloned;
 }
 
+export function enrichWithAttribution(record, recordId) {
+  const cloned = JSON.parse(JSON.stringify(record));
+  if (!cloned.dataFields) cloned.dataFields = [];
+
+  // 1. Update/Add MARC 040 $d PustakaTerbuka
+  const f040 = cloned.dataFields.find(f => f.tag === '040');
+  if (f040) {
+    if (!f040.subfields) f040.subfields = [];
+    const has040d = f040.subfields.some(sf => sf.code === 'd' && sf.value.toLowerCase() === 'pustakaterbuka');
+    if (!has040d) {
+      f040.subfields.push({ code: 'd', value: 'PustakaTerbuka' });
+    }
+  } else {
+    cloned.dataFields.push({
+      tag: '040',
+      ind1: ' ',
+      ind2: ' ',
+      subfields: [
+        { code: 'a', value: 'MY-KLP' },
+        { code: 'c', value: 'MY-KLP' },
+        { code: 'd', value: 'PustakaTerbuka' }
+      ]
+    });
+  }
+
+  // 2. Electronic Location and Access (MARC 856)
+  const has856 = cloned.dataFields.some(f => f.tag === '856' && f.subfields?.some(sf => sf.value?.includes('pustaka-terbuka')));
+  if (!has856) {
+    cloned.dataFields.push({
+      tag: '856',
+      ind1: '4',
+      ind2: '2',
+      subfields: [
+        { code: 'u', value: 'https://github.com/aplikasi-perpustakaan/pustaka-terbuka' },
+        { code: 'y', value: 'PustakaTerbuka' },
+        { code: 'z', value: 'Shared open catalog record provided by PustakaTerbuka' }
+      ]
+    });
+  }
+
+  // 3. Custom Local Extension Tag (MARC 900)
+  const has900 = cloned.dataFields.some(f => f.tag === '900' && f.subfields?.some(sf => sf.value === 'PustakaTerbuka'));
+  if (!has900) {
+    cloned.dataFields.push({
+      tag: '900',
+      ind1: ' ',
+      ind2: ' ',
+      subfields: [
+        { code: 'a', value: 'PustakaTerbuka' },
+        { code: 'u', value: 'https://github.com/aplikasi-perpustakaan/pustaka-terbuka' },
+        { code: 'd', value: 'Open Shared MARC Catalog for Malaysian Libraries' },
+        { code: 'r', value: recordId }
+      ]
+    });
+  }
+
+  // Sort dataFields by tag for canonical order
+  cloned.dataFields.sort((a, b) => a.tag.localeCompare(b.tag));
+  return cloned;
+}
+
 function computeHash(content) {
   return crypto.createHash('sha256').update(content).digest('hex');
 }
@@ -695,7 +756,8 @@ export async function buildSite(options) {
   const dumpsDir = options.dumpsDir || 'dumps';
   const baseUrl = options.baseUrl || '/pustaka-terbuka/';
   const config = options.config || {};
-  const isbnFetchFiles = options.isbnFetchFiles !== false;
+  const isbnFetchFiles = options.isbnFetchFiles !== false && options.config?.isbnFetchFiles !== false;
+  const issnFetchFiles = options.issnFetchFiles !== false && options.config?.issnFetchFiles !== false;
   const maxStaticHtmlPages = options.maxStaticHtmlPages ?? options.config?.maxStaticHtmlPages ?? 100;
   const maxXmlEndpoints = options.maxXmlEndpoints ?? options.config?.maxXmlEndpoints ?? 100;
   const maxPagefindRecords = options.maxPagefindRecords ?? options.config?.maxPagefindRecords ?? 10000;
@@ -834,7 +896,8 @@ export async function buildSite(options) {
       year = year.replace(/[^0-9]/g, '');
 
       const subjects = record.dataFields?.filter(f => f.tag === '650').map(f => getSubfield(f, 'a')).filter(Boolean) || [];
-      const isbns = record.dataFields?.filter(f => f.tag === '020').map(f => getSubfield(f, 'a').split(' ')[0]).filter(Boolean) || [];
+      const isbns = record.dataFields?.filter(f => f.tag === '020').map(f => getSubfield(f, 'a').split(' ')[0].replace(/[^0-9X]/gi, '')).filter(Boolean) || [];
+      const issns = record.dataFields?.filter(f => f.tag === '022').map(f => getSubfield(f, 'a').split(' ')[0].replace(/[^0-9X]/gi, '')).filter(Boolean) || [];
       
       const lccField = record.dataFields?.find(f => f.tag === '050' || f.tag === '090');
       let lcc = lccField ? (getSubfield(lccField, 'a') + ' ' + getSubfield(lccField, 'b')).trim() : '';
@@ -1000,23 +1063,35 @@ export async function buildSite(options) {
         report.bookPages++;
 
         if (staticPagesWritten < maxXmlEndpoints) {
+          const enriched = enrichWithAttribution(record, recordId);
+          const enrichedXml = marcxml.serialize([enriched]);
+
           const idDir = path.join(distDir, 'id');
           fs.mkdirSync(idDir, { recursive: true });
-          fs.writeFileSync(idXmlPath, content, 'utf8');
+          fs.writeFileSync(idXmlPath, enrichedXml, 'utf8');
           report.fetchFiles++;
 
           if (isbnFetchFiles) {
             const isbnDir = path.join(distDir, 'isbn');
             fs.mkdirSync(isbnDir, { recursive: true });
             for (const isbn of isbns) {
-              fs.writeFileSync(path.join(isbnDir, `${isbn}.xml`), content, 'utf8');
+              fs.writeFileSync(path.join(isbnDir, `${isbn}.xml`), enrichedXml, 'utf8');
+              report.fetchFiles++;
+            }
+          }
+
+          if (issnFetchFiles && issns.length > 0) {
+            const issnDir = path.join(distDir, 'issn');
+            fs.mkdirSync(issnDir, { recursive: true });
+            for (const issn of issns) {
+              fs.writeFileSync(path.join(issnDir, `${issn}.xml`), enrichedXml, 'utf8');
               report.fetchFiles++;
             }
           }
 
           const exportDir = path.join(distDir, 'export');
           fs.mkdirSync(exportDir, { recursive: true });
-          const cleaned = cleanRecord(record);
+          const cleaned = cleanRecord(enriched);
           const cleanedXml = marcxml.serialize([cleaned]);
           fs.writeFileSync(path.join(exportDir, `${recordId}.xml`), cleanedXml, 'utf8');
         }
@@ -1129,12 +1204,20 @@ export async function buildSite(options) {
 
   const sizeWarnMB = config.sizeWarnMB || 700;
   const sizeFailMB = config.sizeFailMB || 950;
+  const fileCountWarn = config.fileCountWarn || 80000;
+  const fileCountFail = config.fileCountFail || 100000;
 
   if (report.sizeMB > sizeFailMB) {
     throw new Error(`Build failed: Output size ${report.sizeMB.toFixed(2)} MB exceeds fail threshold ${sizeFailMB} MB.`);
   }
   if (report.sizeMB > sizeWarnMB) {
     console.warn(`Warning: Output size ${report.sizeMB.toFixed(2)} MB exceeds warning threshold ${sizeWarnMB} MB.`);
+  }
+
+  if (report.filesCount > fileCountFail) {
+    console.warn(`WARNING: Output file count ${report.filesCount} exceeds failure threshold ${fileCountFail}.`);
+  } else if (report.filesCount > fileCountWarn) {
+    console.warn(`WARNING: Output file count ${report.filesCount} exceeds GitHub Pages recommended threshold ${fileCountWarn}.`);
   }
 
   return report;

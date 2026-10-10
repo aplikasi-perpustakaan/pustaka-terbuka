@@ -58,3 +58,17 @@ Tested a fully generated batch end-to-end (manifest generated -> validate -> mer
 - The `Publish-Catalog.ps1` expects powershell 7+ internally when doing GH CLI tasks (tested under PowerShell 5.1 during dev without issues mostly since the syntax maps down gracefully).
 - Pagefind integration does not index sub-second granular language fields correctly if the MARC language field is missing (defaults to `en`).
 - Storage overhead: GitHub Pages will receive a huge amount of small `.xml` files if `isbnFetchFiles` is enabled on massive catalogs, which may breach GitHub's 100k file limits. Limit this or partition the repo in future phases.
+
+---
+
+## Client Integration & Documentation Suite Overhaul — 2026-10-10
+
+Complete refactoring to support custom LMS client integration (.NET Framework 4.7 Windows Forms for Windows 7+, SLiMS, Koha) and comprehensive developer documentation.
+
+### Completed Work
+- **Direct Endpoints with Attribution:** Enhanced `tools/lib/build.js` to generate normalized `/isbn/{isbn}.xml` and `/issn/{issn}.xml` endpoints while preserving 100% of original source tags (PNM control numbers, classification, call numbers). Injected MARC attribution tags: `040 $d PustakaTerbuka`, `856` (repository link), and `900` (custom provenance).
+- **File Count Budgeting:** Added file count warning thresholds in `tools/lib/build.js` and `scripts/Publish-Catalog.ps1` to prevent GitHub Pages 100k file limits from being breached.
+- **AI Agent Master Guide (`docs/AI_AGENT_GUIDE.md`):** Complete system manual defining invariants, directory maps, data contracts, and pipeline gates for future AI agents.
+- **Client Developer Integration Guide (`docs/CLIENT_DEVELOPER_GUIDE.md`):** Authoritative guide covering real-time point lookups, streaming `XmlReader` recipe for Option B offline local SQLite caching on Windows 7, offline contribution packages, and UI dialog standards.
+- **Harvester Standards Update (`docs/HARVESTERS.md`):** Revised harvester contract enforcing strict tag preservation and aligning school library contributions with the inbox contract.
+- **Test Coverage:** Added `tests/client-endpoints.test.js` and updated `tests/m5-build.test.js`. Verified clean test passes (89 tests passing).

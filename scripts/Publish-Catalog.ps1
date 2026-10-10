@@ -188,6 +188,14 @@ if ($SkipPublish) {
     New-Item -ItemType Directory -Path $TempDir -Force | Out-Null
 
     if (Test-Path "dist") {
+        $distFiles = (Get-ChildItem -Path "dist" -Recurse -File).Count
+        Write-Log "Total files in dist/ to publish: $distFiles"
+        if ($distFiles -gt 100000) {
+            Write-Log "WARNING: Total files in dist/ ($distFiles) exceeds GitHub Pages 100k recommendation!"
+        } elseif ($distFiles -gt 80000) {
+            Write-Log "NOTICE: Total files in dist/ ($distFiles) is approaching GitHub Pages 100k limit."
+        }
+
         Copy-Item -Path "dist\*" -Destination $TempDir -Recurse -Force
         git -C $TempDir init -b gh-pages
         $userName = git config user.name
