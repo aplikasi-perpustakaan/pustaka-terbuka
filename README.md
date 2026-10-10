@@ -1,5 +1,13 @@
 # PustakaTerbuka
 
+> [!IMPORTANT]
+> **Repository Migration Notice:**
+> PustakaTerbuka has transitioned from this monolithic repository to a **federated organization architecture** at [**github.com/pustaka-terbuka**](https://github.com/pustaka-terbuka):
+> - 🌐 **Central Hub & OPAC Portal:** [**pustaka-terbuka/master**](https://github.com/pustaka-terbuka/master)
+> - 🏛️ **National Library Catalog Data (PNM):** [**pustaka-terbuka/pnm**](https://github.com/pustaka-terbuka/pnm)
+>
+> Active development, releases, and new catalog contributions have moved to the new organization repositories.
+
 > **PustakaTerbuka: an open, shared MARC catalog for Malaysian schools and libraries.**
 
 PustakaTerbuka is a centralized, open-access repository of harvested MARCXML bibliographic records, shared by schools, public libraries, and universities across Malaysia. It provides a fully static, searchable, multi-tenant OPAC (Online Public Access Catalog) hosted on GitHub Pages, as well as standards-compliant copy cataloging endpoints and bulk dumps for external Library Management Systems (LMS / ILS).
