@@ -1,0 +1,34 @@
+{
+  "PNM": {
+    "name": "Perpustakaan Negara Malaysia",
+    "state": "Kuala Lumpur",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "webmaster@pnm.gov.my",
+    "opac_url": "https://opac.pnm.gov.my/"
+  },
+  "SKBayanLepas": {
+    "name": "SK Bayan Lepas",
+    "state": "Pulau Pinang",
+    "type": "school",
+    "default_scheme": "DDC",
+    "contact": "librarian@skbl.example.edu.my",
+    "opac_url": "https://skbl.example.edu.my/opac"
+  },
+  "SMKGeorgeTown": {
+    "name": "SMK George Town",
+    "state": "Pulau Pinang",
+    "type": "school",
+    "default_scheme": "LCC",
+    "contact": "librarian@smkgt.example.edu.my",
+    "opac_url": "https://smkgt.example.edu.my/opac"
+  },
+  "UniMalaya": {
+    "name": "Universiti Malaya Library",
+    "state": "Kuala Lumpur",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "lib@um.example.edu.my",
+    "opac_url": "https://um.example.edu.my/opac"
+  }
+}
